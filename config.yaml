@@ -1,7 +1,7 @@
-baseURL: "https://example.com"
+baseURL: "https://panelista-articles.herokuapp.com/"
 languageCode: "en-us"
-title: "Hugo Novela"
-pygmentsstyle: 'monokai'
+title: "Panelista Articles"
+pygmentsstyle: "monokai"
 
 # Theme settings
 theme: novela
