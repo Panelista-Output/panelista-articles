@@ -42,10 +42,12 @@ fields:
   label: Authors
 - name: language
   type: select
-  default: []
+  default: English
   config:
     required: false
-    options: []
+    options:
+    - English
+    - Swedish
     source:
       type: simple
       section: 
