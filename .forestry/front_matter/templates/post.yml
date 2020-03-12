@@ -40,3 +40,15 @@ fields:
   type: tag_list
   default: []
   label: Authors
+- name: language
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
