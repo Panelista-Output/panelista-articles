@@ -1,7 +1,7 @@
 ---
 title: Why we built a company before building a platform
 date: 2018-04-30
-hero: "/articles/images/volvoCarImage-2020-03-13.jpg"
+hero: ''
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 3
