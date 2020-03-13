@@ -54,3 +54,5 @@ fields:
       file: 
       path: 
   label: Language
+pages:
+- content/en/first-en-post.md
