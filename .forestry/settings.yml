@@ -10,7 +10,7 @@ sections:
   path: content/_index.md
   label: Home
 - type: directory
-  path: content/en/post
+  path: content/en
   label: English Posts
   create: documents
   match: "**/*"
