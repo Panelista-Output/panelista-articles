@@ -1,4 +1,4 @@
-baseURL: "https://panelista-articles.herokuapp.com/articles/"
+baseURL: "https://panelista-articles.herokuapp.com/"
 languageCode: "en-us"
 title: "Panelista Articles"
 pygmentsstyle: "monokai"
