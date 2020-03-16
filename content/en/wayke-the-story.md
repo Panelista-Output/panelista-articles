@@ -8,4 +8,4 @@ timeToRead = 8
 title = "Wayke: The story"
 
 +++
-Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar vardagen för både bilköpare, bilsäljare och bildrömmare. Med Panelista skapades panelen Wayke Innovation för att bättre förstå kundernas behov och hur man gör bilköp ännu tryggare.
+Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar vardagen för både bilköpare, bilsäljare och bildrömmare. Med Panelista skapades panelen Wayke Innovation för att bättre förstå kundernas behov och hur man gör bilköp ännu tryggare. Hello
