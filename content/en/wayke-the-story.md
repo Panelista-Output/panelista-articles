@@ -20,7 +20,7 @@ Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar va
 
 ***
 
-**Vad använder ni Panelista till?  
-**_Martin_: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs.
+**Vad använder ni Panelista till?**
+_Martin_: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs.
 
 _Irma_: Vi vill vara konsumentdrivna. Jag vill få helt nya insikter som vi inte tänkt på, där man får glödlampa över huvudet-känslan. Men även bekräftelse kring det vi redan tänkt på.
