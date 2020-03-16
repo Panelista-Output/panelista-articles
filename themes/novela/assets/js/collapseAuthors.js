@@ -1,12 +1,20 @@
 let collapsed = true;
 
-document.getElementById("collapsedCoauthors").addEventListener("click", displayCoauthors);
-document.getElementById("uncollapsedAction").addEventListener("click", hideCoauthors);
+const collapsedCoauthors = document.getElementById("collapsedCoauthors");
+const uncollapsedAction = document.getElementById("uncollapsedAction");
 
-function displayCoauthors(){
-    document.getElementById("uncollapsedCoauthors").classList.remove("hidden");
+if (collapsedCoauthors) {
+  collapsedCoauthors.addEventListener("click", displayCoauthors);
 }
 
-function hideCoauthors(){
-    document.getElementById("uncollapsedCoauthors").classList.add("hidden");
+if (uncollapsedAction) {
+  uncollapsedAction.addEventListener("click", hideCoauthors);
+}
+
+function displayCoauthors() {
+  document.getElementById("uncollapsedCoauthors").classList.remove("hidden");
+}
+
+function hideCoauthors() {
+  document.getElementById("uncollapsedCoauthors").classList.add("hidden");
 }
