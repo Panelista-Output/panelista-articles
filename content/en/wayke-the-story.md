@@ -1,7 +1,6 @@
 +++
 authors = ["Anders Palm"]
 date = 2020-03-15T23:00:00Z
-draft = true
 excerpt = "“Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs. Magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla; Skulle våra kunder gilla det här? Vi skickade vår första videofråga till 31 panelister. På bara 72 timmar hade vi fått 18 svar och flera nya insikter!”"
 hero = "/images/Heroyta-v.35-2019-1920x667-8-2020-03-16.jpg"
 language = "English"
@@ -22,7 +21,7 @@ Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar va
 
 **Vad använder ni Panelista till?**
 
-_Martin_: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs.
+_Martin_: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. ~~Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs.~~
 
 _Irma_: Vi vill vara konsumentdrivna. Jag vill få helt nya insikter som vi inte tänkt på, där man får glödlampa över huvudet-känslan. Men även bekräftelse kring det vi redan tänkt på.
 
@@ -62,6 +61,8 @@ _Martin_: Jätteenkel produkt. Intuitiv att jobba med. Håll den så simpel! Ert
 
 _Vi på Panelista säger tack till Martin och Irma för er tid och att ni inspirerar andra på ett så här transparent sätt!_
 
-> “Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs. Magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla;
+***
 
-Skulle våra kunder gilla det här? Vi skickade vår första videofråga till 31 panelister. På bara 72 timmar hade vi fått 18 svar och flera nya insikter!”
+> “Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs. Magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla; 
+
+> Skulle våra kunder gilla det här? Vi skickade vår första videofråga till 31 panelister. På bara 72 timmar hade vi fått 18 svar och flera nya insikter!”
