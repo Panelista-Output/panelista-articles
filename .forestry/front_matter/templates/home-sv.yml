@@ -2,13 +2,8 @@
 label: Home SV
 hide_body: true
 fields:
-- type: field_group
-  name: hero
-  label: hero
-  fields:
-  - type: text
-    name: heading
-    label: heading
-  - type: text
-    name: maxWidthPX
-    label: maxWidthPX
+  - name: hero
+    type: include
+    config: {}
+    template: home-hero
+    label: Hero
