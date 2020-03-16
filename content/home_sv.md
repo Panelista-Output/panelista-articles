@@ -1,5 +1,6 @@
 ---
 hero:
-  heading: Panelista Articles - Instant customer insights for better decisions!
+  heading: Panelista Articles - Snabba kundinsikter för bättre beslut!
   maxWidthPX: "652"
+
 ---
