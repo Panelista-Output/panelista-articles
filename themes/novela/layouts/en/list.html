@@ -1,9 +1,4 @@
 {{ define "main" }}
-<section class="section narrow">
-  <section>
-    {{ partial "author/articles_list.html" . }}
-  </section>
-  <div class="authors-gradient"></div>
-</section>
-
+	{{ partial "articles/hero.html" . }}
+	{{ partial "articles/articles.html" . }}
 {{ end }}
