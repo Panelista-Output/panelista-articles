@@ -2,8 +2,8 @@
 label: Home SV
 hide_body: true
 fields:
-  - name: hero
-    type: include
-    config: {}
-    template: home-hero
-    label: Hero
+- name: hero
+  type: include
+  config: {}
+  template: home-hero
+  label: Hero
