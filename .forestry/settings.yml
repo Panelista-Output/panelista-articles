@@ -20,8 +20,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/post
-  label: Posts
+  path: content/sv
+  label: Swedish Posts
   create: all
   match: "**/*"
   templates:
