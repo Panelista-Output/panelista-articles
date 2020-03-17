@@ -62,7 +62,3 @@ _Martin_: Jätteenkel produkt. Intuitiv att jobba med. Håll den så simpel! Ert
 _Vi på Panelista säger tack till Martin och Irma för er tid och att ni inspirerar andra på ett så här transparent sätt!_
 
 ***
-
-> “Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs. Magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla;
-
-> Skulle våra kunder gilla det här? Vi skickade vår första videofråga till 31 panelister. På bara 72 timmar hade vi fått 18 svar och flera nya insikter!”
