@@ -40,20 +40,6 @@ fields:
   type: tag_list
   default: []
   label: Authors
-- name: language
-  type: select
-  default: English
-  config:
-    required: false
-    options:
-    - English
-    - Swedish
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Language
 pages:
 - content/en/first-en-post.md
 - content/en/wayke-the-story.md
