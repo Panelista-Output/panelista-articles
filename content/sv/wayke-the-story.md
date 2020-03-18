@@ -64,3 +64,5 @@ Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar va
 _Vi på Panelista säger tack till Martin och Irma för er tid och att ni inspirerar andra på ett så här transparent sätt!_
 
 ***
+
+{{< sv/subscribe >}}
