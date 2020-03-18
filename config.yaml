@@ -3,6 +3,11 @@ languageCode: "en-us"
 title: "Panelista Articles"
 pygmentsstyle: "monokai"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # Theme settings
 theme: novela
 paginate: 6
