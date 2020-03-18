@@ -65,4 +65,4 @@ _Vi på Panelista säger tack till Martin och Irma för er tid och att ni inspir
 
 ***
 
-{{< subscribe-sv >}}
+{{< sv/subscribe >}}
