@@ -6,7 +6,9 @@ hero = "/images/0-2020-03-17.jpeg"
 timeToRead = 12
 title = "5 tips för att öka takten i er produktutveckling"
 
-+++Har ni varit med om att **goda idéer fastnar** på idéstadiet och att det är svårt att få saker gjorda?
++++
+
+Har ni varit med om att **goda idéer fastnar** på idéstadiet och att det är svårt att få saker gjorda?
 
 {{< introduction >}}Ahoj{{< /introduction >}}
 
