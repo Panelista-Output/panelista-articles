@@ -6,20 +6,19 @@ hero = "/images/0-2020-03-17.jpeg"
 timeToRead = 12
 title = "5 tips för att öka takten i er produktutveckling"
 
-+++
-Har ni varit med om att **goda idéer fastnar** på idéstadiet och att det är svårt att få saker gjorda?
++++Har ni varit med om att **goda idéer fastnar** på idéstadiet och att det är svårt att få saker gjorda?
 
-{{< instagram BWNjjyYFxVx >}}
+{{< introduction >}}Ahoj{{< /introduction >}}
 
 Vi på [Panelista](https://panelista.com/?utm_medium=organic_social&utm_source=linkedin&utm_campaign=article&utm_content=productdevelopment) hjälper företag att snabbt få nya kundinsikter för att kunna fatta bättre beslut. Men många gånger räcker det inte med insikter eller goda idéer. I den här artikeln ger vi våra bästa tips för att **få fart på produktutvecklingen i en organisation**.
 
 Vi möter dagligen företag och organisationer som har utmaningar med sin produktutveckling. Vanliga symptom är till exempel:
 
-* **För många goda idéer** som utforskas (och läggs på is) och för få som snabbt skapar värde.
-* Det finns ingen leveranskapacitet/team som kan **leverera på behov inom rimlig tid**.
-* Leveranskapacitet i produktteamen motsvarar inte **förväntan i organisationen**.
-* **Toppstyrd prioritering** långt från verkligheten och dåligt med mandat i produktteamen där kunskapen finns.
-* **Långa förstudier** och stora implementeringsprojekt istället för saker som utforskas och levereras löpande av teamen i mindre delar.
+- **För många goda idéer** som utforskas (och läggs på is) och för få som snabbt skapar värde.
+- Det finns ingen leveranskapacitet/team som kan **leverera på behov inom rimlig tid**.
+- Leveranskapacitet i produktteamen motsvarar inte **förväntan i organisationen**.
+- **Toppstyrd prioritering** långt från verkligheten och dåligt med mandat i produktteamen där kunskapen finns.
+- **Långa förstudier** och stora implementeringsprojekt istället för saker som utforskas och levereras löpande av teamen i mindre delar.
 
 Detta är **våra fem bästa tips** för hur man kan angripa dessa problem och var man kan läsa mer om det:
 
