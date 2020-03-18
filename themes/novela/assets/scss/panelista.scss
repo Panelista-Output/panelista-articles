@@ -1,0 +1,17 @@
+.introduction-box {
+  background-color: white;
+  border-radius: 4px;
+  width: 100%;
+  margin-left: 1px;
+  margin-right: auto;
+  padding-bottom: 1px;
+  margin-bottom: 35px;
+  padding-top: 35px;
+
+  box-shadow: 0 30px 60px -10px rgba(0, 0, 0, 0.2),
+    0 18px 36px -18px rgba(0, 0, 0, 0.22);
+
+  p {
+    font-size: 22px;
+  }
+}
