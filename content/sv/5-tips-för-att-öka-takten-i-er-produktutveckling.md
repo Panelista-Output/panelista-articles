@@ -9,17 +9,7 @@ title = "5 tips för att öka takten i er produktutveckling"
 +++
 Har ni varit med om att **goda idéer fastnar** på idéstadiet och att det är svårt att få saker gjorda?
 
-{{% introduction %}}  
-**Vad är viktigt för dig när du köper bil på nätet?**
-
-Vi skickade vår första videofråga till 31 panelister. På bara 72 timmar hade vi fått 18 svar och flera nya insikter!  
-{{% /introduction %}}
-
 Vi på [Panelista](https://panelista.com/?utm_medium=organic_social&utm_source=linkedin&utm_campaign=article&utm_content=productdevelopment) hjälper företag att snabbt få nya kundinsikter för att kunna fatta bättre beslut. Men många gånger räcker det inte med insikter eller goda idéer. I den här artikeln ger vi våra bästa tips för att **få fart på produktutvecklingen i en organisation**.
-
-<div class="Image__Small">
-<img src="/images/thomas-kinto-MXiiafTdVOw-unsplash-2020-03-18.jpg" alt="alt text for small image" />
-</div>
 
 Vi möter dagligen företag och organisationer som har utmaningar med sin produktutveckling. Vanliga symptom är till exempel:
 
