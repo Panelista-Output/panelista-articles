@@ -5,7 +5,7 @@ excerpt = "“Panelista är ett sätt för oss att prata med kunder i realtid oc
 hero = "/images/Heroyta-v.35-2019-1920x667-8-2020-03-16.jpg"
 language = "English"
 timeToRead = 8
-title = "Wayke: The story"
+title = "Wayke & Panelista"
 
 +++
 {{% introduction %}}
