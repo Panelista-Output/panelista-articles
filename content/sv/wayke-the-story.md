@@ -22,7 +22,7 @@ Vi skickade vår första videofråga till 31 panelister. På bara 72 timmar hade
 
 Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar vardagen för både bilköpare, bilsäljare och bildrömmare. Med Panelista skapades panelen Wayke Innovation för att bättre förstå kundernas behov och hur man gör bilköp ännu tryggare.
 
-Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Markgren, ansvarig för panelen.
+_Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Markgren, ansvarig för panelen._
 
 ***
 
@@ -50,7 +50,7 @@ Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Markg
 
 **Martin**: ~~Det handlar om en större omställning än att bara börja använda Panelista. Att faktiskt lyfta in kunden centralt i organisationen och anpassa sig efter och förstå kunden bättre.~~ Det är långt ifrån självklart för företag att verkligen involvera kunderna och en större förändring än man kan tro. Så där behöver man vara överens. Det kan slänga om hela tankesättet kring att utveckla produkten, det kan slänga om hela backloggen. Man måste på riktigt tycka att det är kul att prata med kunder.
 
-**Irma**: Jag kan fortfarande tycka att det är lite jobbigt att vara med i videofrågorna. Med det sagt så skulle jag verkligen inte vilja byta ut videoformatet, man får så mycket tillbaka!
+**Irma**: Jag kan fortfarande tycka att det är en liten utmaning att vara med i videofrågorna. Med det sagt så skulle jag verkligen inte vilja byta ut videoformatet, man får så mycket tillbaka!
 
 ### Vad har varit bäst?
 
