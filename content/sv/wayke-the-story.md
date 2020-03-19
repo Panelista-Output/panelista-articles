@@ -3,7 +3,6 @@ authors = ["Anders Palm"]
 date = 2020-03-15T23:00:00Z
 excerpt = "“Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs. Magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla; Skulle våra kunder gilla det här? Vi skickade vår första videofråga till 31 panelister. På bara 72 timmar hade vi fått 18 svar och flera nya insikter!”"
 hero = "/images/Wayke hero image-2020-03-19.jpg"
-language = "English"
 timeToRead = 7
 title = "Wayke & Panelista"
 
@@ -65,5 +64,7 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 **Martin**: Jätteenkel produkt. Intuitiv att jobba med. Håll den så simpel! Ert engagemang är precis så man vill ha det. Ni tar er tid, ser till att man kommer igång och fortsätter med tajt uppföljning.
 
 _Tack Martin och Irma!_
+
+{{< sv/bookdemo >}}
 
 {{< sv/subscribe >}}
