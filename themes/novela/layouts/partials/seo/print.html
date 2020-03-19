@@ -50,8 +50,8 @@
 	4. site description  */}}
 {{ $description := "" }}
 {{/* 1. SEO Description */}}
-{{- if .Params.seo.description -}}
-	{{- $description = .Params.seo.description -}}
+{{- if .Params.excerpt -}}
+	{{- $description = .Params.excerpt -}}
 {{/* 2. Description
 	    As it could potentially contain HTML tags, we strip them with plainify */}}
 {{- else if .Params.description -}}
@@ -65,6 +65,16 @@
 {{- end -}}
 
 {{- $.Scratch.SetInMap "seo" "description" $description -}}
+
+{{/* Meta Title
+	---------------------------- 
+	It's used in the og:title tag  */}}
+{{ $ogtitle := "" }}
+{{- if .Params.title -}}
+	{{- $ogtitle = .Title -}}
+{{- end -}}
+
+{{- $.Scratch.SetInMap "seo" "ogtitle" $ogtitle -}}
  
 {{/* Title
   ---------------------------- 
