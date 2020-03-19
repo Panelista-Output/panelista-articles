@@ -20,7 +20,7 @@ a.black-button {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    padding: 50px 0 45px;
+    padding: 50px 20px 45px 20px;
     margin: 10px auto 40px;
     background: var(--card);
     -webkit-box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.05);
@@ -31,7 +31,7 @@ a.black-button {
 /*TABLET*/
 @media screen and (max-width: 735px){
     .subscription-container{
-        padding: 50px 0 0;
+        padding: 50px 0 45px;
         text-align: center;
     }
 }

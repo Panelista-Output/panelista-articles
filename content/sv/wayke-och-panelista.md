@@ -31,7 +31,9 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 **Irma**: Vi har redan lagt in flera saker i vår backlog som direktresultat från Panelista. Ibland kan det vara saker vi varit inne på, men det blir tydligare hur saker ska utformas.
 
-![](/images/martinfransson_smaller-2020-03-19.jpg)
+<div class="Image__Small">
+  <img src="/images/martinfransson_smaller-2020-03-19.jpg" alt="Martin" />
+</div>
 
 ### Jobbar ni med kundinsikter på något annat sätt?
 
