@@ -40,6 +40,20 @@ fields:
   type: tag_list
   default: []
   label: Authors
+- name: hero_image_title
+  type: text
+  config:
+    required: false
+  label: Hero image title
+- name: hero_image_body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Hero image body
 pages:
 - content/en/first-en-post.md
 - content/sv/5-tips-for-att-oka-takten-i-er-produktutveckling.md
