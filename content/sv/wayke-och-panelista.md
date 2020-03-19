@@ -31,10 +31,6 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 **Irma**: Vi har redan lagt in flera saker i vår backlog som direktresultat från Panelista. Ibland kan det vara saker vi varit inne på, men det blir tydligare hur saker ska utformas.
 
-<div class="Image__Small">
-  <img src="/images/martinfransson_smaller-2020-03-19.jpg" alt="Martin" />
-</div>
-
 ### Jobbar ni med kundinsikter på något annat sätt?
 
 **Irma**: Vi jobbar även med enkäter. Det finns en styrka med många svar i enkäter, och vi kommer säkert fortsätta komplettera med enkäter, men Panelista känns mycket mer personligt och det är väldigt kul att ha den kundkontakten.
@@ -60,6 +56,7 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 **Martin**: Jätteenkel produkt. Intuitiv att jobba med. Håll den så simpel! Ert engagemang är precis så man vill ha det. Ni tar er tid, ser till att man kommer igång och fortsätter med tajt uppföljning.
 
 _Tack Martin och Irma!_
+
 
 {{< sv/bookdemo >}}
 
