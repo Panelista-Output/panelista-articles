@@ -64,10 +64,6 @@ Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Markg
 
 **Martin**: Jätteenkel produkt. Intuitiv att jobba med. Håll den så simpel! Ert engagemang är precis så man vill ha det. Ni tar er tid, ser till att man kommer igång och fortsätter med tajt uppföljning.
 
-***
-
 _Tack Martin och Irma!_
-
-***
 
 {{< sv/subscribe >}}
