@@ -26,7 +26,7 @@ Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Markg
 
 ***
 
-### Vad använder ni Panelista till?
+### Varför använder ni Panelista?
 
 **Martin**: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. ~~Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs.~~
 
