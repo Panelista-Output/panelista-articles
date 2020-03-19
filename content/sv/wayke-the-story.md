@@ -66,7 +66,7 @@ Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Markg
 
 ***
 
-_Vi på Panelista säger tack till Martin och Irma för er tid och att ni inspirerar andra på ett så här transparent sätt!_
+_Tack Martin och Irma!_
 
 ***
 
