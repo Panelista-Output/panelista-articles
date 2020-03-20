@@ -5,7 +5,7 @@ excerpt = "Har ni varit med om att goda idéer fastnar på idéstadiet och att d
 hero = "/images/0-2020-03-17.jpeg"
 hero_image_body = ""
 hero_image_title = ""
-timeToRead = 9
+timeToRead = 5
 title = "5 tips för att öka takten i er produktutveckling"
 
 +++
