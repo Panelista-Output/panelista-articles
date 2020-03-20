@@ -34,6 +34,7 @@ function makeDark(){
     be.style.setProperty('--errorBackground', "rgba(238, 86, 91, 0.1)");
     be.style.setProperty('--horizontalRule', "rgba(255, 255, 255, 0.15)");
     be.style.setProperty('--inputBackground', "rgba(255, 255, 255, 0.07)");
+    be.style.setProperty('--highlightBackground', "#675a2b");
     be.style.setProperty('--tooltip', "#000");
 }
 
@@ -54,5 +55,6 @@ function makeLight(){
     be.style.setProperty('--errorBackground', "");
     be.style.setProperty('--horizontalRule', "");
     be.style.setProperty('--inputBackground', "");
+    be.style.setProperty('--highlightBackground', "#fcf474");
     be.style.setProperty('--tooltip', "lightgrey");
 }
