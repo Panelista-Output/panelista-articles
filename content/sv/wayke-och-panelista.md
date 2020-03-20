@@ -39,7 +39,7 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 ### Vad har varit svårast?
 
-**Martin**: Det handlar om en större omställning än att bara börja använda Panelista. ~~Att faktiskt lyfta in kunden centralt i organisationen~~ och anpassa sig efter och förstå kunden bättre. Det är långt ifrån självklart för företag att verkligen involvera kunderna och en större förändring än man kan tro. Så där behöver man vara överens. Det kan slänga om hela tankesättet kring att utveckla produkten, det kan slänga om hela backloggen. Man måste på riktigt tycka att det är kul att prata med kunder.
+**Martin**: Det handlar om en större omställning än att bara börja använda Panelista. Att faktiskt ~~lyfta in kunden centralt i organisationen~~ och anpassa sig efter och förstå kunden bättre. Det är långt ifrån självklart för företag att verkligen involvera kunderna och en större förändring än man kan tro. Så där behöver man vara överens. Det kan slänga om hela tankesättet kring att utveckla produkten, det kan slänga om hela backloggen. Man måste på riktigt tycka att det är kul att prata med kunder.
 
 **Irma**: Jag kan fortfarande tycka att det är en liten utmaning att vara med i videofrågorna. Med det sagt så skulle jag verkligen inte vilja byta ut videoformatet, man får så mycket tillbaka!
 
