@@ -19,9 +19,9 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 ### Varför använder ni Panelista?
 
-**Martin**: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. ~~Panelista är ett sätt för oss att prata med kunder i realtid och kunna gräva djupare när det behövs.~~
+**Martin**: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. ~~Panelista är ett sätt för oss att prata med kunder i realtid~~ och kunna gräva djupare när det behövs.
 
-**Irma**: Vi vill vara konsumentdrivna. ~~Jag vill få helt nya insikter som vi inte tänkt på, där man får glödlampa över huvudet-känslan. Men även bekräftelse kring det vi redan tänkt på.~~
+**Irma**: Vi vill vara konsumentdrivna. ~~Jag vill få helt nya insikter~~ som vi inte tänkt på, där man får glödlampa över huvudet-känslan. Men även bekräftelse kring det vi redan tänkt på.
 
 ### Hur går det?
 
@@ -39,7 +39,7 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 ### Vad har varit svårast?
 
-**Martin**: ~~Det handlar om en större omställning än att bara börja använda Panelista. Att faktiskt lyfta in kunden centralt i organisationen och anpassa sig efter och förstå kunden bättre.~~ Det är långt ifrån självklart för företag att verkligen involvera kunderna och en större förändring än man kan tro. Så där behöver man vara överens. Det kan slänga om hela tankesättet kring att utveckla produkten, det kan slänga om hela backloggen. Man måste på riktigt tycka att det är kul att prata med kunder.
+**Martin**: Det handlar om en större omställning än att bara börja använda Panelista. ~~Att faktiskt lyfta in kunden centralt i organisationen~~ och anpassa sig efter och förstå kunden bättre. Det är långt ifrån självklart för företag att verkligen involvera kunderna och en större förändring än man kan tro. Så där behöver man vara överens. Det kan slänga om hela tankesättet kring att utveckla produkten, det kan slänga om hela backloggen. Man måste på riktigt tycka att det är kul att prata med kunder.
 
 **Irma**: Jag kan fortfarande tycka att det är en liten utmaning att vara med i videofrågorna. Med det sagt så skulle jag verkligen inte vilja byta ut videoformatet, man får så mycket tillbaka!
 
@@ -47,11 +47,11 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 **Irma**: ~~Det är lite jobb för många insikter.~~ Vi ställer en fråga ungefär varannan vecka, och det är kul när det rasslar in svar.
 
-**Martin**: Helt plötsligt så sitter vi i realtid i vårt rum och får svar från panelister och kan ställa följdfrågor. ~~Magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla; “Skulle kunderna gilla det här?”.~~
+**Martin**: Helt plötsligt så sitter vi i realtid i vårt rum och får svar från panelister och kan ställa följdfrågor. ~~Magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla~~; “Skulle kunderna gilla det här?”.
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Irma**: Panelista fungerar jättebra! Inget att klaga på. Det känns enkelt och logiskt. Väldigt fint att ni snabbt utvecklade en ny funktion efter min feedback. Det var också väldigt skönt att ni var med vid uppstarten, det gjorde att det hände direkt där och då. Annars hade jag skjutit på det för att jag var nervös för att spela in och skicka ut videon.
+**Irma**: Panelista fungerar jättebra! Inget att klaga på. Det känns enkelt och logiskt. ~~Väldigt fint att ni snabbt utvecklade en ny funktion efter min feedback~~. Det var också väldigt skönt att ni var med vid uppstarten, det gjorde att det hände direkt där och då. Annars hade jag skjutit på det för att jag var nervös för att spela in och skicka ut videon.
 
 **Martin**: Jätteenkel produkt. Intuitiv att jobba med. Håll den så simpel! Ert engagemang är precis så man vill ha det. Ni tar er tid, ser till att man kommer igång och fortsätter med tajt uppföljning.
 
