@@ -47,7 +47,7 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 **Irma**: ~~Det är väldigt lite jobb för många insikter.~~ Vi ställer en fråga ungefär varannan vecka, och det är kul när det rasslar in svar.
 
-**Martin**: Helt plötsligt så sitter vi i realtid i vårt rum och får svar från panelister och kan ställa följdfrågor. \~\~~~Magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla~~; “Skulle kunderna gilla det här?”.
+**Martin**: Helt plötsligt så sitter vi i realtid i vårt rum och får svar från panelister och kan ställa följdfrågor. ~~Magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla~~; “Skulle kunderna gilla det här?”.
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
