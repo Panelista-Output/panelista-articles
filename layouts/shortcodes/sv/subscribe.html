@@ -8,7 +8,10 @@
                 Ett mail varje månad med inspiration kring hur olika företag jobbar med Panelista.
             </p>
             
-            <iframe id="newsletterSignupIframe" src="https://cdn.forms-content.sg-form.com/f41ffcd3-5e26-11ea-b7cf-3aeda0e63d84" frameborder="0" width="100%" height="470px"></iframe>
+            <div style="width: 100%; overflow: hidden;">
+
+                <iframe id="newsletterSignupIframe" src="https://cdn.forms-content.sg-form.com/f41ffcd3-5e26-11ea-b7cf-3aeda0e63d84" frameborder="0" width="100%" height="470px"></iframe>
+            </div>
         </div>
     </div>
 
@@ -27,9 +30,10 @@
 
                 signupIframe.style.cssText = "transform: scale(" + sizeRatio + "); width: 360px; transform-origin: left;"; 
             }
-
         }
 
         window.addEventListener('resize', setIframeStyle);
+
+        setIframeStyle()
     </script>
 </section>
