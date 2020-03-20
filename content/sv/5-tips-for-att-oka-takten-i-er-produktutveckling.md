@@ -44,3 +44,7 @@ Sätt ihop ett **tvärfunktionellt team med tydligt produktägarskap** för en h
 I större mer **trögrörliga organisationer** kan det vara så att tiden eller engagemanget för att åstadkomma ökad förändringstakt inte finns, eller att det tar för lång tid. Ett framgångsrikt recept som vi själva har erfarenhet av är att då bilda en mini-organisation/**virtuell startup**kring ett specifikt område utanför organisationen för att öka förändringstakten. Detta kan sedan fungera som en **katalysator för andra initiativ** och växa organiskt utanför organisationen eller bli en del av den. En av våra främsta inspirationskällor kring lean startup är: [https://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/](https://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/ "https://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/")
 
 [_Panelista_](https://panelista.com/?utm_medium=organic_social&utm_source=linkedin&utm_campaign=article&utm_content=productdevelopment) _är ett kraftfullt verktyg för alla personer och organisationer som vill involvera sin målgrupp när de skapar nya produkter eller tjänster. Om du arbetar med innovation, produktutveckling, affärsutveckling, kundundersökningar, användarupplevelse eller liknande kommer du att ha stor nytta av att använda_ [_Panelista_](https://panelista.com/?utm_medium=organic_social&utm_source=linkedin&utm_campaign=article&utm_content=productdevelopment) _i ditt arbete._
+
+{{< sv/bookdemo >}}
+
+{{< sv/subscribe >}}
