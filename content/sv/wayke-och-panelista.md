@@ -51,7 +51,7 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Irma**: Panelista fungerar jättebra! Inget att klaga på. Det känns enkelt och logiskt. ~~Fint att ni snabbt utvecklade en ny funktion efter min feedback~~. Det var också väldigt skönt att ni var med vid uppstarten, det gjorde att det hände direkt där och då. Annars hade jag skjutit på det för att jag var nervös för att spela in och skicka ut videon.
+**Irma**: Panelista fungerar jättebra! Inget att klaga på. Det känns enkelt och logiskt. ~~Fint att ni snabbt utvecklade en ny funktion efter min feedback.~~ Det var också väldigt skönt att ni var med vid uppstarten, det gjorde att det hände direkt där och då. Annars hade jag skjutit på det för att jag var nervös för att spela in och skicka ut videon.
 
 **Martin**: Jätteenkel produkt. Intuitiv att jobba med. Håll den så simpel! Ert engagemang är precis så man vill ha det. Ni tar er tid, ser till att man kommer igång och fortsätter med tajt uppföljning.
 
