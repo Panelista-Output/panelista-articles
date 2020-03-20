@@ -21,7 +21,7 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 **Martin**: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. ~~Panelista är ett sätt för oss att prata med kunder i realtid~~ och kunna gräva djupare när det behövs.
 
-**Irma**: Vi vill vara konsumentdrivna. ~~Jag vill få helt nya insikter~~ som vi inte tänkt på, där man får glödlampa över huvudet-känslan. Men även bekräftelse kring det vi redan tänkt på.
+**Irma**: Vi vill vara konsumentdrivna. ~~Jag vill få helt nya insikter som vi inte tänkt på~~, där man får glödlampa över huvudet-känslan. Men även bekräftelse kring det vi redan tänkt på.
 
 ### Hur går det?
 
@@ -35,7 +35,7 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 
 **Irma**: Vi jobbar även med enkäter. Det finns en styrka med många svar i enkäter, och vi kommer säkert fortsätta komplettera med enkäter, men Panelista känns mycket mer personligt och det är väldigt kul att ha den kundkontakten.
 
-**Martin**: Ja, även enkla enkäter kan vara otroligt givande. Dock finns ingen interaktion, och det blir ett administrativt monster. Vi har också kört livepaneler, och intervjuer vars input man kan se resultat av på Wayke.se idag. Det finns en chans att Panelista kan klå livepaneler då vissa är bekväma att prata framför en grupp och andra inte. Engagemanget hos panelisterna skulle jag misstänka har varit så stort på grund av videoformatet.
+**Martin**: Ja, även enkla enkäter kan vara otroligt givande. Dock finns ingen interaktion, och ~~det blir ett administrativt monster~~. Vi har också kört livepaneler, och intervjuer vars input man kan se resultat av på Wayke.se idag. Det finns en chans att Panelista kan klå livepaneler då vissa är bekväma att prata framför en grupp och andra inte. Engagemanget hos panelisterna skulle jag misstänka har varit så stort på grund av videoformatet.
 
 ### Vad har varit svårast?
 
