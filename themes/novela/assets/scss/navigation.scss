@@ -135,8 +135,13 @@
 /*PHABLET*/
 @media screen and (max-width: 540px) {
   .nav-container {
-    padding: 0 2rem 0 2rem;
-    padding-top: 32px;
+    padding: 32px 2rem 0 2rem;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .nav-container {
+    padding: 32px 0 0 0;
   }
 }
 

@@ -1,4 +1,4 @@
-<section id="subscriptionSection" class="section narrow">
+<section id="subscriptionSection">
     <div class="subscription-container">
         <div class="subscription-content">
             <h3 class="subscription-heading">
@@ -8,7 +8,28 @@
                 Ett mail varje månad med inspiration kring hur olika företag jobbar med Panelista.
             </p>
             
-            <iframe src="https://cdn.forms-content.sg-form.com/f41ffcd3-5e26-11ea-b7cf-3aeda0e63d84" frameborder="0" width="100%" height="470px"></iframe>
+            <iframe id="newsletterSignupIframe" src="https://cdn.forms-content.sg-form.com/f41ffcd3-5e26-11ea-b7cf-3aeda0e63d84" frameborder="0" width="100%" height="470px"></iframe>
         </div>
     </div>
+
+    <script>
+        var setIframeStyle = function() {
+            var signupIframe = document.getElementById('newsletterSignupIframe');
+
+            if (!signupIframe) return;
+
+            var parentWidth = signupIframe.parentElement.offsetWidth;
+
+            if (parentWidth > 360) {
+                signupIframe.style.cssText = "width: 100%;"; 
+            } else {
+                const sizeRatio = parentWidth / 360;
+
+                signupIframe.style.cssText = "transform: scale(" + sizeRatio + "); width: 360px; transform-origin: left;"; 
+            }
+
+        }
+
+        window.addEventListener('resize', setIframeStyle);
+    </script>
 </section>

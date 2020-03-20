@@ -25,15 +25,9 @@
     margin: 100px auto 60px;
   }
 
-  @media screen and (max-width: $tablet) {
-    padding-left: 0;
-    margin: 100px auto 60px;
-    max-width: 480px;
-  }
-
   @media screen and (max-width: $phablet) {
-    margin: 0px auto 80px;
-    padding: 0 40px;
+    margin: 60px auto 40px;
+    padding: 0 2rem;
   }
 
   @media screen and (max-width: 460px) {
