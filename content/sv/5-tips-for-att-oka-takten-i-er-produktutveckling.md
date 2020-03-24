@@ -37,7 +37,7 @@ Tryck ner mandat i organisationen. Företagsledningen skapar mål och förutsät
 
 ### 4#: Skapa självgående team kring värdeströmmar
 
-Sätt ihop ett **tvärfunktionellt team med tydligt produktägarskap** för en hel värdeström och de kompetenser som behövs för att lösa problem över tid. Med små självgående team med ansvar för hela produktens livscykel kan man angripa flera av de problem som ofta kommer med stora projekt. **Fatta många små beslut istället för få stora** och närmare det de berör. Vi använder själva många av de principer som beskrivs inom Lean UX som man kan läsa mer om här: [https://www.amazon.com/Lean-UX-Designing-Great-Products](https://www.amazon.com/Lean-UX-Designing-Great-Products "https://www.amazon.com/Lean-UX-Designing-Great-Products")
+Sätt ihop ett **tvärfunktionellt team med tydligt produktägarskap** för en hel värdeström och de kompetenser som behövs för att lösa problem över tid. Med små självgående team med ansvar för hela produktens livscykel kan man angripa flera av de problem som ofta kommer med stora projekt. **Fatta många små beslut istället för få stora** och närmare det de berör. Vi använder själva många av de principer som beskrivs inom Lean UX som man kan läsa mer om här: [https://www.amazon.com/Lean-UX-Designing-Great-Products](https://www.amazon.com/Lean-UX-Designing-Great-Products-ebook/ "https://www.amazon.com/Lean-UX-Designing-Great-Products-ebook/")
 
 ### 5#: Skala utveckling med startup-team
 
