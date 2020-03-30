@@ -316,6 +316,35 @@
   }
 }
 
+.header-link {
+  opacity: 0.5;
+  position: relative;
+  border-radius: 5px;
+  height: 25px;
+  color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transition: opacity 0.3s ease;
+  -o-transition: opacity 0.3s ease;
+  transition: opacity 0.3s ease;
+  margin-left: 30px;
+}
+
+.nav-controls a:visited {
+  color: var(--primary);
+}
+
+.nav-controls a:hover, .nav-controls button:hover {
+  opacity: 1;
+}
+
 .sun-rays {
   position: relative;
   right: -16px;

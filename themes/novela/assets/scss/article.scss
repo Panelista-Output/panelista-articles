@@ -39,7 +39,7 @@
   font-size: 48px;
   font-family: var(--serif);
   margin-bottom: 25px;
-  font-weight: 500;
+  // font-weight: 500;
   line-height: 1.32;
 
   @media screen and (max-width: $tablet) {
@@ -186,9 +186,16 @@
 }
 
 .hide-on-mobile {
-  /*PHABLET*/
-  @media screen and (max-width: $phablet) {
+  @media screen and (max-width: 700px) {
     display: none;
+  }
+}
+
+.show-on-mobile {
+  display: none;
+  
+  @media screen and (max-width: 700px) {
+    display: block;
   }
 }
 
