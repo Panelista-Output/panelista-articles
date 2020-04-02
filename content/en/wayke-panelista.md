@@ -21,7 +21,7 @@ _We at Panelista interviewed Martin Fransson, CEO and Irma Markgren, responsible
 
 **Martin**: To make Wayke an even safer and more guiding marketplace. To get where we want to be, we need to talk more with the customers. Both to learn new things that can improve the product, and to help us at Wayke understand our customers better. ~~Panelista is a way for us to have a dialogue with customers in real-time~~ and be able to dig deeper when needed.
 
-**Irma**: We want to be consumer-driven. ~~I want to get completely new insights~~ that we have not thought of. Those light bulb moments. But it is also important to confirm that we are on the right track with things that we have already planned for. 
+**Irma**: We want to be consumer-driven. ~~I want to get completely new insights~~ that we have not thought of. Those light bulb moments. But it is also important to confirm that we are on the right track with things that we have already planned for.
 
 ### How is it going?
 
@@ -55,7 +55,7 @@ _We at Panelista interviewed Martin Fransson, CEO and Irma Markgren, responsible
 
 **Martin**: Great product. Intuitive to work with. Keep it this simple! Your commitment is just the way we want it. You made sure we got started in the right way and continue to check-in frequently.
 
-_Thank you, Martin and Irma!_ [_Read more about Panelista here._](https://panelista.com "Panelista").
+_Thank you, Martin and Irma!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
 {{< en/bookdemo >}}
 
