@@ -21,6 +21,9 @@
 
     {{ $script := resources.Get "js/prism.js" }}
     <script src="{{ $script.RelPermalink }}"></script>
+
+    {{ $script := resources.Get "js/setTranslations.js" }}
+    <script src="{{ $script.RelPermalink }}"></script>
 </body>
 
 </html>

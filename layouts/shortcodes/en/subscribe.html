@@ -8,7 +8,31 @@
             One email per month with inspiration around how different companies work with Panelista.
           </p>
           
-          <iframe src="https://cdn.forms-content.sg-form.com/739557eb-69e4-11ea-a739-0af336062966" frameborder="0" width="100%" height="470px"></iframe>
+          <div style="width: 100%; overflow: hidden;">
+            <iframe id="newsletterSignupIframe" src="https://cdn.forms-content.sg-form.com/739557eb-69e4-11ea-a739-0af336062966" frameborder="0" width="100%" height="470px"></iframe>
+          </div>
       </div>
   </div>
+
+  <script>
+    var setIframeStyle = function() {
+        var signupIframe = document.getElementById('newsletterSignupIframe');
+
+        if (!signupIframe) return;
+
+        var parentWidth = signupIframe.parentElement.offsetWidth;
+
+        if (parentWidth > 360) {
+            signupIframe.style.cssText = "width: 100%;"; 
+        } else {
+            const sizeRatio = parentWidth / 360;
+
+            signupIframe.style.cssText = "transform: scale(" + sizeRatio + "); width: 360px; transform-origin: left;"; 
+        }
+    }
+
+    window.addEventListener('resize', setIframeStyle);
+
+    setIframeStyle()
+  </script>
 </section>
