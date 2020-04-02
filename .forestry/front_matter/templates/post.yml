@@ -55,5 +55,5 @@ fields:
       format: markdown
   label: Hero image body
 pages:
-- content/en/wayke-panelista.md
+- content/en/wayke-and-panelista.md
 - content/sv/5-tips-for-att-oka-takten-i-er-produktutveckling.md
