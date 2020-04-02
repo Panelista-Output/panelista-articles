@@ -11,52 +11,52 @@ title = "Wayke & Panelista"
 +++
 ## Wayke
 
-Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar vardagen för både bilköpare, bilsäljare och bildrömmare. Med Panelista skapades panelen Wayke Innovation för att bättre förstå kundernas behov och hur man gör bilköp ännu tryggare.
+Wayke is the marketplace for safely buying a car online. They make life easier for car buyers, car sellers, and car dreamers. With Panelista, the Wayke Innovation panel was created to better understand customer needs and how to make online car purchases even safer.
 
-_Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Markgren, ansvarig för panelen._
+_We at Panelista interviewed Martin Fransson, CEO and Irma Markgren, responsible for the panel._
 
 ***
 
-### Varför använder ni Panelista?
+### Why do you use Panelista?
 
-**Martin**: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. ~~Panelista är ett sätt för oss att prata med kunder i realtid~~ och kunna gräva djupare när det behövs.
+**Martin**: To make Wayke an even safer and more guiding marketplace. To get where we want to be, we need to talk more with the customers. Both to learn new things that can improve the product, and to help us at Wayke understand our customers better. ~~Panelista is a way for us to have a dialogue with customers in real-time~~ and be able to dig deeper when needed.
 
-**Irma**: Vi vill vara konsumentdrivna. ~~Jag vill få helt nya insikter som vi inte tänkt på~~, där man får glödlampa över huvudet-känslan. Men även bekräftelse kring det vi redan tänkt på.
+**Irma**: We want to be consumer-driven. ~~I want to get completely new insights~~ that we have not thought of. Those light bulb moments. But it is also important to confirm that we are on the right track with things that we have already planned for. 
 
-### Hur går det?
+### How is it going?
 
-**Irma**: Bra! Hittar man rätt personer som vill bli hörda på det här sättet så blir det bra. Jag hade en tidig oro om att störa panelisterna, men det känns verkligen inte så och några har varit inne och svarat varje gång. ~~Jag har många fler frågor, och kommer nog aldrig att sluta!~~
+**Irma**: Great! When you find the right people who want to contribute this way, it works really well. I had an early concern about bothering the panelists, but it really does not feel that way at all, and some have answered every question. ~~I have so many questions, and will probably never stop asking!~~
 
-**Martin**: Det är svårt att engagera folk idag, så vi fick ett snabbare och större engagemang från kunderna än vad jag vågat hoppas på. Dessutom såg alla i vårt team fördelarna med arbetssättet och köpte in på att använda Panelista väldigt snabbt.
+**Martin**: It's hard to engage people today, so we got faster and greater customer engagement than I dared to hope for. In addition, everyone in our team saw the benefits of Panelista and the way of working very quickly.
 
-**Irma**: Vi har redan lagt in flera saker i vår backlog som direktresultat från Panelista. Ibland kan det vara saker vi varit inne på, men det blir tydligare hur saker ska utformas.
+**Irma**: We have already added several things to our backlog as a direct result of using Panelista. Sometimes it has been things we have thought of before, but it becomes clearer how they should be designed.
 
-### Jobbar ni med kundinsikter på något annat sätt?
+### Do you work with customer insights in any other way?
 
-**Irma**: Vi jobbar även med enkäter. Det finns en styrka med många svar i enkäter, och vi kommer säkert fortsätta komplettera med enkäter, men Panelista känns mycket mer personligt och det är väldigt kul att ha den kundkontakten.
+**Irma**: We also work with surveys. Getting a lot of answers is a benefit of surveys, and we will probably continue to supplement Panelista with surveys. Panelista feels much more personal though, and it is a lot of fun to have that direct customer contact.
 
-**Martin**: Ja, även enkla enkäter kan vara otroligt givande. Dock finns ingen interaktion, och ~~det blir ett administrativt monster~~. Vi har också kört livepaneler, och intervjuer vars input man kan se resultat av på Wayke.se idag. Det finns en chans att Panelista kan klå livepaneler då vissa är bekväma att prata framför en grupp och andra inte. Engagemanget hos panelisterna skulle jag misstänka har varit så stort på grund av videoformatet.
+**Martin**: Yes, even simple surveys can be incredibly rewarding. However, there is no interaction, and it becomes an administrative monster. We have also run live panels, and interviews whose inputs can be seen on Wayke.se today. There is a chance that Panelista can outperform live panels as some people are comfortable talking in front of a group and others are not. The involvement of the panelists, I suspect, has been so great because of the video format.
 
-### Vad har varit svårast?
+### What has been the most difficult?
 
-**Martin**: Det handlar om en större omställning än att bara börja använda Panelista. Att faktiskt ~~lyfta in kunden centralt i organisationen~~ och anpassa sig efter och förstå kunden bättre. Det är långt ifrån självklart för företag att verkligen involvera kunderna och en större förändring än man kan tro. Så där behöver man vara överens. Det kan slänga om hela tankesättet kring att utveckla produkten, det kan slänga om hela backloggen. Man måste på riktigt tycka att det är kul att prata med kunder.
+**Martin**: It's about a bigger transition than just starting to use Panelista. ~~It is about actually becoming customer-centric~~ and understanding the customers better. It is far from obvious for companies to really involve their customers and a bigger change than one might think. It can change the whole way of thinking about the product, it can change the whole backlog. You really have to enjoy talking to the customers.
 
-**Irma**: Jag kan fortfarande tycka att det är en liten utmaning att vara med i videofrågorna. Med det sagt så skulle jag verkligen inte vilja byta ut videoformatet, man får så mycket tillbaka!
+**Irma**: I can still find it a bit of a challenge to be in the video questions. With that said, I really wouldn't want to replace the video format, as you get so much back!
 
-### Vad har varit bäst?
+### What has been the best?
 
-**Irma**: ~~Det är väldigt lite jobb för många insikter.~~ Vi ställer en fråga ungefär varannan vecka, och det är kul när det rasslar in svar.
+**Irma**: ~~There is very little effort involved to gain many new insights~~. We ask a question every other week, and it's fun when the answers start rolling in.
 
-**Martin**: Helt plötsligt så sitter vi i realtid och får svar från panelister och kan ställa följdfrågor. ~~Det är magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla; “Skulle kunderna gilla det här?”.~~
+**Martin**: All of a sudden, we can get real-time answers from panelists and ask follow-up questions. ~~It is a magical thing when you can get a new idea and immediately check; Would our customers like this?~~
 
-### Hur är det att jobba med Panelista och Panelista-teamet?
+### What is it like working with Panelista and the Panelista team?
 
-**Irma**: Panelista fungerar jättebra! Inget att klaga på. Det känns enkelt och logiskt. ~~Fint att ni snabbt utvecklade en ny funktion efter min feedback.~~ Det var också väldigt skönt att ni var med vid uppstarten, det gjorde att det hände direkt där och då. Annars hade jag skjutit på det för att jag var nervös för att spela in och skicka ut videon.
+**Irma**: Panelista works really well! Nothing to complain about. It feels simple and logical. ~~Great that you quickly developed a new feature after my feedback~~. It was also very nice that you helped us get started, it made it happen right there and then. Otherwise, I would have postponed it a bit as I was nervous about recording the first video question.
 
-**Martin**: Jätteenkel produkt. Intuitiv att jobba med. Håll den så simpel! Ert engagemang är precis så man vill ha det. Ni tar er tid, ser till att man kommer igång och fortsätter med tajt uppföljning.
+**Martin**: Great product. Intuitive to work with. Keep it this simple! Your commitment is just the way we want it. You made sure we got started in the right way and continue to check-in frequently.
 
-_Tack Martin och Irma!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
+_Thank you, Martin and Irma!_ [_Read more about Panelista here._](https://panelista.com "Panelista").
 
-{{< sv/bookdemo >}}
+{{< en/bookdemo >}}
 
-{{< sv/subscribe >}}
+{{< en/subscribe >}}
