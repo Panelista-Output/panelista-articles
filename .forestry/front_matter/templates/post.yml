@@ -56,4 +56,5 @@ fields:
   label: Hero image body
 pages:
 - content/en/first-en-post.md
+- content/en/wayke-panelista.md
 - content/sv/5-tips-for-att-oka-takten-i-er-produktutveckling.md
