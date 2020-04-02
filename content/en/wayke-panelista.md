@@ -1,8 +1,8 @@
 +++
-authors = []
+authors = ["Anders Palm"]
 date = ""
 excerpt = ""
-hero = ""
+hero = "/images/Wayke hero image-2020-03-19.jpg"
 hero_image_body = "We sent our first video question to 31 panelists. We asked them; \"What is important to you when buying a car online?\". In just 72 hours we had 18 answers and several new insights!"
 hero_image_title = "Several new insights in just 72 hours!"
 timeToRead = 0
