@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Oscar Mansson Grahn"]
 date = 2020-04-05T22:00:00Z
 draft = true
 excerpt = "Have you been ever experienced that good ideas get stuck at the idea stage and that it is difficult to get things done?"
