@@ -1,5 +1,5 @@
 +++
-authors = ["Anders Palm"]
+authors = ["Anders Palm", "Oscar Månsson Grahn"]
 date = 2020-04-01T22:00:00Z
 excerpt = "We sent our first video question to 31 panelists. We asked them; \"What is important to you when buying a car online?\". In just 72 hours we had 18 answers and several new insights!"
 hero = "/images/Wayke hero image-2020-03-19.jpg"
