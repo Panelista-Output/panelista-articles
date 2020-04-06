@@ -5,7 +5,7 @@ draft = true
 excerpt = "Have you been ever experienced that good ideas get stuck at the idea stage and that it is difficult to get things done?"
 hero = "/images/0-2020-03-17.jpeg"
 hero_image_body = ""
-hero_image_title = ""
+hero_image_title = "Wake up. Kick ass. Repeat."
 timeToRead = 5
 title = "5 Tips to Increase The Speed of Your Product Development"
 
