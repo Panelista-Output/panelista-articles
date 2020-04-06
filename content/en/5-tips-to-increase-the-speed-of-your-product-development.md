@@ -36,7 +36,7 @@ Let go of the idea of ​​investing in individual features or projects. Instea
 
 Push down mandate in the organization. Company management creates goals and conditions and follows up. Product management continuously decides how and what. A mix of strategic and operational people. A good guide to **strategic product development** comes from Roman Pichler: [https://www.romanpichler.com/romans-books/strategize/](https://www.romanpichler.com/romans-books/strategize/ "https://www.romanpichler.com/romans-books/strategize/")
 
-### **4 #: Create Self-Empowered Teams around Value Streams**
+### **4 #: Create Self-Empowered Teams Around Value Streams**
 
 **Assemble cross-functional team with clear product ownership** for a whole value stream and the competencies needed to solve problems over time. With small self-driving teams responsible for the entire product lifecycle, you can tackle several of the problems that often come with large projects. **Make many small decisions often,** and closer to who they concern. We use many of the principles described within Lean UX, which you can read more about here: [https://www.amazon.com/Lean-UX-Designing-Great-Products-ebook/](https://www.amazon.com/Lean-UX-Designing-Great-Products-ebook/ "https://www.amazon.com/Lean-UX-Designing-Great-Products-ebook/")
 
