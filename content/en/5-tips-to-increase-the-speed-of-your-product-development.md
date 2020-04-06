@@ -18,7 +18,7 @@ We meet companies and organizations that have challenges with their product deve
 
 * **Too many good ideas** are explored at the same time
 * There is no delivery capacity / team that can **deliver on demand within a reasonable time**.
-* Delivery capacity in the product team does not match the **expectations of the organization**.
+* Delivery capacity in the product team does not match the **expectations from the organization**.
 * **Top controlled priority** far from reality and lack of mandate in the product team who often has the most detailed knowledge.
 * **Extensive pre-studies** and large implementation projects instead of smaller user stories that are explored and delivered on a regular basis by the teams in short sprints.
 
