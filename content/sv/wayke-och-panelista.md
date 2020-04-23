@@ -11,7 +11,7 @@ title = "Wayke & Panelista"
 +++
 ## Wayke
 
-Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar vardagen för både bilköpare, bilsäljare och bildrömmare. Med Panelista skapades panelen Wayke Innovation för att bättre förstå kundernas behov och hur man gör bilköp ännu tryggare.
+Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar vardagen för både bilköpare, bilsäljare och bildrömmare. Med Panelista skapades panelen _Wayke Innovation_ för att bättre förstå kundernas behov och hur man gör bilköp ännu tryggare.
 
 _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Markgren, ansvarig för panelen._
 
