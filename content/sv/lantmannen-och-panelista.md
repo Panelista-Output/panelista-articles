@@ -2,27 +2,27 @@
 authors = ["Anders Palm"]
 date = 2020-04-23T22:00:00Z
 draft = true
-excerpt = "Vi skickade vår första videofråga till 31 panelister. Vi frågade dem; \"Vad är viktigt för dig när du köper bil på nätet?\". På bara 72 timmar hade vi fått 18 svar och flera nya insikter!"
-hero = "/images/Wayke hero image-2020-03-19.jpg"
-hero_image_body = "Vi skickade vår första videofråga till 31 panelister. Vi frågade dem; \"Vad är viktigt för dig när du köper bil på nätet?\". På bara 72 timmar hade vi fått 18 svar och flera nya insikter!"
-hero_image_title = "På bara 72 timmar hade vi flera nya insikter!"
+excerpt = "Vi kan visa upp en ny spännande sida av Lantmännen samtidigt som vi lär oss mer om lantbrukarnas behov."
+hero = ""
+hero_image_body = "Vi kan visa upp en ny spännande sida av Lantmännen samtidigt som vi lär oss mer om lantbrukarnas behov."
+hero_image_title = "Panelista hjälper oss att utveckla Lantmännen för unga ambassadörer och framtidens lantbrukare. "
 timeToRead = 7
 title = "Lantmännen & Panelista"
 
 +++
-## Wayke
+## Lantmännen
 
-Wayke är marknadsplatsen för trygga bilaffärer på nätet som underlättar vardagen för både bilköpare, bilsäljare och bildrömmare. Med Panelista skapades panelen Wayke Innovation för att bättre förstå kundernas behov och hur man gör bilköp ännu tryggare.
+Lantmännen är ett lantbrukskooperativ och norra Europas ledande aktör inom lantbruk, maskin, bioenergi och livsmedel. Lantmännen ägs av 20 000 svenska lantbrukare med verksamheter i hela värdekedjan från jord till bord. Med Panelista skapades panelen _Lantmännens Ambassadörer_ för att engagera unga lantbrukare och förstå deras behov.
 
-_Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Markgren, ansvarig för panelen._
+_Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannell, medlemsansvariga på Lantmännen._
 
 ***
 
 ### Varför använder ni Panelista?
 
-**Martin**: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. ~~Panelista är ett sätt för oss att prata med kunder i realtid~~ och kunna gräva djupare när det behövs.
+**Jenny**: För att göra Wayke till en ännu tryggare och mer guidande marknadsplats. För att nå dit vi ska nå så behöver vi prata mer med kunderna. Både för att lära oss nya saker som förbättrar produkten, och för att vi på Wayke ska förstå våra kunder bättre. ~~Panelista är ett sätt för oss att prata med kunder i realtid~~ och kunna gräva djupare när det behövs.
 
-**Irma**: Vi vill vara konsumentdrivna. ~~Jag vill få helt nya insikter som vi inte tänkt på~~, där man får glödlampa över huvudet-känslan. Men även bekräftelse kring det vi redan tänkt på.
+**Cathrine**: Vi vill vara konsumentdrivna. ~~Jag vill få helt nya insikter som vi inte tänkt på~~, där man får glödlampa över huvudet-känslan. Men även bekräftelse kring det vi redan tänkt på.
 
 ### Hur går det?
 
