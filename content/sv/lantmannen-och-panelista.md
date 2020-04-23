@@ -26,37 +26,33 @@ _Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannel
 
 ### Hur går det?
 
-**Irma**: Bra! Hittar man rätt personer som vill bli hörda på det här sättet så blir det bra. Jag hade en tidig oro om att störa panelisterna, men det känns verkligen inte så och några har varit inne och svarat varje gång. ~~Jag har många fler frågor, och kommer nog aldrig att sluta!~~
+**Jenny**: ~~Videoformatet känns väldigt bra, bättre än jag trodde.~~ Det är enkelt och smidigt. Även att länka ut till externt innehåll var enklare än förväntat. Just nu försöker vi öka engagemanget från gruppen ytterligare, då vi vill se ännu fler svar och mer diskussion.
 
-**Martin**: Det är svårt att engagera folk idag, så vi fick ett snabbare och större engagemang från kunderna än vad jag vågat hoppas på. Dessutom såg alla i vårt team fördelarna med arbetssättet och köpte in på att använda Panelista väldigt snabbt.
-
-**Irma**: Vi har redan lagt in flera saker i vår backlog som direktresultat från Panelista. Ibland kan det vara saker vi varit inne på, men det blir tydligare hur saker ska utformas.
+**Cathrine**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen. 
 
 ### Jobbar ni med kundinsikter på något annat sätt?
 
-**Irma**: Vi jobbar även med enkäter. Det finns en styrka med många svar i enkäter, och vi kommer säkert fortsätta komplettera med enkäter, men Panelista känns mycket mer personligt och det är väldigt kul att ha den kundkontakten.
-
-**Martin**: Ja, även enkla enkäter kan vara otroligt givande. Dock finns ingen interaktion, och ~~det blir ett administrativt monster~~. Vi har också kört livepaneler, och intervjuer vars input man kan se resultat av på Wayke.se idag. Det finns en chans att Panelista kan klå livepaneler då vissa är bekväma att prata framför en grupp och andra inte. Engagemanget hos panelisterna skulle jag misstänka har varit så stort på grund av videoformatet.
+**Cathrine**: Vi använder oss även av enkäter och träffar våra medlemmar i olika sammanhang. ~~Det fungerar bra även med enkäter, men det är svårare att få ut en tydlig sammanställning.~~ Och likaså saknas möjligheten att driva kommunikation i grupp istället för en och en.  
 
 ### Vad har varit svårast?
 
-**Martin**: Det handlar om en större omställning än att bara börja använda Panelista. Att faktiskt ~~lyfta in kunden centralt i organisationen~~ och anpassa sig efter och förstå kunden bättre. Det är långt ifrån självklart för företag att verkligen involvera kunderna och en större förändring än man kan tro. Så där behöver man vara överens. Det kan slänga om hela tankesättet kring att utveckla produkten, det kan slänga om hela backloggen. Man måste på riktigt tycka att det är kul att prata med kunder.
+**Cathrine**: Vi har en befintlig grupp med ett antal medlemmar som vi bjudit in till vår panel. Vi skulle vilja se ett ännu större engagemang från gruppen med fler svar och mer diskussioner.
 
-**Irma**: Jag kan fortfarande tycka att det är en liten utmaning att vara med i videofrågorna. Med det sagt så skulle jag verkligen inte vilja byta ut videoformatet, man får så mycket tillbaka!
+**Jenny**: Att spela in den första videon! Så här var det, jag hängde upp mig på att ha ett papper med vad jag ska säga, det ska man inte ha. Skippa manuset, och tänk på vad som är huvudfrågan och prata utifrån det. Jag var inte heller van vid videoformatet. ~~Nu kör jag bara en tagning och skjuter ut den utan problem.~~ Jag tror att jag har blivit starkare av det.
 
 ### Vad har varit bäst?
 
-**Irma**: ~~Det är väldigt lite jobb för många insikter.~~ Vi ställer en fråga ungefär varannan vecka, och det är kul när det rasslar in svar.
+**Jenny**: Jag skulle säga helheten. Enkelt och smidigt verktyg, med bra support, genomgångar, tips och idéer. Hela paketet.
 
-**Martin**: Helt plötsligt så sitter vi i realtid och får svar från panelister och kan ställa följdfrågor. ~~Det är magiskt att vi kan komma på en idé i rummet och bestämma oss för att direkt kolla; “Skulle kunderna gilla det här?”.~~
+**Cathrine**: Ert stöd, både hur ni sätter er in i vår verksamhet och hur ni hjälper oss att formulera saker. 
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Irma**: Panelista fungerar jättebra! Inget att klaga på. Det känns enkelt och logiskt. ~~Fint att ni snabbt utvecklade en ny funktion efter min feedback.~~ Det var också väldigt skönt att ni var med vid uppstarten, det gjorde att det hände direkt där och då. Annars hade jag skjutit på det för att jag var nervös för att spela in och skicka ut videon.
+**Jenny**: Det går fort och är smidigt, man får en bra rapport från verktyget som är smidig att dela. ~~Vi delar rapporterna med avdelningen och får feedback om att det är väldigt snyggt sammanställt.~~
 
-**Martin**: Jätteenkel produkt. Intuitiv att jobba med. Håll den så simpel! Ert engagemang är precis så man vill ha det. Ni tar er tid, ser till att man kommer igång och fortsätter med tajt uppföljning.
+**Cathrine**: Vi vill tacka er för jättebra uppstart, vi har fått mycket mer engagemang och support från er än vad jag kunde förvänta mig!
 
-_Tack Martin och Irma!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
+_Tack Jenny och Cathrine!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
 
