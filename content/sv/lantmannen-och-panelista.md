@@ -28,11 +28,11 @@ _Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannel
 
 **Jenny**: ~~Videoformatet känns väldigt bra, bättre än jag trodde.~~ Det är enkelt och smidigt. Även att länka ut till externt innehåll var enklare än förväntat. Just nu försöker vi öka engagemanget från gruppen ytterligare, då vi vill se ännu fler svar och mer diskussion.
 
-**Cathrine**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen. 
+**Cathrine**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen.
 
 ### Jobbar ni med kundinsikter på något annat sätt?
 
-**Cathrine**: Vi använder oss även av enkäter och träffar våra medlemmar i olika sammanhang. ~~Det fungerar bra även med enkäter, men det är svårare att få ut en tydlig sammanställning.~~ Och likaså saknas möjligheten att driva kommunikation i grupp istället för en och en.  
+**Cathrine**: Vi använder oss även av enkäter och träffar våra medlemmar i olika sammanhang. ~~Det fungerar bra även med enkäter, men det är svårt att få ut en tydlig sammanställning när vi har med öppna frågor.~~ Och likaså saknas möjligheten att driva kommunikation i grupp där fler kan vara delaktiga samtidigt.
 
 ### Vad har varit svårast?
 
@@ -44,7 +44,7 @@ _Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannel
 
 **Jenny**: Jag skulle säga helheten. Enkelt och smidigt verktyg, med bra support, genomgångar, tips och idéer. Hela paketet.
 
-**Cathrine**: Ert stöd, både hur ni sätter er in i vår verksamhet och hur ni hjälper oss att formulera saker. 
+**Cathrine**: Ert stöd, både hur ni sätter er in i vår verksamhet och hur ni hjälper oss att formulera saker.
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
