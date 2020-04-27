@@ -14,7 +14,7 @@ title = "Din verktygslåda för kundinsikter"
 
 Vi vet alla att för att nå framgång så måste produkter och tjänster möta kunders behov.
 
-För personer som jobbar som affärsutvecklare, produktutvecklare analytiker, UX.are etc. är analys och förståelse för användarbehov ett stort fokus. Samtidigt är det ett område som många brottas med och upplever att det behöver prioriteras mer. Många företag lägger ut arbetet med kundinsikter på externa partners och riskerar då hamna ännu längre från kunden.
+För personer som jobbar som affärsutvecklare, produktutvecklare, analytiker, UX.are etc. är analys och förståelse för användarbehov ett stort fokus. Samtidigt är det ett område som många brottas med och upplever att det behöver prioriteras mer. Många företag lägger ut arbetet med kundinsikter på externa partners och riskerar då hamna ännu längre från kunden.
 
 När vi pratar med branschkollegor och kunder så kan det låta såhär:
 
