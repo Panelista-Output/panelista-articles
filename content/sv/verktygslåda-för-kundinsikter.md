@@ -71,7 +71,7 @@ Vem har inte besvarat en kundenkät? Enkäter är kanske den mest frekvent anvä
 
 Ett väldigt kraftfullt sätt att samla insikter från digitala kanaler är att använda feedbackverktyg som t.ex Usabilla eller Survicate. Det är en variant av enkät som ofta utformas som “tyck till”-knapp eller popups på webbplatser och i appar. På så vis kan man samla in feedback från kunder direkt där kunden befinner sig. Flera av verktygen har möjlighet till att sätta upp regelstyrda frågeformulär utifrån hur kunden svarar eller beter sig på sidan/ i appen.
 
-**Fördelar**
+**Styrkor**
 
 * Snabbt och enkelt att konfigurera och installera
 * Bra för mätning av användarupplevelse på webbplatser och i appar
