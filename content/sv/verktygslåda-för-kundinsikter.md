@@ -34,7 +34,7 @@ Ett av de bästa sätten att få kvalitativa insikter och djupare förståelse f
 
 Djupintervjuer genomförs oftast enskilt med en person åt gången. Det är vanligt att man gör detta i tidiga utforskande stadier av projekt eller initiativ, men på grund av budget eller tidsskäl inte göras i löpande verksamhet.
 
-Ett verktyg som vi gillar som kan underlätta vid bokning, koordinering och administration av intervjuer och fokusgrupper är verktyget 10 to 8!
+Ett verktyg som vi gillar som kan underlätta vid bokning, koordinering och administration av intervjuer och fokusgrupper är verktyget [10to8](https://10to8.com/ "10to8")!
 
 **Styrkor**
 
@@ -99,7 +99,7 @@ Digitala analysverktyg som Hotjar, Google analytics, A/B-testningsverktyg är v�
 
 ## Sociala medier
 
-Många företag använder sociala medier som Facebook, Twitter, Instagram och LinkedIn för att inspirera, konversera med och lyssna på sina kunder. Genom att vara aktiv i sociala medier så kan företag ha en aktiv dialog med sin målgrupp. Dessutom finns möjlighet att få insikter om sitt varumärke och målgrupp från sociala medier utanför sina egna kanaler/sidor genom att använda sociala lyssningsverktyg som t.ex “Mention”.
+Många företag använder sociala medier som Facebook, Twitter, Instagram och LinkedIn för att inspirera, konversera med och lyssna på sina kunder. Genom att vara aktiv i sociala medier så kan företag ha en aktiv dialog med sin målgrupp. Dessutom finns möjlighet att få insikter om sitt varumärke och målgrupp från sociala medier utanför sina egna kanaler/sidor genom att använda sociala lyssningsverktyg som t.ex Mention.
 
 **Styrkor**
 
@@ -125,7 +125,7 @@ Panelista ger dig kvalitativ feedback från din målgrupp, lika snabbt och enkel
 Med videofrågor i Panelista får man ett kraftfullt verktyg i verktygslådan för alla som jobbar med utveckling av produkter eller tjänster.
 
 * Kvalitativa insikter direkt från din målgrupp
-* Involvera din målgrupp med personliga videfrågor
+* Involvera din målgrupp med personliga videofrågor
 * Nå ut snabbt - du är igång på under 1 timme
 * Dela insikter enkelt med din organisation med snygga automatiserade rapporter
 
