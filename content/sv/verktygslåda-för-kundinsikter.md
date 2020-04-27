@@ -130,3 +130,7 @@ Med videofrågor i Panelista får man ett kraftfullt verktyg i verktygslådan f�
 * Dela insikter enkelt med din organisation med snygga automatiserade rapporter
 
 Vill du veta mer om hur du kommer igång med Panelista och hur det kan fungera i din organisation? Kontakta oss för en demo.
+
+{{< sv/bookdemo >}}
+
+{{< sv/subscribe >}}
