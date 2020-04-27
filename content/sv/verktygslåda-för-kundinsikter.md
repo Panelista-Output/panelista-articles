@@ -7,7 +7,7 @@ hero = "/images/todd-quackenbush-IClZBVw5W5A-unsplash-2020-04-27.jpg"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 7
-title = "Verktygslåda för kundinsikter"
+title = "Din verktygslåda för kundinsikter"
 
 +++
 # Varför är det viktigt att veta vad kunderna behöver?
