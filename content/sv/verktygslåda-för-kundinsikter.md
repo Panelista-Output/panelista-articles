@@ -124,7 +124,7 @@ Panelista ger dig kvalitativ feedback från din målgrupp, lika snabbt och enkel
 
 Med videofrågor i Panelista får man ett kraftfullt verktyg i verktygslådan för alla som jobbar med utveckling av produkter eller tjänster.
 
-* Få kvalitativa insikter från dina kunder
+* Kvalitativa insikter direkt från din målgrupp
 * Involvera din målgrupp med personliga videfrågor
 * Nå ut snabbt - du är igång på under 1 timme
 * Dela insikter enkelt med din organisation med snygga automatiserade rapporter
