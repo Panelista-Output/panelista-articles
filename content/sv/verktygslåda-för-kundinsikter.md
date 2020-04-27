@@ -28,8 +28,6 @@ I denna artikel beskriver vi några av alla olika tekniker och verktyg som finns
 
 Avslutningsvis beskriver vi hur Panelista kan användas i detta sammanhang och hur det skiljer sig från andra verktyg.
 
-![](/images/Panelista article graph SV-2020-04-27.png)
-
 ## Fokusgrupper och djupintervjuer
 
 Ett av de bästa sätten att få kvalitativa insikter och djupare förståelse för behov är att använda sig av fokusgrupper eller djupintervjuer. I en fokusgrupp sätter man samman ett antal personer som får frågor och diskutera kring ett specifikt ämne.
