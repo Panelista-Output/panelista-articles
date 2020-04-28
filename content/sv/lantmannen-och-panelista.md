@@ -1,6 +1,6 @@
 +++
 authors = ["Anders Palm"]
-date = 2020-04-23T22:00:00Z
+date = 2020-04-28T06:00:00Z
 draft = true
 excerpt = "Vi kan visa upp en ny spännande sida av Lantmännen samtidigt som vi lär oss mer om lantbrukarnas behov."
 hero = "/images/Lantmannen-2020-04-24.jpg"
