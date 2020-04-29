@@ -50,7 +50,7 @@ Ett verktyg som vi gillar som kan underlätta vid bokning, koordinering och admi
 
 ## Enkäter
 
-Vem har inte besvarat en kundenkät? Enkäter är kanske den mest frekvent använda sättet av företag för att få kund och användarfeedback. Enkäter används främst för kvantitativ feedback men kompletteras ofta med frågor i fritext. Det finns en mängd olika digitala verktyg som gör det snabbt och enkelt att komma igång med kundenkäter tex. survey monkey.
+Vem har inte besvarat en kundenkät? Enkäter är kanske den mest frekvent använda sättet av företag för att få kund och användarfeedback. Enkäter används främst för kvantitativ feedback men kompletteras ofta med frågor i fritext. Det finns en mängd olika digitala verktyg som gör det snabbt och enkelt att komma igång med kundenkäter t.ex. Survey Monkey.
 
 **Styrkor**
 
@@ -98,7 +98,7 @@ Digitala analysverktyg som Hotjar, Google analytics, A/B-testningsverktyg är v�
 
 ## Sociala medier
 
-Många företag använder sociala medier som Facebook, Twitter, Instagram och LinkedIn för att inspirera, konversera med och lyssna på sina kunder. Genom att vara aktiv i sociala medier så kan företag ha en aktiv dialog med sin målgrupp. Dessutom finns möjlighet att få insikter om sitt varumärke och målgrupp från sociala medier utanför sina egna kanaler/sidor genom att använda sociala lyssningsverktyg som t.ex Mention.
+Många företag använder sociala medier som Facebook, Twitter, Instagram och LinkedIn för att inspirera, konversera med och lyssna på sina kunder. Genom att vara aktiv i sociala medier så kan företag ha en aktiv dialog med sin målgrupp. Dessutom finns möjlighet att få insikter om sitt varumärke och målgrupp från sociala medier utanför sina egna kanaler/sidor genom att använda sociala lyssningsverktyg som t.ex. Mention.
 
 **Styrkor**
 
