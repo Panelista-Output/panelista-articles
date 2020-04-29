@@ -1,6 +1,6 @@
 +++
 authors = ["Oscar Mansson Grahn"]
-date = ""
+date = 2020-04-28T22:00:00Z
 excerpt = "Varför är det viktigt att veta vad kunderna behöver? Vi vet alla att för att nå framgång så måste produkter och tjänster möta kunders behov. För personer som jobbar som affärsutvecklare, produktutvecklare analytiker, UX.are etc. är analys och förståelse för användarbehov ett stort fokus."
 hero = "/images/todd-quackenbush-IClZBVw5W5A-unsplash-2020-04-27-2020-04-29.jpg"
 hero_image_body = ""
