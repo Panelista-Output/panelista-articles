@@ -48,7 +48,7 @@ Ett verktyg som vi gillar som kan underlätta vid bokning, koordinering och admi
 
 ## Enkäter
 
-Vem har inte besvarat en kundenkät? Enkäter är kanske den mest frekvent använda sättet av företag för att få kund och användarfeedback. Enkäter används främst för kvantitativ feedback men kompletteras ofta med frågor i fritext. Det finns en mängd olika digitala verktyg som gör det snabbt och enkelt att komma igång med kundenkäter t.ex. Survey Monkey.
+Vem har inte besvarat en kundenkät? Enkäter är kanske det mest frekvent använda sättet av företag för att få kund och användarfeedback. Enkäter används främst för kvantitativ feedback men kompletteras ofta med frågor i fritext. Det finns en mängd olika digitala verktyg som gör det snabbt och enkelt att komma igång med kundenkäter t.ex. Survey Monkey.
 
 **Styrkor**
 
