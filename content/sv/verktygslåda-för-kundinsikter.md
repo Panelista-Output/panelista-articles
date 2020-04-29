@@ -24,7 +24,7 @@ _“Om jag ska vara ärlig så testar vi färdiga saker som det är lite sent at
 
 _“Det blir alltid ett stort projekt att involvera målgruppen och ta hand om resultatet…”_
 
-I denna artikel beskriver vi några av alla olika tekniker och verktyg som finns tillgängliga för att bättre förstå verkliga kundbehov och att involvera kunder i produktutvecklingen, framförallt för digitala produkter. Vi förespråkar att man använder flera av dessa när man bygger upp sin egen verktygslåda för kundinsikter.
+I denna artikel beskriver vi några av alla olika tekniker och verktyg som finns tillgängliga för att bättre förstå verkliga kundbehov och att involvera kunder i produktutvecklingen. Vi förespråkar att man använder flera av dessa när man bygger upp sin egen verktygslåda för kundinsikter.
 
 Avslutningsvis beskriver vi hur Panelista kan användas i detta sammanhang och hur det skiljer sig från andra verktyg.
 
@@ -55,13 +55,13 @@ Vem har inte besvarat en kundenkät? Enkäter är kanske den mest frekvent anvä
 
 **Styrkor**
 
-* Snabbt och enkelt att sätta upp och sammanställa resultat
+* Snabbt och enkelt att sätta upp och skicka ut
 * Lätt att nå många på kort tid
 * Bra för mätning av nyckeltal som t.ex. NPS eller CES
 
 **Svagheter**
 
-* Svårt att få kvalitativa insikter och bakomliggande förståelse för behov
+* Svårt att kunna ställa följdfrågor och få bakomliggande förståelse för behov
 * Kvalitativ feedback i enkäter ger oftast mest värde men tar tid att sammanställa
 * Brist på engagemang från målgruppen “Inte en enkät till!!”
 
@@ -114,7 +114,7 @@ Många företag använder sociala medier som Facebook, Twitter, Instagram och Li
 * Svårt att samla ihop och sammanställa kvalitativa insikter
 * Inte säkert att din målgrupp är aktiv i sociala medier
 
-## Panelista - ditt nya verktyg i verktygslådan
+## Videofrågor med Panelista - ditt nya verktyg i verktygslådan
 
 ![](/images/Panelista article graph SV-2020-04-27.png)
 
@@ -126,6 +126,7 @@ Med videofrågor i Panelista får man ett kraftfullt verktyg i verktygslådan f�
 
 * Kvalitativa insikter direkt från din målgrupp
 * Involvera din målgrupp med personliga videofrågor
+* Möjlighet till dialog och följdfrågor för djupare förståelse
 * Nå ut snabbt - du är igång på under 1 timme
 * Dela insikter enkelt med din organisation med snygga automatiserade rapporter
 
