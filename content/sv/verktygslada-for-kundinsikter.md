@@ -29,7 +29,7 @@ Avslutningsvis beskriver vi hur Panelista kan användas i detta sammanhang och h
 
 Ett av de bästa sätten att få kvalitativa insikter och djupare förståelse för behov är att använda sig av fokusgrupper eller djupintervjuer. I en fokusgrupp sätter man samman ett antal personer som får frågor och diskutera kring ett specifikt ämne.
 
-Djupintervjuer genomförs oftast enskilt med en person åt gången. Det är vanligt att man gör detta i tidiga utforskande stadier av projekt eller initiativ, men på grund av budget eller tidsskäl inte göras i löpande verksamhet.
+Djupintervjuer genomförs oftast enskilt med en person åt gången. Det är vanligt att man gör detta i tidiga utforskande stadier av projekt eller initiativ, men på grund av budget eller tidsskäl inte görs i löpande verksamhet.
 
 Ett verktyg som vi gillar som kan underlätta vid bokning, koordinering och administration av intervjuer och fokusgrupper är verktyget [10to8](https://10to8.com/ "10to8")!
 
