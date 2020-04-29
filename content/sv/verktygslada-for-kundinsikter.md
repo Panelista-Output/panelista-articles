@@ -37,7 +37,7 @@ Ett verktyg som vi gillar som kan underlätta vid bokning, koordinering och admi
 
 * Fokus på kvalitativa insikter och djupare förståelse
 * Möjlighet att sätta sig in i underliggande behov
-* Möjlighet att få insikter utanför det man tänkt sig undersöka från börjar
+* Möjlighet att få insikter utanför det man tänkt sig undersöka från början
 
 **Svagheter**
 
@@ -91,7 +91,7 @@ Digitala analysverktyg som Hotjar, Google analytics, A/B-testningsverktyg är v�
 **Utmaningar**
 
 * Kräver ofta teknisk kunskap för installation och konfigurering
-* Kräver tid specialkompetens för att göra djupare analyser
+* Kräver specialistkompetens för att göra djupare analyser
 * Bra för att förstå var man har utmaningar, men inte alltid varför
 
 ## Sociala medier
