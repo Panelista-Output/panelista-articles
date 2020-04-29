@@ -11,9 +11,7 @@ title = "Din verktygslåda för kundinsikter"
 +++
 # Varför är det viktigt att veta vad kunderna behöver?
 
-Vi vet alla att för att nå framgång så måste produkter och tjänster möta kunders behov.
-
-För personer som jobbar som affärsutvecklare, produktutvecklare, analytiker, UX.are etc. är analys och förståelse för användarbehov ett stort fokus. Samtidigt är det ett område som många brottas med och upplever att det behöver prioriteras mer. Många företag lägger ut arbetet med kundinsikter på externa partners och riskerar då hamna ännu längre från kunden.
+Analys och förståelse av användarbehov är en central utgångspunkt för produkt- och tjänsteutveckling. Det är allt vanligare att företag har egen kompetens inom t.ex. user experience, customer insights eller t.o.m. eget customer experience team. Men många företag lägger ut arbetet med kundinsikter på externa partners och riskerar på så sätt att hamna ännu längre från kunden.
 
 När vi pratar med branschkollegor och kunder så kan det låta såhär:
 
@@ -116,7 +114,7 @@ Många företag använder sociala medier som Facebook, Twitter, Instagram och Li
 ## Videofrågor med Panelista - ditt nya verktyg i verktygslådan
 
 <div class="Image__medium">
-	<img src="/images/Panelista article graph SV-2020-04-27.png" alt="Panelista Matrix" />
+<img src="/images/Panelista article graph SV-2020-04-27.png" alt="Panelista Matrix" />
 </div>
 
 Vi skapade Panelista för att göra det enkelt och roligt att snabbt involvera sin målgrupp och få nya insikter.
