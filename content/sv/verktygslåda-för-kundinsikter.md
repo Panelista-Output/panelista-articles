@@ -115,7 +115,7 @@ Många företag använder sociala medier som Facebook, Twitter, Instagram och Li
 
 ## Videofrågor med Panelista - ditt nya verktyg i verktygslådan
 
-![](/images/Panelista article graph SV-2020-04-27.png)
+![Panelista matrix](/images/Panelista article graph SV-2020-04-27.png "Panlista matrix")
 
 Vi skapade Panelista för att göra det enkelt och roligt att snabbt involvera sin målgrupp och få nya insikter.
 
