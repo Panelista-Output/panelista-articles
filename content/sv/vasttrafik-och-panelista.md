@@ -28,7 +28,7 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 **Samuel**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
 
-**Annelie**:  Bra engagemang än så länge. Jag jobbar mycket med att samla in kunddata och insikter så hade nog en ganska tydlig bild om hur det skulle bli. Mitt frågetecken var hur man faciliterar en sådan här panel för att få en trevlig och konstruktiv dialog. Jag trodde att det skulle vara svårt, men ~~det skötte sig mer eller mindre självt~~. 
+**Annelie**:  Bra engagemang än så länge. Jag jobbar mycket med att samla in kunddata och insikter så hade nog en ganska tydlig bild om hur det skulle bli. Mitt frågetecken var hur man faciliterar en sådan här panel för att få en trevlig och konstruktiv dialog. Jag trodde att det skulle vara svårt, men det skötte sig mer eller mindre självt. 
 
 **Samuel**: Ja, jag hade faktiskt förväntat mig lägre engagemang då vi inte kompenserar panelisterna för att vara med. Jag trodde inte heller att så många skulle svara på följdfrågor.
 
@@ -36,7 +36,7 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 **Samuel**: Vi kontaktade personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mail till de vi redan haft kontakt med.
 
-**Annelie**: Det första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som ~~en bra idé att sänka tröskeln för första panelen för att komma igång~~, och sedan sätta ihop mer fokuserade paneler. I nästa panel så är det en färjestudie, då ska vi bjuda in de kunder som reser med färjorna. 
+**Annelie**: Det första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som en bra idé att sänka tröskeln för första panelen för att komma igång, och sedan sätta ihop mer fokuserade paneler. I nästa panel så är det en färjestudie, då ska vi bjuda in de kunder som reser med färjorna. 
 
 ### Vilken typ av frågor ställer ni?
 
@@ -66,7 +66,7 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Samuel**: Produkten är väldigt smutt skulle jag säga. Enkel, stilren, med bra överblick. ~~Genomtänkt och lättarbetad.~~ Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt eget.
+**Samuel**: Produkten är väldigt smutt skulle jag säga. Enkel, stilren, med bra överblick. Genomtänkt och lättarbetad. Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt eget.
 
 **Annelie**: Det fungerar väldigt bra. Inget tungt  gränssnitt att ta sig an, det underlättar när man ska komma igång. Det är fortfarande en ganska liten produkt men grunden är prioriterad bra så att man har något att stå på. Jag ser fram emot att se den växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tummen upp/tummen ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~. 
 
