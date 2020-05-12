@@ -26,9 +26,9 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 ### Hur går det?
 
-**Jenny**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
+**Samuel**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
 
-**Cathrine**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen.
+**Annelie**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen.
 
 ### Jobbar ni med kundinsikter på något annat sätt?
 
