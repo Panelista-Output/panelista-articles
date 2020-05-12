@@ -5,7 +5,7 @@ draft = true
 excerpt = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
 hero = "/images/Lantmannen-2020-04-24.jpg"
 hero_image_body = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
-hero_image_title = "Värdet man får ut i förhållande till insatsen är oslagbar!"
+hero_image_title = "Värdet man får ut i förhållande till insatsen är oslagbart!"
 timeToRead = 6
 title = "Västtrafik & Panelista"
 
@@ -26,7 +26,7 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 ### Hur går det?
 
-**Jenny**: ~~Videoformatet känns väldigt bra, bättre än jag trodde.~~ Det är enkelt och smidigt. Även att länka ut till externt innehåll var enklare än förväntat. Just nu försöker vi öka engagemanget från gruppen ytterligare, då vi vill se ännu fler svar och mer diskussion.
+**Jenny**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
 
 **Cathrine**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen.
 
