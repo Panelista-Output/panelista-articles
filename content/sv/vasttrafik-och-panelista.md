@@ -20,9 +20,9 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 ### Varför använder ni Panelista?
 
-**Annelie**: Lantmännens uppdrag är att bidra till lönsamheten på medlemmarnas gårdar och optimera avkastningen på deras kapital. Vi använder Panelista till att få in inspel och synpunkter på hur vi ska jobba och bli bättre. Formatet gör också att fler kan vara delaktiga i en diskussion samtidigt, istället för att vi ska kommunicera med med våra ambassadörer separat.
+**Annelie**: ~~För att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Mycket explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov kopplade till olika saker löpande. Sedan är det en bonus att visa att vi både inkluderar våra kunder på många sätt och är innovativa.
 
-**Samuel**: I vår panel Lantmännens Ambassadörer använder vi Panelista i syfte att ~~utveckla Lantmännen för våra unga ambassadörer och framtidens lantbrukare~~. Vi är en länk mellan Lantmännen och våra 20 000 medlemmar som är aktiva svenska bönder. Våra unga ambassadörer är lantbrukare, men där deras föräldrar kanske är medlemmar snarare än dem själva. Vi vill framförallt lära oss hur vi kan utvecklas för att möta deras behov, men också att de ska veta mer och engagera sig i Lantmännen. Förhoppningen är att dessa ambassadörer ska vilja vara förtroendevalda och representera medlemmarna i framtiden.
+**Samuel**: Främst till att ta reda på kundernas input innan vi utformar nya funktioner.
 
 ### Hur går det?
 
