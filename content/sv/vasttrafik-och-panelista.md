@@ -7,7 +7,7 @@ hero = "/images/Lantmannen-2020-04-24.jpg"
 hero_image_body = "Vi kan visa upp en ny spännande sida av Lantmännen samtidigt som vi lär oss mer om lantbrukarnas behov."
 hero_image_title = "Panelista hjälper oss att utveckla Lantmännen för unga ambassadörer och framtidens lantbrukare. "
 timeToRead = 7
-title = "Lantmännen & Panelista"
+title = "Västtrafik & Panelista"
 
 +++
 ## Lantmännen
