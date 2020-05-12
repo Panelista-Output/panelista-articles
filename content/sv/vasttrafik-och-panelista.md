@@ -33,33 +33,44 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 **Samuel**: Ja, jag hade faktiskt förväntat mig lägre engagemang då vi inte kompenserar panelisterna för att vara med. Jag trodde inte heller att så många skulle svara på följdfrågor.
 
 ### Hur rekryterade ni panelister?
-**Samuel**: Vi kontaktade personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mailinbjudan till de vi redan haft kontakt med.
 
-**Annelie**: Det första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som en bra idé att sänka tröskeln för första panelen för att komma igång, och sedan sätta ihop mer fokuserade paneler. I nästa panel så är det en färjestudie, då ska vi bjuda in de kunder som reser med färjorna. 
+**Samuel**: Vi kontaktade personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mail till de vi redan haft kontakt med.
+
+**Annelie**: Det första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som ~~en bra idé att sänka tröskeln för första panelen för att komma igång~~, och sedan sätta ihop mer fokuserade paneler. I nästa panel så är det en färjestudie, då ska vi bjuda in de kunder som reser med färjorna. 
+
+### Vilken typ av frågor ställer ni?
+
+**Samuel**: En fråga har t ex. varit för att bekräfta hypoteser kring information vid störningar i trafiken; “Hur skulle du vilja få reda på om det finns något som påverkar din resa?”. En annan var för att utforska behov för möjliga abonnemang; “Borde Västtrafik erbjuda någon form av abonnemang? Och vad skulle då vara viktigt att tänka på?” där ~~vi fick in mycket matnyttigt som vi inte tänkt på~~.
+
+**Annelie**: Vi har även ställt en fråga där vi länkade till en prototyp för en ny funktion i vår app, så det är lite olika karaktär på frågorna. Ibland delar många samma behov, ibland är det väldigt spritt.
 
 ### Jobbar ni med kundinsikter på något annat sätt?
 
-**Cathrine**: Vi använder oss även av enkäter och träffar våra medlemmar i olika sammanhang. ~~Det fungerar bra även med enkäter, men det är svårt att få ut en tydlig sammanställning när vi har med öppna frågor.~~ Och likaså saknas möjligheten att driva kommunikation i grupp där fler kan vara delaktiga samtidigt.
+**Annelie**: Absolut, vi gör prototyper, intervjuar kunder och skickar enkäter mm. Jämfört med enkäter så känns det som ett bra format med bara en enda öppen fråga så att man får rikliga svar där man ser nyanseringar, ordval, och kan läsa in mer. Det blir också trevligt för att man får ett ansikte på en person, snarare än att det är ett stort företag som Västtrafik som är avsändare. Nu är det människor bakom. 
+
+**Samuel**: En videofråga på Panelista blir ganska gediget. Inte lika djupt som en timmes intervju med varje person, men någonstans mellan en runda intervjuer och en enkät.
+
+**Annelie**: Det är väldigt låg tröskel för att få ut en videofråga jämfört med att hitta en tid när man kan ses för en intervju. Sedan kan man såklart ställa fler frågor i en intervju. Jag gillar också att ~~folk svarar mer i lugn och ro när det passar dem~~ i Panelista. 
 
 ### Vad har varit svårast?
 
-**Cathrine**: Vi har en befintlig grupp med ett antal medlemmar som vi bjudit in till vår panel. Vi skulle vilja se ett ännu större engagemang från gruppen med fler svar och mer diskussioner.
+**Annelie**: Att inte se sur ut på filmen när man är fokuserad. Att hitta sitt format som är avslappnat men proffsigt. Jag vill också se mer att man spinner vidare mer på varandras svar, det hade varit sjukt spännande att se mer diskussion och att panelisterna levlade olika idéer och resonemang. Vi har sett några göra det, men vill se mer!
 
-**Jenny**: Att spela in den första videon! Så här var det, jag hängde upp mig på att ha ett papper med vad jag ska säga, det ska man inte ha. Skippa manuset, och tänk på vad som är huvudfrågan och prata utifrån det. Jag var inte heller van vid videoformatet. ~~Nu kör jag bara en tagning och skjuter ut den utan problem.~~ Jag tror att jag har blivit starkare av det.
+**Samuel**: Överlag så är det nog att ta det vidare till design och arbetspaket i tillräckligt högt tempo när vi vet vad kunderna behöver. Med själva Panelista så håller jag med om att det är att spela in frågan. Det svåra med frågan är att vara naturlig och prata fritt. Att skippa stolpar och hjälptext. ~~Precis som en musiker med ackord där det blir bättre när man bara lyssnar och spelar med, men det krävs mod!~~
 
 ### Vad har varit bäst?
 
-**Jenny**: Jag skulle säga helheten. Enkelt och smidigt verktyg, med bra support, genomgångar, tips och idéer. Hela paketet.
+**Samuel**: ~~Det bästa hittills är hur låg tröskeln är för att faktiskt skjuta ut en fråga.~~ Vet du ungefär vilket område du vill veta mer om så tar det kanske 30 min att formulera en bra fråga och 20 min på att spela in och skjuta ut den. Extra lätt för personer som redan har en roadmap där det hela tiden finns nya aktuella områden att utforska.
 
-**Cathrine**: Ert stöd, både hur ni sätter er in i vår verksamhet och hur ni hjälper oss att formulera saker.
+**Annelie**: Den första frågan! Känslan när det pepprade in svar. Det visade på ett engagemang och att man vill vara med och påverka. Vi bekräftade även ett antal hypoteser så att vi kunde gå vidare.
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Jenny**: Det går fort och är smidigt, man får en bra rapport från verktyget som är smidig att dela. ~~Vi delar rapporterna med avdelningen och får feedback om att det är väldigt snyggt sammanställt.~~
+**Samuel**: Produkten är väldigt smutt skulle jag säga. Enkel, stilren, med bra överblick. ~~Genomtänkt och lättarbetad.~~ Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt eget.
 
-**Cathrine**: Vi vill tacka er för jättebra uppstart, vi har fått mycket mer engagemang och support från er än vad jag kunde förvänta mig!
+**Annelie**: Det fungerar väldigt bra. Inget tungt  gränssnitt att ta sig an, det underlättar när man ska komma igång. Det är fortfarande en ganska liten produkt men grunden är prioriterad bra så att man har något att stå på. Jag ser fram emot att se den växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tummen upp/tummen ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~. 
 
-_Tack Jenny och Cathrine!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
+_Tack Annelie och Samuel!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
 
