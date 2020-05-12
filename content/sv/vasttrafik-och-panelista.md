@@ -1,16 +1,16 @@
 +++
 authors = ["Anders Palm"]
-date = 2020-04-28T06:00:00Z
+date = 2020-05-18T06:00:00Z
 draft = true
 excerpt = "Vi kan visa upp en ny spännande sida av Lantmännen samtidigt som vi lär oss mer om lantbrukarnas behov."
 hero = "/images/Lantmannen-2020-04-24.jpg"
 hero_image_body = "Vi kan visa upp en ny spännande sida av Lantmännen samtidigt som vi lär oss mer om lantbrukarnas behov."
 hero_image_title = "Panelista hjälper oss att utveckla Lantmännen för unga ambassadörer och framtidens lantbrukare. "
-timeToRead = 7
+timeToRead = 6
 title = "Västtrafik & Panelista"
 
 +++
-## Lantmännen
+## Västtrafik
 
 Lantmännen är ett lantbrukskooperativ och norra Europas ledande aktör inom lantbruk, maskin, bioenergi och livsmedel. Lantmännen ägs av 20 000 svenska lantbrukare med verksamheter i hela värdekedjan från jord till bord. Med Panelista skapades panelen _Lantmännens Ambassadörer_ för att engagera unga lantbrukare och förstå deras behov.
 
