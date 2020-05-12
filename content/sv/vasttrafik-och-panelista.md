@@ -20,9 +20,9 @@ _Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannel
 
 ### Varför använder ni Panelista?
 
-**Jenny**: Lantmännens uppdrag är att bidra till lönsamheten på medlemmarnas gårdar och optimera avkastningen på deras kapital. Vi använder Panelista till att få in inspel och synpunkter på hur vi ska jobba och bli bättre. Formatet gör också att fler kan vara delaktiga i en diskussion samtidigt, istället för att vi ska kommunicera med med våra ambassadörer separat.
+**Annelie**: Lantmännens uppdrag är att bidra till lönsamheten på medlemmarnas gårdar och optimera avkastningen på deras kapital. Vi använder Panelista till att få in inspel och synpunkter på hur vi ska jobba och bli bättre. Formatet gör också att fler kan vara delaktiga i en diskussion samtidigt, istället för att vi ska kommunicera med med våra ambassadörer separat.
 
-**Cathrine**: I vår panel Lantmännens Ambassadörer använder vi Panelista i syfte att ~~utveckla Lantmännen för våra unga ambassadörer och framtidens lantbrukare~~. Vi är en länk mellan Lantmännen och våra 20 000 medlemmar som är aktiva svenska bönder. Våra unga ambassadörer är lantbrukare, men där deras föräldrar kanske är medlemmar snarare än dem själva. Vi vill framförallt lära oss hur vi kan utvecklas för att möta deras behov, men också att de ska veta mer och engagera sig i Lantmännen. Förhoppningen är att dessa ambassadörer ska vilja vara förtroendevalda och representera medlemmarna i framtiden.
+**Samuel**: I vår panel Lantmännens Ambassadörer använder vi Panelista i syfte att ~~utveckla Lantmännen för våra unga ambassadörer och framtidens lantbrukare~~. Vi är en länk mellan Lantmännen och våra 20 000 medlemmar som är aktiva svenska bönder. Våra unga ambassadörer är lantbrukare, men där deras föräldrar kanske är medlemmar snarare än dem själva. Vi vill framförallt lära oss hur vi kan utvecklas för att möta deras behov, men också att de ska veta mer och engagera sig i Lantmännen. Förhoppningen är att dessa ambassadörer ska vilja vara förtroendevalda och representera medlemmarna i framtiden.
 
 ### Hur går det?
 
