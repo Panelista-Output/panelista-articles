@@ -28,7 +28,14 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 **Samuel**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
 
-**Annelie**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen.
+**Annelie**:  Bra engagemang än så länge. Jag jobbar mycket med att samla in kunddata och insikter så hade nog en ganska tydlig bild om hur det skulle bli. Mitt frågetecken var hur man faciliterar en sådan här panel för att få en trevlig och konstruktiv dialog. Jag trodde att det skulle vara svårt, men ~~det skötte sig mer eller mindre självt~~. 
+
+**Samuel**: Ja, jag hade faktiskt förväntat mig lägre engagemang då vi inte kompenserar panelisterna för att vara med. Jag trodde inte heller att så många skulle svara på följdfrågor.
+
+### Hur rekryterade ni panelister?
+**Samuel**: Vi kontaktade personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mailinbjudan till de vi redan haft kontakt med.
+
+**Annelie**: Det första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som en bra idé att sänka tröskeln för första panelen för att komma igång, och sedan sätta ihop mer fokuserade paneler. I nästa panel så är det en färjestudie, då ska vi bjuda in de kunder som reser med färjorna. 
 
 ### Jobbar ni med kundinsikter på något annat sätt?
 
