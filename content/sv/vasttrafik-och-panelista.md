@@ -12,9 +12,9 @@ title = "Västtrafik & Panelista"
 +++
 ## Västtrafik
 
-Lantmännen är ett lantbrukskooperativ och norra Europas ledande aktör inom lantbruk, maskin, bioenergi och livsmedel. Lantmännen ägs av 20 000 svenska lantbrukare med verksamheter i hela värdekedjan från jord till bord. Med Panelista skapades panelen _Lantmännens Ambassadörer_ för att engagera unga lantbrukare och förstå deras behov.
+Västtrafik är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Med Panelista så har hittills två paneler skapats; Västtrafik Labs fokuserad på utveckling av bättre tjänster och Framtidens färjetrafik fokuserad på trafiken över Göta Älv i Göteborg.
 
-_Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannell, medlemsansvariga på Lantmännen._
+_Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänstedesigner och Samuel Nygren som är produktägare för appen Västtrafik To Go och reseplanering på Västtrafik._
 
 ***
 
