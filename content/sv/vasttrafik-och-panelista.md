@@ -12,7 +12,7 @@ title = "Västtrafik & Panelista"
 +++
 ## Västtrafik
 
-Västtrafik är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Med Panelista så har hittills två paneler skapats; _Västtrafik Labs_ fokuserad på utveckling av bättre tjänster och _Framtidens färjetrafik_ fokuserad på trafiken över Göta Älv i Göteborg.
+Västtrafik är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Med Panelista så har hittills två paneler skapats; _Västtrafik Labs_ fokuserad på utveckling av tjänster och _Framtidens färjetrafik_ fokuserad på trafiken över Göta Älv i Göteborg.
 
 _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänstedesigner och Samuel Nygren som är produktägare för appen Västtrafik To Go och reseplanering på Västtrafik._
 
@@ -20,7 +20,7 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 ### Varför använder ni Panelista?
 
-**Annelie**: ~~Vi vill komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Det handlar om explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov som uppstår löpande. 
+**Annelie**: ~~Vi vill komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Det handlar om explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov som uppstår löpande.
 
 **Samuel**: Ja, det är viktigt att ta reda på kundernas input innan vi utformar nya funktioner.
 
@@ -68,7 +68,7 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Samuel**: Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt unikt. Produkten är väldigt smutt. Enkel, stilren, med bra överblick. Genomtänkt och lättarbetad. 
+**Samuel**: Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt unikt. Produkten är väldigt smutt. Enkel, stilren, med bra överblick. Genomtänkt och lättarbetad.
 
 **Annelie**: Det fungerar väldigt bra och var lätt att komma igång. Jag ser fram emot att se Panelista växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tumme upp/tumme ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~.
 
