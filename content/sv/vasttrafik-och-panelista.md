@@ -42,7 +42,7 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 ### Vilken typ av frågor ställer ni?
 
-**Samuel**: En fråga har t ex. handlat om att bekräfta våra hypoteser kring information vid störningar i trafiken; _“Hur skulle du vilja få reda på om det finns något som påverkar din resa?”_. En annan var för att utforska behov för möjliga abonnemang; _“Borde Västtrafik erbjuda någon form av abonnemang?_". Och vad skulle då vara viktigt att tänka på?”. ~~Där fick vi in mycket matnyttigt som vi inte tänkt på~~.
+**Samuel**: En fråga har t ex. handlat om att bekräfta våra hypoteser kring information vid störningar i trafiken; _“Hur skulle du vilja få reda på om det finns något som påverkar din resa?”_. En annan var för att utforska behov för möjliga abonnemang; _“Borde Västtrafik erbjuda någon form av abonnemang?. Och vad skulle då vara viktigt att tänka på?_". ~~Där fick vi in mycket matnyttigt som vi inte tänkt på~~.
 
 **Annelie**: Vi har även ställt en fråga där vi länkade till en prototyp för en ny funktion i vår app, så det är lite olika karaktär på frågorna. Ibland delar många panelister samma behov, ibland är det väldigt spritt.
 
@@ -50,27 +50,27 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 **Annelie**: Absolut. Vi gör prototyper, intervjuar kunder, skickar enkäter mm. Jämfört med enkäter så känns Panelista som ett bra format med bara en enda öppen fråga så att man får rikliga svar där man ser nyanseringar, ordval, och kan läsa in mer. Det blir också trevligt för att kunderna får ett ansikte på en person, snarare än att det är ett stort företag som Västtrafik som är avsändare. Nu är det människor bakom.
 
-**Samuel**: En videofråga på Panelista blir ganska gediget. Inte lika djupt som en timmes intervju med varje person, men någonstans mellan en runda intervjuer och en enkät.
+**Samuel**: En videofråga på Panelista blir gediget. Inte lika djupt som en timmes intervju med varje person, men någonstans mellan en runda intervjuer och en enkät.
 
-**Annelie**: Det är väldigt låg tröskel för att få ut en videofråga jämfört med att hitta en tid när man kan ses för en intervju. Sedan kan man såklart ställa fler frågor i en intervju. Jag gillar också att ~~folk svarar mer i lugn och ro när det passar dem~~ i Panelista.
+**Annelie**: Det är väldigt låg tröskel för att få ut en videofråga jämfört med att hitta en tid när man kan ses för en intervju. Jag gillar också att ~~folk svarar mer i lugn och ro när det passar dem~~ i Panelista.
 
-### Vad har varit svårast?
-
-**Annelie**: Att inte se sur ut på filmen när man är fokuserad! Att hitta sitt format som är avslappnat men proffsigt. Jag vill också se mer att panelisterna spinner vidare mer på varandras svar, det hade varit sjukt spännande att se mer diskussion och att panelisterna levlade olika idéer och resonemang med varandra. Vi har sett några göra det, men vill se mer!
-
-**Samuel**: Överlag så är det nog för oss själva att ta insikterna vidare till design och arbetspaket i tillräckligt högt tempo, nu när vi får veta vad kunderna behöver. Med själva Panelista så håller jag med om att det är att spela in frågan. Det svåra med frågan är att vara naturlig och prata fritt. Att skippa stolpar och hjälptext. ~~Precis som en musiker med ackord där det blir bättre när man bara lyssnar och spelar med, men det krävs mod!~~
-
-### Vad har varit bäst?
+### Vad har varit bäst med Panelista?
 
 **Annelie**: Den första frågan! Känslan när det pepprade in svar. Det visade på ett engagemang och att kunderna vill vara med och påverka. Vi fick även ett antal hypoteser bekräftade direkt, så att vi kunde gå vidare med dessa.
 
 **Samuel**: ~~Det bästa hittills är hur låg tröskeln är för att faktiskt skjuta ut en fråga.~~ Vet du ungefär vilket område du vill veta mer om så tar det kanske 30 min att formulera en bra fråga och 20 min på att spela in och skjuta ut den. Extra lätt är det för personer som redan har en roadmap där det hela tiden finns nya aktuella områden att utforska.
 
+### Vad har varit svårast?
+
+**Annelie**: Att inte se sur ut på filmen när man är fokuserad! Att hitta sitt format som är avslappnat men proffsigt. Jag vill också se att panelisterna spinner vidare på varandras svar, det hade varit sjukt spännande att se fler diskussioner mellan dem och att panelisterna levlade olika idéer och resonemang med varandra. Vi har sett några göra det, men vill se mer!
+
+**Samuel**: Överlag så är det nog för oss själva att ta insikterna vidare till design och arbetspaket i tillräckligt högt tempo, nu när vi får veta vad kunderna behöver. Med själva Panelista så håller jag med om att det är att spela in frågan. Det svåra med frågan är att vara naturlig och prata fritt. Att skippa stolpar och hjälptext. ~~Precis som en musiker med ackord där det blir bättre när man bara lyssnar och spelar med, men det krävs mod!~~
+
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Samuel**: Produkten är väldigt smutt skulle jag säga. Enkel, stilren, med bra överblick. Genomtänkt och lättarbetad. Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt unikt.
+**Samuel**: Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt unikt. Produkten är väldigt smutt. Enkel, stilren, med bra överblick. Genomtänkt och lättarbetad. 
 
-**Annelie**: Det fungerar väldigt bra och var lätt att komma igång. Jag ser fram emot att se Panelista växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tummen upp/tummen ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~.
+**Annelie**: Det fungerar väldigt bra och var lätt att komma igång. Jag ser fram emot att se Panelista växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tumme upp/tumme ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~.
 
 _Tack Annelie och Samuel!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
