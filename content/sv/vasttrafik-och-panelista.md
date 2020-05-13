@@ -38,7 +38,7 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 **Samuel**: Vi valde att kontakta personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mail till de vi redan haft kontakt med.
 
-**Annelie**: Den första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som en bra idé att sänka tröskeln för första panelen, för att komma igång, och sedan sätta ihop mer fokuserade paneler. Vår andra panel är en färjestudie så där bjuder vi in kunder som reser med färjorna.
+**Annelie**: Den första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som en bra idé att sänka tröskeln för den första panelen, för att komma igång, och sedan sätta ihop mer fokuserade paneler. Vår andra panel är en färjestudie så där bjuder vi in kunder som reser med färjorna.
 
 ### Vilken typ av frågor ställer ni?
 
