@@ -3,6 +3,11 @@
 {{ partial "head/head.html" . }}
 
 <body class="line-numbers">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5KNBD8R" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     {{ $script := resources.Get "js/initColors.js" }}
     <script src="{{ $script.RelPermalink }}"></script>

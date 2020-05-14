@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     {{ $prism := resources.Get "css/prism.css" }}
     <link rel="stylesheet" href="{{ $prism.RelPermalink }}" />
-    <!-- <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet"> -->
     <link
       href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap&subset=latin-ext"
       rel="stylesheet"
@@ -18,6 +17,14 @@
     {{ with .Params.forestry_instant_preview_id }}
       {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}
     {{ end -}}
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5KNBD8R');</script>
+    <!-- End Google Tag Manager -->
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146479308-1"></script>
