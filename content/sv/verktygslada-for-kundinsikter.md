@@ -129,6 +129,8 @@ Med videofr책gor i Panelista f책r man ett kraftfullt verktyg i verktygsl책dan f�
 * N책 ut snabbt - du 채r ig책ng p책 under 1 timme
 * Dela insikter enkelt med din organisation med snygga automatiserade rapporter
 
+L채s mer om [Panelista](https://panelista.com?utm_medium=blogg&utm_source=panelistablogg&utm_campaign=article)
+
 {{< sv/bookdemo >}}
 
 {{< sv/subscribe >}}
