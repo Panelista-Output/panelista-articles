@@ -12,7 +12,7 @@ title = "Västtrafik & Panelista"
 +++
 ## Västtrafik
 
-Västtrafik är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Med Panelista så har hittills två paneler skapats; _Västtrafik Labs_ fokuserad på utveckling av tjänster och _Framtidens färjetrafik_ fokuserad på trafiken över Göta Älv i Göteborg.
+Västtrafikv är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Med Panelista så har hittills två paneler skapats; _Västtrafik Labs_ fokuserad på utveckling av tjänster och _Framtidens färjetrafik_ fokuserad på trafiken över Göta Älv i Göteborg.
 
 _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänstedesigner och Samuel Nygren som är produktägare för appen Västtrafik To Go och reseplanering på Västtrafik._
 
