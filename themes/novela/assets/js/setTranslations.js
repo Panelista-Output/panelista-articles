@@ -30,12 +30,12 @@ var signUpForNewsletterMenuLink = document.getElementById('subscribe-for-newslet
 if (signUpForNewsletterMenuLink) {
   signUpForNewsletterMenuLink.appendChild(document.createTextNode(translations.signUpForNewsletter[language]));
 
-  signUpForNewsletterMenuLink.setAttribute('href', 'https://panelista.com/' + language + '/?openNewsletterSignup=1');
+  signUpForNewsletterMenuLink.setAttribute('href', 'https://panelista.com/' + language + '?openNewsletterSignup=1');
 }
 
 var signUpForNewsletterMenuIcon = document.getElementById('subscribe-for-newsletter-menu-icon');
 if (signUpForNewsletterMenuIcon) {
-  signUpForNewsletterMenuIcon.setAttribute('href', 'https://panelista.com/' + language + '/?openNewsletterSignup=1');
+  signUpForNewsletterMenuIcon.setAttribute('href', 'https://panelista.com/' + language + '?openNewsletterSignup=1');
 }
 
 var allArticlesFooterLink = document.getElementById('all-articles-footer-link');
