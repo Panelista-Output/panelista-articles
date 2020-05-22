@@ -1,6 +1,6 @@
 +++
 authors = ["Anders Palm"]
-date = 2020-05-18T06:00:00Z
+date = 2020-05-22T06:00:00Z
 excerpt = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
 hero = "/images/vasttrafik-case-design-2020-05-14.jpg"
 hero_image_body = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
