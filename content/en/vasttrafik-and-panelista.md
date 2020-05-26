@@ -30,9 +30,9 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Samuel**: We are getting a lot of long and thought-through answers, suggestions, and comments. Not just thumb up or down. ~~The value you get compared to the effort you put in is amazing!~~
 
-**Annelie**: Det är bra engagemang än så länge. Jag jobbar mycket med att samla in kunddata och insikter så hade nog en ganska tydlig bild om hur det skulle bli. Mitt frågetecken var hur man faciliterar en sådan här panel för att få en trevlig och konstruktiv dialog. ~~Jag trodde att det skulle vara svårt, men det sköter sig mer eller mindre självt.~~
+**Annelie**: The engagemant is very good so far. I do a lot of work with gathering customer data and insights, so I had a pretty clear picture of how it would work. One concern I had initially was how tto facilitate this type of online panl to get nice and constructive discussions. ~~I thought it would be hard, but it almost takes care of itself.~~
 
-**Samuel**: Ja, jag hade faktiskt förväntat mig lägre engagemang då vi inte kompenserar panelisterna för att vara med. Jag trodde inte heller att så många skulle svara på följdfrågor.
+**Samuel**: Yes, I expected less engagement as we do not compensate the panlists for being part of the panel. I also did not think that so many panelists would answer our follow-up questions.
 
 ### How did you recruit panelists?
 
