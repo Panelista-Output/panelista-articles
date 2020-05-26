@@ -20,15 +20,15 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### Why do you use Panelista?
 
-**Annelie**: ~~Vi vill komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Det handlar om explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov som uppstår löpande.
+**Annelie**: ~~We want to get in touch with different types of customers to bounce ideas with them.~~ We mainly use Panelista for exploratory research in early phases, but also for insight and opinions over time.
 
-**Samuel**: Ja, det är viktigt att ta reda på kundernas input innan vi utformar nya funktioner.
+**Samuel**: Yes, it is important to get the customers' input beforee we design new features.
 
-**Annelie**: Sedan är det en bonus att kunna visa att vi inkluderar våra kunder och är innovativa som företag.
+**Annelie**: It is also a bonus to be able to show that we include our customers and that we are an innovative company.
 
 ### How is it going?
 
-**Samuel**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
+**Samuel**: We are getting a lot of long and thought-through answers, suggestions, and comments. Not just thumb up or down. ~~The value you get compared to the effort you put in is amazing!~~
 
 **Annelie**: Det är bra engagemang än så länge. Jag jobbar mycket med att samla in kunddata och insikter så hade nog en ganska tydlig bild om hur det skulle bli. Mitt frågetecken var hur man faciliterar en sådan här panel för att få en trevlig och konstruktiv dialog. ~~Jag trodde att det skulle vara svårt, men det sköter sig mer eller mindre självt.~~
 
