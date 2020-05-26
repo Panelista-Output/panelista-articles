@@ -46,7 +46,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 Utvalt utdrag från webben
 hypotheses around necessary information when something unexpected happens; _“How would you like to find out if something will affect your trip?”_. Another was to explore needs for possible subscription services; _“Should Västtrafik offer some kind of subscription? And if so, what is important?_". ~~We got a lot of things which we had not considered~~.
 
-**Annelie**: Vi har även ställt en fråga där vi länkade till en prototyp för en ny funktion i vår app, så det är lite olika karaktär på frågorna. Ibland delar många panelister samma behov, ibland är det väldigt spritt.
+**Annelie**: We also asked a question where we linked to a prototype for a new feature in our app, so the questions can be quite different. Sometimes a lot of the panelists share the same needs, sometimes it varies a lot.
 
 ### Do you work with customer insights in any other way?
 
