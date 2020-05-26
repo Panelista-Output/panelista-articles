@@ -12,13 +12,13 @@ title = "Västtrafik & Panelista"
 +++
 ## Västtrafik
 
-Västtrafik is Sweden's second largest public transport agency. They are responsivle for the public transport in western Sweden, and every day 400 000 customers choose to travel with their buses, trains, trams, and boats. In close cooperation with their partners, Västtrafik shape customer-centric public transport. The goal is to be the obvious choice when you travel. Västtrafik is testing and evaluating Panelista in their work with involving customers when they improve current and develop new services. So far two panels have been created; _Västtrafik Labs_ focused on the development of services and _Framtidens färjetrafik_ focused on the traffic over the river dividing Sweden's second largest city, Gothenburg.
+Västtrafik is Sweden's second largest public transport agency. They are responsible for the public transport in western Sweden, and every day 400 000 customers choose to travel with their buses, trains, trams, and boats. In close cooperation with their partners, Västtrafik shape customer-centric public transport. The goal is to be the obvious choice when you travel. Västtrafik is evaluating Panelista as a way of involving their customers when they improve current and develop new services. So far two panels have been created; _Västtrafik Labs_ focused on the development of services and _Framtidens färjetrafik_ focused on the traffic over the river dividing the city of Gothenburg.
 
 _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Samuel Nygren who is the product owner for the app Västtrafik To Go and their trip planning services_
 
 ***
 
-### Varför använder ni Panelista?
+### Why do you use Panelista?
 
 **Annelie**: ~~Vi vill komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Det handlar om explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov som uppstår löpande.
 
@@ -26,7 +26,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Annelie**: Sedan är det en bonus att kunna visa att vi inkluderar våra kunder och är innovativa som företag.
 
-### Hur går det?
+### How is it going?
 
 **Samuel**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
 
@@ -34,19 +34,19 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Samuel**: Ja, jag hade faktiskt förväntat mig lägre engagemang då vi inte kompenserar panelisterna för att vara med. Jag trodde inte heller att så många skulle svara på följdfrågor.
 
-### Hur rekryterade ni panelister?
+### How did you recruit panelists?
 
 **Samuel**: Vi valde att kontakta personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mail till de vi redan haft kontakt med.
 
 **Annelie**: Den första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som en bra idé att sänka tröskeln för den första panelen, för att komma igång, och sedan sätta ihop mer fokuserade paneler. Vår andra panel är en färjestudie så där bjuder vi in kunder som reser med färjorna.
 
-### Vilken typ av frågor ställer ni?
+### What type of questions do you ask?
 
 **Samuel**: En fråga har t ex. handlat om att bekräfta våra hypoteser kring information vid störningar i trafiken; _“Hur skulle du vilja få reda på om det finns något som påverkar din resa?”_. En annan var för att utforska behov för möjliga abonnemang; _“Borde Västtrafik erbjuda någon form av abonnemang?. Och vad skulle då vara viktigt att tänka på?_". ~~Där fick vi in mycket matnyttigt som vi inte tänkt på~~.
 
 **Annelie**: Vi har även ställt en fråga där vi länkade till en prototyp för en ny funktion i vår app, så det är lite olika karaktär på frågorna. Ibland delar många panelister samma behov, ibland är det väldigt spritt.
 
-### Jobbar ni med kundinsikter på något annat sätt?
+### Do you work with customer insights in any other way?
 
 **Annelie**: Absolut. Vi gör prototyper, intervjuar kunder, skickar enkäter mm. Jämfört med enkäter så känns Panelista som ett bra format med bara en enda öppen fråga så att man får rikliga svar där man ser nyanseringar, ordval, och kan läsa in mer. Det blir också trevligt för att kunderna får ett ansikte på en person, snarare än att det är ett stort företag som Västtrafik som är avsändare. Nu är det människor bakom.
 
@@ -54,19 +54,19 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Annelie**: Det är väldigt låg tröskel för att få ut en videofråga jämfört med att hitta en tid när man kan ses för en intervju. Jag gillar också att ~~folk svarar mer i lugn och ro när det passar dem~~ i Panelista.
 
-### Vad har varit bäst med Panelista?
+### What has been the best thing so far?
 
 **Annelie**: Den första frågan! Känslan när det pepprade in svar. Det visade på ett engagemang och att kunderna vill vara med och påverka. Vi fick även ett antal hypoteser bekräftade direkt, så att vi kunde gå vidare med dessa.
 
 **Samuel**: ~~Det bästa hittills är hur låg tröskeln är för att faktiskt skjuta ut en fråga.~~ Vet du ungefär vilket område du vill veta mer om så tar det kanske 30 min att formulera en bra fråga och 20 min på att spela in och skjuta ut den. Extra lätt är det för personer som redan har en roadmap där det hela tiden finns nya aktuella områden att utforska.
 
-### Vad har varit svårast?
+### What has been the most difficult?
 
 **Annelie**: Att inte se sur ut på filmen när man är fokuserad! Att hitta sitt format som är avslappnat men proffsigt. Jag vill också se att panelisterna spinner vidare på varandras svar, det hade varit sjukt spännande att se fler diskussioner mellan dem och att panelisterna levlade olika idéer och resonemang med varandra. Vi har sett några göra det, men vill se mer!
 
 **Samuel**: Överlag så är det nog för oss själva att ta insikterna vidare till design och arbetspaket i tillräckligt högt tempo, nu när vi får veta vad kunderna behöver. Med själva Panelista så håller jag med om att det är att spela in frågan. Det svåra med frågan är att vara naturlig och prata fritt. Att skippa stolpar och hjälptext. ~~Precis som en musiker med ackord där det blir bättre när man bara lyssnar och spelar med, men det krävs mod!~~
 
-### Hur är det att jobba med Panelista och Panelista-teamet?
+### What is it like working with Panelista and the Panelista team?
 
 **Samuel**: Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt unikt. Produkten är väldigt smutt. Enkel, stilren, med bra överblick. Genomtänkt och lättarbetad.
 
