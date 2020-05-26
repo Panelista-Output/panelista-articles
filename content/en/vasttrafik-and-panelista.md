@@ -72,8 +72,8 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 
 **Annelie**: Det fungerar väldigt bra och var lätt att komma igång. Jag ser fram emot att se Panelista växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tumme upp/tumme ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~.
 
-_Tack Annelie och Samuel!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
+_Thank you, Annelie and Samuel!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
-{{< sv/bookdemo >}}
+{{< en/bookdemo >}}
 
-{{< sv/subscribe >}}
+{{< en/subscribe >}}
