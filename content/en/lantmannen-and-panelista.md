@@ -52,8 +52,8 @@ _Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannel
 
 **Cathrine**: Vi vill tacka er för jättebra uppstart, vi har fått mycket mer engagemang och support från er än vad jag kunde förvänta mig!
 
-_Tack Jenny och Cathrine!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
+_Thank you, Jenny and Cathrine!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
-{{< sv/bookdemo >}}
+{{< en/bookdemo >}}
 
-{{< sv/subscribe >}}
+{{< en/subscribe >}}
