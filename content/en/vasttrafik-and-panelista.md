@@ -36,9 +36,9 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### How did you recruit panelists?
 
-**Samuel**: Vi valde att kontakta personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mail till de vi redan haft kontakt med.
+**Samuel**: We decided to contact people who had shown an interest in the past in some way. We invited people to the panel with a popup in our app, and by sending email invites to some customers we had been in touch with before. 
 
-**Annelie**: Den första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som en bra idé att sänka tröskeln för den första panelen, för att komma igång, och sedan sätta ihop mer fokuserade paneler. Vår andra panel är en färjestudie så där bjuder vi in kunder som reser med färjorna.
+**Annelie**: The first panel was a general panel, and there we recruited people that we had easy access to. It seemed like a good idea to make it as easy as possible to get started, and then recruit more focused panels. Our second panel is for a specific study about traffic across a major river, so there we invited customers who travel with our ferries.
 
 ### What type of questions do you ask?
 
