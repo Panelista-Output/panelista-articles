@@ -42,7 +42,9 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### What type of questions do you ask?
 
-**Samuel**: En fråga har t ex. handlat om att bekräfta våra hypoteser kring information vid störningar i trafiken; _“Hur skulle du vilja få reda på om det finns något som påverkar din resa?”_. En annan var för att utforska behov för möjliga abonnemang; _“Borde Västtrafik erbjuda någon form av abonnemang?. Och vad skulle då vara viktigt att tänka på?_". ~~Där fick vi in mycket matnyttigt som vi inte tänkt på~~.
+**Samuel**: One question was to test a few Sökresultat
+Utvalt utdrag från webben
+hypotheses around necessary information when something unexpected happens; _“How would you like to find out if something will affect your trip?”_. Another was to explore needs for possible subscription services; _“Should Västtrafik offer some kind of subscription? And if so, what is important?_". ~~We got a lot of things which we had not considered~~.
 
 **Annelie**: Vi har även ställt en fråga där vi länkade till en prototyp för en ny funktion i vår app, så det är lite olika karaktär på frågorna. Ibland delar många panelister samma behov, ibland är det väldigt spritt.
 
