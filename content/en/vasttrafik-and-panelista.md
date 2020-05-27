@@ -14,7 +14,7 @@ title = "Västtrafik & Panelista"
 
 Västtrafik is Sweden's second largest public transport agency. They are responsible for the public transport in western Sweden, and every day 400 000 customers choose to travel with their buses, trains, trams, and boats. In close cooperation with their partners, Västtrafik use a customer-centric approach to public transport. The goal is to be the obvious choice when you travel. Västtrafik is evaluating Panelista as a way of involving their customers when they improve current and develop new services. So far two panels have been created; _Västtrafik Labs_ focused on the development of services and _Framtidens färjetrafik_ focused on the traffic over the river dividing the city of Gothenburg.
 
-_We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Samuel Nygren who is the product owner for the app Västtrafik To Go and their trip planning services_
+_We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Samuel Nygren who is the product owner for the app Västtrafik To Go and Västtrafik's trip planning services._
 
 ***
 
