@@ -20,35 +20,35 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ***
 
-### Varför använder ni Panelista?
+### Why do you use Panelista?
 
 **Jenny**: Lantmännens uppdrag är att bidra till lönsamheten på medlemmarnas gårdar och optimera avkastningen på deras kapital. Vi använder Panelista till att få in inspel och synpunkter på hur vi ska jobba och bli bättre. Formatet gör också att fler kan vara delaktiga i en diskussion samtidigt, istället för att vi ska kommunicera med med våra ambassadörer separat.
 
 **Cathrine**: I vår panel Lantmännens Ambassadörer använder vi Panelista i syfte att ~~utveckla Lantmännen för våra unga ambassadörer och framtidens lantbrukare~~. Vi är en länk mellan Lantmännen och våra 20 000 medlemmar som är aktiva svenska bönder. Våra unga ambassadörer är lantbrukare, men där deras föräldrar kanske är medlemmar snarare än dem själva. Vi vill framförallt lära oss hur vi kan utvecklas för att möta deras behov, men också att de ska veta mer och engagera sig i Lantmännen. Förhoppningen är att dessa ambassadörer ska vilja vara förtroendevalda och representera medlemmarna i framtiden.
 
-### Hur går det?
+### How is it going?
 
 **Jenny**: ~~Videoformatet känns väldigt bra, bättre än jag trodde.~~ Det är enkelt och smidigt. Även att länka ut till externt innehåll var enklare än förväntat. Just nu försöker vi öka engagemanget från gruppen ytterligare, då vi vill se ännu fler svar och mer diskussion.
 
 **Cathrine**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen.
 
-### Jobbar ni med kundinsikter på något annat sätt?
+### Do you work with customer insights in any other way?
 
 **Cathrine**: Vi använder oss även av enkäter och träffar våra medlemmar i olika sammanhang. ~~Det fungerar bra även med enkäter, men det är svårt att få ut en tydlig sammanställning när vi har med öppna frågor.~~ Och likaså saknas möjligheten att driva kommunikation i grupp där fler kan vara delaktiga samtidigt.
 
-### Vad har varit svårast?
+### What has been the most difficult?
 
 **Cathrine**: Vi har en befintlig grupp med ett antal medlemmar som vi bjudit in till vår panel. Vi skulle vilja se ett ännu större engagemang från gruppen med fler svar och mer diskussioner.
 
 **Jenny**: Att spela in den första videon! Så här var det, jag hängde upp mig på att ha ett papper med vad jag ska säga, det ska man inte ha. Skippa manuset, och tänk på vad som är huvudfrågan och prata utifrån det. Jag var inte heller van vid videoformatet. ~~Nu kör jag bara en tagning och skjuter ut den utan problem.~~ Jag tror att jag har blivit starkare av det.
 
-### Vad har varit bäst?
+### What has been the best thing so far?
 
 **Jenny**: Jag skulle säga helheten. Enkelt och smidigt verktyg, med bra support, genomgångar, tips och idéer. Hela paketet.
 
 **Cathrine**: Ert stöd, både hur ni sätter er in i vår verksamhet och hur ni hjälper oss att formulera saker.
 
-### Hur är det att jobba med Panelista och Panelista-teamet?
+### What is it like working with Panelista and the Panelista team?
 
 **Jenny**: Det går fort och är smidigt, man får en bra rapport från verktyget som är smidig att dela. ~~Vi delar rapporterna med avdelningen och får feedback om att det är väldigt snyggt sammanställt.~~
 
