@@ -26,7 +26,7 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 
 ### How is it going?
 
-**Jenny**: ~~The video format feels really good, better than I expected.~~ Panelista is easy to use, and even linking out to external content was easier than I thought it would be. Right now we are trying to increase the engagement from the panel even more, as we want to see even more answers and more discussion. 
+**Jenny**: ~~The video format feels really good, better than I expected.~~ Panelista is easy to use, and even linking out to external content was easier than I thought it would be. Right now we are trying to increase the engagement from the panel even more, as we want to see an even higher number of answers. 
 
 **Cathrine**: The tool works very well and it also gives us a chance to show a new side of Lantmännen.
 
