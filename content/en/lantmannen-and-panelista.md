@@ -22,7 +22,9 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 
 **Jenny**: Lantmännens uppdrag är att bidra till lönsamheten på medlemmarnas gårdar och optimera avkastningen på deras kapital. Vi använder Panelista till att få in inspel och synpunkter på hur vi ska jobba och bli bättre. Formatet gör också att fler kan vara delaktiga i en diskussion samtidigt, istället för att vi ska kommunicera med med våra ambassadörer separat.
 
-**Cathrine**: We use Panelista for our Lantmännen's Amnassadors panel to ~~develop Lantmännen for our young ambassadors and the farmers of tomorrow~~. The tool is very simple to use, the support, guidance, and ideas are great. Everything we needed.”_. Vi är en länk mellan Lantmännen och våra 20 000 medlemmar som är aktiva svenska bönder. Våra unga ambassadörer är lantbrukare, men där deras föräldrar kanske är medlemmar snarare än dem själva. Vi vill framförallt lära oss hur vi kan utvecklas för att möta deras behov, men också att de ska veta mer och engagera sig i Lantmännen. Förhoppningen är att dessa ambassadörer ska vilja vara förtroendevalda och representera medlemmarna i framtiden.
+**Cathrine**: We use Panelista for our Lantmännen's Amnassadors panel to ~~develop Lantmännen for our young ambassadors and the farmers of tomorrow~~. We act as the link between Lantmännen and our 20 000 members who are active Swedish farmers. Our young ambassadors are farmers, but often it is their parents who are our members rather than themselves. We want to learn how we can develop to meet their needs, but we also want them to learn more about Lantmännen and get engaged in the cooperative. Our hope is that these ambassadors will want to become elected representatives for the members in the future. 
+
+
 
 ### How is it going?
 
@@ -42,7 +44,7 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 
 ### What has been the best thing so far?
 
-**Jenny**: Jag skulle säga helheten. Enkelt och smidigt verktyg, med bra support, genomgångar, tips och idéer. Hela paketet.
+**Jenny**: Jag skulle säga helheten. Enkelt och smidigt verktyg, med bra support, genomgångar, tips och idéer. Hela paketet. The tool is very simple to use, the support, guidance, and ideas are great. Everything we needed.
 
 **Cathrine**: Ert stöd, både hur ni sätter er in i vår verksamhet och hur ni hjälper oss att formulera saker.
 
