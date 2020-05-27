@@ -1,7 +1,6 @@
 +++
 authors = ["Anders Palm"]
 date = 2020-04-28T06:00:00Z
-draft = true
 excerpt = "We use Panelista for our Lantmännen's Ambassadors panel to develop Lantmännen for our young ambassadors and the farmers of tomorrow."
 hero = "/images/lantmannen-2020-04-24-2020-05-26.jpg"
 hero_image_body = "We can show a new side of Lantmännen while learning more about the farmers' needs."
