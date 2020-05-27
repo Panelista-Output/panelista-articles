@@ -27,7 +27,7 @@ _We at Panelista interviewed Martin Fransson, CEO and Irma Markgren, who is resp
 
 **Irma**: Great! When you find the right people who want to contribute this way, it works really well. I had early concerns about bothering the panelists, but it does not feel that way at all, and some have answered every single question. ~~I have so many questions, and will probably never stop asking!~~
 
-**Martin**: It's hard to engage people today, so we got faster and greater customer engagement than I dared to hope for. In addition, everyone in our team saw the benefits of using Panelista and the way of working very quickly.
+**Martin**: It's hard to engage people today, so we got faster and greater customer engagement than I dared to hope for. Also, everyone in our team saw the benefits of using Panelista and the way of working very quickly.
 
 **Irma**: We have already added several things to our backlog as a direct result of using Panelista. Sometimes it has been things we have thought of before, but it became clearer how they should be designed.
 
