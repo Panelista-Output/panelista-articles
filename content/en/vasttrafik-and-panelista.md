@@ -64,7 +64,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Annelie**: To not look too serious in the video when focused! To find your own format that is relaxed but still professional. I would also like to see the panelists improve each others answers, I would love it if there were even more discussions and that the panelists took each others answers and ideas to the next level. We have seen some people do this, but we want more!
 
-**Samuel**: Overall it is probably for us to take the insights and make them into design and tasks quickly enough when we find out what the customers need. Regarding Panelista I agree that it is to make the video. The hard thing is to act natural and speak freely. To skip bullet points and scripts. ~~Precis som en musiker med ackord där det blir bättre när man bara lyssnar och spelar med, men det krävs mod!~~
+**Samuel**: Overall it is probably for us to take the insights and make them into design and tasks quickly enough when we find out what the customers need. Regarding Panelista, I agree that it is to make the video. The hard thing is to act natural and speak freely. To skip bullet points and scripts. ~~Just like a musician with chords where it gets better when you just listen and play along, but it requirees courage!~~
 
 ### What is it like working with Panelista and the Panelista team?
 
