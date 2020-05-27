@@ -42,15 +42,15 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 
 ### What has been the best thing so far?
 
-**Jenny**: Jag skulle säga helheten. Enkelt och smidigt verktyg, med bra support, genomgångar, tips och idéer. Hela paketet. The tool is very simple to use, the support, guidance, and ideas are great. Everything we needed.
+**Jenny**: I would say the whole thing. The tool is very simple to use, the support, guidance, and ideas are great. Everything we needed.
 
-**Cathrine**: Ert stöd, både hur ni sätter er in i vår verksamhet och hur ni hjälper oss att formulera saker.
+**Cathrine**: Your support, both how you understand our business and how you help us word things in a good way. 
 
 ### What is it like working with Panelista and the Panelista team?
 
-**Jenny**: Det går fort och är smidigt, man får en bra rapport från verktyget som är smidig att dela. ~~Vi delar rapporterna med avdelningen och får feedback om att det är väldigt snyggt sammanställt.~~
+**Jenny**: It is fast, and it is easy. You get a great report from the tool which is easy to share. ~~We share the reports with our team and get feedback about how nicely packaged it is.~~
 
-**Cathrine**: Vi vill tacka er för jättebra uppstart, vi har fått mycket mer engagemang och support från er än vad jag kunde förvänta mig!
+**Cathrine**: We would like to thank you for the exceptional commitment while getting started, we received much more support than what I could have expected!
 
 _Thank you, Jenny and Cathrine!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
