@@ -2,10 +2,10 @@
 authors = ["Anders Palm"]
 date = 2020-04-28T06:00:00Z
 draft = true
-excerpt = ""
+excerpt = "We use Panelista for our Lantmännen's Ambassadors panel to develop Lantmännen for our young ambassadors and the farmers of tomorrow."
 hero = "/images/lantmannen-2020-04-24-2020-05-26.jpg"
-hero_image_body = ""
-hero_image_title = ""
+hero_image_body = "We can show a new side of Lantmännen while learning more about the farmers' needs."
+hero_image_title = "Panelista helps us develop Lantmännen for our young ambassadors and the farmers of tomorrow."
 timeToRead = 7
 title = "Lantmännen & Panelista"
 
@@ -22,11 +22,11 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 
 **Jenny**: Lantmännen's assignment is to contribute to the profitability of our owner’s farms and optimize the return on investment of their capital. We use Panelista to get input on how we should do things and how we can improve. The format makes it possible for more people to participate in a discussion at the same time, instead of us communicating with our ambassadors one by one.
 
-**Cathrine**: We use Panelista for our Lantmännen's Amnassadors panel to ~~develop Lantmännen for our young ambassadors and the farmers of tomorrow~~. We act as the link between Lantmännen and our 20 000 members who are active Swedish farmers. Our young ambassadors are farmers, but often it is their parents who are our members rather than themselves. We want to learn how we can develop to meet their needs, but we also want them to learn more about Lantmännen and get engaged in the cooperative. Our hope is that these ambassadors will want to become elected representatives for the members in the future. 
+**Cathrine**: We use Panelista for our Lantmännen's Ambassadors panel to ~~develop Lantmännen for our young ambassadors and the farmers of tomorrow~~. We act as the link between Lantmännen and our 20 000 members who are active Swedish farmers. Our young ambassadors are farmers, but often it is their parents who are our members rather than themselves. We want to learn how we can develop to meet their needs, but we also want them to learn more about Lantmännen and get engaged in the cooperative. Our hope is that these ambassadors will want to become elected representatives for the members in the future. 
 
 ### How is it going?
 
-**Jenny**: ~~The videeo format feels really good, better than I expected.~~ Panelista is easy to use, and even linking out to external content was easier than I thought it would be. Right now we are trying to increase the engagement from the panel even more, as we want to see even more answers and more discussion. 
+**Jenny**: ~~The video format feels really good, better than I expected.~~ Panelista is easy to use, and even linking out to external content was easier than I thought it would be. Right now we are trying to increase the engagement from the panel even more, as we want to see even more answers and more discussion. 
 
 **Cathrine**: The tool works very well and it also gives us a chance to show a new side of Lantmännen.
 
