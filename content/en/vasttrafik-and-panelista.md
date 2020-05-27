@@ -12,7 +12,7 @@ title = "Västtrafik & Panelista"
 +++
 ## Västtrafik
 
-Västtrafik is Sweden's second largest public transport agency. They are responsible for the public transport in western Sweden, and every day 400 000 customers choose to travel with their buses, trains, trams, and boats. In close cooperation with their partners, Västtrafik use a customer-centric approach to public transport. The goal is to be the obvious choice when you travel. Västtrafik is evaluating Panelista as a way of involving their customers when they improve current and develop new services. So far two panels have been created; _Västtrafik Labs_ focused on the development of services and _Framtidens färjetrafik_ focused on the traffic over the river dividing the city of Gothenburg.
+Västtrafik is Sweden's second-largest public transport agency. They are responsible for public transport in western Sweden, and every day 400 000 customers choose to travel on their buses, trains, trams, and boats. In close cooperation with their partners, Västtrafik uses a customer-centric approach to public transport. The goal is to be the obvious choice when you travel. Västtrafik is evaluating Panelista as a way of involving their customers when they improve current and develop new services. So far two panels have been created; _Västtrafik Labs_ focused on the development of services and _Framtidens färjetrafik_ focused on the traffic over the river dividing the city of Gothenburg.
 
 _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Samuel Nygren who is the product owner for the app Västtrafik To Go and Västtrafik's trip planning services._
 
@@ -24,13 +24,13 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Samuel**: Yes, it is important to get the customers' input before we design new features.
 
-**Annelie**: It is an added bonus to be able to show that we include our customers and that we are an innovative company.
+**Annelie**: It is a bonus to be able to show that we include our customers and that we are an innovative company.
 
 ### How is it going?
 
 **Samuel**: We are getting a lot of long and thought-through answers, suggestions, and comments. Not just thumb up or down. ~~The value you get compared to the effort you put in is amazing!~~
 
-**Annelie**: The engagemant is very good so far. I do a lot of work with gathering customer data and insights, so I had a pretty clear picture of how it would work. One concern I had initially was how to facilitate this type of online panel to get nice and constructive discussions. ~~I thought it would be hard, but it almost takes care of itself.~~
+**Annelie**: The engagement is very good so far. I do a lot of work with gathering customer data and insights, so I had a pretty clear picture of how it would work. One concern I had initially was how to facilitate this type of online panel to get nice and constructive discussions. ~~I thought it would be hard, but it almost takes care of itself.~~
 
 **Samuel**: Yes, I expected less engagement as we do not compensate the panelists for being part of the panel. I also did not think that so many panelists would answer our follow-up questions.
 
@@ -42,7 +42,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### What type of questions do you ask?
 
-**Samuel**: One question was to test a few of our hypotheses around necessary information when something unexpected happens; _“How would you like to find out if something will affect your trip?”_. Another was to explore needs for possible subscription services; _“Should Västtrafik offer some kind of subscription? And if so, what is important?_". ~~We learned a lot of new things~~.
+**Samuel**: One question was to test a few of our hypotheses around necessary information when something unexpected happens; _“How would you like to find out if something will affect your trip?”_. Another queestion explored needs for possible subscription services; _“Should Västtrafik offer some kind of subscription? And if so, what is important?_". ~~We learned a lot of new things~~.
 
 **Annelie**: We also asked a question where we linked to a prototype for a new feature in our app, so the questions can be quite different. Sometimes many panelists share the same needs, sometimes it varies much more.
 
