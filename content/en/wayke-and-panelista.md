@@ -39,7 +39,7 @@ _We at Panelista interviewed Martin Fransson, CEO and Irma Markgren, who is resp
 
 ### What has been the most difficult?
 
-**Martin**: It's about a bigger transition than just starting to use Panelista. ~~It is about actually becoming customer-centric~~ and understanding the customers better. It is far from obvious for companies to really involve their customers, and a bigger change than one might think. It can change the whole way of thinking about the product, it can change the whole backlog. You have to really enjoy talking to the customers.
+**Martin**: It's about a bigger transition than just starting to use Panelista. ~~It is about actually becoming customer-centric~~ and understanding the customers better. It is far from obvious for companies to truly involve their customers, and a bigger change than one might think. It can change the whole way of thinking about the product, it can change the whole backlog. You have to really enjoy talking to the customers.
 
 **Irma**: I can still find it a bit of a challenge to be in the video questions. With that said, I really wouldn't want to replace the video format, as you get so much back!
 
