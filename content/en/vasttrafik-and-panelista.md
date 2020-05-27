@@ -44,11 +44,11 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Samuel**: One question was to test a few of our hypotheses around necessary information when something unexpected happens; _“How would you like to find out if something will affect your trip?”_. Another was to explore needs for possible subscription services; _“Should Västtrafik offer some kind of subscription? And if so, what is important?_". ~~We learned a lot of new things~~.
 
-**Annelie**: We also asked a question where we linked to a prototype for a new feature in our app, so the questions can be quite different. Sometimes a lot of the panelists share the same needs, sometimes it varies a lot.
+**Annelie**: We also asked a question where we linked to a prototype for a new feature in our app, so the questions can be quite different. Sometimes many panelists share the same needs, sometimes it varies much more.
 
 ### Do you work with customer insights in any other way?
 
-**Annelie**: Yes, we test prototypes, interview customers, send out surveys etc. Panelista's format with one question at the time generates longer and more nuanced answers compared to surveys. It is also nice for the customers to see the face of the person asking rather than just seeing the name of a large company like Västtrafik. Now you get to see the people behind the brand. 
+**Annelie**: Yes, we test prototypes, interview customers, send out surveys etc. Panelista's format with one question at the time generates longer and more nuanced answers compared to surveys. It is also nice for the customers to see the face of the person asking, rather than just seeing the name of a large company like Västtrafik. Now you get to see the people behind the brand. 
 
 **Samuel**: A video question on Panelista gives in-depth understanding. Not as deep as a hourlong interview with each person, but somewhere between a round of interviews and a survey. 
 
