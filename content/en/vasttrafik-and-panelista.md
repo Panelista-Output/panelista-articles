@@ -30,9 +30,9 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Samuel**: We are getting a lot of long and thought-through answers, suggestions, and comments. Not just thumb up or down. ~~The value you get compared to the effort you put in is amazing!~~
 
-**Annelie**: The engagemant is very good so far. I do a lot of work with gathering customer data and insights, so I had a pretty clear picture of how it would work. One concern I had initially was how tto facilitate this type of online panl to get nice and constructive discussions. ~~I thought it would be hard, but it almost takes care of itself.~~
+**Annelie**: The engagemant is very good so far. I do a lot of work with gathering customer data and insights, so I had a pretty clear picture of how it would work. One concern I had initially was how to facilitate this type of online panel to get nice and constructive discussions. ~~I thought it would be hard, but it almost takes care of itself.~~
 
-**Samuel**: Yes, I expected less engagement as we do not compensate the panlists for being part of the panel. I also did not think that so many panelists would answer our follow-up questions.
+**Samuel**: Yes, I expected less engagement as we do not compensate the panelists for being part of the panel. I also did not think that so many panelists would answer our follow-up questions.
 
 ### How did you recruit panelists?
 
