@@ -56,7 +56,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### What has been the best thing so far?
 
-**Annelie**: The first question! The feeling when a lot of answers appeared almost immediately. It showed that the panel was engaged and that the customers wanted to contribute. We also got several hypotheses confirmed right away, so that we could act on them.
+**Annelie**: The first question! The feeling when a lot of answers appeared almost immediately. It showed that the panel was engaged and that the customers wanted to contribute. We also got several hypotheses confirmed right away so that we could act on them.
 
 **Samuel**: ~~The best thing so far is how easy it is to actually send out a question.~~ If you know the topic you want to explore, it takes perhaps 30 minutes to come up with a good question and 20 minutes to record it and send it out. It is even easier for people who already have a roadmap where there are always new relevant topics to explore. 
 
