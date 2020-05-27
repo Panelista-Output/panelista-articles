@@ -12,7 +12,7 @@ title = "Lantmännen & Panelista"
 +++
 ## Lantmännen
 
-Lantmännen is an agricultural cooperative and Northern Europe’s leader in agriculture, machinery, bioenergy and food products. Lantmännen is owned by 20 000 Swedish farmers and operates the entire value chain from field to fork. With Panelista they creeated the panel _Lantmännen's Ambassadors_ to engage young farmers and understand their needs.
+Lantmännen is an agricultural cooperative and Northern Europe’s leader in agriculture, machinery, bioenergy, and food products. Lantmännen is owned by 20 000 Swedish farmers and operates the entire value chain from field to fork. With Panelista they created the panel _Lantmännen's Ambassadors_ to engage young farmers and understand their needs.
 
 _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations at Lantmännen._
 
@@ -36,7 +36,7 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 
 ### What has been the most difficult?
 
-**Cathrine**: We have an existing group of members which we have invited to a panel. We would like to see even more engagement from this group with more answers and discussions. 
+**Cathrine**: We have an existing group of members that we have invited to a panel. We would like to see even more engagement from this group with more answers and discussions. 
 
 **Jenny**: To record the first video question! This is what happened, I got completely stuck on the idea to have a paper with what to say, but that is not a good idea. Skip the script, focus on the main question, and just talk about it as you would in person. I also wasn't used to making videos. ~~Now I do it in one take and send it out without any problem.~~ I think it has made me stronger.
 
