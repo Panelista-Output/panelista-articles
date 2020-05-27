@@ -68,9 +68,9 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### What is it like working with Panelista and the Panelista team?
 
-**Samuel**: Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt unikt. Produkten är väldigt smutt. Enkel, stilren, med bra överblick. Genomtänkt och lättarbetad.
+**Samuel**: I had never heard of this kind of service before. You are doing something completely unique. The product is really enjoyable. Simple to use, clean, and gived you a great overview. It feels well-thought-out and well-crafted.
 
-**Annelie**: Det fungerar väldigt bra och var lätt att komma igång. Jag ser fram emot att se Panelista växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tumme upp/tumme ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~.
+**Annelie**: It works really well and it was easy to get started. I am looking forward to seeing Panelista grow and get more features, and we have a good dialogue about things that can become even better. For example it would be nice to be able to send out a quick question where panelists give a simple thumbs up or down. It is great that we got started with this and ~~hearing about how it works and how easy it is makes more people at Västtrafik interested in trying it out~~.
 
 _Thank you, Annelie and Samuel!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
