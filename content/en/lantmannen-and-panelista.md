@@ -50,7 +50,7 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 
 **Jenny**: It is fast, and it is easy. You get a great report from the tool which is easy to share. ~~We share the reports with our team and get feedback about how nicely packaged they are.~~
 
-**Cathrine**: We would like to thank you for the exceptional commitment while getting started, we received much more support than what I could have expected!
+**Cathrine**: We would like to thank you for the exceptional commitment while getting started, we received much more support than I would have expected!
 
 _Thank you, Jenny and Cathrine!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
