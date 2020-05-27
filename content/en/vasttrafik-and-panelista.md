@@ -1,11 +1,11 @@
 +++
-authors = []
+authors = ["Anders Palm"]
 date = 2020-05-22T06:00:00Z
 draft = true
-excerpt = ""
+excerpt = "The value you get compared to the effort you put in is amazing! We are getting a lot of long and thought-through answers, suggestions, and comments. "
 hero = "/images/vasttrafik-case-design-2020-05-14-2020-05-26.jpg"
-hero_image_body = ""
-hero_image_title = ""
+hero_image_body = "We use Panelista for exploratory research in early phases, but also for insights and opinions over time. We are getting a lot of long and thought-through answers, suggestions, and comments."
+hero_image_title = "The value you get compared to the effort you put in is amazing!"
 timeToRead = 6
 title = "Västtrafik & Panelista"
 
@@ -20,7 +20,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### Why do you use Panelista?
 
-**Annelie**: ~~We want to get in touch with different types of customers to bounce ideas with them.~~ We mainly use Panelista for exploratory research in early phases, but also for insight and opinions over time.
+**Annelie**: ~~We want to get in touch with different types of customers to bounce ideas with them.~~ We use Panelista for exploratory research in early phases, but also for insights and opinions over time.
 
 **Samuel**: Yes, it is important to get the customers' input beforee we design new features.
 
