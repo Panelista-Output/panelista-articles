@@ -22,9 +22,9 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Annelie**: ~~We want to get in touch with different types of customers to discuss ideas with them.~~ We use Panelista for exploratory research in early phases, but also for insights and opinions over time.
 
-**Samuel**: Yes, it is important to get the customers' input beforee we design new features.
+**Samuel**: Yes, it is important to get the customers' input before we design new features.
 
-**Annelie**: It is also a bonus to be able to show that we include our customers and that we are an innovative company.
+**Annelie**: It is an added bonus to be able to show that we include our customers and that we are an innovative company.
 
 ### How is it going?
 
