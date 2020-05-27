@@ -16,6 +16,8 @@ Lantmännen är ett lantbrukskooperativ och norra Europas ledande aktör inom la
 
 _Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannell, medlemsansvariga på Lantmännen._
 
+_We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Samuel Nygren who is the product owner for the app Västtrafik To Go and Västtrafik's trip planning services._
+
 ***
 
 ### Varför använder ni Panelista?
