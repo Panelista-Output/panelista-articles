@@ -38,7 +38,7 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 
 **Cathrine**: We have an existing group of members which we have invited to a panel. We would like to see even more engagement from this group with more answers and discussions. 
 
-**Jenny**: To record the first video! Att spela in den första videon! Så här var det, jag hängde upp mig på att ha ett papper med vad jag ska säga, det ska man inte ha. Skippa manuset, och tänk på vad som är huvudfrågan och prata utifrån det. Jag var inte heller van vid videoformatet. ~~Nu kör jag bara en tagning och skjuter ut den utan problem.~~ Jag tror att jag har blivit starkare av det.
+**Jenny**: To record the first video question! This is what happened, I got completely stuck on the idea to have a paper with what to say, but that is not a good idea. Skip the script, focus on the main question, and just talk about it as you would in person. I also wasn't used to making videos. ~~Now I do it in one take and send it out without any problem.~~ I think it has made me stronger.
 
 ### What has been the best thing so far?
 
