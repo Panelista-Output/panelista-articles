@@ -20,27 +20,25 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 
 ### Why do you use Panelista?
 
-**Jenny**: Lantmännens uppdrag är att bidra till lönsamheten på medlemmarnas gårdar och optimera avkastningen på deras kapital. Vi använder Panelista till att få in inspel och synpunkter på hur vi ska jobba och bli bättre. Formatet gör också att fler kan vara delaktiga i en diskussion samtidigt, istället för att vi ska kommunicera med med våra ambassadörer separat.
+**Jenny**: Lantmännen's assignment is to contribute to the profitability of our owner’s farms and optimize the return on investment of their capital. We use Panelista to get input on how we should do things and how we can improve. The format makes it possible for more people to participate in a discussion at the same time, instead of us communicating with our ambassadors one by one.
 
 **Cathrine**: We use Panelista for our Lantmännen's Amnassadors panel to ~~develop Lantmännen for our young ambassadors and the farmers of tomorrow~~. We act as the link between Lantmännen and our 20 000 members who are active Swedish farmers. Our young ambassadors are farmers, but often it is their parents who are our members rather than themselves. We want to learn how we can develop to meet their needs, but we also want them to learn more about Lantmännen and get engaged in the cooperative. Our hope is that these ambassadors will want to become elected representatives for the members in the future. 
 
-
-
 ### How is it going?
 
-**Jenny**: ~~Videoformatet känns väldigt bra, bättre än jag trodde.~~ Det är enkelt och smidigt. Även att länka ut till externt innehåll var enklare än förväntat. Just nu försöker vi öka engagemanget från gruppen ytterligare, då vi vill se ännu fler svar och mer diskussion.
+**Jenny**: ~~The videeo format feels really good, better than I expected.~~ Panelista is easy to use, and even linking out to external content was easier than I thought it would be. Right now we are trying to increase the engagement from the panel even more, as we want to see even more answers and more discussion. 
 
-**Cathrine**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen.
+**Cathrine**: The tool works very well and it also gives us a chance to show a new side of Lantmännen.
 
 ### Do you work with customer insights in any other way?
 
-**Cathrine**: Vi använder oss även av enkäter och träffar våra medlemmar i olika sammanhang. ~~Det fungerar bra även med enkäter, men det är svårt att få ut en tydlig sammanställning när vi har med öppna frågor.~~ Och likaså saknas möjligheten att driva kommunikation i grupp där fler kan vara delaktiga samtidigt.
+**Cathrine**: We also use surveys and frequently meet up with our members. ~~Surveys work well, but it is hard to get a clear and nice summary when we include open questions.~~ And they are lacking the opportunity to communicate with a group in a way so that everyone can participate and discuss together. 
 
 ### What has been the most difficult?
 
-**Cathrine**: Vi har en befintlig grupp med ett antal medlemmar som vi bjudit in till vår panel. Vi skulle vilja se ett ännu större engagemang från gruppen med fler svar och mer diskussioner.
+**Cathrine**: We have an existing group of members which we have invited to a panel. We would like to see even more engagement from this group with more answers and discussions. 
 
-**Jenny**: Att spela in den första videon! Så här var det, jag hängde upp mig på att ha ett papper med vad jag ska säga, det ska man inte ha. Skippa manuset, och tänk på vad som är huvudfrågan och prata utifrån det. Jag var inte heller van vid videoformatet. ~~Nu kör jag bara en tagning och skjuter ut den utan problem.~~ Jag tror att jag har blivit starkare av det.
+**Jenny**: To record the first video! Att spela in den första videon! Så här var det, jag hängde upp mig på att ha ett papper med vad jag ska säga, det ska man inte ha. Skippa manuset, och tänk på vad som är huvudfrågan och prata utifrån det. Jag var inte heller van vid videoformatet. ~~Nu kör jag bara en tagning och skjuter ut den utan problem.~~ Jag tror att jag har blivit starkare av det.
 
 ### What has been the best thing so far?
 
