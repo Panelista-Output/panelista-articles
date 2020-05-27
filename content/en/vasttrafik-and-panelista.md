@@ -38,7 +38,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Samuel**: We decided to contact people who had shown an interest in the past in some way. We invited people to the panel with a popup in our app, and by sending email invites to some customers we had been in touch with before. 
 
-**Annelie**: The first panel was a general panel, and there we recruited people that we had easy access to. It seemed like a good idea to make it as easy as possible to get started, and then recruit more focused panels. Our second panel is for a specific study about traffic across a major river, so there we invited customers who travel with our ferries.
+**Annelie**: The first panel was a general panel, and for that we recruited people we had easy access to. It seemed like a good idea to make it as easy as possible to get started, and then recruit more focused panels later on. Our second panel is for a specific study about traffic across a major river, so for that we invited customers who travel with our ferries across that river.
 
 ### What type of questions do you ask?
 
