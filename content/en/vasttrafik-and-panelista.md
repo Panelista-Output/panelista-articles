@@ -1,7 +1,6 @@
 +++
 authors = ["Anders Palm"]
 date = 2020-05-22T06:00:00Z
-draft = true
 excerpt = "The value you get compared to the effort you put in is amazing! We are getting a lot of long and thought-through answers, suggestions, and comments. "
 hero = "/images/vasttrafik-case-design-2020-05-14-2020-05-26.jpg"
 hero_image_body = "We use Panelista for exploratory research in early phases, but also for insights and opinions over time. We are getting a lot of long and thought-through answers, suggestions, and comments."
