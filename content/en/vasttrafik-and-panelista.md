@@ -20,7 +20,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### Why do you use Panelista?
 
-**Annelie**: ~~We want to get in touch with different types of customers to bounce ideas with them.~~ We use Panelista for exploratory research in early phases, but also for insights and opinions over time.
+**Annelie**: ~~We want to get in touch with different types of customers to discuss ideas with them.~~ We use Panelista for exploratory research in early phases, but also for insights and opinions over time.
 
 **Samuel**: Yes, it is important to get the customers' input beforee we design new features.
 
