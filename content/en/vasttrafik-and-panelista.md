@@ -50,7 +50,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Annelie**: Yes, we test prototypes, interview customers, send out surveys etc. Panelista's format with one question at the time generates longer and more nuanced answers compared to surveys. It is also nice for the customers to see the face of the person asking, rather than just seeing the name of a large company like Västtrafik. Now you get to see the people behind the scenes. 
 
-**Samuel**: A video question on Panelista gives in-depth understanding. Not as deep as a hourlong interview with each person, but somewhere between a round of interviews and a survey. 
+**Samuel**: A video question on Panelista gives in-depth understanding. Not as deep as hourlong interviews with each person, but somewhere between a round of interviews and a survey. 
 
 **Annelie**: It is very easy to send out a video question compared to finding a time where you can meet for an interview. I also like that ~~people answer when and where they want to~~ when using Panelista.
 
