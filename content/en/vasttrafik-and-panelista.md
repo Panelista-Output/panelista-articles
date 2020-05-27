@@ -62,7 +62,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### What has been the most difficult?
 
-**Annelie**: To not look too serious in the video when focused on what to say! To find your own format that is relaxed but still professional. I would also love it if there were even more discussions between panelists and that the panelists took each others answers and ideas to the next level. We have seen some people do this, but I want more!
+**Annelie**: To not look too serious in the video when focused on what to say! To find your own format which is relaxed but still professional. I would also love it if there were even more discussions between panelists and that the panelists took each others answers and ideas to the next level. We have seen some people do this, but I want more!
 
 **Samuel**: Overall it is probably for us to take the insights and make them into designs and tasks quickly enough when we find out what the customers need. Regarding Panelista, I agree that it is to make the videos. The hard thing is to act natural and speak freely. To skip bullet points and scripts. ~~Just like a musician with chords where it gets better when you just listen and play along, but it requires courage!~~
 
