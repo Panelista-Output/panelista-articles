@@ -48,11 +48,11 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### Do you work with customer insights in any other way?
 
-**Annelie**: Absolut. Vi gör prototyper, intervjuar kunder, skickar enkäter mm. Jämfört med enkäter så känns Panelista som ett bra format med bara en enda öppen fråga så att man får rikliga svar där man ser nyanseringar, ordval, och kan läsa in mer. Det blir också trevligt för att kunderna får ett ansikte på en person, snarare än att det är ett stort företag som Västtrafik som är avsändare. Nu är det människor bakom.
+**Annelie**: Yes, we test prototypes, interview customers, send out surveys etc. Panelista's format with one question at the time generates longer and more nuanced answers compared to surveys. It is also nice for the customers to see the face of the person asking rather than just seeing the name of a large company like Västtrafik. Now you get to see the people behind the brand. 
 
-**Samuel**: En videofråga på Panelista blir gediget. Inte lika djupt som en timmes intervju med varje person, men någonstans mellan en runda intervjuer och en enkät.
+**Samuel**: A video question on Panelista gives in-depth understanding. Not as deep as a hourlong interview with each person, but somewhere between a round of interviews and a survey. 
 
-**Annelie**: Det är väldigt låg tröskel för att få ut en videofråga jämfört med att hitta en tid när man kan ses för en intervju. Jag gillar också att ~~folk svarar mer i lugn och ro när det passar dem~~ i Panelista.
+**Annelie**: It is very easy to send out a video question compared to finding a time where you can meet for an interview. I also like that ~~people answer when and where they want to~~ when using Panelista.
 
 ### What has been the best thing so far?
 
