@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Anders Palm"]
 date = 2020-04-28T06:00:00Z
 draft = true
 excerpt = ""
@@ -12,11 +12,9 @@ title = "Lantmännen & Panelista"
 +++
 ## Lantmännen
 
-Lantmännen är ett lantbrukskooperativ och norra Europas ledande aktör inom lantbruk, maskin, bioenergi och livsmedel. Lantmännen ägs av 20 000 svenska lantbrukare med verksamheter i hela värdekedjan från jord till bord. Med Panelista skapades panelen _Lantmännens Ambassadörer_ för att engagera unga lantbrukare och förstå deras behov.
+Lantmännen is an agricultural cooperative and Northern Europe’s leader in agriculture, machinery, bioenergy and food products. Lantmännen is owned by 20 000 Swedish farmers and operates the entire value chain from field to fork. With Panelista they creeated the panel _Lantmännen's Ambassadors_ to engage young farmers and understand their needs.
 
-_Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannell, medlemsansvariga på Lantmännen._
-
-_We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Samuel Nygren who is the product owner for the app Västtrafik To Go and Västtrafik's trip planning services._
+_We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations at Lantmännen._
 
 ***
 
