@@ -56,7 +56,7 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 ### What has been the best thing so far?
 
-**Annelie**: Den första frågan! Känslan när det pepprade in svar. Det visade på ett engagemang och att kunderna vill vara med och påverka. Vi fick även ett antal hypoteser bekräftade direkt, så att vi kunde gå vidare med dessa.
+**Annelie**: The first question! The feeling when a lot of answeres started rushing in immediately. It showed that the panel was engaged and that the customers wanted to contribute. We also got several hypotheses confirmed right away, so that we could act on them.
 
 **Samuel**: ~~Det bästa hittills är hur låg tröskeln är för att faktiskt skjuta ut en fråga.~~ Vet du ungefär vilket område du vill veta mer om så tar det kanske 30 min att formulera en bra fråga och 20 min på att spela in och skjuta ut den. Extra lätt är det för personer som redan har en roadmap där det hela tiden finns nya aktuella områden att utforska.
 
