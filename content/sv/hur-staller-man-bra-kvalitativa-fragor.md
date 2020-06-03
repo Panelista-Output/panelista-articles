@@ -27,7 +27,7 @@ Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Se
 
 **Förberedelser inför djupintervjuer**
 
-\- Vi brukar skriva börja med att skriva en frågeguide eller frågeplan. Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research. Vi har endast några få färdiga huvudfrågor. Kontexten är väldigt också väldigt viktig, att man har en grundlig förförståelse vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
+\- Vi brukar skriva börja med att skriva en frågeguide eller frågeplan. Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research. Vi har endast några få färdiga huvudfrågor. Kontexten är också väldigt viktig, att man har en grundlig förståelse vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
 
 **Följ energin**
 
