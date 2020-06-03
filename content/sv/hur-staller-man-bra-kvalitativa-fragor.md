@@ -71,7 +71,7 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 
 \- Ofta har de som haft en negativ upplevelse starka tankar om en bättre. Det är bra att bekräfta det som sägs och vända till nuläget istället. Till exempel: "Det där var inte en bra upplevelse. Hur skulle du vilja att det var om det var bra?” Eller “Hur hade du gjort istället?”
 
-**Var fler än en**
+**Var fler än en person som intervjuar**
 
 \- Det är en klar fördel att vara två som intervjuar. En är huvudintervjuare och en antecknar men kan också ställa frågor och följdfrågor. Man hinner andas lite, tänka efter och anteckna. Om fler lyssnar så underlättar det analysen så att det inte är en persons tolkning som styr. Fler har hört grundresonemangen och man hjälpa varandra.
 
