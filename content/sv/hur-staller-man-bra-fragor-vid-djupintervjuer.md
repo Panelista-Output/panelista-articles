@@ -7,16 +7,14 @@ hero = "/images/jon-tyson-hhq1lxtuwd8-unsplash-2020-05-25.jpg"
 hero_image_body = ""
 hero_image_title = "Photo by Jon Tyson on Unsplash"
 timeToRead = 7
-title = "Hur ställer man bra frågor vid djupintervjuer?"
+title = "Hur ställer man bra kvalitativa frågor när man pratar med sina kunder?"
 
 +++
-# Hur ställer man bra frågor vid djupintervjuer?
-
 I denna artikel får du läsa om hur man ställer bra kvalitativa frågor vid intervjuer och når kundinsikter på djupet. Karin Lycke, Service Design Lead på [The Service Design Studio]() ger sina bästa tips.
 
-Läs gärna också vår guide-sektion där man kan läsa tips om hur skapar bra videofrågor i Panelista [https://panelista.com/guide/how-to-create-your-first-video-question](https://panelista.com/guide/how-to-create-your-first-video-question "https://panelista.com/guide/how-to-create-your-first-video-question")
+Läs gärna också vår guide-sektion där man kan läsa [tips på hur man skapar bra videofrågor i Panelista](https://panelista.com/guide/how-to-create-your-first-video-question "Hur man skapar bra videofrågor").
 
-Vi har tidigare skrivit om olika metoder och tekniker för att få kundinsikter, (bland annat flera som beskrivs i den här intervjun) som du kan läsa om här: [https://articles.panelista.com/sv/verktygslada-for-kundinsikter/](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "https://articles.panelista.com/sv/verktygslada-for-kundinsikter/")
+Läs gärna också om [olika metoder och tekniker för att få kundinsikter](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "Verktygslåda för kundinsikter") som vi skrivit om tidigare (bland annat flera som beskrivs i den här intervjun).
 
 **Om Karin**
 
@@ -26,7 +24,7 @@ Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Se
 
 \- Om saker inte funkade på marknaden så lade man ännu mer krut på marknadsföring och sälj, istället för att ta reda på varför, att ta reda på behov och designa bättre tjänster. Jag sökte efter en bättre metod, och upptäckte Service Design och har jobbat med det sedan dess.
 
-\- Idag jobbar vi tätt med uppdragsgivaren och istället för att få en brief och göra ut på egen kammare så gör man det tillsammans. Vi jobbar främst med kvalitativ research genom djupintervjuer men kompletterar med kvantitativa undersökningar någon annan metod, som en sorts triangulering.
+\- Idag jobbar vi tätt med uppdragsgivaren och istället för att få en brief och göra ut på egen kammare så gör man det tillsammans. Vi jobbar främst med kvalitativ research genom djupintervjuer men kompletterar med kvantitativa undersökningar någon och annan metod, som en sorts triangulering.
 
 **Förberedelser inför djupintervjuer**
 
@@ -50,12 +48,12 @@ Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Se
 
 Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå value action gapet. Om någon till exempel får en fråga “Vad skulle du helst vilja äta till lunch?” och svarar “en nyttig sallad”, men sen när det blir lunch oftast tar något snabbt och enkelt som en burgare. Man måste förstå vad det är som styr besluten genom att ställa frågor som till exempel:
 
-* Vad väljer du när du har mycket tid,
-* ...när du har lite tid,
-* ...när du vet vad vad som finns?,
+* Vad väljer du när du har mycket tid?
+* ...när du har lite tid?
+* ...när du vet vad vad som finns?
 * Vad valde du senaste?
-* Vad är det som skulle få dig att välja någonting annat.
-* Berätta om sista gången du gjorde det?”
+* Vad är det som skulle få dig att välja någonting annat?
+* Berätta om sista gången du gjorde det?
 
 **Om man glider ifrån ämnet**
 
@@ -68,7 +66,7 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 * Vad intressant berätta mer!
 * Det där skulle jag vilja att du utvecklade!
 * Hur fungerade det då?
-* Vad hade hänt precis innan, vad hände efteråt, hur kändes det
+* Vad hade hänt precis innan, vad hände efteråt, hur kändes det?
 
 **Hur man hanterar negativa tankar**
 
