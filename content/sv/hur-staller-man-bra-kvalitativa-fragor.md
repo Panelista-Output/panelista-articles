@@ -11,13 +11,9 @@ title = "Hur ställer man bra kvalitativa frågor när man pratar med sina kunde
 +++
 I denna artikel får du läsa om hur man ställer bra kvalitativa frågor vid intervjuer och når kundinsikter på djupet. Karin Lycke, Service Design Lead på [The Service Design Studio]() ger sina bästa tips.
 
-I vår guide-sektion kan man läsa [tips på hur man skapar bra videofrågor i Panelista](https://panelista.com/guide/how-to-create-your-first-video-question "Hur man skapar bra videofrågor").
-
-Läs gärna också om [olika metoder och tekniker för att få kundinsikter](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "Verktygslåda för kundinsikter") som vi skrivit om tidigare (bland annat flera som beskrivs i den här intervjun).
-
 **Varför Service Design är viktigt**
 
-Karin Lycke har jobbat med Service Design sedan 2013. Hon är utbildad inom Business and Design med bakgrund som AD inom reklambranschen där intresset för att hitta metoder för att förstå verkliga kundbehov väcktes.
+Karin har jobbat med Service Design sedan 2013. Hon är utbildad inom Business and Design med bakgrund som AD inom reklambranschen där intresset för att hitta metoder för att förstå verkliga kundbehov väcktes.
 
 \- När jag jobbade med reklam och kommunikation så gissade man mycket. Man försökte tänka från sig själv eller sina bekanta och det blev ofta en ganska snäv krets att utgå ifrån. Tidigare var det också mycket mer att man fick saker i knät, till exempel en kvantitativ marknadsundersökning, och utifrån den skulle man göra ut något kreativt.
 
@@ -27,7 +23,7 @@ Karin Lycke har jobbat med Service Design sedan 2013. Hon är utbildad inom Busi
 
 **Förberedelser inför djupintervjuer**
 
-\- Vi brukar börja med att skriva en frågeguide eller frågeplan. Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research. Vi har endast några få färdiga huvudfrågor. Kontexten är också väldigt viktig, att man har en grundlig förståelse vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
+\- Vi brukar börja med att skriva en frågeguide eller frågeplan. Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research. Vi har endast några få färdiga huvudfrågor. Kontexten är också väldigt viktig, att man har en grundlig förståelse för vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
 
 **Följ energin**
 
@@ -35,15 +31,15 @@ Karin Lycke har jobbat med Service Design sedan 2013. Hon är utbildad inom Busi
 
 **Tänk igenom miljön vid fysiska intervjuer**
 
-\- Vi gjorde tidigare mycket intervjuer på hotell. Men vilken stämning sätter det? Stämmer det överens med vad vårt företag är? Det finns förmedlingstjänster av lägenheter för att företag under dagtid för att kunna vara i en hemma-miljö som vi har använt. Det gör ofta intervjupersonen mer avslappnad.
+\- Vi gjorde tidigare mycket intervjuer på hotell. Men vilken stämning sätter det? Stämmer det överens med vad vårt företag är? Det finns förmedlingstjänster av lägenheter för att under dagtid kunna vara i en hemma-miljö som vi har använt. Det gör ofta intervjupersonen mer avslappnad.
 
 \- Tänk på att den du intervjuar skall känna sig bekväm. Var inte för uppklädd i kostym utan var på samma nivå som den du ska intervjua. Tänk igenom hur man sitter i rummet. Förklara rollerna och varför folk som lyssnar är där. Börja med att småprata och erbjud kaffe.
 
-\- Ett trick kan vara att säga att man själv är lite nervös. “Du är den första jag intervjua i detta projekt”. Det viktigaste är att det mer skall vara ett samtal än intervju. Ett nyfiket samtal!
+\- Ett trick kan vara att säga att man själv är lite nervös. “Du är den första jag intervjuar i detta projekt”. Det viktigaste är att det mer skall vara ett samtal än intervju. Ett nyfiket samtal!
 
 **Förstå bakomliggande behov**
 
-\-Att ställa öppna frågor är A och O. Men hur kan vi garantera att folk säger som det är.?
+\-Att ställa öppna frågor är A och O. Men hur kan vi garantera att folk säger som det är?
 
 Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå value action gapet. Om någon till exempel får en fråga “Vad skulle du helst vilja äta till lunch?” och svarar “en nyttig sallad”, men sen när det blir lunch oftast tar något snabbt och enkelt som en burgare. Man måste förstå vad det är som styr besluten genom att ställa frågor som till exempel:
 
@@ -69,7 +65,7 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 
 **Hur man hanterar negativa tankar**
 
-\- Ofta har de som haft en negativ upplevelse starka tankar om en bättre. Det är bra att bekräfta det som sägs och vända till nuläget istället. Till exempel: "Det där var inte en bra upplevelse. Hur skulle du vilja att det var om det var bra?” Eller “Hur hade du gjort istället?”
+\- Ofta har de som haft en negativ upplevelse, starka tankar om hur något skulle kunna göras bättre. Det är bra att bekräfta det som sägs och vända till nuläget istället. Till exempel: "Det där var inte en bra upplevelse. Hur skulle du vilja att det var om det var bra?” Eller “Hur hade du gjort istället?”
 
 **Var fler än en person som intervjuar**
 
@@ -81,7 +77,13 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 
 **Tips vid avslutning**
 
-Ett trick vid avslutning av en intervju är att låta den man intervjuat sammanfatta vad man pratat om. Till exempel “Tack så jättemycket för att du tog dig tid, om du skulle sammanfatta vad vi har pratat om, vad är det viktigaste? Eller “Är det några sista tankar som har dykt upp som du vill berätta om?” Då dyker det ofta upp saker som man missat, eller att man får ta del av tankar som väckts under intervjun. Där kan man få mycket värdefulla insikter.
+Ett tips vid avslutning av en intervju är att låta den man intervjuat sammanfatta vad man pratat om. Till exempel “Tack så jättemycket för att du tog dig tid, om du skulle sammanfatta vad vi har pratat om, vad är det viktigaste? Eller “Är det några sista tankar som har dykt upp som du vill berätta om?” Då dyker det ofta upp saker som man missat, eller att man får ta del av tankar som väckts under intervjun. Där kan man få mycket värdefulla insikter.
+
+**Om du vill läsa mer**
+
+I vår guide-sektion kan man läsa [tips på hur man skapar bra videofrågor i Panelista](https://panelista.com/guide/how-to-create-your-first-video-question "Hur man skapar bra videofrågor").
+
+Läs gärna också om [olika metoder och tekniker för att få kundinsikter](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "Verktygslåda för kundinsikter") som vi skrivit om tidigare (bland annat flera som beskrivs i den här intervjun).
 
 {{< sv/bookdemo >}}
 
