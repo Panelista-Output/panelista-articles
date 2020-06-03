@@ -31,7 +31,7 @@ Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Se
 
 **Följ energin**
 
-\- Vid en intervju är det viktigt att låta Intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns. Om man gör flera intervjuer så behöver man inte vara så orolig över att hela spelplanen täcks in under en specifik intervju utan det brukar kompletteras med övriga intervjuer.
+\- Vid en intervju är det viktigt att låta intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns. Om man gör flera intervjuer så behöver man inte vara så orolig över att hela spelplanen täcks in under en specifik intervju utan det brukar kompletteras med övriga intervjuer.
 
 **Tänk igenom miljön vid fysiska intervjuer**
 
