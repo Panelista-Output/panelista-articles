@@ -77,7 +77,7 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 
 **Intervjuer på distans**
 
-\- Under Coronan har vi varit tvungna att göra fler intervjuer på distans än vi vanligtvis gör. Som tur är fungerar remoteintervjuer via till exempel zoom eller meetup förvånansvärt bra. Det är nästa så att man kan vara mer ärlig. Det finns en skärm emellan som kan göra en mer avslappnad och öppen.
+\- Under Coronan har vi varit tvungna att göra fler intervjuer på distans än vi vanligtvis gör. Som tur är fungerar remoteintervjuer via till exempel zoom eller meetup förvånansvärt bra. Det är nästan så att man kan vara mer ärlig. Det finns en skärm emellan som kan göra en mer avslappnad och öppen.
 
 **Tips vid avslutning**
 
