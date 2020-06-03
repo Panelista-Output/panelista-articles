@@ -12,7 +12,7 @@ title = "Hur ställer man bra frågor vid djupintervjuer?"
 +++
 # Hur ställer man bra frågor vid djupintervjuer?
 
-I denna artikel får du läsa om hur man ställer bra kvalitativa frågor vid intervjuer och når kundinsikter på djupet. Karin Lycke, Service Design Lead på The Service Design Studio ger sina bästa tips.
+I denna artikel får du läsa om hur man ställer bra kvalitativa frågor vid intervjuer och når kundinsikter på djupet. Karin Lycke, Service Design Lead på [The Service Design Studio]() ger sina bästa tips.
 
 Läs gärna också vår guide-sektion där man kan läsa tips om hur skapar bra videofrågor i Panelista [https://panelista.com/guide/how-to-create-your-first-video-question](https://panelista.com/guide/how-to-create-your-first-video-question "https://panelista.com/guide/how-to-create-your-first-video-question")
 
@@ -22,7 +22,7 @@ Vi har tidigare skrivit om olika metoder och tekniker för att få kundinsikter,
 
 Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Service Design sedan 2013. Hon är utbildad inom Business and Design med bakgrund som AD inom reklambranschen där intresset för att hitta metoder för att förstå verkliga kundbehov väcktes.
 
-\- När jag jobbade med reklam och kommunikation så gissade man mycket. Man försökte tänka från sig själv eller sina bekanta och det blev ofta en ganska snäv krets att utgå ifrån. Tidigare var det också mycket mer att man fick saker i knät, till exempel en kvantitativ marknadsundersökning, och utifrån den skulle man göra ut något kreativt. 
+\- När jag jobbade med reklam och kommunikation så gissade man mycket. Man försökte tänka från sig själv eller sina bekanta och det blev ofta en ganska snäv krets att utgå ifrån. Tidigare var det också mycket mer att man fick saker i knät, till exempel en kvantitativ marknadsundersökning, och utifrån den skulle man göra ut något kreativt.
 
 \- Om saker inte funkade på marknaden så lade man ännu mer krut på marknadsföring och sälj, istället för att ta reda på varför, att ta reda på behov och designa bättre tjänster. Jag sökte efter en bättre metod, och upptäckte Service Design och har jobbat med det sedan dess.
 
@@ -34,9 +34,7 @@ Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Se
 
 **Följ energin**
 
-\- Vid en intervju är det viktigt att låta Intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns. Om man gör flera intervjuer så
-
-behöver man inte vara så orolig över att hela spelplanen täcks in under en specifik intervju utan det brukar kompletteras med övriga intervjuer.
+\- Vid en intervju är det viktigt att låta Intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns. Om man gör flera intervjuer så behöver man inte vara så orolig över att hela spelplanen täcks in under en specifik intervju utan det brukar kompletteras med övriga intervjuer.
 
 **Tänk igenom miljön**
 
@@ -74,7 +72,7 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 
 **Hur man hanterar negativa tankar**
 
-\- Ofta har de som haft en negativ upplevelse starka tankar om en bättre. Det är bra att bekräfta det som sägs och vända till nuläget istället. Till exempel: **“**Det där var inte en bra upplevelse. Hur skulle du vilja att det var om det var bra?” Eller “Hur hade du gjort istället?”
+\- Ofta har de som haft en negativ upplevelse starka tankar om en bättre. Det är bra att bekräfta det som sägs och vända till nuläget istället. Till exempel: "Det där var inte en bra upplevelse. Hur skulle du vilja att det var om det var bra?” Eller “Hur hade du gjort istället?”
 
 **Var fler än en**
 
@@ -82,7 +80,7 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 
 **Intervjuer på distans**
 
-\- Under Coronan har vi varit tvungna att göra fler intervjuer på distans än vi vanligtvis gör. Som tur är fungerar remoteintervjuer via till exempel zoom eller meetup förvånansvärt bra. Det är nästa så att man kan vara mer ärlig. Det finns en skärm emellan som kan göra en mer avslappand och öppen.
+\- Under Coronan har vi varit tvungna att göra fler intervjuer på distans än vi vanligtvis gör. Som tur är fungerar remoteintervjuer via till exempel zoom eller meetup förvånansvärt bra. Det är nästa så att man kan vara mer ärlig. Det finns en skärm emellan som kan göra en mer avslappnad och öppen.
 
 **Tips vid avslutning**
 
