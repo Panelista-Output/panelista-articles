@@ -15,9 +15,9 @@ I vår guide-sektion kan man läsa [tips på hur man skapar bra videofrågor i P
 
 Läs gärna också om [olika metoder och tekniker för att få kundinsikter](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "Verktygslåda för kundinsikter") som vi skrivit om tidigare (bland annat flera som beskrivs i den här intervjun).
 
-**Om Karin**
+**Varför Service Design är viktigt**
 
-Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Service Design sedan 2013. Hon är utbildad inom Business and Design med bakgrund som AD inom reklambranschen där intresset för att hitta metoder för att förstå verkliga kundbehov väcktes.
+Karin Lycke har jobbat med Service Design sedan 2013. Hon är utbildad inom Business and Design med bakgrund som AD inom reklambranschen där intresset för att hitta metoder för att förstå verkliga kundbehov väcktes.
 
 \- När jag jobbade med reklam och kommunikation så gissade man mycket. Man försökte tänka från sig själv eller sina bekanta och det blev ofta en ganska snäv krets att utgå ifrån. Tidigare var det också mycket mer att man fick saker i knät, till exempel en kvantitativ marknadsundersökning, och utifrån den skulle man göra ut något kreativt.
 
@@ -27,7 +27,7 @@ Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Se
 
 **Förberedelser inför djupintervjuer**
 
-\- Vi brukar skriva börja med att skriva en frågeguide eller frågeplan. Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research. Vi har endast några få färdiga huvudfrågor. Kontexten är också väldigt viktig, att man har en grundlig förståelse vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
+\- Vi brukar börja med att skriva en frågeguide eller frågeplan. Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research. Vi har endast några få färdiga huvudfrågor. Kontexten är också väldigt viktig, att man har en grundlig förståelse vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
 
 **Följ energin**
 
