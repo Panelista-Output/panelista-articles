@@ -2,7 +2,7 @@
 authors = ["Oscar Mansson Grahn"]
 date = 2020-06-02T22:00:00Z
 excerpt = ""
-hero = "/images/jon-tyson-hhq1lxtuwd8-unsplash-2020-05-25.jpg"
+hero = "/images/karin-2020-06-03.jpeg"
 hero_image_body = ""
 hero_image_title = "Photo by Jon Tyson on Unsplash"
 timeToRead = 7
