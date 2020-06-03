@@ -2,7 +2,7 @@
 authors = ["Oscar Mansson Grahn"]
 date = 2020-06-02T22:00:00Z
 excerpt = ""
-hero = "/images/karin-2020-06-03.jpeg"
+hero = "/images/karin-lycke-2020-06-03.png"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 7
