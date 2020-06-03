@@ -4,7 +4,7 @@ date = 2020-06-02T22:00:00Z
 excerpt = ""
 hero = "/images/karin-2020-06-03.jpeg"
 hero_image_body = ""
-hero_image_title = "Photo by Jon Tyson on Unsplash"
+hero_image_title = ""
 timeToRead = 7
 title = "Hur ställer man bra kvalitativa frågor när man pratar med sina kunder?"
 
