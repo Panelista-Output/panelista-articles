@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Oscar Mansson Grahn"]
 date = 2020-06-02T22:00:00Z
 excerpt = ""
 hero = "/images/jon-tyson-hhq1lxtuwd8-unsplash-2020-05-25.jpg"
