@@ -11,7 +11,7 @@ title = "Hur ställer man bra kvalitativa frågor när man pratar med sina kunde
 +++
 I denna artikel får du läsa om hur man ställer bra kvalitativa frågor vid intervjuer och når kundinsikter på djupet. Karin Lycke, Service Design Lead på [The Service Design Studio]() ger sina bästa tips.
 
-Läs gärna också vår guide-sektion där man kan läsa [tips på hur man skapar bra videofrågor i Panelista](https://panelista.com/guide/how-to-create-your-first-video-question "Hur man skapar bra videofrågor").
+I vår guide-sektion kan man läsa [tips på hur man skapar bra videofrågor i Panelista](https://panelista.com/guide/how-to-create-your-first-video-question "Hur man skapar bra videofrågor").
 
 Läs gärna också om [olika metoder och tekniker för att få kundinsikter](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "Verktygslåda för kundinsikter") som vi skrivit om tidigare (bland annat flera som beskrivs i den här intervjun).
 
