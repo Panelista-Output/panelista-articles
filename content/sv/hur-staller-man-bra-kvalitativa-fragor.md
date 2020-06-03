@@ -33,7 +33,7 @@ Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Se
 
 \- Vid en intervju är det viktigt att låta Intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns. Om man gör flera intervjuer så behöver man inte vara så orolig över att hela spelplanen täcks in under en specifik intervju utan det brukar kompletteras med övriga intervjuer.
 
-**Tänk igenom miljön**
+**Tänk igenom miljön vid fysiska intervjuer**
 
 \- Vi gjorde tidigare mycket intervjuer på hotell. Men vilken stämning sätter det? Stämmer det överens med vad vårt företag är? Det finns förmedlingstjänster av lägenheter för att företag under dagtid för att kunna vara i en hemma-miljö som vi har använt. Det gör ofta intervjupersonen mer avslappnad.
 
