@@ -6,8 +6,84 @@ excerpt = ""
 hero = "/images/jon-tyson-hhq1lxtuwd8-unsplash-2020-05-25.jpg"
 hero_image_body = ""
 hero_image_title = "Photo by Jon Tyson on Unsplash"
-timeToRead = 5
-title = "Hur ställer man bra frågor? - expertens bästa tips"
+timeToRead = 7
+title = "Hur ställer man bra frågor vid djupintervjuer?"
 
 +++
-I vår tidigare artikel ["Din verktygslåda för kundinsikter"](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/) beskrev vi olika tekniker för att förstå kundbehov. Nu går vi ett steg djupare kring kvalitativa frågor och får konkreta tips från Karin Lycke, Service Designer och CEO på The Service Design Studio.
+# Hur ställer man bra frågor vid djupintervjuer?
+
+I denna artikel får du läsa om hur man ställer bra kvalitativa frågor vid intervjuer och når kundinsikter på djupet. Karin Lycke, Service Design Lead på The Service Design Studio ger sina bästa tips.
+
+Läs gärna också vår guide-sektion där man kan läsa tips om hur skapar bra videofrågor i Panelista [https://panelista.com/guide/how-to-create-your-first-video-question](https://panelista.com/guide/how-to-create-your-first-video-question "https://panelista.com/guide/how-to-create-your-first-video-question")
+
+Vi har tidigare skrivit om olika metoder och tekniker för att få kundinsikter, (bland annat flera som beskrivs i den här intervjun) som du kan läsa om här: [https://articles.panelista.com/sv/verktygslada-for-kundinsikter/](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "https://articles.panelista.com/sv/verktygslada-for-kundinsikter/")
+
+**Om Karin**
+
+Karin Lycke, Service Design Lead på The Service Design Studio har jobbat med Service Design sedan 2013. Hon är utbildad inom Business and Design med bakgrund som AD inom reklambranschen där intresset för att hitta metoder för att förstå verkliga kundbehov väcktes.
+
+\- När jag jobbade med reklam och kommunikation så gissade man mycket. Man försökte tänka från sig själv eller sina bekanta och det blev ofta en ganska snäv krets att utgå ifrån. Tidigare var det också mycket mer att man fick saker i knät, till exempel en kvantitativ marknadsundersökning, och utifrån den skulle man göra ut något kreativt. 
+
+\- Om saker inte funkade på marknaden så lade man ännu mer krut på marknadsföring och sälj, istället för att ta reda på varför, att ta reda på behov och designa bättre tjänster. Jag sökte efter en bättre metod, och upptäckte Service Design och har jobbat med det sedan dess.
+
+\- Idag jobbar vi tätt med uppdragsgivaren och istället för att få en brief och göra ut på egen kammare så gör man det tillsammans. Vi jobbar främst med kvalitativ research genom djupintervjuer men kompletterar med kvantitativa undersökningar någon annan metod, som en sorts triangulering.
+
+**Förberedelser inför djupintervjuer**
+
+\- Vi brukar skriva börja med att skriva en frågeguide eller frågeplan. Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research. Vi har endast några få färdiga huvudfrågor. Kontexten är väldigt också väldigt viktig, att man har en grundlig förförståelse vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
+
+**Följ energin**
+
+\- Vid en intervju är det viktigt att låta Intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns. Om man gör flera intervjuer så
+
+behöver man inte vara så orolig över att hela spelplanen täcks in under en specifik intervju utan det brukar kompletteras med övriga intervjuer.
+
+**Tänk igenom miljön**
+
+\- Vi gjorde tidigare mycket intervjuer på hotell. Men vilken stämning sätter det? Stämmer det överens med vad vårt företag är? Det finns förmedlingstjänster av lägenheter för att företag under dagtid för att kunna vara i en hemma-miljö som vi har använt. Det gör ofta intervjupersonen mer avslappnad.
+
+\- Tänk på att den du intervjuar skall känna sig bekväm. Var inte för uppklädd i kostym utan var på samma nivå som den du ska intervjua. Tänk igenom hur man sitter i rummet. Förklara rollerna och varför folk som lyssnar är där. Börja med att småprata och erbjud kaffe.
+
+\- Ett trick kan vara att säga att man själv är lite nervös. “Du är den första jag intervjua i detta projekt”. Det viktigaste är att det mer skall vara ett samtal än intervju. Ett nyfiket samtal!
+
+**Förstå bakomliggande behov**
+
+\-Att ställa öppna frågor är A och O. Men hur kan vi garantera att folk säger som det är.?
+
+Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå value action gapet. Om någon till exempel får en fråga “Vad skulle du helst vilja äta till lunch?” och svarar “en nyttig sallad”, men sen när det blir lunch oftast tar något snabbt och enkelt som en burgare. Man måste förstå vad det är som styr besluten genom att ställa frågor som till exempel:
+
+* Vad väljer du när du har mycket tid,
+* ...när du har lite tid,
+* ...när du vet vad vad som finns?,
+* Vad valde du senaste?
+* Vad är det som skulle få dig att välja någonting annat.
+* Berätta om sista gången du gjorde det?”
+
+**Om man glider ifrån ämnet**
+
+\- Ibland måste den man intervjuar få ur sig saker. Bekräfta dem istället i det. Låt dem prata. Säg “vad bra att du berättar detta” och sen försöka styra frågorna till de områden du vill utforska. Ibland kan det vara läge att avbryta. Isåfall kan man göra ett snabbt och tydligt avbrott, där man bekräftar det som tidigare sagts “Superbra att du berättade detta! Nu tänkte jag att vi ska ta och prata lite om det här. “
+
+**Hur man ställer följdfrågor**
+
+\- Följdfrågor är hela intervjun. Det handlar om att ställa frågor som är relevanta och som fångar upp det som sägs. Tänk att det finns tusen olika sätt att säga “Varför?”. Till exempel:
+
+* Vad intressant berätta mer!
+* Det där skulle jag vilja att du utvecklade!
+* Hur fungerade det då?
+* Vad hade hänt precis innan, vad hände efteråt, hur kändes det
+
+**Hur man hanterar negativa tankar**
+
+\- Ofta har de som haft en negativ upplevelse starka tankar om en bättre. Det är bra att bekräfta det som sägs och vända till nuläget istället. Till exempel: **“**Det där var inte en bra upplevelse. Hur skulle du vilja att det var om det var bra?” Eller “Hur hade du gjort istället?”
+
+**Var fler än en**
+
+\- Det är en klar fördel att vara två som intervjuar. En är huvudintervjuare och en antecknar men kan också ställa frågor och följdfrågor. Man hinner andas lite, tänka efter och anteckna. Om fler lyssnar så underlättar det analysen så att det inte är en persons tolkning som styr. Fler har hört grundresonemangen och man hjälpa varandra.
+
+**Intervjuer på distans**
+
+\- Under Coronan har vi varit tvungna att göra fler intervjuer på distans än vi vanligtvis gör. Som tur är fungerar remoteintervjuer via till exempel zoom eller meetup förvånansvärt bra. Det är nästa så att man kan vara mer ärlig. Det finns en skärm emellan som kan göra en mer avslappand och öppen.
+
+**Tips vid avslutning**
+
+Ett trick vid avslutning av en intervju är att låta den man intervjuat sammanfatta vad man pratat om. Till exempel “Tack så jättemycket för att du tog dig tid, om du skulle sammanfatta vad vi har pratat om, vad är det viktigaste? Eller “Är det några sista tankar som har dykt upp som du vill berätta om?” Då dyker det ofta upp saker som man missat, eller att man får ta del av tankar som väckts under intervjun. Där kan man få mycket värdefulla insikter.
