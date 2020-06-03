@@ -82,3 +82,7 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 **Tips vid avslutning**
 
 Ett trick vid avslutning av en intervju är att låta den man intervjuat sammanfatta vad man pratat om. Till exempel “Tack så jättemycket för att du tog dig tid, om du skulle sammanfatta vad vi har pratat om, vad är det viktigaste? Eller “Är det några sista tankar som har dykt upp som du vill berätta om?” Då dyker det ofta upp saker som man missat, eller att man får ta del av tankar som väckts under intervjun. Där kan man få mycket värdefulla insikter.
+
+{{< sv/bookdemo >}}
+
+{{< sv/subscribe >}}
