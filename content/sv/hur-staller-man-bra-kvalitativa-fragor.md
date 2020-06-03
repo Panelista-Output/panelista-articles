@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-06-02T22:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/jon-tyson-hhq1lxtuwd8-unsplash-2020-05-25.jpg"
 hero_image_body = ""
