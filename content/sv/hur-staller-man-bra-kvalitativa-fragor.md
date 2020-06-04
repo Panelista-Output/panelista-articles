@@ -19,29 +19,29 @@ Karin har jobbat med Service Design sedan 2013. Hon är utbildad inom Business a
 
 \- Om saker inte funkade på marknaden så lade man ännu mer krut på marknadsföring och sälj, istället för att ta reda på varför, att ta reda på behov och designa bättre tjänster. Jag sökte efter en bättre metod, och upptäckte Service Design och har jobbat med det sedan dess.
 
-\- Idag jobbar vi tätt med uppdragsgivaren och istället för att få en brief och göra ut på egen kammare så gör man det tillsammans. Vi jobbar främst med kvalitativ research genom djupintervjuer men kompletterar med kvantitativa undersökningar någon och annan metod, som en sorts triangulering.
+\- Idag jobbar vi tätt med uppdragsgivaren och istället för att få en brief och göra ut på egen kammare så gör man det tillsammans. Vi jobbar främst med kvalitativ research genom djupintervjuer men kompletterar med kvantitativa undersökningar  och någon annan metod, som en sorts triangulering.
 
 **Förberedelser inför djupintervjuer**
 
 \- Vi brukar börja med att skriva en frågeguide eller frågeplan. Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research. Vi har endast några få färdiga huvudfrågor. Kontexten är också väldigt viktig, att man har en grundlig förståelse för vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
 
-**Följ energin**
+**Följ energin under samtalet**
 
-\- Vid en intervju är det viktigt att låta intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns. Om man gör flera intervjuer så behöver man inte vara så orolig över att hela spelplanen täcks in under en specifik intervju utan det brukar kompletteras med övriga intervjuer.
+\- Vid en intervju är det viktigt att låta intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns. Om man gör flera intervjuer så behöver man inte vara orolig över att hela spelplanen täcks in under en specifik intervju, det brukar kompletteras med övriga intervjuer.
 
 **Tänk igenom miljön vid fysiska intervjuer**
 
-\- Vi gjorde tidigare mycket intervjuer på hotell. Men vilken stämning sätter det? Stämmer det överens med vad vårt företag är? Det finns förmedlingstjänster av lägenheter för att under dagtid kunna vara i en hemma-miljö som vi har använt. Det gör ofta intervjupersonen mer avslappnad.
+\- Vi gjorde tidigare mycket intervjuer på hotell. Men vilken stämning sätter det? Stämmer det överens med vad vårt företag representerar? Nu finns förmedlingstjänster av lägenheter för att under dagtid kunna vara i en hemma-miljö. Det gör ofta intervjupersonen mer avslappnad.
 
-\- Tänk på att den du intervjuar skall känna sig bekväm. Var inte för uppklädd i kostym utan var på samma nivå som den du ska intervjua. Tänk igenom hur man sitter i rummet. Förklara rollerna och varför folk som lyssnar är där. Börja med att småprata och erbjud kaffe.
+\- Tänk på att den du intervjuar skall känna sig bekväm. Var inte för uppklädd, till exempel i kostym, utan var på samma nivå som den du ska intervjua. Tänk igenom hur man sitter i rummet. Förklara rollerna och varför folk som lyssnar är där. Börja med att småprata och erbjud kaffe.
 
-\- Ett trick kan vara att säga att man själv är lite nervös. “Du är den första jag intervjuar i detta projekt”. Det viktigaste är att det mer skall vara ett samtal än intervju. Ett nyfiket samtal!
+\- Ett trick kan vara att säga att man själv är lite nervös. “Du är den första jag intervjuar i detta projekt”. Det viktigaste är att det mer skall vara ett samtal än en intervju. Ett nyfiket samtal!
 
-**Förstå bakomliggande behov**
+**Förstå de bakomliggande behoven**
 
 \-Att ställa öppna frågor är A och O. Men hur kan vi garantera att folk säger som det är?
 
-Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå value action gapet. Om någon till exempel får en fråga “Vad skulle du helst vilja äta till lunch?” och svarar “en nyttig sallad”, men sen när det blir lunch oftast tar något snabbt och enkelt som en burgare. Man måste förstå vad det är som styr besluten genom att ställa frågor som till exempel:
+Det handlar om att förstå value action gapet. Vad är det vi säger och vad är det vi tänker? Om någon till exempel får en fråga “Vad skulle du helst vilja äta till lunch?” och svarar “en nyttig sallad”, men sen när det blir lunch oftast tar något snabbt och enkelt som en burgare. Man måste förstå vad det är som styr besluten genom att ställa frågor som till exempel:
 
 * Vad väljer du när du har mycket tid?
 * ...när du har lite tid?
@@ -54,7 +54,7 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 
 \- Ibland måste den man intervjuar få ur sig saker. Bekräfta dem istället i det. Låt dem prata. Säg “vad bra att du berättar detta” och sen försöka styra frågorna till de områden du vill utforska. Ibland kan det vara läge att avbryta. Isåfall kan man göra ett snabbt och tydligt avbrott, där man bekräftar det som tidigare sagts “Superbra att du berättade detta! Nu tänkte jag att vi ska ta och prata lite om det här. “
 
-**Hur man ställer följdfrågor**
+**Vikten av att ställa följdfrågor**
 
 \- Följdfrågor är hela intervjun. Det handlar om att ställa frågor som är relevanta och som fångar upp det som sägs. Tänk att det finns tusen olika sätt att säga “Varför?”. Till exempel:
 
@@ -69,7 +69,7 @@ Vad är det vi säger och vad är det vi tänker? Det handlar om att förstå va
 
 **Var fler än en person som intervjuar**
 
-\- Det är en klar fördel att vara två som intervjuar. En är huvudintervjuare och en antecknar men kan också ställa frågor och följdfrågor. Man hinner andas lite, tänka efter och anteckna. Om fler lyssnar så underlättar det analysen så att det inte är en persons tolkning som styr. Fler har hört grundresonemangen och man hjälpa varandra.
+\- Det är en klar fördel att vara två som intervjuar. En är huvudintervjuare och en antecknar men kan också ställa frågor och följdfrågor. Man hinner andas lite, tänka efter och anteckna. Om fler lyssnar så underlättar det analysen så att det inte är en persons tolkning som styr. Fler har hört grundresonemangen och man kan hjälpa varandra.
 
 **Intervjuer på distans**
 
@@ -83,7 +83,7 @@ Ett tips vid avslutning av en intervju är att låta den man intervjuat sammanfa
 
 I vår guide-sektion kan man läsa [tips på hur man skapar bra videofrågor i Panelista](https://panelista.com/guide/how-to-create-your-first-video-question "Hur man skapar bra videofrågor").
 
-Läs gärna också om [olika metoder och tekniker för att få kundinsikter](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "Verktygslåda för kundinsikter") som vi skrivit om tidigare (bland annat flera som beskrivs i den här intervjun).
+Läs gärna också om [olika metoder och tekniker för att få kundinsikter](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "Verktygslåda för kundinsikter") som vi skrivit om tidigare.
 
 {{< sv/bookdemo >}}
 
