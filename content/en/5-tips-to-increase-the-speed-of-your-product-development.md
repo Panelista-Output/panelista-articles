@@ -5,7 +5,7 @@ excerpt = "Have you been ever experienced that good ideas get stuck at the idea 
 hero = "/images/0-2020-03-17.jpeg"
 hero_image_body = ""
 hero_image_title = "Wake up. Kick ass. Repeat."
-timeToRead = 5
+timeToRead = 3
 title = "5 Tips to Increase The Speed of Your Product Development"
 
 +++
