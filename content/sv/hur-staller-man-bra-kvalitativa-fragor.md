@@ -5,7 +5,7 @@ excerpt = ""
 hero = "/images/karin-lycke-2020-06-03.png"
 hero_image_body = ""
 hero_image_title = ""
-timeToRead = 7
+timeToRead = 5
 title = "Hur ställer man bra kvalitativa frågor när man pratar med sina kunder?"
 
 +++
