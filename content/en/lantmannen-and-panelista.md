@@ -5,7 +5,7 @@ excerpt = "We use Panelista for our Lantmännen's Ambassadors panel to develop L
 hero = "/images/lantmannen-2020-04-24-2020-05-26.jpg"
 hero_image_body = "We can show a new side of Lantmännen while learning more about the farmers' needs."
 hero_image_title = "Panelista helps us develop Lantmännen for our young ambassadors and the farmers of tomorrow."
-timeToRead = 7
+timeToRead = 3
 title = "Lantmännen & Panelista"
 
 +++
