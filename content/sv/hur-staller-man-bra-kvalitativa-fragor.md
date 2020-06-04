@@ -1,7 +1,7 @@
 +++
 authors = ["Oscar Mansson Grahn"]
 date = 2020-06-02T22:00:00Z
-excerpt = ""
+excerpt = "Karin Lycke, Service Design Lead på The Service Design Studio ger sina bästa tips för hur man ställer bra kvalitativa frågor och når kundinsikter på djupet."
 hero = "/images/karin-lycke-2020-06-03.png"
 hero_image_body = ""
 hero_image_title = ""
@@ -23,11 +23,11 @@ Karin har jobbat med Service Design sedan 2013. Hon är utbildad inom Business a
 
 **Förberedelser inför djupintervjuer**
 
-\- Vi brukar börja med att skriva en frågeguide eller frågeplan. Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research. Vi har endast några få färdiga huvudfrågor. Kontexten är också väldigt viktig, att man har en grundlig förståelse för vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
+\- Vi brukar börja med att skriva en frågeguide eller frågeplan. ~~Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research.~~ Vi har endast några få färdiga huvudfrågor. Kontexten är också väldigt viktig, att man har en grundlig förståelse för vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
 
 **Följ energin under samtalet**
 
-\- Vid en intervju är det viktigt att låta intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns. Om man gör flera intervjuer så behöver man inte vara orolig över att hela spelplanen täcks in under en specifik intervju, det brukar kompletteras med övriga intervjuer.
+\- ~~Vid en intervju är det viktigt att låta intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns.~~ Om man gör flera intervjuer så behöver man inte vara orolig över att hela spelplanen täcks in under en specifik intervju, det brukar kompletteras med övriga intervjuer.
 
 **Tänk igenom miljön vid fysiska intervjuer**
 
@@ -39,7 +39,7 @@ Karin har jobbat med Service Design sedan 2013. Hon är utbildad inom Business a
 
 **Förstå de bakomliggande behoven**
 
-\-Att ställa öppna frågor är A och O. Men hur kan vi garantera att folk säger som det är?
+\- ~~Att ställa öppna frågor är A och O.~~ Men hur kan vi garantera att folk säger som det är?
 
 Det handlar om att förstå value action gapet. Vad är det vi säger och vad är det vi tänker? Om någon till exempel får en fråga “Vad skulle du helst vilja äta till lunch?” och svarar “en nyttig sallad”, men sen när det blir lunch oftast tar något snabbt och enkelt som en burgare. Man måste förstå vad det är som styr besluten genom att ställa frågor som till exempel:
 
@@ -56,7 +56,7 @@ Det handlar om att förstå value action gapet. Vad är det vi säger och vad ä
 
 **Vikten av att ställa följdfrågor**
 
-\- Följdfrågor är hela intervjun. Det handlar om att ställa frågor som är relevanta och som fångar upp det som sägs. Tänk att det finns tusen olika sätt att säga “Varför?”. Till exempel:
+\- ~~Följdfrågor är hela intervjun. Det handlar om att ställa frågor som är relevanta och som fångar upp det som sägs. Tänk att det finns tusen olika sätt att säga “Varför?”.~~ Till exempel:
 
 * Vad intressant berätta mer!
 * Det där skulle jag vilja att du utvecklade!
