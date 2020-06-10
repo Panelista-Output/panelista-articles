@@ -12,9 +12,12 @@ title = "Simplitude & Panelista"
 +++
 ## Simplitude
 
-Västtrafik är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Västtrafik testar och utvärderar Panelista i arbetet med att hitta olika sätt att interagera med kunder i samband med sin tjänsteutveckling. Hittills har två paneler skapats; _Västtrafik Labs_ fokuserad på utveckling av tjänster och _Framtidens färjetrafik_ fokuserad på trafiken över Göta Älv i Göteborg.
+Simplitude är specialister på digital innovation och bildades för att hjälpa de som vill förverkliga sina ambitioner om att skapa en bättre morgondag, för de som behöver få ut effekten av digitalisering och förbättra en lösning eller verksamhet. En strategisk innovationspartner som har förmågan att gå från strategi till lösning med erfarna konsulter som gör det komplexa enkelt, det suddiga tydligt och beställare till hjältar i sina verksamheter. 
 
-_Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänstedesigner och Samuel Nygren som är produktägare för appen Västtrafik To Go och reseplanering på Västtrafik._
+Panelen _Digitalisera Dalarna_ skapades för att förstå hur olika verksamheter i Dalarna jobbar med digitalisering, och för att inspirera varandra på ett personligt men digitalt sätt. Simplitude ser även Panelista som ett verktyg och en metod för att hjälpa företag med att få snabba kundinsikter på distans i samband med förändrings- och förbättringsarbete.
+
+
+_Vi på Panelista ställde några frågor till Fredrik Hoel, VD & Anna Bäckström, Senior Consultant på Simplitude._
 
 ***
 
