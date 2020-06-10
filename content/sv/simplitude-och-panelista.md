@@ -56,23 +56,17 @@ _Vi på Panelista ställde några frågor till Fredrik Hoel, VD & Anna Bäckstr�
 
 **Fredrik**: Absolut kul med video. Det var också väldigt kul första gången vi skickade ut en fråga. Vi fick mycket engagemang, ~~det blev fylligare och bättre än vi vågat hoppas på!~~
 
-
-
-A: Det blir många skratt när man spelar in videon, och ~~det är alltid spännande att se svaren som ger nya insikter varje gång~~.
-
-F: Absolut kul med video. Det var också väldigt kul första gången vi skickade ut en fråga. Vi fick mycket engagemang, ~~det blev fylligare och bättre än vi vågat hoppas på!~~
-
 ### Vad har varit svårast?
 
-**Annelie**: Att inte se sur ut på filmen när man är fokuserad! Att hitta sitt format som är avslappnat men proffsigt. Jag vill också se att panelisterna spinner vidare på varandras svar, det hade varit sjukt spännande att se fler diskussioner mellan dem och att panelisterna levlade olika idéer och resonemang med varandra. Vi har sett några göra det, men vill se mer!
+**Anna**: Att formulera frågorna så att de blir korta och tydliga, men ändå ger oss den typen av insikter vi är ute efter. 
 
-**Samuel**: Överlag så är det nog för oss själva att ta insikterna vidare till design och arbetspaket i tillräckligt högt tempo, nu när vi får veta vad kunderna behöver. Med själva Panelista så håller jag med om att det är att spela in frågan. Det svåra med frågan är att vara naturlig och prata fritt. Att skippa stolpar och hjälptext. ~~Precis som en musiker med ackord där det blir bättre när man bara lyssnar och spelar med, men det krävs mod!~~
+**Fredrik**: Och att spela in en halvproffsig video. Vi har så många bra bloopers nu att vi funderar på att släppa ut dem på sociala medier. 
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Samuel**: Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt unikt. Produkten är väldigt smutt. Enkel, stilren, med bra överblick. Genomtänkt och lättarbetad.
+**Fredrik**: Kul att videofrågorna skapar engagemang och att det känns personligt trots att det är digitalt.
 
-**Annelie**: Det fungerar väldigt bra och var lätt att komma igång. Jag ser fram emot att se Panelista växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tumme upp/tumme ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~.
+**Anna**: Det är lätt att använda Panelista! Man förstår vad man ska göra, det känns intuitivt. Smidigt!
 
 _Tack Fredrik och Anna!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
