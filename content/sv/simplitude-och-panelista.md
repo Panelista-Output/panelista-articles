@@ -16,7 +16,6 @@ Simplitude är specialister på digital innovation och bildades för att hjälpa
 
 Panelen _Digitalisera Dalarna_ skapades för att förstå hur olika verksamheter i Dalarna jobbar med digitalisering, och för att inspirera varandra på ett personligt men digitalt sätt. Simplitude ser även Panelista som ett verktyg och en metod för att hjälpa företag med att få snabba kundinsikter på distans i samband med förändrings- och förbättringsarbete.
 
-
 _Vi på Panelista ställde några frågor till Fredrik Hoel, VD & Anna Bäckström, Senior Consultant på Simplitude._
 
 ***
