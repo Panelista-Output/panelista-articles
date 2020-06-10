@@ -30,37 +30,37 @@ _Vi på Panelista ställde några frågor till Fredrik Hoel, VD & Anna Bäckstr�
 
 ### Hur går det?
 
-**Samuel**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
+**Anna**:  Videoformatet är kul! Något annat än man är van vid.
 
-**Annelie**: Det är bra engagemang än så länge. Jag jobbar mycket med att samla in kunddata och insikter så hade nog en ganska tydlig bild om hur det skulle bli. Mitt frågetecken var hur man faciliterar en sådan här panel för att få en trevlig och konstruktiv dialog. ~~Jag trodde att det skulle vara svårt, men det sköter sig mer eller mindre självt.~~
-
-**Samuel**: Ja, jag hade faktiskt förväntat mig lägre engagemang då vi inte kompenserar panelisterna för att vara med. Jag trodde inte heller att så många skulle svara på följdfrågor.
+**Fredrik**: Jättebra respons! Framförallt i början. Vi märker att många har mycket annat på agendan just nu på grund av Corona. Vi har också en ambition om att växla frågeställare löpande, men hittills så har det varit Anna och jag som ställt frågorna.
 
 ### Hur rekryterade ni panelister?
 
-**Samuel**: Vi valde att kontakta personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mail till de vi redan haft kontakt med.
+**Fredrik**: Vi använde våra personliga nätverk och skickade inbjudningar via mail och LinkedIn.
 
-**Annelie**: Den första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som en bra idé att sänka tröskeln för den första panelen, för att komma igång, och sedan sätta ihop mer fokuserade paneler. Vår andra panel är en färjestudie så där bjuder vi in kunder som reser med färjorna.
+**Anna**: Ja, mest mail och alla på Simplitude bjöd in de personer de kände för att redan från början etablera den personliga känslan. 
 
 ### Vilken typ av frågor ställer ni?
 
-**Samuel**: En fråga har t ex. handlat om att bekräfta våra hypoteser kring information vid störningar i trafiken; _“Hur skulle du vilja få reda på om det finns något som påverkar din resa?”_. En annan var för att utforska behov för möjliga abonnemang; _“Borde Västtrafik erbjuda någon form av abonnemang?. Och vad skulle då vara viktigt att tänka på?_". ~~Där fick vi in mycket matnyttigt som vi inte tänkt på~~.
-
-**Annelie**: Vi har även ställt en fråga där vi länkade till en prototyp för en ny funktion i vår app, så det är lite olika karaktär på frågorna. Ibland delar många panelister samma behov, ibland är det väldigt spritt.
+**Fredrik**: Frågor där vi utforskar utmaningar och möjligheter med digitalisering. T ex. _“Vem leder digitaliseringen i er organisation? Och vem tycker ni borde leda digitaliseringen?”_ och _“Beskriv ett lyckat digitaliseringsprojekt, varför det var lyckat och vad ni fått för effekt."_ 
 
 ### Jobbar ni med kundinsikter på något annat sätt?
 
-**Annelie**: Absolut. Vi gör prototyper, intervjuar kunder, skickar enkäter mm. Jämfört med enkäter så känns Panelista som ett bra format med bara en enda öppen fråga så att man får rikliga svar där man ser nyanseringar, ordval, och kan läsa in mer. Det blir också trevligt för att kunderna får ett ansikte på en person, snarare än att det är ett stort företag som Västtrafik som är avsändare. Nu är det människor bakom.
+**Fredrik**: Absolut, det vi gjort tidigare har varit telefonintervjuer. Det hinner vi inte själva, så då tar vi hjälp av ett företag som ringer. Det skapar dock ingen relation för oss, men är bättre för kunden än en enkät. Panelista passar allra bäst för att skapa en relation till många. Ingen är bättre på det. Kan tänka mig att det är väldigt bra för att lyssna på kunder också.
 
-**Samuel**: En videofråga på Panelista blir gediget. Inte lika djupt som en timmes intervju med varje person, men någonstans mellan en runda intervjuer och en enkät.
-
-**Annelie**: Det är väldigt låg tröskel för att få ut en videofråga jämfört med att hitta en tid när man kan ses för en intervju. Jag gillar också att ~~folk svarar mer i lugn och ro när det passar dem~~ i Panelista.
+**Anna**: Panelistas videofrågor är väldigt snabba jämfört med enkäter.
 
 ### Vad har varit bäst med Panelista?
 
-**Annelie**: Den första frågan! Känslan när det pepprade in svar. Det visade på ett engagemang och att kunderna vill vara med och påverka. Vi fick även ett antal hypoteser bekräftade direkt, så att vi kunde gå vidare med dessa.
+**Anna**: Det blir många skratt när man spelar in videon, och ~~det är alltid spännande att se svaren som ger nya insikter varje gång~~.
 
-**Samuel**: ~~Det bästa hittills är hur låg tröskeln är för att faktiskt skjuta ut en fråga.~~ Vet du ungefär vilket område du vill veta mer om så tar det kanske 30 min att formulera en bra fråga och 20 min på att spela in och skjuta ut den. Extra lätt är det för personer som redan har en roadmap där det hela tiden finns nya aktuella områden att utforska.
+**Fredrik**: Absolut kul med video. Det var också väldigt kul första gången vi skickade ut en fråga. Vi fick mycket engagemang, ~~det blev fylligare och bättre än vi vågat hoppas på!~~
+
+
+
+A: Det blir många skratt när man spelar in videon, och ~~det är alltid spännande att se svaren som ger nya insikter varje gång~~.
+
+F: Absolut kul med video. Det var också väldigt kul första gången vi skickade ut en fråga. Vi fick mycket engagemang, ~~det blev fylligare och bättre än vi vågat hoppas på!~~
 
 ### Vad har varit svårast?
 
