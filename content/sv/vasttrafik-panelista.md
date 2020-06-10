@@ -1,12 +1,12 @@
 +++
 authors = ["Anders Palm"]
-date = 2020-05-22T06:00:00Z
+date = 2020-06-15T06:00:00Z
 draft = true
 excerpt = "Värdet man får ut i förhållande till insatsen är oslagbart! Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
 hero = "/images/simplitude_tack-1-2020-06-10.jpg"
 hero_image_body = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
 hero_image_title = "Värdet man får ut i förhållande till insatsen är oslagbart!"
-timeToRead = 5
+timeToRead = 3
 title = "Simplitude & Panelista"
 
 +++
