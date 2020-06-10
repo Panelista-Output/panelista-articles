@@ -2,10 +2,10 @@
 authors = ["Anders Palm"]
 date = 2020-06-15T06:00:00Z
 draft = true
-excerpt = "Värdet man får ut i förhållande till insatsen är oslagbart! Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
+excerpt = "Panelista är ett roligare sätt att skapa engagemang och lära oss mer. Vi vill förstå vad som sker i ute i verksamheterna i vår region på ett effektivt och personligt sätt."
 hero = "/images/simplitude_tack-1-2020-06-10.jpg"
-hero_image_body = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
-hero_image_title = "Värdet man får ut i förhållande till insatsen är oslagbart!"
+hero_image_body = "Panelista är ett roligare sätt att skapa engagemang och lära oss mer. Vi vill förstå vad som sker i ute i verksamheterna i vår region på ett effektivt och personligt sätt.  Vi fick mycket engagemang, det blev fylligare och bättre än vi vågat hoppas på!"
+hero_image_title = "Kul metod som skapar engagemang!"
 timeToRead = 3
 title = "Simplitude & Panelista"
 
