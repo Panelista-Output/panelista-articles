@@ -22,9 +22,9 @@ _Vi på Panelista ställde några frågor till Fredrik Hoel, VD & Anna Bäckstr�
 
 ### Varför använder ni Panelista?
 
-**Annelie**: ~~Vi vill komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Det handlar om explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov som uppstår löpande.
+**Fredrik**: ~~Vi vill komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Det handlar om explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov som uppstår löpande.
 
-**Samuel**: Ja, det är viktigt att ta reda på kundernas input innan vi utformar nya funktioner.
+**Anna**: Ja, det är viktigt att ta reda på kundernas input innan vi utformar nya funktioner.
 
 **Annelie**: Sedan är det en bonus att kunna visa att vi inkluderar våra kunder och är innovativa som företag.
 
@@ -74,7 +74,7 @@ _Vi på Panelista ställde några frågor till Fredrik Hoel, VD & Anna Bäckstr�
 
 **Annelie**: Det fungerar väldigt bra och var lätt att komma igång. Jag ser fram emot att se Panelista växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tumme upp/tumme ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~.
 
-_Tack Annelie och Samuel!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
+_Tack Fredrik och Anna!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
 
