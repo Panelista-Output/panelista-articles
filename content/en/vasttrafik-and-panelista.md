@@ -5,7 +5,7 @@ excerpt = "The value you get compared to the effort you put in is amazing! We ar
 hero = "/images/vasttrafik-case-design-2020-05-14-2020-05-26.jpg"
 hero_image_body = "We use Panelista for exploratory research in early phases, but also for insights and opinions over time. We are getting a lot of long and thought-through answers, suggestions, and comments."
 hero_image_title = "The value you get compared to the effort you put in is amazing!"
-timeToRead = 5
+timeToRead = 3
 title = "Västtrafik & Panelista"
 
 +++
