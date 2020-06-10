@@ -22,11 +22,11 @@ _Vi på Panelista ställde några frågor till Fredrik Hoel, VD & Anna Bäckstr�
 
 ### Varför använder ni Panelista?
 
-**Fredrik**: ~~Vi vill komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Det handlar om explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov som uppstår löpande.
+**Fredrik**: Vi kombinerar managementutveckling och design med fokus på strategiska frågor. Vi har gjort digitala mognadsanalyser för många företag och på så sätt fått en hel del insikter om utmaningar med digitalisering som att det är svårt att hitta rätt kompetens, svårt att mäta digitalisering, och att många känner att de behöver göra något, att de ligger efter, men vet inte vad och hur.
 
-**Anna**: Ja, det är viktigt att ta reda på kundernas input innan vi utformar nya funktioner.
+~~Panelista är ett roligare sätt att skapa engagemang och lära oss mer.~~ Man skapar en relation med rörligt media. Vi försöker få företag att dela kunskap med varandra och inspirera varandra. Bryta ner tabut med att man inte förstår, för digitalisering kan vara svårt.
 
-**Annelie**: Sedan är det en bonus att kunna visa att vi inkluderar våra kunder och är innovativa som företag.
+**Anna**: Vi vill få in insikter från verksamheter i vår region, hur de använder digitalisering, hur de kan utnyttja digitalisering för att förbättra sina verksamheter. ~~Vi vill förstå vad som sker i ute i verksamheterna i vår region på ett effektivt och personligt sätt.~~
 
 ### Hur går det?
 
