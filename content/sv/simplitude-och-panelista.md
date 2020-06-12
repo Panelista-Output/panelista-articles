@@ -40,11 +40,12 @@ Simplitude började med att bjuda in till sin panel genom personliga inbjudninga
 
 ### **Panelistas videofrågor ger engagemang och skapar en relation till många**
 
-Simplitude har inledningsvis fokuserat på frågor där de utforskar möjligheter med digtalisering som till exempel:
+Simplitude har inledningsvis fokuserat på frågor där de utforskar möjligheter med digitalisering som till exempel:
 
 * _“Vem leder digitaliseringen i er organisation? “_
 * _“Vem tycker ni borde leda digitaliseringen?”_
 * _“Beskriv ett lyckat digitaliseringsprojekt, varför det var lyckat och vad ni fått för effekt."_
+* _"Vad är era utmaningar och möjligheter med att få ut effekten av era digitala satsningar?"_
 
 ![](/images/skarmavbild-2020-06-12-kl-10-45-06-2020-06-12.png "Simplitude videofråga")
 
@@ -54,7 +55,7 @@ Simplitude har inledningsvis fokuserat på frågor där de utforskar möjlighete
 
 Anna håller med och avslutar “Panelistas videofrågor är väldigt snabba jämfört med enkäter.”
 
-_Tack Fredrik och Anna!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
+_Tack Fredrik och Anna för ett jätteintressant samtal!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
 
