@@ -14,7 +14,7 @@ title = "Simplitude & Panelista"
 
 Simplitude är strategisk innovationspartner och specialister på digital innovation. Företaget bildades för att hjälpa de som vill förverkliga sina ambitioner och få ut effekten av digitalisering och förbättra en lösning eller verksamhet. Vi på Panelista pratade med Fredrik Hoel, VD och Anna Bäckström, Senior Consultant på Simplitude om deras erfarenheter från att använda Panelista på ett nytt och spännande sätt i utvecklingsarbete i en region.
 
-Simplitude kombinerar managementutveckling och design med fokus på strategiska frågor och har sett att många företag kämpar med liknande utmaningar kring digital innovation.
+Simplitude kombinerar managementutveckling och design med fokus på strategiska frågor och har i sitt arbete sett att många företag kämpar med liknande utmaningar kring digital innovation.
 
 “Vi har gjort digitala mognadsanalyser för många företag och på så sätt fått en hel del insikter om utmaningar med digitalisering som att det är svårt att hitta rätt kompetens, svårt att mäta digitalisering, och att många känner att de behöver göra något, att de ligger efter, men vet inte vad och hur” säger Fredrik. “Vi ser Panelista som ett verktyg och en metod för att hjälpa företag med att få snabba kundinsikter på distans i samband med förändrings- och förbättringsarbete.”
 
