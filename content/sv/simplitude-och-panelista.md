@@ -47,7 +47,7 @@ Simplitude har inledningsvis fokuserat på frågor där de utforskar möjlighete
 * _“Beskriv ett lyckat digitaliseringsprojekt, varför det var lyckat och vad ni fått för effekt."_
 * _"Vad är era utmaningar och möjligheter med att få ut effekten av era digitala satsningar?"_
 
-![](/images/skarmavbild-2020-06-12-kl-10-45-06-2020-06-12.png "Simplitude videofråga")
+![](/images/skarmavbild-2020-06-12-kl-10-45-06-2020-06-12.png)
 
 “Vi har fått jättebra respons! Framförallt i början. Vi märker att många har mycket annat på agendan just nu på grund av Corona. Vi har också en ambition om att växla frågeställare löpande, men hittills så har det varit Anna och jag som ställt frågorna”, säger Fredrik.
 
