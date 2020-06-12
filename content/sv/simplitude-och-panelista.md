@@ -32,13 +32,9 @@ Panelen _Digitalisera Dalarna_ skapades för att förstå hur olika verksamheter
 
 Simplitude började med att bjuda in till sin panel genom personliga inbjudningar via mail och Linkedin från sitt personliga nätverk. “Alla på Simplitude bjöd in de personer de kände för att redan från början etablera den personliga känslan”, säger Anna och fortsätter, “Videoformatet är kul! Något annat än man är van vid. Det blir många skratt när man spelar in videon, och det är alltid spännande att se svaren som ger nya insikter varje gång.”
 
-> “Vi fick mycket engagemang redan första gången vi skickade ut en fråga. Det blev fylligare och bättre än vi vågat hoppas på”
-
 “Vi fick mycket engagemang redan första gången vi skickade ut en fråga. Det blev fylligare och bättre än vi vågat hoppas på” säger Fredrik. “Det är kul att videofrågorna skapar engagemang och att det känns personligt trots att det är digitalt.”
 
-“Det som kan vara utmanande är att formulera frågorna så att de blir korta och tydliga, men ändå ger oss den typen av insikter vi är ute efter. Vi har så många bra bloopers nu att vi funderar på att släppa ut dem på sociala medier” säger Fredrik och skrattar.
-
-> "Det är lätt att använda Panelista! Man förstår vad man ska göra, det känns intuitivt. och smidigt!” 
+“Det som kan vara utmanande är att formulera frågorna så att de blir korta och tydliga, men ändå ger oss den typen av insikter vi är ute efter. Vi har så många bra bloopers nu att vi funderar på att släppa ut dem på sociala medier” säger Fredrik och skrattar. 
 
 “Men det är lätt att använda Panelista! Man förstår vad man ska göra, det känns intuitivt. och smidigt!” förtydligar Anna.
 
@@ -54,8 +50,6 @@ Simplitude har inledningsvis fokuserat på frågor där de utforskar möjlighete
 ![](/images/skarmavbild-2020-06-12-kl-10-45-06-2020-06-12.png "Simplitude videofråga")
 
 “Vi har fått jättebra respons! Framförallt i början. Vi märker att många har mycket annat på agendan just nu på grund av Corona. Vi har också en ambition om att växla frågeställare löpande, men hittills så har det varit Anna och jag som ställt frågorna”, säger Fredrik.
-
-> "Panelista passar allra bäst för att skapa en relation till många. Ingen är bättre på det!"
 
 “Vi har tidigare gjort telefonintervjuer och tar då hjälp av ett externt företag som ringer. Det skapar dock ingen relation för oss, men är bättre för kunden än en enkät. Panelista passar allra bäst för att skapa en relation till många. Ingen är bättre på det. Jag kan tänka mig att det är väldigt bra för att lyssna på kunder också.”
 
