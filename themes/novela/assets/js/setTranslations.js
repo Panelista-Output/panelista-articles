@@ -12,7 +12,7 @@ var translations = {
     sv: 'Om Panelista'
   },
   signUpForNewsletter: {
-    en: 'Sign up for newsletter',
+    en: 'Sign up for the newsletter',
     sv: 'Prenumerera på nyhetsbrevet'
   },
   allArticles: {
@@ -29,7 +29,7 @@ var translations = {
   },
   pricing: {
     en: 'Pricing',
-    sv: 'Prissättning'
+    sv: 'Priser'
   },
   bookDemo: {
     en: 'Book demo',
