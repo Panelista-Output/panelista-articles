@@ -53,7 +53,13 @@ function addTranslation(selector, translationKey, href) {
   })
 }
 
+console.log('in setTranslations');
+console.log(document.querySelectorAll('[data-trans="about-panelista-menu-item"]'));
+
 setTimeout(() => {
+  console.log('in timeout');
+  console.log(document.querySelectorAll('[data-trans="about-panelista-menu-item"]'));
+  
   addTranslation('[data-trans="about-panelista-menu-item"]', 'aboutPanelista');
   addTranslation('[data-trans="subscribe-for-newsletter-menu-item"]', 'signUpForNewsletter', 'https://panelista.com/' + language + '?openNewsletterSignup=1');
   addTranslation('[data-trans="book-demo-menu-item"]', 'bookDemo', 'https://panelista.com/' + language + '/demo');
