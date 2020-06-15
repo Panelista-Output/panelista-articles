@@ -1,5 +1,5 @@
 +++
-authors = ["Anders Palm"]
+authors = ["Anders Palm", "Oscar Månsson Grahn"]
 date = 2020-06-15T06:00:00Z
 excerpt = "Panelista är ett roligare sätt att skapa engagemang och lära oss mer. Vi vill förstå vad som sker i ute i verksamheterna i vår region på ett effektivt och personligt sätt."
 hero = "/images/simplitude_tack-1-2020-06-10.jpg"
