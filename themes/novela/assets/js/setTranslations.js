@@ -53,17 +53,19 @@ function addTranslation(selector, translationKey, href) {
   })
 }
 
-addTranslation('[data-trans="about-panelista-menu-item"]', 'aboutPanelista');
-addTranslation('[data-trans="subscribe-for-newsletter-menu-item"]', 'signUpForNewsletter', 'https://panelista.com/' + language + '?openNewsletterSignup=1');
-addTranslation('[data-trans="book-demo-menu-item"]', 'bookDemo', 'https://panelista.com/' + language + '/demo');
-addTranslation('[data-trans="articles-menu-item"]', 'articles', '/' + language);
-addTranslation('[data-trans="pricing-menu-item"]', 'pricing', 'https://panelista.com/' + language + '#pricing');
-addTranslation('[data-trans="contact-us-menu-item"]', 'contactUs', 'https://panelista.com/' + language + '?openContactUs=1');
-addTranslation('[data-trans="sign-in-menu-item"]', 'signIn', 'https://panelista.com/' + language + '?openContactUs=1');
-
-var allArticlesFooterLink = document.getElementById('all-articles-footer-link');
-if (allArticlesFooterLink) {
-  allArticlesFooterLink.appendChild(document.createTextNode(translations.allArticles[language]));
-
-  allArticlesFooterLink.setAttribute('href', '/' + language);
-}
+setTimeout(() => {
+  addTranslation('[data-trans="about-panelista-menu-item"]', 'aboutPanelista');
+  addTranslation('[data-trans="subscribe-for-newsletter-menu-item"]', 'signUpForNewsletter', 'https://panelista.com/' + language + '?openNewsletterSignup=1');
+  addTranslation('[data-trans="book-demo-menu-item"]', 'bookDemo', 'https://panelista.com/' + language + '/demo');
+  addTranslation('[data-trans="articles-menu-item"]', 'articles', '/' + language);
+  addTranslation('[data-trans="pricing-menu-item"]', 'pricing', 'https://panelista.com/' + language + '#pricing');
+  addTranslation('[data-trans="contact-us-menu-item"]', 'contactUs', 'https://panelista.com/' + language + '?openContactUs=1');
+  addTranslation('[data-trans="sign-in-menu-item"]', 'signIn', 'https://panelista.com/' + language + '?openContactUs=1');
+  
+  var allArticlesFooterLink = document.getElementById('all-articles-footer-link');
+  if (allArticlesFooterLink) {
+    allArticlesFooterLink.appendChild(document.createTextNode(translations.allArticles[language]));
+  
+    allArticlesFooterLink.setAttribute('href', '/' + language);
+  }
+});
