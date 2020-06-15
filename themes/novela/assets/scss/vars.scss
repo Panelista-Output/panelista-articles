@@ -11,9 +11,7 @@ body {
   /*FONTS*/
   // --serif: "Merriweather", Georgia, Serif;
   --serif: "Open Sans", PingFang SC, Arial, Helvetica Neue, Microsoft YaHei, sans-serif;
-  --sanserif: "SF Pro Display", "-apple-system", "BlinkMacSystemFont",
-    "San Francisco", "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto",
-    "Segoe UI", "Arial", sans-serif;
+  --sanserif: "Open Sans", PingFang SC, Arial, Helvetica Neue, Microsoft YaHei, sans-serif;
   --monospace: "Operator Mono", Consolas, Menlo, Monaco, source-code-pro,
     Courier New, monospace;
 
@@ -25,7 +23,7 @@ body {
   --primary: #000;
   --secondary: #73737d;
   --grey: #73737d;
-  --background-color: #fafafa;
+  --background-color: white;
   --accent: #1f9da3;
   --hover: rgba(0, 0, 0, 0.07);
   --gradient: linear-gradient(180deg, rgba(217, 219, 224, 0) 0%, #d9dbe0 100%);

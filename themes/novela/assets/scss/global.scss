@@ -9,6 +9,7 @@
 @import "lists.scss";
 @import "logo.scss";
 @import "navigation.scss";
+@import "panelistaHeader.scss";
 @import "paragraph.scss";
 @import "progress.scss";
 @import "social-links.scss";
@@ -37,9 +38,7 @@
 }
 
 @font-face {
-  font-family: "-apple-system", "BlinkMacSystemFont", "San Francisco",
-    "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto", "Segoe UI",
-    "Arial", sans-serif;
+  font-family: "Open Sans", PingFang SC, Arial, Helvetica Neue, Microsoft YaHei, sans-serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -67,9 +66,7 @@
 }
 
 body {
-  font-family: "-apple-system", "BlinkMacSystemFont", "San Francisco",
-    "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto", "Segoe UI",
-    "Arial", sans-serif;
+  font-family: "Open Sans", PingFang SC, Arial, Helvetica Neue, Microsoft YaHei, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.6rem;

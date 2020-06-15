@@ -18,25 +18,48 @@ var translations = {
   allArticles: {
     en: 'All articles',
     sv: 'Alla artiklar'
+  },
+  signIn: {
+    en: 'Sign in',
+    sv: 'Logga in'
+  },
+  contactUs: {
+    en: 'Contact us',
+    sv: 'Kontakta oss'
+  },
+  pricing: {
+    en: 'Pricing',
+    sv: 'Prissättning'
+  },
+  bookDemo: {
+    en: 'Book demo',
+    sv: 'Boka demo'
+  },
+  articles: {
+    en: 'Articles',
+    sv: 'Artiklar'
   }
 }
 
-var aboutPanelistaMenuLink = document.getElementById('about-panelista-menu-item');
-if (aboutPanelistaMenuLink) {
-  aboutPanelistaMenuLink.appendChild(document.createTextNode(translations.aboutPanelista[language]));
+function addTranslation(selector, translationKey, href) {
+  var elements = document.querySelectorAll(selector);
+
+  elements.forEach(el => {
+    el.appendChild(document.createTextNode(translations[translationKey][language]));
+
+    if (href) {
+      el.setAttribute('href', href);
+    }
+  })
 }
 
-var signUpForNewsletterMenuLink = document.getElementById('subscribe-for-newsletter-menu-item');
-if (signUpForNewsletterMenuLink) {
-  signUpForNewsletterMenuLink.appendChild(document.createTextNode(translations.signUpForNewsletter[language]));
-
-  signUpForNewsletterMenuLink.setAttribute('href', 'https://panelista.com/' + language + '?openNewsletterSignup=1');
-}
-
-var signUpForNewsletterMenuIcon = document.getElementById('subscribe-for-newsletter-menu-icon');
-if (signUpForNewsletterMenuIcon) {
-  signUpForNewsletterMenuIcon.setAttribute('href', 'https://panelista.com/' + language + '?openNewsletterSignup=1');
-}
+addTranslation('[data-trans="about-panelista-menu-item"]', 'aboutPanelista');
+addTranslation('[data-trans="subscribe-for-newsletter-menu-item"]', 'signUpForNewsletter', 'https://panelista.com/' + language + '?openNewsletterSignup=1');
+addTranslation('[data-trans="book-demo-menu-item"]', 'bookDemo', 'https://panelista.com/' + language + '/demo');
+addTranslation('[data-trans="articles-menu-item"]', 'articles', '/' + language);
+addTranslation('[data-trans="pricing-menu-item"]', 'pricing', 'https://panelista.com/' + language + '#pricing');
+addTranslation('[data-trans="contact-us-menu-item"]', 'contactUs', 'https://panelista.com/' + language + '?openContactUs=1');
+addTranslation('[data-trans="sign-in-menu-item"]', 'signIn', 'https://panelista.com/' + language + '?openContactUs=1');
 
 var allArticlesFooterLink = document.getElementById('all-articles-footer-link');
 if (allArticlesFooterLink) {
