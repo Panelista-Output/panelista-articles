@@ -35,7 +35,7 @@ Simplitude började med att bjuda in till sin panel genom personliga inbjudninga
 
 “Det som kan vara utmanande är att formulera frågorna så att de blir korta och tydliga, men ändå ger oss den typen av insikter vi är ute efter. Vi har så många bra bloopers nu att vi funderar på att släppa ut dem på sociala medier” säger Fredrik och skrattar.
 
-~~“Men det är lätt att använda Panelista! Man förstår vad man ska göra, det känns intuitivt. och smidigt!”~~ förtydligar Anna.
+~~“Men det är lätt att använda Panelista! Man förstår vad man ska göra, det känns intuitivt och smidigt!”~~ förtydligar Anna.
 
 ### **Panelistas videofrågor ger engagemang och skapar en relation till många**
 
