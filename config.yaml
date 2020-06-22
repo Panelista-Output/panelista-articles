@@ -9,7 +9,7 @@ markup:
 
 # Theme settings
 theme: novela
-paginate: 6
+paginate: 24
 social:
   twitter: "#"
   github: "#"

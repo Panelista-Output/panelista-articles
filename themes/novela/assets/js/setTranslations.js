@@ -59,7 +59,7 @@ addTranslation('[data-trans="book-demo-menu-item"]', 'bookDemo', 'https://paneli
 addTranslation('[data-trans="articles-menu-item"]', 'articles', '/' + language);
 addTranslation('[data-trans="pricing-menu-item"]', 'pricing', 'https://panelista.com/' + language + '#pricing');
 addTranslation('[data-trans="contact-us-menu-item"]', 'contactUs', 'https://panelista.com/' + language + '?openContactUs=1');
-addTranslation('[data-trans="sign-in-menu-item"]', 'signIn', 'https://panelista.com/' + language + '?openContactUs=1');
+addTranslation('[data-trans="sign-in-menu-item"]', 'signIn', 'https://panelista.com/signin');
 
 var allArticlesFooterLink = document.getElementById('all-articles-footer-link');
 if (allArticlesFooterLink) {
