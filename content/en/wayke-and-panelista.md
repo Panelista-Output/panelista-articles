@@ -47,7 +47,7 @@ _We at Panelista interviewed Martin Fransson, CEO and Irma Markgren, who is resp
 
 **Irma**: ~~There is very little effort involved to gain many new insights~~. We ask a question every other week, and it's fun when the answers start rolling in.
 
-**Martin**: All of a sudden, we can get real-time answers from panelists and ask follow-up questions. ~~It is a magical thing when you can get a new idea and immediately check; _Would our customers like this?_~~
+**Martin**: All of a sudden, we can get real-time answers from panelists and ask follow-up questions. ~~It is a magical thing when you can get a new idea and immediately check; Would our customers like this?~~
 
 ### What is it like working with Panelista and the Panelista team?
 
