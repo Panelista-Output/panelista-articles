@@ -23,17 +23,11 @@ _Med sin första panel har Fractal Design slagit alla rekord på Panelista gäll
 
 **Alexander**: Vårt community har stor påverkan på vår produktutveckling och varumärke. Fractals kunder har detaljkunskap samt höga krav och förväntningar på produkterna man köper. Och vi på Fractal Design tror starkt på att ~~innovation sker tillsammans med kunderna~~. Därför vill vi ha möjlighet att borra oss ner i detaljerad kundinput. Det gäller både subjektiva åsikter om design, färg och form och mer tekniska krav kopplade till funktion och prestanda.
 
-**Samuel**: Ja, det är viktigt att ta reda på kundernas input innan vi utformar nya funktioner.
-
-**Annelie**: Sedan är det en bonus att kunna visa att vi inkluderar våra kunder och är innovativa som företag.
-
 ### Hur går det?
 
-**Samuel**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
+**Alexander**: Det har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. Kvalitén har varit på en tekniskt hög nivå vilket gör det enklare att dra slutsatser och i sin tur ta konkreta actions.
 
-**Annelie**: Det är bra engagemang än så länge. Jag jobbar mycket med att samla in kunddata och insikter så hade nog en ganska tydlig bild om hur det skulle bli. Mitt frågetecken var hur man faciliterar en sådan här panel för att få en trevlig och konstruktiv dialog. ~~Jag trodde att det skulle vara svårt, men det sköter sig mer eller mindre självt.~~
-
-**Samuel**: Ja, jag hade faktiskt förväntat mig lägre engagemang då vi inte kompenserar panelisterna för att vara med. Jag trodde inte heller att så många skulle svara på följdfrågor.
+Själva videoformatet har varit riktigt givande och passar in i vår strävan att vara personliga mot både våra varumärkesambassadörer och konsumenter - då vi marknadsfört Panelista som ~~en gräddfil direkt in till vår produktutvecklingsavdelning~~.
 
 ### Hur rekryterade ni panelister?
 
