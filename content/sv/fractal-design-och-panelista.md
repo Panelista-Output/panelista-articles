@@ -31,27 +31,17 @@ Själva videoformatet har varit riktigt givande och passar in i vår strävan at
 
 ### Hur rekryterade ni panelister?
 
-**Alexander**: Det har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. Kvalitén har varit på en tekniskt hög nivå vilket gör det enklare att dra slutsatser och i sin tur ta konkreta actions.
+**Alexander**: Vi arbetar med en mängd olika kundkanaler och hårdvaruforum med entusiastiska konsumenter, så att lokalisera villiga panelister var väldigt enkelt. Vi kunde snabbt välja ut ~~en global grupp med varierande bakgrunder och förkunskaper~~.
 
 ### Vilken typ av frågor ställer ni?
 
-**Alexander**: Det har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. Kvalitén har varit på en tekniskt hög nivå vilket gör det enklare att dra slutsatser och i sin tur ta konkreta actions.
-
-### Jobbar ni med kundinsikter på något annat sätt?
-
-**Alexander**: Det har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. Kvalitén har varit på en tekniskt hög nivå vilket gör det enklare att dra slutsatser och i sin tur ta konkreta actions.
-
-### Vad har varit bäst med Panelista?
-
-**Alexander**: Det har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. Kvalitén har varit på en tekniskt hög nivå vilket gör det enklare att dra slutsatser och i sin tur ta konkreta actions.
-
-### Vad har varit svårast?
-
-**Alexander**: Det har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. Kvalitén har varit på en tekniskt hög nivå vilket gör det enklare att dra slutsatser och i sin tur ta konkreta actions.
+**Alexander**: Fokus har varit både på teknisk funktionsutveckling samt design och prestanda. Det har varit en blandning mellan större och övergripande öppna frågor som _“Vad skulle få dig att absolut INTE köpa nästa version av ...?”_ likväl som ”straight to the point”-frågeställningar som _“Om du modifierat ditt chassi på något sätt, vad gjorde du och varför?”_.
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Alexander**: Det har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. Kvalitén har varit på en tekniskt hög nivå vilket gör det enklare att dra slutsatser och i sin tur ta konkreta actions.
+**Alexander**: Panelista är ett riktigt bra verktyg för att facilitera kvalitativa kundinsikter och ett smidigt ramverk för att omvandla kundfeedback till insikter. ~~Användandet av Panelista har genererat många nya insikter~~ sett till ”vad som är viktigt(-ast)” för våra kunder, det hjälper oss också att förstå våra olika marknaders skillnader ur ett bredare perspektiv. 
+
+Att samla in och skapa kundinsikter har alltid varit relativt tungrott och krävt en hel del manuella insatser. Panelista har eliminerat den största huvudvärken och dessutom varit väldigt lättanvänt med en god mix av self-service och personlig support från Panelista-gänget. Rekommenderas varmt!
 
 _Tack Alexander och Fractal Design!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
