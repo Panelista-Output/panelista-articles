@@ -35,7 +35,7 @@ Själva videoformatet har varit riktigt givande och passar in i vår strävan at
 
 ### Vilken typ av frågor ställer ni?
 
-**Alexander**: Fokus har varit både på teknisk funktionsutveckling samt design och prestanda. Det har varit en blandning mellan större och övergripande öppna frågor som _“Vad skulle få dig att absolut INTE köpa nästa version av ...?”_ likväl som ”straight to the point”-frågeställningar som _“Om du modifierat ditt chassi på något sätt, vad gjorde du och varför?”_.
+**Alexander**: Fokus har varit både på teknisk funktionsutveckling samt design och prestanda. Det har varit en blandning mellan större och övergripande öppna frågor som "_Vad skulle få dig att absolut INTE köpa nästa version av ...?_" likväl som ”straight to the point”-frågeställningar som "_Om du modifierat ditt chassi på något sätt, vad gjorde du och varför?_".
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
