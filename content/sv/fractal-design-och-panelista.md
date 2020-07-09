@@ -11,16 +11,17 @@ title = "Fractal Design & Panelista"
 
 +++
 ## Fractal Design
+Fractal Design designar och bygger datorchassin, chassifläktar och nätaggregat för gaming- och hårdvaruentusiaster över hela världen. Design och konstruktion sker på huvudkontoret i Göteborg, och de har även kontor i Dallas, Taipei och Kina. Produkterna säljs redan i 45 länder.
 
-Västtrafik är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Västtrafik testar och utvärderar Panelista i arbetet med att hitta olika sätt att interagera med kunder i samband med sin tjänsteutveckling. Hittills har två paneler skapats; _Västtrafik Labs_ fokuserad på utveckling av tjänster och _Framtidens färjetrafik_ fokuserad på trafiken över Göta Älv i Göteborg.
+Fractal Design har alltid varit pionjärer och var först med att verkligen fokusera på en kombination av funktion och riktigt bra design för datorchassin. Ständig produktutveckling är fortfarande kärnan och de arbetar kontinuerligt med att både förbättra deras klassiska produkter för att bättre passa en föränderlig värld, och för att bryta ny mark och utmana gamla sanningar - inte minst deras egna.
 
-_Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänstedesigner och Samuel Nygren som är produktägare för appen Västtrafik To Go och reseplanering på Västtrafik._
+_Med sin första panel har Fractal Design slagit alla rekord på Panelista gällande engagemang. Allt från längden på svar till antal kommentarer, likes och insikter. Vi på Panelista ställde några frågor till Alexander Ernryd som är CMO på Fractal Design._
 
 ***
 
 ### Varför använder ni Panelista?
 
-**Annelie**: ~~Vi vill komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Det handlar om explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov som uppstår löpande.
+**Alexander**: Vårt community har stor påverkan på vår produktutveckling och varumärke. Fractals kunder har detaljkunskap samt höga krav och förväntningar på produkterna man köper. Och vi på Fractal Design tror starkt på att ~~innovation sker tillsammans med kunderna~~. Därför vill vi ha möjlighet att borra oss ner i detaljerad kundinput. Det gäller både subjektiva åsikter om design, färg och form och mer tekniska krav kopplade till funktion och prestanda.
 
 **Samuel**: Ja, det är viktigt att ta reda på kundernas input innan vi utformar nya funktioner.
 
