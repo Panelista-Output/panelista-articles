@@ -2,10 +2,10 @@
 authors = ["Anders Palm"]
 date = 2020-07-09T08:00:00Z
 draft = true
-excerpt = "Värdet man får ut i förhållande till insatsen är oslagbart! Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
+excerpt = "Att använda Panelista har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu."
 hero = "/images/fractal_design_define_7_define_7_compact_key_visuals_define7compactcam5-0001-2020-07-09.jpg"
-hero_image_body = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
-hero_image_title = "Värdet man får ut i förhållande till insatsen är oslagbart!"
+hero_image_body = "Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu."
+hero_image_title = "Att använda Panelista har varit överväldigande!"
 timeToRead = 3
 title = "Fractal Design & Panelista"
 
