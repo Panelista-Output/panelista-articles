@@ -31,7 +31,7 @@ Själva videoformatet har varit riktigt givande och passar in i vår strävan at
 
 ### Hur rekryterade ni panelister?
 
-**Alexander**: Vi arbetar med en mängd olika kundkanaler och hårdvaruforum med entusiastiska konsumenter, så att lokalisera villiga panelister var väldigt enkelt. Vi kunde snabbt välja ut ~~en global grupp med varierande bakgrunder och förkunskaper~~.
+**Alexander**: Vi arbetar med en mängd olika kundkanaler och hårdvaruforum med entusiastiska konsumenter, så att lokalisera villiga panelister var väldigt enkelt. Vi kunde snabbt välja ut en global grupp med varierande bakgrunder och förkunskaper.
 
 ### Vilken typ av frågor ställer ni?
 
