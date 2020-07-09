@@ -1,9 +1,9 @@
 +++
 authors = ["Anders Palm"]
-date = 2020-05-22T06:00:00Z
+date = 2020-07-09T08:00:00Z
 draft = true
 excerpt = "Värdet man får ut i förhållande till insatsen är oslagbart! Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
-hero = "/images/vasttrafik-case-design-2020-05-14.jpg"
+hero = "/images/fractal_design_define_7_define_7_compact_key_visuals_define7compactcam5-0001-2020-07-09.jpg"
 hero_image_body = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
 hero_image_title = "Värdet man får ut i förhållande till insatsen är oslagbart!"
 timeToRead = 3
