@@ -33,6 +33,8 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 
 **Samuel**: Yes, I expected less engagement as we do not compensate the panelists for being part of the panel. I also did not think that so many panelists would answer our follow-up questions.
 
+{{< en/visitpanelista >}}
+
 ### How did you recruit panelists?
 
 **Samuel**: We decided to contact people who had shown an interest to engage in the past in some way. We invited people to the panel through a popup in our app, and by sending email invites to selected customers we had been in touch with before.
