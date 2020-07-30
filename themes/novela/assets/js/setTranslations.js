@@ -38,6 +38,10 @@ var translations = {
   articles: {
     en: 'Articles',
     sv: 'Artiklar'
+  },
+  moreArticles: {
+    en: 'More articles',
+    sv: 'Fler artiklar'
   }
 }
 
@@ -60,6 +64,7 @@ addTranslation('[data-trans="articles-menu-item"]', 'articles', '/' + language);
 addTranslation('[data-trans="pricing-menu-item"]', 'pricing', 'https://panelista.com/' + language + '#pricing');
 addTranslation('[data-trans="contact-us-menu-item"]', 'contactUs', 'https://panelista.com/' + language + '?openContactUs=1');
 addTranslation('[data-trans="sign-in-menu-item"]', 'signIn', 'https://panelista.com/signin');
+addTranslation('[data-trans="more-articles"]', 'moreArticles');
 
 var allArticlesFooterLink = document.getElementById('all-articles-footer-link');
 if (allArticlesFooterLink) {

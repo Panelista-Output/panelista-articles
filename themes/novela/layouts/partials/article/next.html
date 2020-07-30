@@ -12,10 +12,10 @@
 {{/* declaring next empty slice */}}
 {{ $next := slice }}
 {{/* Checking if current article has a PrevInSection (Prev as we are ordering dsc here.) */}}
-{{ with .PrevInSection }}
+{{ with .NextInSection }}
     {{ $next = $next | append . }}
     {{/* Checking for that "next" article own "next" to fill the "second next" */}}
-    {{ with .PrevInSection }}
+    {{ with .NextInSection }}
         {{ $next = $next | append . }}
     {{ end }}
 {{ end }}
@@ -23,12 +23,17 @@
 of the whole section and append them to our $next slice. */}}
 {{ $diff := sub 2 (len $next) }}
 {{ if $diff }}
-    {{/* We use that diff number (if > 0) to grab the first x number of articles */}}
-    {{ $articles := partialCached "func/GetArticles" . "articles"}}
-    {{ $next = $next | append (first $diff $articles) }}
+    {{ with .PrevInSection }}
+        {{ $next = $next | append . }}
+        {{ if eq $diff 2 }}
+            {{ with .PrevInSection }}
+            {{ $next = $next | append . }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
 {{ end }}
 <section id="articleNext" class="section nartrow">
-    <h3 class="footer-next-heading">More articles from {{ .Site.Title }}</h3>
+    <h3 class="footer-next-heading" data-trans="more-articles"></h3>
     <div class="footer-spacer"></div>
     <div class="next-articles-grid" numberOfArticles={numberOfArticles}>
         <div class="post-row">
@@ -37,17 +42,17 @@ of the whole section and append them to our $next slice. */}}
                 {{ if not $index}} id="article-link-bigger"{{ end }}>
                     <div>
                         <div class="image-container">
-                            <img src="{{ $article.Params.hero }}" class="article-image" /> 
+                            <img src="{{ $article.Params.hero }}" class="article-image" />
                         </div>
                         <div>
-                            <h2 class="article-title">
+                            <h2 class="article-title" style="margin-bottom: 10px;">
                                 {{ $article.Params.title }}
                             </h2>
                             <p class="article-excerpt">
                                 {{ $article.Params.excerpt }}
                             </p>
                             <div class="article-metadata">
-                                {{ $article.Date | dateFormat "January 1, 2006" }}{{ with $article.Params.timeToRead }} · {{ $article.Params.timeToRead }} min read{{ end }}
+                                {{ $article.Date | dateFormat "2.1. 2006" }}
                             </div>
                         </div>
                     </div>
