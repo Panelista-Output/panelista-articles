@@ -25,7 +25,9 @@ Below are **our top five tips** on how to tackle these problems and where to rea
 
 ### **# 1: Introduce a Priority Model**
 
-Create a structure to prioritize hard and early. Do not explore more things than there is delivery capacity for, invest resources in expanding delivery capacity instead. An example of a **simple priority model** that we like is ICE (Impact Confidence Ease): [https://hygger.io/blog/ice-method-helps-choose-better-product-features/](https://hygger.io/blog/ice-method-helps-choose-better-product-features/ "https://hygger.io/blog/ice-method-helps-choose-better-product-features/")
+Create a structure to prioritize hard and early. Do not explore more things than there is delivery capacity for, invest resources in expanding delivery capacity instead. An example of a **simple priority model** that we like is ICE (Impact Confidence Ease): [https://hygger.io/blog/ice-method-helps-choose-better-product-features/](https://hygger.io/blog/ice-method-helps-choose-better-product-features/ "https://hygger.io/blog/ice-method-helps-choose-better-product-features/")  
+  
+{{< en/visitpanelista >}}
 
 ### **# 2: Change the Investment Model**
 
