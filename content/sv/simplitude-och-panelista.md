@@ -37,6 +37,8 @@ Simplitude började med att bjuda in till sin panel genom personliga inbjudninga
 
 ~~“Men det är lätt att använda Panelista! Man förstår vad man ska göra, det känns intuitivt och smidigt!”~~ förtydligar Anna.
 
+{{< sv/visitpanelista >}}
+
 ### **Panelistas videofrågor ger engagemang och skapar en relation till många**
 
 Simplitude har inledningsvis fokuserat på frågor där de utforskar möjligheter med digitalisering som till exempel:
