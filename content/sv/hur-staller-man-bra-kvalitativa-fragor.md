@@ -35,7 +35,9 @@ Karin har jobbat med Service Design sedan 2013. Hon är utbildad inom Business a
 
 \- Tänk på att den du intervjuar skall känna sig bekväm. Var inte för uppklädd, till exempel i kostym, utan var på samma nivå som den du ska intervjua. Tänk igenom hur man sitter i rummet. Förklara rollerna och varför folk som lyssnar är där. Börja med att småprata och erbjud kaffe.
 
-\- Ett trick kan vara att säga att man själv är lite nervös. “Du är den första jag intervjuar i detta projekt”. Det viktigaste är att det mer skall vara ett samtal än en intervju. Ett nyfiket samtal!
+\- Ett trick kan vara att säga att man själv är lite nervös. “Du är den första jag intervjuar i detta projekt”. Det viktigaste är att det mer skall vara ett samtal än en intervju. Ett nyfiket samtal!  
+  
+{{< sv/visitpanelista >}}
 
 **Förstå de bakomliggande behoven**
 
