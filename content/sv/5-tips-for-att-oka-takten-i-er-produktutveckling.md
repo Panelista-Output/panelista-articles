@@ -25,7 +25,9 @@ Detta är **våra fem bästa tips** för hur man kan angripa dessa problem och v
 
 ### **#1: Inför en prioriteringsmodell**
 
-Skapa en struktur för att prioritera hårt och tidigt. Utforska inte fler saker än vad det finns leveranskapacitet för, satsa resurser på att utöka leveranskapaciteten istället. Ett exempel på en **enkel prioriteringsmodell** som vi gillar är ICE (Impact Confidence Ease): [https://hygger.io/blog/ice-method-helps-choose-better-product-features/](https://hygger.io/blog/ice-method-helps-choose-better-product-features/ "https://hygger.io/blog/ice-method-helps-choose-better-product-features/")
+Skapa en struktur för att prioritera hårt och tidigt. Utforska inte fler saker än vad det finns leveranskapacitet för, satsa resurser på att utöka leveranskapaciteten istället. Ett exempel på en **enkel prioriteringsmodell** som vi gillar är ICE (Impact Confidence Ease): [https://hygger.io/blog/ice-method-helps-choose-better-product-features/](https://hygger.io/blog/ice-method-helps-choose-better-product-features/ "https://hygger.io/blog/ice-method-helps-choose-better-product-features/")  
+  
+{{< sv/visitpanelista >}}
 
 ### #2: Förändra investeringsmodellen
 
