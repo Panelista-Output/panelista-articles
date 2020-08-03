@@ -31,6 +31,8 @@ _We at Panelista interviewed Martin Fransson, CEO and Irma Markgren, who is resp
 
 **Irma**: We have already added several things to our backlog as a direct result of using Panelista. Sometimes it has been things we have thought of before, but it became clearer how they should be designed.
 
+{{< en/visitpanelista >}}
+
 ### Do you work with customer insights in any other way?
 
 **Irma**: We also work with surveys. Getting a lot of answers is a benefit of surveys, and we will probably continue to supplement Panelista with surveys. Panelista feels much more personal though, and it is a lot of fun to have that direct customer contact.
