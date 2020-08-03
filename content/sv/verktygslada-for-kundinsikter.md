@@ -23,7 +23,9 @@ _“Det blir alltid ett stort projekt att involvera målgruppen och ta hand om r
 
 I denna artikel beskriver vi några av alla olika tekniker och verktyg som finns tillgängliga för att bättre förstå verkliga kundbehov och att involvera kunder i produktutvecklingen. Vi förespråkar att man använder flera av dessa när man bygger upp sin egen verktygslåda för kundinsikter.
 
-Avslutningsvis beskriver vi hur Panelista kan användas i detta sammanhang och hur det skiljer sig från andra verktyg.
+Avslutningsvis beskriver vi hur Panelista kan användas i detta sammanhang och hur det skiljer sig från andra verktyg.  
+  
+{{< sv/visitpanelista >}}
 
 ## Fokusgrupper och djupintervjuer
 
