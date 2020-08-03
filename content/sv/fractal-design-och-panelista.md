@@ -10,6 +10,7 @@ title = "Fractal Design & Panelista"
 
 +++
 ## Fractal Design
+
 Fractal Design designar och bygger datorchassin, chassifläktar och nätaggregat för gaming- och hårdvaruentusiaster över hela världen. Design och konstruktion sker på huvudkontoret i Göteborg, och de har även kontor i Dallas, Taipei och Kina. Produkterna säljs redan i 45 länder.
 
 Fractal Design har alltid varit pionjärer och var först med att verkligen fokusera på en kombination av funktion och riktigt bra design för datorchassin. Ständig produktutveckling är fortfarande kärnan och de arbetar kontinuerligt med att både förbättra deras klassiska produkter för att bättre passa en föränderlig värld, och för att bryta ny mark och utmana gamla sanningar - inte minst deras egna.
@@ -26,7 +27,9 @@ _Med sin första panel har Fractal Design slagit alla rekord på Panelista gäll
 
 **Alexander**: Det har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. Kvalitén har varit på en tekniskt hög nivå vilket gör det enklare att dra slutsatser och i sin tur ta konkreta actions.
 
-Själva videoformatet har varit riktigt givande och passar in i vår strävan att vara personliga mot både våra varumärkesambassadörer och konsumenter - då vi marknadsfört Panelista som ~~en gräddfil direkt in till vår produktutvecklingsavdelning~~.
+Själva videoformatet har varit riktigt givande och passar in i vår strävan att vara personliga mot både våra varumärkesambassadörer och konsumenter - då vi marknadsfört Panelista som ~~en gräddfil direkt in till vår produktutvecklingsavdelning~~.  
+  
+{{< sv/visitpanelista >}}
 
 ### Hur rekryterade ni panelister?
 
@@ -38,7 +41,7 @@ Själva videoformatet har varit riktigt givande och passar in i vår strävan at
 
 ### Hur är det att jobba med Panelista och Panelista-teamet?
 
-**Alexander**: Panelista är ett riktigt bra verktyg för att facilitera kvalitativa kundinsikter och ett smidigt ramverk för att omvandla kundfeedback till insikter. ~~Användandet av Panelista har genererat många nya insikter~~ sett till ”vad som är viktigt(-ast)” för våra kunder, det hjälper oss också att förstå våra olika marknaders skillnader ur ett bredare perspektiv. 
+**Alexander**: Panelista är ett riktigt bra verktyg för att facilitera kvalitativa kundinsikter och ett smidigt ramverk för att omvandla kundfeedback till insikter. ~~Användandet av Panelista har genererat många nya insikter~~ sett till ”vad som är viktigt(-ast)” för våra kunder, det hjälper oss också att förstå våra olika marknaders skillnader ur ett bredare perspektiv.
 
 Att samla in och skapa kundinsikter har alltid varit relativt tungrott och krävt en hel del manuella insatser. Panelista har eliminerat den största huvudvärken och dessutom varit väldigt lättanvänt med en god mix av self-service och personlig support från Panelista-gänget. Rekommenderas varmt!
 
