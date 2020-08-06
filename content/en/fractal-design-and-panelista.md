@@ -11,7 +11,7 @@ title = "Fractal Design & Panelista"
 +++
 ## Fractal Design
 
-Fractal Design designs and builds computer cases, case fans, and PSUs, mostly intended for gaming- and hardware enthusiasts worldwide – selling their products in 45 countries and counting. While the actual design and engineering take place at the HQ in Göteborg, they also have offices in Dallas, Taipei, and China.
+Fractal Design designs and builds computer cases, case fans, and PSUs, mostly intended for gaming- and hardware enthusiasts worldwide – selling their products in 45 countries and counting. While the actual design and engineering takes place at the HQ in Göteborg, they also have offices in Dallas, Taipei, and China.
  
 Fractal has always been a trailblazer. They started pushing the importance of the hardware design aspect at a time when no one else really seemed to care about it, and over the years their products have had quite an impact on the market. Constant product development is still at the very core of who they are, and an enormous amount of energy is spent on both perfecting their classic products to better suit an ever-changing world, and breaking new ground and challenging conventional wisdom – not least of all their own.
 
