@@ -58,7 +58,7 @@ _We at Panelista interviewed Martin Fransson, CEO and Irma Markgren, who is resp
 
 **Martin**: Great product. Intuitive to work with. Keep it this simple! Your commitment is just the way we want it. You made sure we got started in the right way and continue to check-in frequently.
 
-_Thank you, Martin and Irma!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
+_Thank you, Alexander and Fractal Design!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
 {{< en/bookdemo >}}
 
