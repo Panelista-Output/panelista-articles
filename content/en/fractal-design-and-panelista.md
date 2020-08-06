@@ -27,7 +27,7 @@ _With their first panel, we at Panelista have seen Fractal Design break the reco
 
 **Alexander**: It has been overwhelming! We have gathered input from our customers in a variety of channels and formats, but never had such clear, strong, and manageable feedback as now. The quality has been at a high technical level, which makes it easier to draw conclusions, and in turn, take concrete actions.
 
-The video format itself has been really rewarding and fits in with our quest to be personal to both our brand ambassadors and consumers, and we have marketed Panelista as ~~a direct channel into our product development department~~.
+The video format itself has been really rewarding and fits in with our quest to be personal to both our brand ambassadors and consumers, and we have marketed Panelista as ~~a direct channel to our product development department~~.
 
 {{< en/visitpanelista >}}
 
