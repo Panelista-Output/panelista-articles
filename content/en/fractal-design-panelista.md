@@ -22,17 +22,13 @@ _With their first panel, we at Panelista have seen Fractal Design break the reco
 
 ### Why do you use Panelista?
 
-**Martin**: To make Wayke an even safer and more guiding marketplace. To get where we want to be, we need to talk more with customers. Both to learn new things that can improve our product, and to help us understand our customers better. ~~Panelista is a way for us to have a dialogue with customers in real-time~~ and be able to dig deeper when needed.
-
-**Irma**: We want to be consumer-driven. ~~I want to get completely new insights~~ that we have not thought of. Those light bulb moments. But it is also important to confirm that we are on the right track with things that we have already planned for.
+**Alexander**: Our community is very important for our product development and brand. Fractal's customers have detailed knowledge as well as high demands and expectations on the products they buy. And we at Fractal Design strongly believe that ~~innovation happens together with our customers~~. Therefore, we want the opportunity to drill down into detailed customer input. This applies to both subjective opinions about design, color and shape, and more technical requirements linked to function and performance.
 
 ### How is it going?
 
-**Irma**: Great! When you find the right people who want to contribute this way, it works really well. I had early concerns about bothering the panelists, but it does not feel that way at all, and some have answered every single question. ~~I have so many questions, and will probably never stop asking!~~
+**Alexander**: It has been overwhelming! We have gathered input from our customers in a variety of channels and formats, but never had such clear, strong, and manageable feedback as now. The quality has been at a high technical level, which makes it easier to draw conclusions, and in turn, take concrete actions.
 
-**Martin**: It's hard to engage people today, so we got faster and greater customer engagement than I dared to hope for. Also, everyone in our team saw the benefits of using Panelista and the way of working very quickly.
-
-**Irma**: We have already added several things to our backlog as a direct result of using Panelista. Sometimes it has been things we have thought of before, but it became clearer how they should be designed.
+The video format itself has been really rewarding and fits in with our quest to be personal to both our brand ambassadors and consumers, and we have marketed Panelista as ~~a direct channel into our product development department~~.
 
 {{< en/visitpanelista >}}
 
