@@ -15,7 +15,7 @@ Fractal Design designs and builds computer cases, case fans, and PSUs, mostly in
  
 Fractal has always been a trailblazer. They started pushing the importance of the hardware design aspect at a time when no one else really seemed to care about it, and over the years their products have had quite an impact on the market. Constant product development is still at the very core of who they are, and an enormous amount of energy is spent on both perfecting their classic products to better suit an ever-changing world, and breaking new ground and challenging conventional wisdom – not least of all their own.
 
-_With their first panel, we at Panelista have seen Fractal Design break the record for every single engagement metric on our customer insights platform. We knew that Fractal Design has a very strong fanbase, but we did not expect this. We interviewed Alexander Ernryd who is the CMO at Fractal Design._
+_With their first panel, we at Panelista have seen Fractal Design break the record for every single engagement metric on our customer insight platform. We knew that Fractal Design has a very strong fanbase, but we did not expect this. We interviewed Alexander Ernryd who is the CMO at Fractal Design._
 
 ***
 
