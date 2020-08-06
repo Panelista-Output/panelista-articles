@@ -37,7 +37,7 @@ The video format itself has been really rewarding and fits in with our quest to 
 
 ### What type of questions do you ask?
 
-**Alexander**: The focus has been on both technical development as well as design and performance. There has been a mix of open exploratory questions such as "_What would make you absolutely NOT buy the next version of ...?_", as well as straight to the point questions like "_If you modified your chassis in any way, what did you do and why?_".
+**Alexander**: The focus has been on both technical development as well as design and performance. There has been a mix of open exploratory questions such as _"What would make you absolutely NOT buy the next version of ...?"_, as well as straight to the point questions like _"If you modified your chassis in any way, what did you do and why?"_.
 
 ### What is it like working with Panelista and the Panelista team?
 
