@@ -1,7 +1,6 @@
 +++
 authors = ["Anders Palm"]
 date = 2020-04-01T22:00:00Z
-draft = true
 excerpt = "Using Panelista has been overwhelming! We have gathered input from our customers in a variety of channels and formats, but never had such clear, strong, and manageable feedback as now."
 hero = "/images/pd-building.jpg"
 hero_image_body = "We have gathered input from our customers in a variety of channels and formats, but never had such clear, strong, and manageable feedback as now."
