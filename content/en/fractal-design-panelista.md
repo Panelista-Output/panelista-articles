@@ -32,29 +32,19 @@ The video format itself has been really rewarding and fits in with our quest to 
 
 {{< en/visitpanelista >}}
 
-### Do you work with customer insights in any other way?
+### How did you recruit panelists?
 
-**Irma**: We also work with surveys. Getting a lot of answers is a benefit of surveys, and we will probably continue to supplement Panelista with surveys. Panelista feels much more personal though, and it is a lot of fun to have that direct customer contact.
+**Alexander**: We work with a variety of channels and hardware forums with enthusiastic consumers, so locating willing panelists was very easy. We were able to quickly select a global group with varying backgrounds and knowledge.
 
-**Martin**: Yes, even simple surveys can be incredibly rewarding. However, there is no interaction, and it becomes an administrative monster. We have also run live panels, and interviews that generated several features available on Wayke.se today. There is a chance that Panelista can outperform even live panels as some people are comfortable talking in front of a group and others are not. The involvement of the panelists, I suspect, has been so great because of the video format.
+### What type of questions do you ask?
 
-### What has been the most difficult?
-
-**Martin**: It's about a bigger transition than just starting to use Panelista. ~~It is about actually becoming customer-centric~~ and understanding the customers better. It is far from obvious for companies to truly involve their customers, and a bigger change than one might think. It can change the whole way of thinking about the product, it can change the whole backlog. You have to really enjoy talking to the customers.
-
-**Irma**: I can still find it a bit of a challenge to be in the video questions. With that said, I really wouldn't want to replace the video format, as you get so much back!
-
-### What has been the best?
-
-**Irma**: ~~There is very little effort involved to gain many new insights~~. We ask a question every other week, and it's fun when the answers start rolling in.
-
-**Martin**: All of a sudden, we can get real-time answers from panelists and ask follow-up questions. ~~It is a magical thing when you can get a new idea and immediately check; Would our customers like this?~~
+**Alexander**: The focus has been on both technical development as well as design and performance. There has been a mix of open exploratory questions such as "_What would make you absolutely NOT buy the next version of ...?_", as well as straight to the point questions like "_If you modified your chassis in any way, what did you do and why?_".
 
 ### What is it like working with Panelista and the Panelista team?
 
-**Irma**: Panelista works really well! Nothing to complain about. It feels simple and logical. ~~Great that you quickly developed a new feature after my feedback~~. It was also very nice that you helped us get started, you made it happen right there and then. Otherwise, I would have postponed it a bit as I was nervous about recording the first video question.
+**Alexander**: Panelista is a really good tool for facilitating qualitative customer insights and a flexible framework for transforming customer feedback into insights. ~~The use of Panelista has generated many new insights~~ in terms of what is important for our customers, and it also helps us to understand the differences in our different markets.
 
-**Martin**: Great product. Intuitive to work with. Keep it this simple! Your commitment is just the way we want it. You made sure we got started in the right way and continue to check-in frequently.
+Collecting customer input and creating insights has always been cumbersome and required a lot of manual effort. Panelista has eliminated the biggest headaches and also been very easy to use with a good mix of self-service and personal support from the Panelista team. Highly recommended!
 
 _Thank you, Alexander and Fractal Design!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
