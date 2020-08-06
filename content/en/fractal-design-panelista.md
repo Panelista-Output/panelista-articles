@@ -2,10 +2,10 @@
 authors = ["Anders Palm"]
 date = 2020-04-01T22:00:00Z
 draft = true
-excerpt = "Several new insights in just 72 hours! We sent our first video question to 31 panelists. We asked them; \"What is important to you when buying a car online?\". In just 72 hours we had 18 answers and several new insights!"
+excerpt = "Using Panelista has been overwhelming! We have gathered input from our customers in a variety of channels and formats, but never had such clear, strong, and manageable feedback as now."
 hero = "/images/pd-building.jpg"
-hero_image_body = "We sent our first video question to 31 panelists. We asked them; \"What is important to you when buying a car online?\". In just 72 hours we had 18 answers and several new insights!"
-hero_image_title = "Several new insights in just 72 hours!"
+hero_image_body = "We have gathered input from our customers in a variety of channels and formats, but never had such clear, strong, and manageable feedback as now."
+hero_image_title = "Using Panelista has been overwhelming!"
 timeToRead = 3
 title = "Fractal Design & Panelista"
 
