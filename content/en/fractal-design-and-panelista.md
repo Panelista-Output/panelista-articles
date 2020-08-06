@@ -41,7 +41,7 @@ The video format itself has been really rewarding and fits in with our quest to 
 
 ### What is it like working with Panelista and the Panelista team?
 
-**Alexander**: Panelista is a really good tool for facilitating qualitative customer insights and a flexible framework for transforming customer feedback into insights. ~~The use of Panelista has generated many new insights~~ in terms of what is important for our customers, and it also helps us to understand the differences in our different markets.
+**Alexander**: Panelista is a really good tool for facilitating qualitative customer insights and a flexible framework for transforming customer feedback into insights. ~~The use of Panelista has generated many new insights~~ in terms of what is important for our customers, and it also helps us to understand differences between our different markets.
 
 Collecting customer input and creating insights has always been cumbersome and required a lot of manual effort. Panelista has eliminated the biggest headaches and also been very easy to use with a good mix of self-service and personal support from the Panelista team. Highly recommended!
 
