@@ -3,8 +3,8 @@ authors = ["Anders Palm"]
 date = 2020-07-09T08:00:00Z
 excerpt = "Att använda Panelista har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu."
 hero = "/images/pd-building.jpg"
-hero_image_body = "Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu."
-hero_image_title = "Att använda Panelista har varit överväldigande!"
+hero_image_body = "Fractals kunder har detaljkunskap samt höga krav och förväntningar på produkterna man köper. Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. "
+hero_image_title = "Innovation sker tillsammans med kunderna!"
 timeToRead = 3
 title = "Fractal Design & Panelista"
 
