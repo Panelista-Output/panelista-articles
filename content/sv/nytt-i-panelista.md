@@ -7,7 +7,7 @@ hero = "/images/anonymized-panelists-2020-08-27.png"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 5
-title = "Nytt i Panelista"
+title = "Nytt i Panelista - Augusti 2020"
 
 +++
 Vi har nyligen släppt två nya funktioner i Panelista som flera av våra användare efterfrågat.
@@ -27,3 +27,7 @@ En centralt funktion i Panelista är de automatiska insiktsrapporterna som skapa
 <div class="Image__medium">
 <img src="/images/anonymized-panelists-2-2020-08-27.png" alt="Anonymized panelists" />
 </div>
+
+Just nu jobbar vi på en ny typ av videofråga som vi kommer kunna berätta mer om nästa månad!
+
+{{< sv/bookdemo >}}
