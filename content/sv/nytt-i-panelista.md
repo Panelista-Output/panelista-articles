@@ -1,7 +1,6 @@
 +++
 authors = ["Oscar Mansson Grahn"]
 date = 2020-08-26T22:00:00Z
-draft = true
 excerpt = "Live preview & anonymiserade rapporter"
 hero = "/images/anonymized-panelists-animals-2020-08-27.png"
 hero_image_body = ""
