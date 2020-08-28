@@ -9,13 +9,14 @@ timeToRead = 5
 title = "Anonyma insiktsrapporter och andra nyheter i Panelista"
 
 +++
-Vi har nyligen släppt två nya funktioner i Panelista som flera av våra användare efterfrågat.
+Det är roligt att involvera kunderna i utvecklingen tycker vi också. Nu har vi utvecklat två hett efterfrågade funktioner.
 
 ### #1: Live preview av videofrågor
 
 Videofrågorna i Panelista gör att du kan vara personlig, förklara sammanhanget och skapa engagemang kring din fråga. För att göra det ännu enklare för dig som skapar frågor så har vi skapat en live preview-funktion som gör att du kan se och ändra det som skickas ut till dina panelister. Se i videon nedan hur man skapar en videofråga och ser slutresultatet uppdateras live medan man arbetar.
 
 {{< vimeo 452200755 >}}
+
 ***
 
 ### #2: Anonymiserade rapporter
