@@ -21,7 +21,7 @@ Videofrågorna i Panelista gör att du kan vara personlig, förklara sammanhange
 
 ### #2: Anonymiserade rapporter
 
-En centralt funktion i Panelista är de automatiska insiktsrapporterna som skapas när en fråga är avslutad. Det skall vara enkelt och smidigt att dela insikter med andra och sprida insikter i organisationen. Ibland finns det behov av att dölja namn och bild på de som deltagit i panelen, beroende på vem man delar informationen med. Vi har därför lagt till möjlighet att i verktyget anonymisera deltagarna i rapporten och ersatt dem med gosiga små djur.
+En central funktion i Panelista är de automatiska insiktsrapporterna som skapas när en fråga är avslutad. Det skall vara enkelt och smidigt att dela insikter med andra och sprida insikter i organisationen. Ibland finns det behov av att dölja namn och bild på de som deltagit i panelen, beroende på vem man delar informationen med. Vi har därför lagt till möjlighet att i verktyget anonymisera deltagarna i rapporten och ersatt dem med gosiga små djur.
 
 <div class="Image__small"> <img src="/images/anonymized-panelists-2020-08-27.png" alt="Anonymized panelists" /> </div>
 
