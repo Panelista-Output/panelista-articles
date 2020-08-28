@@ -6,7 +6,7 @@ hero = "/images/anonymized-panelists-animals-2020-08-27.png"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 5
-title = "Nytt i Panelista - Augusti 2020"
+title = "Anonyma insiktsrapporter och andra nyheter i Panelista"
 
 +++
 Vi har nyligen släppt två nya funktioner i Panelista som flera av våra användare efterfrågat.
