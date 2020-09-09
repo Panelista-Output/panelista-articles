@@ -9,7 +9,7 @@ timeToRead = 5
 title = "Hur ställer man bra kvalitativa frågor när man pratar med sina kunder?"
 
 +++
-I denna artikel får du läsa om hur man ställer bra kvalitativa frågor vid intervjuer och når kundinsikter på djupet. Karin Lycke, Service Design Lead på [The Service Design Studio]() ger sina bästa tips.
+Vi på Panelista tror mycket på värdet av kvalitativa metoder för att utforska behov och testa idéer. Men det kan ibland vara svårt att formulera bra frågeställningar. I denna artikel får du läsa om hur man ställer bra kvalitativa frågor och når kundinsikter på djupet. Karin Lycke, Service Design Lead på [The Service Design Studio]() ger sina bästa tips.
 
 **Varför Service Design är viktigt**
 
@@ -75,7 +75,9 @@ Det handlar om att förstå value action gapet. Vad är det vi säger och vad ä
 
 **Intervjuer på distans**
 
-\- Under Coronan har vi varit tvungna att göra fler intervjuer på distans än vi vanligtvis gör. Som tur är fungerar remoteintervjuer via till exempel zoom eller meetup förvånansvärt bra. Det är nästan så att man kan vara mer ärlig. Det finns en skärm emellan som kan göra en mer avslappnad och öppen.
+\- Under Coronan har vi varit tvungna att göra fler intervjuer på distans än vi vanligtvis gör. Som tur är fungerar remoteintervjuer via till exempel zoom eller meetup förvånansvärt bra. Det är nästan så att man kan vara mer ärlig. Det finns en skärm emellan som kan göra en mer avslappnad och öppen, säger Karin.
+
+Vi på Panelista har tydligt sett styrkan i att med Panelistas videofrågor kunna prata och interagera med sin målgrupp för att få kvalitativa insikter - utan att behöva investera tid och pengar i att sätta ihop fysiska fokusgrupper eller boka intervjuer på plats. 
 
 **Tips vid avslutning**
 
