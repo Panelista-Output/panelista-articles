@@ -29,6 +29,12 @@ Den tydliga lärdomen av detta är att utveckling i både små och stora företa
 
 Det är varje kunds rättighet att få vara med och engagera sig och varje företags skyldighet att öppna upp sig och prata med sina kunder. På så sätt kan du ge dina kunder bättre tjänster och genom att bli mer träffsäker kan du öka ditt företags resultat. Så släpp sargen och låt dina medarbetare prata med kunderna!
 
+Läs mer om [Panelista](https://panelista.com?utm_medium=blogg&utm_source=panelistablogg&utm_campaign=article)
+
+{{< sv/bookdemo >}}
+
+{{< sv/subscribe >}}
+
 P.S. Vill du läsa hela McKinsey-studien hittar du den här:
 
 [https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design "https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design")
