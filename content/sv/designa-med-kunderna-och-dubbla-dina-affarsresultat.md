@@ -14,7 +14,7 @@ Många framgångsrika startups har visat hur man fattar bättre beslut genom att
 
 Den tydliga lärdomen av detta är att utveckling i både små och stora företag bör sätta kunden i fokus för sina affärsbeslut. Och att ledarskapet kan skapa förutsättningar för detta genom att öppna möjligheter för designers och utvecklare att få direktkontakt med sina användare. Det är dags att lämna tiden bakom oss då kundkontakter måste trattas genom ansvariga säljare eller återförsäljare.
 
-5 enkla sätt som hjälper dig och ditt företag att komma igång
+5 enkla sätt som hjälper dig och ditt företag att komma igång:
 
 1. Besluta om ett pilotteam med representanter från analys/marknad, utveckling och sälj, alltså ett tvärteam mot traditionell organisation. Se till att de får tillgång till verktyg för kontinuerlig dialog med kunderna och löpande kan utforska idéer och utvecklingsteg. -> Läs mer om Panelista/startsida
 
@@ -25,7 +25,7 @@ Den tydliga lärdomen av detta är att utveckling i både små och stora företa
 4. Bidra till en tillåtande kultur och låt alla i organisationen få möjlighet att ställa frågor direkt till kunder. Läs mer om hur -> Verktygslåda för kundinsikter
 5. Säkerställ att din organisation fångar upp engagerade kunder. De som varit med i fokusgrupper, utmärkt sig i kundundersökningar eller engagerat sig i andra forum.
 
-Med Panelista kan dina medarbetare enkelt samla dessa kunder i paneler för att enkelt ställa löpande frågor. Då har ni ingen startsträcka alls till nya kundinsikter. Läs mer om Panelista här -> startsidan
+   Med Panelista kan dina medarbetare enkelt samla dessa kunder i paneler för att enkelt ställa löpande frågor. Då har ni ingen startsträcka alls till nya kundinsikter. Läs mer om Panelista här -> startsidan
 
 Det är varje kunds rättighet att få vara med och engagera sig och varje företags skyldighet att öppna upp sig och prata med sina kunder. På så sätt kan du ge dina kunder bättre tjänster och genom att bli mer träffsäker kan du öka ditt företags resultat. Så släpp sargen och låt dina medarbetare prata med kunderna!
 
