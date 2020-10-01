@@ -22,11 +22,12 @@ Den tydliga lärdomen av detta är att utveckling i både små och stora företa
 
 3. Få ner mandaten för prioriteringar och beslut i organisationen till de team som kan utföra förändringar. Ge teamen möjlighet att testa verktyg och etablera direktkanal med kunderna. Läs mer om konkreta tips för att göra produktutvecklingen mer träffsäker här -> 5 tips-artikeln.
 
-4. Bidra till en tillåtande kultur och låt alla i organisationen få möjlighet att ställa frågor direkt till kunder. Läs mer om hur -> Verktygslåda för kundinsikter
-5. Säkerställ att din organisation fångar upp engagerade kunder. De som varit med i fokusgrupper, utmärkt sig i kundundersökningar eller engagerat sig i andra forum.
+3. Bidra till en tillåtande kultur och låt alla i organisationen få möjlighet att ställa frågor direkt till kunder. Läs mer om hur -> Verktygslåda för kundinsikter
+4. Säkerställ att din organisation fångar upp engagerade kunder. De som varit med i fokusgrupper, utmärkt sig i kundundersökningar eller engagerat sig i andra forum.
 
    Med Panelista kan dina medarbetare enkelt samla dessa kunder i paneler för att enkelt ställa löpande frågor. Då har ni ingen startsträcka alls till nya kundinsikter. Läs mer om Panelista här -> startsidan
 
+  
 Det är varje kunds rättighet att få vara med och engagera sig och varje företags skyldighet att öppna upp sig och prata med sina kunder. På så sätt kan du ge dina kunder bättre tjänster och genom att bli mer träffsäker kan du öka ditt företags resultat. Så släpp sargen och låt dina medarbetare prata med kunderna!
 
 P.S. Vill du läsa hela McKinsey-studien hittar du den här:
