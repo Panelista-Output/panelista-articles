@@ -2,7 +2,7 @@
 authors = ["Charlotta Alexén"]
 date = 2020-10-01T22:00:00Z
 draft = true
-excerpt = "McKinsey-studien “The business value of design” studerade 300 publika företag under en femårsperiod och kunde se att de företag som satsade mest på design och kundnära utveckling också presterade bäst affärsresultat. De mest designfokuserade levererade nästan dubbelt så bra resultat som sina branschkollegor!"
+excerpt = ""
 hero = "/images/edu-lauton-tyq-0lpp6e4-unsplash-2020-10-01.jpg"
 hero_image_body = ""
 hero_image_title = ""
