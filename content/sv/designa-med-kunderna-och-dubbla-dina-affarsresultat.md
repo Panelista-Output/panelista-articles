@@ -16,7 +16,7 @@ McKinsey-studien “The business value of design” studerade 300 publika föret
 
 Många framgångsrika startups har visat hur man fattar bättre beslut genom att prototypa och jobba agilt och iterativt med sin utveckling och kontinuerligt involvera sina kunder. McKinseys studie visar att många etablerade företag ligger efter när det gäller att ta in synpunkter från kunder och användare i sin utveckling. Mer än hälften av företagen medgav att de inte hade någon direktkanal för att ställa frågor till sina kunder. Det här är problematiskt eftersom många service designers och produktägare idag är skolade för att jobba nära kunder och testa, mäta och vidareutveckla, men begränsande ledarskap och strukturer försvårar tillgången till direktdialoger med kunder.
 
-Den tydliga lärdomen av detta är att utveckling i både små och stora företag bör sätta kunden i fokus för sina affärsbeslut. Och att ledarskapet kan skapa förutsättningar för detta genom att öppna möjligheter för designers och utvecklare att få direktkontakt med sina användare. \~\~Det är dags att lämna tiden bakom oss då kundkontakter måste trattas genom ansvariga säljare eller återförsäljare.\~\~
+Den tydliga lärdomen av detta är att utveckling i både små och stora företag bör sätta kunden i fokus för sina affärsbeslut. Och att ledarskapet kan skapa förutsättningar för detta genom att öppna möjligheter för designers och utvecklare att få direktkontakt med sina användare. ~~Det är dags att lämna tiden bakom oss då kundkontakter måste trattas genom ansvariga säljare eller återförsäljare.~~
 
 5 enkla sätt som hjälper dig och ditt företag att komma igång:
 
