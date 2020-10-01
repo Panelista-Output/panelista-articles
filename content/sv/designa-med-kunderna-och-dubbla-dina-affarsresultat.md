@@ -6,7 +6,7 @@ excerpt = "McKinsey-studien “The business value of design” studerade 300 pub
 hero = "/images/edu-lauton-tyq-0lpp6e4-unsplash-2020-10-01.jpg"
 hero_image_body = ""
 hero_image_title = ""
-timeToRead = 0
+timeToRead = 3
 title = "Designa med kunderna och dubbla dina affärsresultat"
 
 +++
