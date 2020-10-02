@@ -9,9 +9,9 @@ timeToRead = 2
 title = "Svara med bild - ny funktion i Panelista"
 
 +++
-Vi har precis lagt till en funktion i Panelista som flera användare har efterfrågat. Nu är det möjligt för panelister och administratörer att lägga till bilder till sina svar och kommentarer på en aktivitet.
+Vi har precis lagt till en funktion i Panelista som flera användare har efterfrågat. Nu är det möjligt för panelister och administratörer att lägga till bilder till sina svar och kommentarer.
 
-Funktionen aktiveras från inställningarna på en ny videofråga och är default på.
+Funktionen aktiverar du när du skapar en ny videofråga.
 
 <div class="Image__small"> <img src="/images/skarmavbild-2020-10-02-kl-14-37-33-2020-10-02.png" alt="Image answer" /> </div>
 
