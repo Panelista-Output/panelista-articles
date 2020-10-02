@@ -1,7 +1,6 @@
 +++
 authors = ["Charlotta Alexen"]
 date = 2020-10-01T22:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/edu-lauton-tyq-0lpp6e4-unsplash-2020-10-01.jpg"
 hero_image_body = ""
