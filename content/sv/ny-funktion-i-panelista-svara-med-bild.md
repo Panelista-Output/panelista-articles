@@ -1,7 +1,6 @@
 +++
 authors = ["Oscar Mansson Grahn"]
 date = 2020-10-01T22:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/imageanswer-2020-10-02.jpg"
 hero_image_body = ""
