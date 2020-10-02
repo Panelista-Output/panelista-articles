@@ -2,7 +2,7 @@
 authors = []
 date = 2020-10-01T22:00:00Z
 excerpt = ""
-hero = "/images/img_7863edit-2020-10-02.jpg"
+hero = "/images/imageanswer-2020-10-02.jpg"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 2
