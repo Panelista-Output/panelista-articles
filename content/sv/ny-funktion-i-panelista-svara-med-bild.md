@@ -18,7 +18,7 @@ Funktionen aktiverar du när du skapar en ny videofråga.
 Vi hoppas att detta kan:
 
 * Inspirera till nya kreativa sätt att ställa frågor
-* **Ge ännu bättre insikter**
+* ~~Ge ännu bättre insikter~~
 * Öka engagemanget hos panelister ytterligare
 
 Läs gärna även om våra andra nyheter, [anonyma insiktsrapporter och förhandsgranskning.](https://articles.panelista.com/sv/nytt-i-panelista/)
