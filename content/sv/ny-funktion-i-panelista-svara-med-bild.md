@@ -9,7 +9,7 @@ timeToRead = 2
 title = "Svara med bild - ny funktion i Panelista"
 
 +++
-Vi har precis lagt till en funktion i Panelista som flera användare har efterfrågat. Nu är det möjligt för panelister och administratörer att lägga till bilder till sina svar och kommentarer.
+Vi har precis lagt till en funktion i Panelista som flera användare har efterfrågat. Nu är det möjligt för panelister och administratörer att lägga till ~~bilder till sina svar och kommentarer.~~
 
 Funktionen aktiverar du när du skapar en ny videofråga.
 
