@@ -6,7 +6,7 @@ hero = "/images/img_7863edit-2020-10-02.jpg"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 2
-title = "Ny funktion i Panelista - Svara med bild"
+title = "Svara med bild - ny funktion i Panelista"
 
 +++
 Vi har ganska nyligen lagt till en funktion i Panelista som flera användare har efterfrågat. Nu är det möjligt för panelister och panelägare att lägga till bilder till sina svar och kommentarer på en aktivitet.
