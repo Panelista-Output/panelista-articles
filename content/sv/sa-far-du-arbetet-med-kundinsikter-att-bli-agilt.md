@@ -16,9 +16,7 @@ Sedan 90-talet har flera metoder växt fram som ~~gör det förutsägbart att sk
 2. Gör saker i små värdeskapande steg
 3. Skapa snabba feedbackloopar
 
-_Att du också minskar risker, kostnader och tid från idé till lansering när du prioriterar mer träffsäkert är något som även ledningsgruppen brukar gilla. Så hur får du arbetet med kundinsikter att bli agilt?_
-
-***
+Att du också minskar risker, kostnader och tid från idé till lansering när du prioriterar mer träffsäkert är något som även ledningsgruppen brukar gilla. Så hur får du arbetet med kundinsikter att bli agilt?
 
 ## Jobba hypotesdrivet utifrån kundinsikter
 
