@@ -34,8 +34,6 @@ Att du också minskar risker, kostnader och tid från idé till lansering när d
 
 **Samuel**: Ja, jag hade faktiskt förväntat mig lägre engagemang då vi inte kompenserar panelisterna för att vara med. Jag trodde inte heller att så många skulle svara på följdfrågor.
 
-{{< sv/visitpanelista >}}
-
 ## Skapa snabba feedbackloopar
 
 **Samuel**: Vi valde att kontakta personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mail till de vi redan haft kontakt med.
