@@ -18,9 +18,7 @@ Sedan 90-talet har flera metoder växt fram som gör det förutsägbart att skap
 2. Gör saker i små värdeskapande steg
 3. Skapa snabba feedbackloopar
 
-Att du också minskar risker, kostnader och tid från idé till lansering när du prioriterar mer träffsäkert är något som även ledningsgruppen brukar gilla. Så hur får du arbetet med kundinsikter att bli agilt?
-
-_Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänstedesigner och Samuel Nygren som är produktägare för appen Västtrafik To Go och reseplanering på Västtrafik._
+_Att du också minskar risker, kostnader och tid från idé till lansering när du prioriterar mer träffsäkert är något som även ledningsgruppen brukar gilla. Så hur får du arbetet med kundinsikter att bli agilt?_
 
 ***
 
