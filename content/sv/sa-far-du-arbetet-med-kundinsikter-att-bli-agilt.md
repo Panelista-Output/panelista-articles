@@ -10,14 +10,13 @@ timeToRead = 0
 title = "Så får du arbetet med kundinsikter att bli agilt"
 
 +++
-Alla är överens om att jobba kundcentrerat för att skapa träffsäkra produkter, tjänster och erbjudanden. Det finns även beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken. 
+Alla är överens om att jobba kundcentrerat för att skapa träffsäkra produkter, tjänster och erbjudanden. Det finns även beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken.
 
 Sedan 90-talet har flera metoder växt fram som gör det förutsägbart att skapa framgångsrika produkter som kunderna älskar. Det handlar om mjukvaruvärldens agila utveckling, startupvärldens “Lean Startup”-tänk och designvärldens Service Design. Gemensamt är ett stenhårt fokus på att skapa värde för kunden med hjälp av tre pusselbitar:
 
-
-Jobba hypotesdrivet utifrån kundinsikter
-Gör saker i små värdeskapande steg
-Skapa snabba feedbackloopar
+1. Jobba hypotesdrivet utifrån kundinsikter
+2. Gör saker i små värdeskapande steg
+3. Skapa snabba feedbackloopar
 
 Att du också minskar risker, kostnader och tid från idé till lansering när du prioriterar mer träffsäkert är något som även ledningsgruppen brukar gilla. Så hur får du arbetet med kundinsikter att bli agilt?
 
