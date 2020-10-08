@@ -39,7 +39,7 @@ Skapa förutsättningar för att snabbt kunna diskutera enskilda frågor med kun
 
 Ha alltid med kundinsikter som en del i arbetet, det ska vara lika självklart som att kolla med dina intressenter, korrläsa texter eller testa att nya funktioner fungerar. Lägg INTE ut det som ska styra era prioriteringar på en byrå eller annan avdelning! ~~Det är helt avgörande att de som skapar nya saker för kunderna har direkt tillgång till kunderna och verktyg för att snabbt kunna involvera dem~~. 
 
-_Panelista togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt. Du skickar en öppen fråga i en 30-sekunders video, ställer följdfrågor i en onlinediskussion och får en automatiserad insiktsrapport. De första svaren trillar in inom en timme! [Läs mer om Panelista här](https://panelista.com "Panelista")._
+_Panelista togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt. Du skickar en öppen fråga i en 30-sekunders video, ställer följdfrågor i en onlinediskussion och får en automatiserad insiktsrapport. De första svaren trillar in inom en timme!_
 
 {{< sv/bookdemo >}}
 
