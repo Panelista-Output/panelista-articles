@@ -16,7 +16,7 @@ De beprövade metoderna är mjukvaruvärldens agila utveckling, startupvärldens
 2. Gör saker i små värdeskapande steg
 3. Skapa snabba feedbackloopar
 
-Att du också minskar risker, kostnader och tid från idé till lansering när du prioriterar träffsäkert är något som även ledningsgruppen brukar gilla. Så hur får du arbetet med kundinsikter att bli agilt?
+Att du också minskar risker, kostnader och tid från idé till lansering när du prioriterar träffsäkert är något som ledningsgruppen brukar gilla. Så hur får du arbetet med kundinsikter att bli agilt?
 
 ## Jobba hypotesdrivet utifrån kundinsikter
 Vill du redan i förväg veta om kunderna kommer att uppskatta det du skapar? Börja med att ta reda på deras behov, skapa sedan en hypotes om hur du ska uppfylla deras behov och testa den hypotesen på enklast och snabbast möjliga sätt. ~~Allt är en hypotes innan det har mött kunden~~.
