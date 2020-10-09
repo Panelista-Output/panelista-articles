@@ -30,15 +30,17 @@ Du frågar inte för att få reda på vad kunderna vill ha, du frågar för att 
 Precis som inom agil utveckling så behöver du i arbetetet med kundinsikter bryta ner det du vill göra i små delar och prioritera det som skapar mest värde just nu. Uppnå hög hastighet och låg risk genom den agila principen om att ~~maximera mängden arbete som inte görs~~.
 
 - Komplettera eller ersätt stora schemalagda undersökningsprojekt med snabba utforskande aktiviteter kring det som snart ska bli verklighet.
-- Undvik att göra förstudier om saker som kanske ska göras i framtiden, det mesta man utforskar som man inte har kapacitet att agera på i närtid slösas ändå bort.
 - Ersätt färdiga frågebatterier med öppna frågor, anpassa dig längs med vägen och ställa följdfrågor som _“Varför?”_, _“Kan du ge ett exempel?”_ och _“Hur skulle du vilja att det fungerade istället?”_. 
+- Undvik att göra förstudier om saker som kanske ska göras i framtiden, det mesta man utforskar som man inte har kapacitet att agera på i närtid slösas ändå bort.
 
 Det är en av anledningarna till att de flesta företag väljer att satsa på kvalitativa metoder med öppna frågor, diskussioner, intervjuer och observationer. Inte minst datadrivna startups som har bra koll på beteendedata, analys och nyckeltal och är intresserade av att komplettera med en förståelse för varför kunderna gör som de gör och testa nya idéer som det inte finns data för ännu.
 
 ## Skapa snabba feedbackloopar
 Grunden i allt från den agila utvecklingens sprintar, Lean Startups “Build-Measure-Learn”-loop och Service Designs iterativa experimenterande är att snabbt ta sig igenom loopar där du skapar en hypotes, testar den, lär dig. Och börjar om igen.
 
-Skapa förutsättningar för att snabbt kunna diskutera enskilda frågor med kunderna ([Panelista](https://panelista.com "Panelista")) eller boka fem djupintervjuer ([Ethnio](https://ethn.io "Ethnio")). För många företag är det även bra att skapa förutsättningar för att observera vad kunder gör i ett gränssnitt ([Hotjar](https://hotjar.com "Hotjar")) eller en fysisk miljö. Utforska ett fokuserat område åt gången och testa snabbt och enkelt hypoteser genom att beskriva en idé i en video och få input från kunderna, skapa enkla skisser som du ber kunderna att högt reflektera kring i intervjuer, eller observera hur kunderna reagerar på ett potentiellt framtida erbjudande. 
+- Skapa förutsättningar för att snabbt kunna diskutera enskilda frågor med kunderna ([Panelista](https://panelista.com "Panelista")) eller boka fem djupintervjuer ([Ethnio](https://ethn.io "Ethnio")).
+- För många företag är det även bra att skapa förutsättningar för att observera vad kunder gör i ett gränssnitt ([Hotjar](https://hotjar.com "Hotjar")) eller en fysisk miljö.
+- Utforska ett fokuserat område åt gången och testa snabbt och enkelt hypoteser genom att beskriva en idé i en video och få input från kunderna, skapa enkla skisser som du ber kunderna att högt reflektera kring i intervjuer, eller observera hur kunderna reagerar på ett potentiellt framtida erbjudande. 
 
 Ha alltid med kundinsikter som en del i arbetet, det ska vara lika självklart som att kolla med dina intressenter, korrläsa texter eller testa att nya funktioner fungerar. Lägg INTE ut det som ska styra era prioriteringar på en byrå eller annan avdelning! ~~Det är helt avgörande att de som skapar nya saker för kunderna har direkt tillgång till kunderna och verktyg för att snabbt kunna involvera dem~~. 
 
