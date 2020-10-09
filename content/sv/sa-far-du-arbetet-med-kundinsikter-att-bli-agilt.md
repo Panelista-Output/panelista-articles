@@ -23,6 +23,8 @@ Vill du redan i förväg veta om kunderna kommer att uppskatta det du skapar? B�
 
 Börja med att gräva fram insikter som redan finns eller ställ utforskande frågor som _“Hur skulle du vilja att X fungerade?”_ följt av följdfrågor för att komma ner på djupet. Skapa en hypotes baserat på insikterna (inte gissningar!) och testa hypotesen med frågor som _“Vi tänker att det skulle kunna fungera så här, vad tycker du?”_ eller genom att visa en enkel skiss/prototyp.
 
+Börja med att gräva fram insikter som redan finns eller ställ utforskande frågor som _“Hur skulle du önska att det kändes/fungerade när du...?”_ följt av följdfrågor för att komma ner på djupet. Skapa en hypotes baserat på insikterna (inte gissningar!) och testa hypotesen med frågor som _“Vi tänker att det skulle kunna fungera så här, vad tycker du?”_ eller genom att visa en enkel skiss/prototyp.
+
 Du frågar inte för att få reda på vad kunderna vill ha, du frågar för att förstå kundernas behov och drivkrafter för att kunna skapa hypoteser som du kan testa. Värdera de behov som du upptäcker utifrån nytta för kunden och värde för företaget, och testa hypoteser redan på whiteboard-stadiet. Om det kostar 10kr att ändra på whiteboarden, 1000kr i designen, och 100 000kr i produkten, hur tidigt vill du veta om hypotesen håller då?
 
 ## Gör saker i små värdeskapande steg
