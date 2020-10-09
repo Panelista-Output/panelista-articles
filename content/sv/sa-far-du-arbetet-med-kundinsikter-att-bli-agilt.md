@@ -31,7 +31,7 @@ Precis som inom agil utveckling så behöver du i arbetetet med kundinsikter bry
 
 - Komplettera eller ersätt stora schemalagda undersökningsprojekt med snabba utforskande aktiviteter kring det som snart ska bli verklighet.
 - Ersätt färdiga frågebatterier med öppna frågor, anpassa dig längs med vägen och ställ följdfrågor som _“Varför?”_, _“Kan du ge ett exempel?”_ och _“Hur skulle du vilja att det fungerade istället?”_. 
-- Undvik att göra förstudier om saker som kanske ska göras i framtiden, det mesta man utforskar som man inte har kapacitet att agera på i närtid slösas ändå bort.
+- Undvik att göra förstudier om saker som kanske ska göras i framtiden, det mesta du utforskar som du inte har kapacitet att agera på i närtid slösas ändå bort.
 
 Det är en av anledningarna till att de flesta företag väljer att satsa på kvalitativa metoder med öppna frågor, diskussioner, intervjuer och observationer. Inte minst datadrivna startups som har bra koll på beteendedata, analys och nyckeltal och är intresserade av att komplettera med en förståelse för varför kunderna gör som de gör och testa nya idéer som det inte finns data för ännu.
 
