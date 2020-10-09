@@ -2,10 +2,10 @@
 authors = ["Anders Palm"]
 date = 2020-10-09T14:00:00Z
 draft = true
-excerpt = "Alla är överens om att jobba kundcentrerat för att förutsägbart skapa framgångsrika produkter, tjänster och erbjudanden som kunderna älskar. Det finns även beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken."
+excerpt = "Alla är överens om att jobba kundcentrerat för att skapa framgångsrika produkter, tjänster och erbjudanden som kunderna älskar. Det finns beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken."
 hero = "/images/2-1-2020-10-06.jpg"
-hero_image_body = "Det finns även beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken."
-hero_image_title = "Alla är överens om att jobba kundcentrerat för att förutsägbart skapa framgångsrika produkter, tjänster och erbjudanden som kunderna älskar."
+hero_image_body = "Det finns beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken."
+hero_image_title = "Alla är överens om att jobba kundcentrerat för att skapa framgångsrika produkter, tjänster och erbjudanden som kunderna älskar."
 timeToRead = 4
 title = "Så får du arbetet med kundinsikter att bli agilt"
 
@@ -27,9 +27,11 @@ Vill du redan i förväg veta om kunderna kommer att uppskatta det du skapar? B�
 Du frågar inte för att få reda på vad kunderna vill ha, du frågar för att förstå kundernas behov och drivkrafter för att kunna skapa hypoteser som du kan testa. Värdera de behov som du upptäcker utifrån nytta för kunden och värde för företaget, och testa hypoteser redan på whiteboard-stadiet. Om det kostar 10kr att ändra på whiteboarden, 1000kr i designen, och 100 000kr i produkten, hur tidigt vill du veta om hypotesen håller då?
 
 ## Gör saker i små värdeskapande steg
-Precis som inom agil utveckling så behöver du i arbetetet med kundinsikter bryta ner det du vill göra i små delar och prioritera det som skapar mest värde just nu. Undvik att göra förstudier om saker som kanske ska göras i framtiden, det mesta man utforskar som man inte har kapacitet att agera på i närtid slösas ändå bort. Uppnå hög hastighet och låg risk genom den agila principen om att ~~maximera mängden arbete som inte görs~~.
+Precis som inom agil utveckling så behöver du i arbetetet med kundinsikter bryta ner det du vill göra i små delar och prioritera det som skapar mest värde just nu. Uppnå hög hastighet och låg risk genom den agila principen om att ~~maximera mängden arbete som inte görs~~.
 
-Komplettera eller ersätt stora schemalagda undersökningsprojekt med snabba utforskande aktiviteter kring det som snart ska bli verklighet. Undvik färdiga frågebatterier, om du verkligen vill förstå vad som är viktigast för den som svarar så måste du ställa öppna frågor, anpassa dig längs med vägen och ställa följdfrågor som _“Varför?”_, _“Kan du ge ett exempel?”_ och _“Hur skulle du vilja att det fungerade istället?”_. 
+- Komplettera eller ersätt stora schemalagda undersökningsprojekt med snabba utforskande aktiviteter kring det som snart ska bli verklighet.
+- Undvik att göra förstudier om saker som kanske ska göras i framtiden, det mesta man utforskar som man inte har kapacitet att agera på i närtid slösas ändå bort.
+- Ersätt färdiga frågebatterier med öppna frågor, anpassa dig längs med vägen och ställa följdfrågor som _“Varför?”_, _“Kan du ge ett exempel?”_ och _“Hur skulle du vilja att det fungerade istället?”_. 
 
 Det är en av anledningarna till att de flesta företag väljer att satsa på kvalitativa metoder med öppna frågor, diskussioner, intervjuer och observationer. Inte minst datadrivna startups som har bra koll på beteendedata, analys och nyckeltal och är intresserade av att komplettera med en förståelse för varför kunderna gör som de gör och testa nya idéer som det inte finns data för ännu.
 
