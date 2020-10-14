@@ -66,3 +66,5 @@ Många behöver hjälp att omsätta insikterna i praktiken i organisationen, att
 1. Fundera över hur ert insiktsbehov ser ut kopplat till verksamhetens övergripande strategiska målsättningar. Om ni är osäkra - ta hjälp av en insiktsbyrå eller researchkonsulter.
 2. Ringa in de områden där det idag finns kunskapsluckor som de nya insikterna ska fylla. Detta kan man göra både internt eller genom att bolla med utomstående.
 3. Var modig och ta ett första steg - min erfarenhet är att man ofta låter bli att ta reda på saker, trots att man inser att sådana insikter kan ha stort värde för verksamheten. I många fall är anledningen att man inte vill “väcka den björn som sover” - att få reda på hur saker och ting verkligen ligger till sätter ofta igång en kedja av händelser, men i slutändan är det alltid positivt för verksamheten som helhet.
+
+Läs mer om hur ditt företag kan komma igång och jobba mer kunddrivet i den här artikeln
