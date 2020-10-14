@@ -41,7 +41,7 @@ Genom att ta det här helhetsgreppet med flera olika typer av metodik får Trafi
 
 **Hur vet du vilken metod du ska använda?**
 
-* När det gäller att välja metod eller kombination av metoder så behöver man börja med att fråga sig vad man vill ha insikter om och om hur man vill använda dem.
+\- När det gäller att välja metod eller kombination av metoder så behöver man börja med att fråga sig vad man vill ha insikter om och om hur man vill använda dem.
 
 Om du vill du mäta ett beteende, till exempel; Är det A eller B? Hur många har testat den här produkten? Hur många tycker att det här är bra? Då behövs stora mängder data - det som vi kallar kvantitativ data.
 
@@ -57,7 +57,7 @@ Många jobbar idag först med BI och mer kvantitativ data och går sedan vidare 
 
 **Vilka effekter får era kunder av att jobba med båda perspektiven?**
 
-* Det finns stora vinster för företag som väljer att jobba kunddrivet med djupare och mer robusta insikter - både för innovation och effektivisering. I de kristider vi befinner oss i nu finns mycket att vinna på att strama åt och fokusera på att göra rätt saker. De företag som tar hjälp av de här metoderna kommer att vinna väldigt mycket genom att de bli mer träffsäkra och kan prioritera de utvecklingsområden som verkligen skapar kundvärde.
+\- Det finns stora vinster för företag som väljer att jobba kunddrivet med djupare och mer robusta insikter - både för innovation och effektivisering. I de kristider vi befinner oss i nu finns mycket att vinna på att strama åt och fokusera på att göra rätt saker. De företag som tar hjälp av de här metoderna kommer att vinna väldigt mycket genom att de bli mer träffsäkra och kan prioritera de utvecklingsområden som verkligen skapar kundvärde.
 
 Många behöver hjälp att omsätta insikterna i praktiken i organisationen, att sätta KPI-er och mätmetoder och att ta ett mer övergripande perspektiv på vilka utvecklingsbeslut man fattar. Det är en omställning till ett mer iterativt arbetssätt, där man tidigare jobbade linjärt och mer i stuprör för till exempel dataanalys och ux-design.
 
