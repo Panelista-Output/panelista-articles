@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Charlotta Alexen"]
 date = 2020-10-21T22:00:00Z
 draft = true
 excerpt = ""
@@ -14,13 +14,13 @@ Jag träffade Rasmus Sundqvist som är vice VD på insiktsbyrån Point för ett 
 
 **Vem är du Rasmus?**
 
-* Jag utvecklar vårt erbjudande, dvs hur vi presenterar oss, skapar värde och kommunicerar med våra kunder. Min bakgrund är väldigt bred - jag har läst både beteendevetenskap, konfliktlösning och ekonomisk historia.
+\- Jag utvecklar vårt erbjudande, dvs hur vi presenterar oss, skapar värde och kommunicerar med våra kunder. Min bakgrund är väldigt bred - jag har läst både beteendevetenskap, konfliktlösning och ekonomisk historia.
 
 **Hur jobbar ni på Point med kundinsikter?**
 
-* Point jobbar med perspektivet från de som använder en produkt eller tjänst, det finns alltså alltid kunder, brukare eller konsumenter med i bilden. Vi såg ett tydligt behov av att jobba med utgångspunkt hos den som produkten eller tjänsten ska skapa värde för, och använda både kvalitativ och kvantitativ metodik för att skapa insikter. Olika metoder kompletterar varandra och vi använder det som passar bäst för det aktuella caset.
+\- Point jobbar med perspektivet från de som använder en produkt eller tjänst, det finns alltså alltid kunder, brukare eller konsumenter med i bilden. Vi såg ett tydligt behov av att jobba med utgångspunkt hos den som produkten eller tjänsten ska skapa värde för, och använda både kvalitativ och kvantitativ metodik för att skapa insikter. Olika metoder kompletterar varandra och vi använder det som passar bäst för det aktuella caset.
 
-När vi på Point pratar om data skiljer vi på primärdata och sekundärdata. Primärdata är data som vi samlar in, t.ex. genom en fokusgrupp, djupintervjuer, fältintervjuer eller med ett enkelt digitalt verktyg som Panelista. Sekundärdata är passiv datainsamling från olika datakällor som t.ex. appar, system, crm, sensorer - från det lilla till det stora.
+När vi pratar om data skiljer vi på primärdata och sekundärdata. Primärdata är data som vi samlar in, t.ex. genom en fokusgrupp, djupintervjuer, fältintervjuer eller med ett enkelt digitalt verktyg som Panelista. Sekundärdata är passiv datainsamling från olika datakällor som t.ex. appar, system, crm, sensorer - från det lilla till det stora.
 
 Vi är öppna för att analysera alla typer av data för att få de bästa insikterna. Med andra ord har vi fokus på utmaningen istället för metodiken.
 
@@ -28,7 +28,7 @@ Vi är öppna för att analysera alla typer av data för att få de bästa insik
 
 Låt mig ta ett konkret exempel säger Rasmus.
 
-* Trafikverket ville utveckla sin årliga mätning av hur människor upplever det svenska vägnätet. Det tidigare underlag man samlade in hade inte längre något riktigt värde för utvecklingsteamen. De fick inte svar på rätt frågor; om en trafikant hade en dålig upplevelse visste de t.ex. inte om det var mycket vägskador eller om det saknades reflexstolpar, och de visste inte heller till vilken typ av väg svaren gällde,
+\- Trafikverket ville utveckla sin årliga mätning av hur människor upplever det svenska vägnätet. Det tidigare underlag man samlade in hade inte längre något riktigt värde för utvecklingsteamen. De fick inte svar på rätt frågor; om en trafikant hade en dålig upplevelse visste de t.ex. inte om det var mycket vägskador eller om det saknades reflexstolpar, och de visste inte heller till vilken typ av väg svaren gällde,
 
 Vi satte Trafikverkets process under vår tjänstedesignlupp. Genom att ta reda på vad utvecklingsteamen behövde för typ av data kunde vi utforma en ny mall för insikter:
 
@@ -39,7 +39,6 @@ Vi satte Trafikverkets process under vår tjänstedesignlupp. Genom att ta reda 
 
 Genom att ta det här helhetsgreppet med flera olika typer av metodik får Trafikverket ut betydligt mer användbara resultat från sina mätningar och kan fokusera sina underhållsinsatser där de får bäst effekt.
 
-  
 **Hur vet du vilken metod du ska använda?**
 
 * När det gäller att välja metod eller kombination av metoder så behöver man börja med att fråga sig vad man vill ha insikter om och om hur man vill använda dem.
