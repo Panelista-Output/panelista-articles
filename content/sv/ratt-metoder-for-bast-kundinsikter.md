@@ -24,6 +24,8 @@ När vi pratar om data skiljer vi på primärdata och sekundärdata. Primärdata
 
 Vi är öppna för att analysera alla typer av data för att få de bästa insikterna. Med andra ord har vi fokus på utmaningen istället för metodiken.
 
+{{< sv/visitpanelista >}}
+
 **När passar vilken metod?**
 
 Låt mig ta ett konkret exempel säger Rasmus.
