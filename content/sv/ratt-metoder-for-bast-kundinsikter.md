@@ -53,21 +53,21 @@ Att göra en stor mängd kvalitativa intervjuer är väldigt dyrt och kräver ex
 
 Man ska också vara ödmjuk inför statistiska resultat och automatiska tolkningar som t.ex. sökmotorstatistik, positiva eller negativa statements, eller omnämningar av vissa ord. För att förstå sammanhanget och kunna dra rätt slutsatser behöver man sätta de här resultaten i ett större perspektiv, till exempel med hjälp av en panel.
 
-Det är därför vi ser styrkan i att jobba med ett integrerat perspektiv med både kvantitativ och kvalitativ research i samma process.
+Det är därför vi ser ~~styrkan i att jobba med ett integrerat perspektiv med både kvantitativ och kvalitativ research i samma process.~~
 
 Många jobbar idag först med BI och mer kvantitativ data och går sedan vidare och jobbar kvalitativt med i en UX-fas. Men vi ser stora fördelar av att jobba mer holistiskt och iterativt. Point kopplar samman de här båda typerna av insiktsarbete, i en gemensam analysprocess.
 
 **Vilka effekter får era kunder av att jobba med båda perspektiven?**
 
-\- Det finns stora vinster för företag som väljer att jobba kunddrivet med djupare och mer robusta insikter - både för innovation och effektivisering. I de kristider vi befinner oss i nu finns mycket att vinna på att strama åt och fokusera på att göra rätt saker. De företag som tar hjälp av de här metoderna kommer att vinna väldigt mycket genom att de bli mer träffsäkra och kan prioritera de utvecklingsområden som verkligen skapar kundvärde.
+~~\- Det finns stora vinster för företag som väljer att jobba kunddrivet~~ med djupare och mer robusta insikter - både för innovation och effektivisering. I de kristider vi befinner oss i nu finns mycket att vinna på att strama åt och fokusera på att göra rätt saker. De företag som tar hjälp av de här metoderna kommer att vinna väldigt mycket genom att de bli mer träffsäkra och kan prioritera de utvecklingsområden som verkligen skapar kundvärde.
 
 Många behöver hjälp att omsätta insikterna i praktiken i organisationen, att sätta KPI-er och mätmetoder och att ta ett mer övergripande perspektiv på vilka utvecklingsbeslut man fattar. Det är en omställning till ett mer iterativt arbetssätt, där man tidigare jobbade linjärt och mer i stuprör för till exempel dataanalys och ux-design.
 
 **Vad är dina tre bästa tips för att komma igång?**
 
-1. Fundera över hur ert insiktsbehov ser ut kopplat till verksamhetens övergripande strategiska målsättningar. Om ni är osäkra - ta hjälp av en insiktsbyrå eller researchkonsulter.
-2. Ringa in de områden där det idag finns kunskapsluckor som de nya insikterna ska fylla. Detta kan man göra både internt eller genom att bolla med utomstående.
-3. Var modig och ta ett första steg - min erfarenhet är att man ofta låter bli att ta reda på saker, trots att man inser att sådana insikter kan ha stort värde för verksamheten. I många fall är anledningen att man inte vill “väcka den björn som sover” - att få reda på hur saker och ting verkligen ligger till sätter ofta igång en kedja av händelser, men i slutändan är det alltid positivt för verksamheten som helhet.
+1. ~~Fundera över hur ert insiktsbehov ser ut kopplat till verksamhetens övergripande strategiska målsättningar.~~ Om ni är osäkra - ta hjälp av en insiktsbyrå eller researchkonsulter.
+2. ~~Ringa in de områden där det idag finns kunskapsluckor som de nya insikterna ska fylla.~~ Detta kan man göra både internt eller genom att bolla med utomstående.
+3. ~~Var modig och ta ett första steg~~ - min erfarenhet är att man ofta låter bli att ta reda på saker, trots att man inser att sådana insikter kan ha stort värde för verksamheten. I många fall är anledningen att man inte vill “väcka den björn som sover” - att få reda på hur saker och ting verkligen ligger till sätter ofta igång en kedja av händelser, men i slutändan är det alltid positivt för verksamheten som helhet.
 
 Läs mer om hur ditt företag kan komma igång och jobba mer kunddrivet i den här artikeln 
 
