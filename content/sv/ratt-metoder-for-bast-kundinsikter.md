@@ -47,7 +47,7 @@ Genom att ta det här helhetsgreppet med flera olika typer av metodik får Trafi
 
 Om du vill du mäta ett beteende, till exempel; Är det A eller B? Hur många har testat den här produkten? Hur många tycker att det här är bra? Då behövs stora mängder data - det som vi kallar kvantitativ data.
 
-Men om du vill veta varför behöver vi undersöka motivation, känslor och komma in på djupet i hur människor tänker. Det kan man aldrig uppnå med kvantitativ metod. Om du till exempel gör en webbenkät eller ställer en fråga via sms kan du inte ställa följdfrågor som - Vad gjorde du sen? Var gjorde du innan?, eller mer djuplodande frågor som -Hur kände du då?.
+Men ~~om du vill veta varför behöver vi undersöka motivation, känslor och komma in på djupet i hur människor tänker. Det kan man aldrig uppnå med kvantitativ metod.~~ Om du till exempel gör en webbenkät eller ställer en fråga via sms kan du inte ställa följdfrågor som - Vad gjorde du sen? Var gjorde du innan?, eller mer djuplodande frågor som -Hur kände du då?.
 
 Att göra en stor mängd kvalitativa intervjuer är väldigt dyrt och kräver extremt mycket efterarbete. Man ska också ha respekt för att tolkningar av svaren kan inte göras med automatik. Ofta ger det mycket bättre resultat att som i fallet med Trafikverket ringa in rätt fokusområde med en kvantitativ undersökning och därefter gå på djupet och ställa kvalitativa frågor till en mindre grupp.
 
