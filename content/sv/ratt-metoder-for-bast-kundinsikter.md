@@ -22,7 +22,7 @@ Jag träffade Rasmus Sundqvist som är vice VD på insiktsbyrån Point för ett 
 
 När vi pratar om data skiljer vi på primärdata och sekundärdata. Primärdata är data som vi samlar in, t.ex. genom en fokusgrupp, djupintervjuer, fältintervjuer eller med ett enkelt digitalt verktyg som Panelista. Sekundärdata är passiv datainsamling från olika datakällor som t.ex. appar, system, crm, sensorer - från det lilla till det stora.
 
-Vi är öppna för att analysera alla typer av data för att få de bästa insikterna. Med andra ord har vi fokus på utmaningen istället för metodiken.
+~~Vi är öppna för att analysera alla typer av data för att få de bästa insikterna.~~ Med andra ord har vi fokus på utmaningen istället för metodiken.
 
 {{< sv/visitpanelista >}}
 
