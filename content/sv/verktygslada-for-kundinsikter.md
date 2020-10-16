@@ -23,11 +23,11 @@ _“Det blir alltid ett stort projekt att involvera målgruppen och ta hand om r
 
 I denna artikel beskriver vi några av alla olika tekniker och verktyg som finns tillgängliga för att bättre förstå verkliga kundbehov och att involvera kunder i produktutvecklingen. Vi förespråkar att man använder flera av dessa när man bygger upp sin egen verktygslåda för kundinsikter.
 
-Avslutningsvis beskriver vi hur Panelista kan användas i detta sammanhang och hur det skiljer sig från andra verktyg.  
-  
+Avslutningsvis beskriver vi hur Panelista kan användas i detta sammanhang och hur det skiljer sig från andra verktyg.
+
 {{< sv/visitpanelista >}}
 
-## Fokusgrupper och djupintervjuer
+## #1: Fokusgrupper och djupintervjuer
 
 Ett av de bästa sätten att få kvalitativa insikter och djupare förståelse för behov är att använda sig av fokusgrupper eller djupintervjuer. I en fokusgrupp sätter man samman ett antal personer som får frågor och diskutera kring ett specifikt ämne.
 
@@ -48,7 +48,7 @@ Ett verktyg som vi gillar som kan underlätta vid bokning, koordinering och admi
 * Tar tid att sammanställa och analysera resultat
 * Kräver förkunskaper om intervjuteknik och metod för bästa resultat
 
-## Enkäter
+## #2: Enkäter
 
 Vem har inte besvarat en kundenkät? Enkäter är kanske det mest frekvent använda sättet av företag för att få kund och användarfeedback. Enkäter används främst för kvantitativ feedback men kompletteras ofta med frågor i fritext. Det finns en mängd olika digitala verktyg som gör det snabbt och enkelt att komma igång med kundenkäter t.ex. Survey Monkey.
 
@@ -64,7 +64,7 @@ Vem har inte besvarat en kundenkät? Enkäter är kanske det mest frekvent anvä
 * Kvalitativ feedback i enkäter ger oftast mest värde men tar tid att sammanställa
 * Brist på engagemang från målgruppen “Inte en enkät till!!”
 
-## Feedbackverktyg
+## 3#: Feedbackverktyg
 
 Ett väldigt kraftfullt sätt att samla insikter från digitala kanaler är att använda feedbackverktyg som t.ex Usabilla eller Survicate. Det är en variant av enkät som ofta utformas som “tyck till”-knapp eller popups på webbplatser och i appar. På så vis kan man samla in feedback från kunder direkt där kunden befinner sig. Flera av verktygen har möjlighet till att sätta upp regelstyrda frågeformulär utifrån hur kunden svarar eller beter sig på sidan/ i appen.
 
@@ -80,7 +80,7 @@ Ett väldigt kraftfullt sätt att samla insikter från digitala kanaler är att 
 * Svårt att följa upp och fördjupa insikter/ställa följdfrågor
 * Kräver analys och uppföljning för att ge bra insikter
 
-## Dataanalysverktyg
+## 4#: Dataanalysverktyg
 
 Digitala analysverktyg som Hotjar, Google analytics, A/B-testningsverktyg är väldigt kraftfulla för att analysera stora datamängder om generell användning, användbarhet och optimering av digitala tjänster. Genom att följa användarbeteende som t.ex sidvisningar, unika användare, tid på sidan, bounce rate, heat maps etc. kan man få förståelse för användarnas behov och intressen och vad som fungerar eller inte fungerar. Verktygen innehåller ofta enkla överblickbara rapporter som kan användas i analys av användarbeteende och följa upp konverteringsmål.
 
@@ -96,7 +96,7 @@ Digitala analysverktyg som Hotjar, Google analytics, A/B-testningsverktyg är v�
 * Kräver specialistkompetens för att göra djupare analyser
 * Bra för att förstå var man har utmaningar, men inte alltid varför
 
-## Sociala medier
+## #5: Sociala medier
 
 Många företag använder sociala medier som Facebook, Twitter, Instagram och LinkedIn för att inspirera, konversera med och lyssna på sina kunder. Genom att vara aktiv i sociala medier så kan företag ha en aktiv dialog med sin målgrupp. Dessutom finns möjlighet att få insikter om sitt varumärke och målgrupp från sociala medier utanför sina egna kanaler/sidor genom att använda sociala lyssningsverktyg som t.ex. Mention.
 
@@ -113,7 +113,7 @@ Många företag använder sociala medier som Facebook, Twitter, Instagram och Li
 * Svårt att samla ihop och sammanställa kvalitativa insikter
 * Inte säkert att din målgrupp är aktiv i sociala medier
 
-## Videofrågor med Panelista - ditt nya verktyg i verktygslådan
+## #6: Videofrågor med Panelista - ditt nya verktyg i verktygslådan
 
 <div class="Image__medium">
 <img src="/images/Panelista article graph SV-2020-04-27.png" alt="Panelista Matrix" />
