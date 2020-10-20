@@ -1,7 +1,6 @@
 +++
 authors = ["Anders Palm"]
 date = 2020-10-20T09:00:00Z
-draft = true
 excerpt = "Alla är överens om att jobba kundcentrerat för att skapa framgångsrika produkter, tjänster och erbjudanden som kunderna älskar. Det finns beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken."
 hero = "/images/2-1-2020-10-06.jpg"
 hero_image_body = "Det finns beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken."
