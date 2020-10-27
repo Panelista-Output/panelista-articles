@@ -1,16 +1,16 @@
 +++
 authors = ["Anders Palm"]
-date = 2020-05-22T06:00:00Z
+date = 2020-10-29T10:00:00Z
 draft = true
 excerpt = "Värdet man får ut i förhållande till insatsen är oslagbart! Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
-hero = "/images/vasttrafik-case-design-2020-05-14.jpg"
+hero = "/images/plantor-1-1-2020-10-27.jpg"
 hero_image_body = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
 hero_image_title = "Värdet man får ut i förhållande till insatsen är oslagbart!"
-timeToRead = 3
+timeToRead = 20
 title = "Södra & Panelista"
 
 +++
-## Västtrafik
+## Södra
 
 Västtrafik är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Västtrafik testar och utvärderar Panelista i arbetet med att hitta olika sätt att interagera med kunder i samband med sin tjänsteutveckling. Hittills har två paneler skapats; _Västtrafik Labs_ fokuserad på utveckling av tjänster och _Framtidens färjetrafik_ fokuserad på trafiken över Göta Älv i Göteborg.
 
