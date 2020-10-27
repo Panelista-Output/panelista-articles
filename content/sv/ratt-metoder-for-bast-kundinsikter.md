@@ -1,7 +1,6 @@
 +++
 authors = ["Charlotta Alexen"]
 date = 2020-10-21T22:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/content-pixie-i0bamckluee-unsplash-2020-10-14.jpg"
 hero_image_body = ""
