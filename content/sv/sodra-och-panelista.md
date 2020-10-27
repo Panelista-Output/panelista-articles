@@ -14,7 +14,7 @@ title = "Södra & Panelista"
 
 Västtrafik är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Västtrafik testar och utvärderar Panelista i arbetet med att hitta olika sätt att interagera med kunder i samband med sin tjänsteutveckling. Hittills har två paneler skapats; _Västtrafik Labs_ fokuserad på utveckling av tjänster och _Framtidens färjetrafik_ fokuserad på trafiken över Göta Älv i Göteborg.
 
-_Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänstedesigner och Samuel Nygren som är produktägare för appen Västtrafik To Go och reseplanering på Västtrafik._
+_Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och Christoffer Stampe i affärsutvecklingsteamet på Södra Skog._
 
 ***
 
