@@ -1,7 +1,7 @@
 +++
 authors = ["Charlotta Alexen"]
 date = 2020-10-26T23:00:00Z
-excerpt = "Rasmus Sundqvist på Point berättar om hur du ska göra för att få bäst kundinsikter och riktig effekt i verksamheten."
+excerpt = "Rasmus Sundqvist på Point delar med sig av sina tips om hur du ska få bäst kundinsikter och riktig effekt i verksamheten."
 hero = "/images/content-pixie-i0bamckluee-unsplash-2020-10-14.jpg"
 hero_image_body = ""
 hero_image_title = ""
