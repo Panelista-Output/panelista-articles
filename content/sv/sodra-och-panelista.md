@@ -30,7 +30,7 @@ _Vi på Panelista ställde några frågor till kundinvolveringspionjärerna Kris
 
 **Christoffer**: Det går väldigt bra! Våra paneler är viktiga i vår kundcentrerade utveckling för att snabbt kunna få feedback på saker som är på väg eller under utveckling. För att förstå vad medlemmarna värderar högt, så det inte bara blir fokus på det vi värderar högt. Det framgår snabbt att det inte alltid är samma. 
 
-**Kristin**: Det har verkligen lossnat! Det har blivit väldigt naturligt att skicka ut videofrågor till våra skogsägare och diskutera svaren digitalt. Det har poppat upp behov på olika platser inom Södra, och det finns en tydlig nyfikenhet kring våra paneler i organisationen.
+**Kristin**: Det har verkligen lossnat! ~~Det har blivit väldigt naturligt att skicka ut videofrågor till våra skogsägare och diskutera svaren digitalt~~. Det har poppat upp behov på olika platser inom Södra, och det finns en tydlig nyfikenhet kring våra paneler i organisationen.
 
 **Aron**: Ja, vi involverar andra på Södra när det är frågor relevanta för dem, och delar anonymiserade rapporter med projektgrupper. Vi diskuterar också resultaten i vårt team för fler perspektiv. 
 
@@ -49,7 +49,7 @@ aktiva appanvändare. Sedan bjuder vi in dem genom att dela länken till panelen
 
 ### Vilken typ av frågor ställer ni?
 
-**Kristin**: Vi ställer frågor av lite olika karaktär. Allt från breda öppna frågor, och hela vägen till feedback på specifik design. Vi vill både förstå grundläggande behov och inhämta synpunkter på specifika delar. 
+**Kristin**: Vi ställer frågor av lite olika karaktär. Allt från breda öppna frågor, och hela vägen till feedback på specifik design. ~~Vi vill både förstå grundläggande behov och inhämta synpunkter på specifika delar~~. 
 
 **Aron**: Ibland är det så enkelt som att förstå vad skogsägarna använder för ord och språk, hur man formulerar sig. Så att vi kan formulera oss på rätt sätt. 
 
@@ -63,9 +63,9 @@ aktiva appanvändare. Sedan bjuder vi in dem genom att dela länken till panelen
 
 ### Vad har varit bäst?
 
-**Christoffer**: Vi har verkligen fått bort tröskeln kring att arbeta kundinvolverat, vi har ju direkt tillgång till fler än 100 personer som vill vara med och bidra!
+**Christoffer**: ~~Vi har verkligen fått bort tröskeln kring att arbeta kundinvolverat~~, vi har ju direkt tillgång till fler än 100 personer som vill vara med och bidra!
 
-**Kristin**: Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna. Tack vare våra paneler så kan vi visa på något konkret som man kan ta på för att jobba på det här sättet. Vi har blivit gänget med Skogsägarpanelen.
+**Kristin**: ~~Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna~~. Tack vare våra paneler så kan vi visa på något konkret som man kan ta på för att jobba på det här sättet. Vi har blivit gänget med Skogsägarpanelen.
 
 **Aron**: Det har varit ett jättelyft och gjort det enkelt att ha en dialog. Medlemmarnas riktiga ord är superviktiga, det ökar vår motivation till att göra ännu bättre och mer träffsäkra saker. Jag vill bara understryka igen hur bra den här tjänsten är! 
 
