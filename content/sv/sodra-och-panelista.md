@@ -12,27 +12,29 @@ title = "Södra & Panelista"
 +++
 ## Södra
 
-Västtrafik är Sveriges näst största länstrafikföretag och ansvarar för kollektivtrafiken i Västsverige. Varje dag väljer över 400 000 kunder att resa med deras bussar, tåg, spårvagnar och båtar. I nära samarbete med partners formar Västtrafik en kollektivtrafik med kunden i fokus. Målet är hållbara resor och smarta tjänster för att vara det självklara valet när du reser. Västtrafik testar och utvärderar Panelista i arbetet med att hitta olika sätt att interagera med kunder i samband med sin tjänsteutveckling. Hittills har två paneler skapats; _Västtrafik Labs_ fokuserad på utveckling av tjänster och _Framtidens färjetrafik_ fokuserad på trafiken över Göta Älv i Göteborg.
+Södra är en skogsindustrikoncern som ägs av 52 000 skogsägare. Södra förädlar ägarnas skogsråvara till förnybara, klimatsmarta produkter som exporteras till en internationell marknad. En del ser en skog. Södra ser klimatnytta, långsiktig ekonomisk tillväxt och innovationskraft som aldrig slutar växa.
 
-_Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och Christoffer Stampe i affärsutvecklingsteamet på Södra Skog._
+Inom affärsområdet Södra Skog jobbar man bland annat med tjänster som gör det enkelt att vara skogsägare, och man var det allra första företaget att använda Panelista. Idag har man _Skogsägarpanelen_ som är lite bredare och _Södras utvecklingspanel_ som är helt fokuserad på utveckling av digitala tjänster för skogsägarna.
+
+_Vi på Panelista ställde några frågor till kundinvolveringspionjärerna Kristin Lindell, Aron Olbers och Christoffer Stampe i affärsutvecklingsteamet på Södra Skog._
 
 ***
 
-### Varför använder ni Panelista?
+### Hur kommer det sig att ni var allra först med att använda Panelista?
 
-**Annelie**: ~~Vi vill komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar.~~ Det handlar om explorativ research i tidiga skeenden, men även insikter, ställningstaganden och behov som uppstår löpande.
+**Kristin**: Panelista lät tidigt som ett väldigt bra verktyg för när vi jobbar med att skapa produkter och tjänster som gör det roligare och enklare att vara skogsägare. Vi vill skapa motivation att vara en aktiv skogsägare, och tanken var redan från början att bredda och förenkla kontakten med våra skogsägare.
 
-**Samuel**: Ja, det är viktigt att ta reda på kundernas input innan vi utformar nya funktioner.
-
-**Annelie**: Sedan är det en bonus att kunna visa att vi inkluderar våra kunder och är innovativa som företag.
+**Aron**: _“Utveckling som gör skillnad”_ är vårt motto och det vi försöker göra. Det handlar om att omsätta det vi lär oss till riktiga strategier, appar, tjänster osv. Skogsägarnas perspektiv är jätteviktigt för oss, så att vi kan skapa träffsäkra saker för dem. ~~En viktig del är att undvika vår egen bias, att snabbt få in andra perspektiv för att tidigt verifiera eller falsifiera våra hypoteser~~.
 
 ### Hur går det?
 
-**Samuel**: Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer. Inte bara tumme upp eller ner. ~~Värdet man får ut i förhållande till insatsen är oslagbart!~~
 
-**Annelie**: Det är bra engagemang än så länge. Jag jobbar mycket med att samla in kunddata och insikter så hade nog en ganska tydlig bild om hur det skulle bli. Mitt frågetecken var hur man faciliterar en sådan här panel för att få en trevlig och konstruktiv dialog. ~~Jag trodde att det skulle vara svårt, men det sköter sig mer eller mindre självt.~~
+**Christoffer**: Det går väldigt bra! Våra paneler är viktiga i vår kundcentrerade utveckling för att snabbt kunna få feedback på saker som är på väg eller under utveckling. För att förstå vad medlemmarna värderar högt, så det inte bara blir fokus på det vi värderar högt. Det framgår snabbt att det inte alltid är samma. 
 
-**Samuel**: Ja, jag hade faktiskt förväntat mig lägre engagemang då vi inte kompenserar panelisterna för att vara med. Jag trodde inte heller att så många skulle svara på följdfrågor.
+**Kristin**: Det har verkligen lossnat! Det har blivit väldigt naturligt att skicka ut videofrågor till våra skogsägare och diskutera svaren digitalt. Det har poppat upp behov på olika platser inom Södra, och det finns en tydlig nyfikenhet kring våra paneler i organisationen.
+
+**Aron**: Ja, vi involverar andra på Södra när det är frågor relevanta för dem, och delar anonymiserade rapporter med projektgrupper. Vi diskuterar också resultaten i vårt team för fler perspektiv. 
+
 
 {{< sv/visitpanelista >}}
 
