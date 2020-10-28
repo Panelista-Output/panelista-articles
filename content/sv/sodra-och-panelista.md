@@ -28,55 +28,48 @@ _Vi på Panelista ställde några frågor till kundinvolveringspionjärerna Kris
 
 ### Hur går det?
 
-
 **Christoffer**: Det går väldigt bra! Våra paneler är viktiga i vår kundcentrerade utveckling för att snabbt kunna få feedback på saker som är på väg eller under utveckling. För att förstå vad medlemmarna värderar högt, så det inte bara blir fokus på det vi värderar högt. Det framgår snabbt att det inte alltid är samma. 
 
 **Kristin**: Det har verkligen lossnat! Det har blivit väldigt naturligt att skicka ut videofrågor till våra skogsägare och diskutera svaren digitalt. Det har poppat upp behov på olika platser inom Södra, och det finns en tydlig nyfikenhet kring våra paneler i organisationen.
 
 **Aron**: Ja, vi involverar andra på Södra när det är frågor relevanta för dem, och delar anonymiserade rapporter med projektgrupper. Vi diskuterar också resultaten i vårt team för fler perspektiv. 
 
-
 {{< sv/visitpanelista >}}
 
-### Hur rekryterade ni panelister?
+### Hur känns det med frågor i videoformat?
 
-**Samuel**: Vi valde att kontakta personer som på olika sätt visat engagemang tidigare. Rent praktiskt så rekryterade vi kunder till panelen via en popup i vår app Västtrafik To Go och via mail till de vi redan haft kontakt med.
+**Kristin**: Jättebra, det är väldigt trevligt och personligt att ta del av videorna. Även om det krävs lite mod i början att spela in video, så ser vi att det skapar mycket engagemang. Det blir också tydligt då man kan säga rätt mycket på 30 sekunder video och trycka på det som är viktigast.
 
-**Annelie**: Den första panelen var en generell panel, så där tänkte vi framförallt till kring vilka kunder som är lättillgängliga. Det kändes som en bra idé att sänka tröskeln för den första panelen, för att komma igång, och sedan sätta ihop mer fokuserade paneler. Vår andra panel är en färjestudie så där bjuder vi in kunder som reser med färjorna.
+**Aron**: Ja, vi har sänkt våra egna trösklar och släppt att försöka få det perfekt, då vi märker att det uppskattas att vi pratar med medlemmarna på det här sättet. 
+
+### Hur rekryterar ni panelister?
+
+**Aron**: Vi har valt ut skogsägare från vårt CRM-verktyg. När det är en mer generell panel så slumpar vi fram ett urval med vissa ramar, i andra fall så har vi valt ut t ex.
+aktiva appanvändare. Sedan bjuder vi in dem genom att dela länken till panelen via SMS eller mail, även det via CRM-verktyget.
 
 ### Vilken typ av frågor ställer ni?
 
-**Samuel**: En fråga har t ex. handlat om att bekräfta våra hypoteser kring information vid störningar i trafiken; _“Hur skulle du vilja få reda på om det finns något som påverkar din resa?”_. En annan var för att utforska behov för möjliga abonnemang; _“Borde Västtrafik erbjuda någon form av abonnemang?. Och vad skulle då vara viktigt att tänka på?_". ~~Där fick vi in mycket matnyttigt som vi inte tänkt på~~.
+**Kristin**: Vi ställer frågor av lite olika karaktär. Allt från breda öppna frågor, och hela vägen till feedback på specifik design. Vi vill både förstå grundläggande behov och inhämta synpunkter på specifika delar. 
 
-**Annelie**: Vi har även ställt en fråga där vi länkade till en prototyp för en ny funktion i vår app, så det är lite olika karaktär på frågorna. Ibland delar många panelister samma behov, ibland är det väldigt spritt.
+**Aron**: Ibland är det så enkelt som att förstå vad skogsägarna använder för ord och språk, hur man formulerar sig. Så att vi kan formulera oss på rätt sätt. 
 
-### Jobbar ni med kundinsikter på något annat sätt?
-
-**Annelie**: Absolut. Vi gör prototyper, intervjuar kunder, skickar enkäter mm. Jämfört med enkäter så känns Panelista som ett bra format med bara en enda öppen fråga så att man får rikliga svar där man ser nyanseringar, ordval, och kan läsa in mer. Det blir också trevligt för att kunderna får ett ansikte på en person, snarare än att det är ett stort företag som Västtrafik som är avsändare. Nu är det människor bakom.
-
-**Samuel**: En videofråga på Panelista blir gediget. Inte lika djupt som en timmes intervju med varje person, men någonstans mellan en runda intervjuer och en enkät.
-
-**Annelie**: Det är väldigt låg tröskel för att få ut en videofråga jämfört med att hitta en tid när man kan ses för en intervju. Jag gillar också att ~~folk svarar mer i lugn och ro när det passar dem~~ i Panelista.
-
-### Vad har varit bäst med Panelista?
-
-**Annelie**: Den första frågan! Känslan när det pepprade in svar. Det visade på ett engagemang och att kunderna vill vara med och påverka. Vi fick även ett antal hypoteser bekräftade direkt, så att vi kunde gå vidare med dessa.
-
-**Samuel**: ~~Det bästa hittills är hur låg tröskeln är för att faktiskt skjuta ut en fråga.~~ Vet du ungefär vilket område du vill veta mer om så tar det kanske 30 min att formulera en bra fråga och 20 min på att spela in och skjuta ut den. Extra lätt är det för personer som redan har en roadmap där det hela tiden finns nya aktuella områden att utforska.
+**Christoffer**: Vi utforskar behov, prioriteringar och om vi missat något som är viktigt för skogsägarna. Ibland bredare, ibland väldigt specifikt som t ex. “Vilka notifieringar vill du få från Södras nya app Min skogsgård?” 
 
 ### Vad har varit svårast?
 
-**Annelie**: Att inte se sur ut på filmen när man är fokuserad! Att hitta sitt format som är avslappnat men proffsigt. Jag vill också se att panelisterna spinner vidare på varandras svar, det hade varit sjukt spännande att se fler diskussioner mellan dem och att panelisterna levlade olika idéer och resonemang med varandra. Vi har sett några göra det, men vill se mer!
+**Christoffer**: Det är ibland en utmaning att formulera bra frågor som är tydliga men inte för riktade, men vi blir bättre och bättre.
 
-**Samuel**: Överlag så är det nog för oss själva att ta insikterna vidare till design och arbetspaket i tillräckligt högt tempo, nu när vi får veta vad kunderna behöver. Med själva Panelista så håller jag med om att det är att spela in frågan. Det svåra med frågan är att vara naturlig och prata fritt. Att skippa stolpar och hjälptext. ~~Precis som en musiker med ackord där det blir bättre när man bara lyssnar och spelar med, men det krävs mod!~~
+**Aron**: Att stå framför kameran, framförallt i början. Det är färre tagningar nu och jag vågar släppa ut videos även när jag säger fel. Det är helt klart värt det då vi inte hade fått samma respons eller haft samma samtal om det var bara en skriven fråga. Det blir tydligt att vi investerar i relationen med våra skogsägare på ett personligt sätt.
 
-### Hur är det att jobba med Panelista och Panelista-teamet?
+### Vad har varit bäst?
 
-**Samuel**: Jag har aldrig hört talas om den här typen av tjänst innan. Ni gör något helt unikt. Produkten är väldigt smutt. Enkel, stilren, med bra överblick. Genomtänkt och lättarbetad.
+**Christoffer**: Vi har verkligen fått bort tröskeln kring att arbeta kundinvolverat, vi har ju direkt tillgång till fler än 100 personer som vill vara med och bidra!
 
-**Annelie**: Det fungerar väldigt bra och var lätt att komma igång. Jag ser fram emot att se Panelista växa och få fler features, och vi har även en bra dialog med er kring saker som kan bli ännu bättre. T ex. hade det ibland varit trevligt att bara kunna skicka ut en snabbfråga med tumme upp/tumme ner. Roligt att vara igång och ~~folk blir väldigt peppade när de hör caset och inser hur lätt det är~~.
+**Kristin**: Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna. Tack vare våra paneler så kan vi visa på något konkret som man kan ta på för att jobba på det här sättet. Vi har blivit gänget med Skogsägarpanelen.
 
-_Tack Annelie och Samuel!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
+**Aron**: Det har varit ett jättelyft och gjort det enkelt att ha en dialog. Medlemmarnas riktiga ord är superviktiga, det ökar vår motivation till att göra ännu bättre och mer träffsäkra saker. Jag vill bara understryka igen hur bra den här tjänsten är! 
+
+_Tack Kristin, Aron och Christoffer!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
 
