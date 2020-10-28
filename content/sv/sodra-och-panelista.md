@@ -2,10 +2,10 @@
 authors = ["Anders Palm"]
 date = 2020-10-29T10:00:00Z
 draft = true
-excerpt = "Värdet man får ut i förhållande till insatsen är oslagbart! Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
+excerpt = "Vi har verkligen fått bort tröskeln kring att arbeta kundinvolverat! Nu har vi direkt tillgång till fler än 100 personer som vill vara med och bidra. Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna."
 hero = "/images/plantor-1-1-2020-10-27.jpg"
-hero_image_body = "Vi använder Panelista för att komma i kontakt med olika typer av engagerade kunder för att bolla idéer och tankar, och få input innan vi utformar nya funktioner. Vi får många väldigt fylliga och genomtänkta svar, förslag och kommentarer."
-hero_image_title = "Värdet man får ut i förhållande till insatsen är oslagbart!"
+hero_image_body = "Nu har vi direkt tillgång till fler än 100 personer som vill vara med och bidra. Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna."
+hero_image_title = "Vi har verkligen fått bort tröskeln kring att arbeta kundinvolverat!"
 timeToRead = 3
 title = "Södra & Panelista"
 
@@ -53,7 +53,7 @@ aktiva appanvändare. Sedan bjuder vi in dem genom att dela länken till panelen
 
 **Aron**: Ibland är det så enkelt som att förstå vad skogsägarna använder för ord och språk, hur man formulerar sig. Så att vi kan formulera oss på rätt sätt. 
 
-**Christoffer**: Vi utforskar behov, prioriteringar och om vi missat något som är viktigt för skogsägarna. Ibland bredare, ibland väldigt specifikt som t ex. “Vilka notifieringar vill du få från Södras nya app Min skogsgård?” 
+**Christoffer**: Vi utforskar behov, prioriteringar och om vi missat något som är viktigt för skogsägarna. Ibland bredare, ibland väldigt specifikt som t ex. _“Vilka notifieringar vill du få från Södras nya app Min skogsgård?”_ 
 
 ### Vad har varit svårast?
 
