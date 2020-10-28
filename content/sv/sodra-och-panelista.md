@@ -16,13 +16,13 @@ Södra är en skogsindustrikoncern som ägs av 52 000 skogsägare. Södra förä
 
 Inom affärsområdet Södra Skog jobbar man bland annat med tjänster som gör det enkelt att vara skogsägare, och man var det allra första företaget att använda Panelista. Idag har man _Skogsägarpanelen_ som är lite bredare och _Södras utvecklingspanel_ som är helt fokuserad på utveckling av digitala tjänster för skogsägarna.
 
-_Vi på Panelista ställde några frågor till kundinvolveringspionjärerna Kristin Lindell, Aron Olbers och Christoffer Stampe i affärsutvecklingsteamet på Södra Skog._
+_Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och Christoffer Stampe i affärsutvecklingsteamet på Södra Skog._
 
 ***
 
-### Hur kommer det sig att ni var allra först med att använda Panelista?
+### Ni var både pionjärer med Panelista och utökar kontinuerligt användningen, hur kommer det sig?
 
-**Kristin**: Panelista lät tidigt som ett väldigt bra verktyg för när vi jobbar med att skapa produkter och tjänster som gör det roligare och enklare att vara skogsägare. Vi vill skapa motivation att vara en aktiv skogsägare, och tanken var redan från början att bredda och förenkla kontakten med våra skogsägare.
+**Kristin**: Vi är inne på andra året och har numera två paneler med skogsägare för olika syften. Panelista lät tidigt som ett väldigt bra verktyg för när vi jobbar med att skapa produkter och tjänster som gör det roligare och enklare att vara skogsägare. Vi vill skapa motivation att vara en aktiv skogsägare, och tanken var redan från början att bredda och förenkla kontakten med våra skogsägare.
 
 **Aron**: _“Utveckling som gör skillnad”_ är vårt motto och det vi försöker göra. Det handlar om att omsätta det vi lär oss till riktiga strategier, appar, tjänster osv. Skogsägarnas perspektiv är jätteviktigt för oss, så att vi kan skapa träffsäkra saker för dem. ~~En viktig del är att undvika vår egen bias, att snabbt få in andra perspektiv för att tidigt verifiera eller falsifiera våra hypoteser~~.
 
