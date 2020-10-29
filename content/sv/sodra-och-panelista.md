@@ -44,8 +44,7 @@ _Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och 
 
 ### Hur rekryterar ni panelister?
 
-**Aron**: Vi har valt ut skogsägare från vårt CRM-verktyg. När det är en mer generell panel så slumpar vi fram ett urval med vissa ramar, i andra fall så har vi valt ut t ex.
-aktiva appanvändare. Sedan bjuder vi in dem genom att dela länken till panelen via SMS eller mail, även det via CRM-verktyget.
+**Aron**: Vi har valt ut skogsägare med hjälp av vårt CRM-verktyg. När det är en mer generell panel så slumpar vi fram ett urval med vissa ramar, i andra fall så har vi valt ut t ex. aktiva appanvändare. Sedan bjuder vi in med personliga mail från våra egna epostadresser för att understyka att vi vill ha kontakt och det är vi som kommer att ta ansvar för de inspel vi får.
 
 ### Vilken typ av frågor ställer ni?
 
