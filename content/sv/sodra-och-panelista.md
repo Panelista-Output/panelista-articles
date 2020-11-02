@@ -16,7 +16,7 @@ Södra är en skogsindustrikoncern som ägs av 52 000 skogsägare. Södra förä
 
 Inom affärsområdet Södra Skog jobbar man bland annat med tjänster som gör det enkelt att vara skogsägare, och man var det allra första företaget att använda Panelista. Idag har man _Skogsägarpanelen_ som är lite bredare och _Södras utvecklingspanel_ som är helt fokuserad på utveckling av digitala tjänster för skogsägarna.
 
-_Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och Christoffer Stampe i affärsutvecklingsteamet på Södra Skog._ (Foto: Södra - Lina Johansson, Affärsutvecklare Södra Skog)
+_Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och Christoffer Stampe i affärsutvecklingsteamet på Södra Skog. (Foto: Södra - Lina Johansson, Affärsutvecklare Södra Skog)_
 
 ***
 
