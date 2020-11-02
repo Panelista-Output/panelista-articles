@@ -4,7 +4,7 @@ date = 2020-10-29T10:00:00Z
 draft = true
 excerpt = "Vi har verkligen fått bort tröskeln kring att arbeta kundinvolverat! Nu har vi direkt tillgång till fler än 100 personer som vill vara med och bidra. Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna."
 hero = "/images/lina-2020-11-02.jpg"
-hero_image_body = "Nu har vi direkt tillgång till fler än 100 personer som vill vara med och bidra. Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna. \nFoto: Södra - Lina Johansson, Affärsutvecklare Södra Skog"
+hero_image_body = "Nu har vi direkt tillgång till fler än 100 personer som vill vara med och bidra. Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna."
 hero_image_title = "Vi har verkligen fått bort tröskeln kring att arbeta kundinvolverat!"
 timeToRead = 3
 title = "Södra & Panelista"
@@ -16,7 +16,7 @@ Södra är en skogsindustrikoncern som ägs av 52 000 skogsägare. Södra förä
 
 Inom affärsområdet Södra Skog jobbar man bland annat med tjänster som gör det enkelt att vara skogsägare, och man var det allra första företaget att använda Panelista. Idag har man _Skogsägarpanelen_ som är lite bredare och _Södras utvecklingspanel_ som är helt fokuserad på utveckling av digitala tjänster för skogsägarna.
 
-_Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och Christoffer Stampe i affärsutvecklingsteamet på Södra Skog._
+_Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och Christoffer Stampe i affärsutvecklingsteamet på Södra Skog._ (Foto: Södra - Lina Johansson, Affärsutvecklare Södra Skog)
 
 ***
 
@@ -28,11 +28,11 @@ _Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och 
 
 ### Hur går det?
 
-**Christoffer**: Det går väldigt bra! Våra paneler är viktiga i vår kundcentrerade utveckling för att snabbt kunna få feedback på saker som är på väg eller under utveckling. För att förstå vad medlemmarna värderar högt, så det inte bara blir fokus på det vi värderar högt. Det framgår snabbt att det inte alltid är samma. 
+**Christoffer**: Det går väldigt bra! Våra paneler är viktiga i vår kundcentrerade utveckling för att snabbt kunna få feedback på saker som är på väg eller under utveckling. För att förstå vad medlemmarna värderar högt, så det inte bara blir fokus på det vi värderar högt. Det framgår snabbt att det inte alltid är samma.
 
 **Kristin**: Det har verkligen lossnat! ~~Det har blivit väldigt naturligt att skicka ut videofrågor till våra skogsägare och diskutera svaren digitalt~~. Det har poppat upp behov på olika platser inom Södra, och det finns en tydlig nyfikenhet kring våra paneler i organisationen.
 
-**Aron**: Ja, vi involverar andra på Södra när det är frågor relevanta för dem, och delar anonymiserade rapporter med projektgrupper. Vi diskuterar också resultaten i vårt team för fler perspektiv. 
+**Aron**: Ja, vi involverar andra på Södra när det är frågor relevanta för dem, och delar anonymiserade rapporter med projektgrupper. Vi diskuterar också resultaten i vårt team för fler perspektiv.
 
 {{< sv/visitpanelista >}}
 
@@ -40,7 +40,7 @@ _Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och 
 
 **Kristin**: Jättebra, det är väldigt trevligt och personligt att ta del av videorna. Även om det krävs lite mod i början att spela in video, så ser vi att det skapar mycket engagemang. Det blir också tydligt då man kan säga rätt mycket på 30 sekunder video och trycka på det som är viktigast.
 
-**Aron**: Ja, vi har sänkt våra egna trösklar och släppt att försöka få det perfekt, då vi märker att det uppskattas att vi pratar med medlemmarna på det här sättet. 
+**Aron**: Ja, vi har sänkt våra egna trösklar och släppt att försöka få det perfekt, då vi märker att det uppskattas att vi pratar med medlemmarna på det här sättet.
 
 ### Hur rekryterar ni panelister?
 
@@ -48,11 +48,11 @@ _Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och 
 
 ### Vilken typ av frågor ställer ni?
 
-**Kristin**: Vi ställer frågor av lite olika karaktär. Allt från breda öppna frågor, och hela vägen till feedback på specifik design. ~~Vi vill både förstå grundläggande behov och inhämta synpunkter på specifika delar~~. 
+**Kristin**: Vi ställer frågor av lite olika karaktär. Allt från breda öppna frågor, och hela vägen till feedback på specifik design. ~~Vi vill både förstå grundläggande behov och inhämta synpunkter på specifika delar~~.
 
-**Aron**: Ibland är det så enkelt som att förstå vad skogsägarna använder för ord och språk, hur man formulerar sig. Så att vi kan formulera oss på rätt sätt. 
+**Aron**: Ibland är det så enkelt som att förstå vad skogsägarna använder för ord och språk, hur man formulerar sig. Så att vi kan formulera oss på rätt sätt.
 
-**Christoffer**: Vi utforskar behov, prioriteringar och om vi missat något som är viktigt för skogsägarna. Ibland bredare, ibland väldigt specifikt som t ex. _“Vilka notifieringar vill du få från Södras nya app Min skogsgård?”_ 
+**Christoffer**: Vi utforskar behov, prioriteringar och om vi missat något som är viktigt för skogsägarna. Ibland bredare, ibland väldigt specifikt som t ex. _“Vilka notifieringar vill du få från Södras nya app Min skogsgård?”_
 
 ### Vad har varit svårast?
 
@@ -66,7 +66,7 @@ _Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och 
 
 **Kristin**: ~~Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna~~. Tack vare våra paneler så kan vi visa på något konkret som man kan ta på för att jobba på det här sättet. Vi har blivit gänget med Skogsägarpanelen.
 
-**Aron**: Det har varit ett jättelyft och gjort det enkelt att ha en dialog. Medlemmarnas riktiga ord är superviktiga, det ökar vår motivation till att göra ännu bättre och mer träffsäkra saker. Jag vill bara understryka igen hur bra den här tjänsten är! 
+**Aron**: Det har varit ett jättelyft och gjort det enkelt att ha en dialog. Medlemmarnas riktiga ord är superviktiga, det ökar vår motivation till att göra ännu bättre och mer träffsäkra saker. Jag vill bara understryka igen hur bra den här tjänsten är!
 
 _Tack Kristin, Aron och Christoffer!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
