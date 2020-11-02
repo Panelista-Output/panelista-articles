@@ -1,7 +1,6 @@
 +++
 authors = ["Anders Palm"]
 date = 2020-10-29T10:00:00Z
-draft = true
 excerpt = "Vi har verkligen fått bort tröskeln kring att arbeta kundinvolverat! Nu har vi direkt tillgång till fler än 100 personer som vill vara med och bidra. Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna."
 hero = "/images/lina-small-2020-11-02.jpg"
 hero_image_body = "Nu har vi direkt tillgång till fler än 100 personer som vill vara med och bidra. Skogsägarpanelerna hjälper oss också i ambassadörsskapet internt kring att involvera medlemmarna."
