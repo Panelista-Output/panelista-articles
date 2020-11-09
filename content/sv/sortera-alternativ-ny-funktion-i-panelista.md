@@ -15,24 +15,16 @@ Efter att ha utforskat området tillsammans med våra kunder så har vi skapat e
 ## Baserat på card sorting-metodik
 Vi är fokuserade på snabba kvalitativa metoder och vår sorteringsfunktion är inspirerad av "card sorting" som är en metodik med brett stöd inom både UX-design och forskning. Card sorting används framförallt i kvalitativa intervjuer med kunder.
 
-Vid fysiska intervjuer så har man papperskort med ett alternativ på varje som man ber kunderna att sortera. Man får då både en känsla för vad som är viktigt för kunderna och skapar diskussion om alternativen när kunderna tvingas välja, sortera och prioritera. Ofta ber man kunderna att göra saker i flera steg, t ex. först välja bort alternativ som inte alls är viktiga för dem och sedan prioritera de som är kvar från viktigast till minst viktig.
+Vid fysiska intervjuer så har man papperskort med ett alternativ på varje som man ber kunderna att sortera. Man får då både ~~en känsla för vad som är viktigt för kunderna~~, och skapar diskussion om alternativen när kunderna tvingas välja, sortera och prioritera. Ofta ber man kunderna att göra saker i flera steg, t ex. först välja bort alternativ som inte alls är viktiga för dem och sedan prioritera de som är kvar från viktigast till minst viktigt.
 
-Panelistas sorteringsfrågor är digitala och 
+Panelistas sorteringsfråga är digital och vi har fångat två steg i ett där kunderna först får se alla alternativ
 
-Då ofta på papper, post-its eller lappar....
-
-Två steg i ett
-
-Understand preferences by asking panelists to sort a number of options (max 7 options). The panelists will be asked to explain their priorities.
+Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet
 
 The panelists will first choose what options are important to them, and will then sort those options. The initial order of the options will be randomized to not affect the results.
 
-Vill du redan i förväg veta om kunderna kommer att uppskatta det du skapar? Börja med att ta reda på deras behov, skapa sedan en hypotes om hur du ska uppfylla deras behov och testa den hypotesen på enklast och snabbast möjliga sätt. ~~Allt är en hypotes innan det har mött kunden~~.
 
-* Börja med att gräva fram insikter som redan finns eller ställ utforskande frågor som _“Hur skulle du önska att det kändes/fungerade när du...?”_ följt av följdfrågor för att komma ner på djupet.
-* Skapa en hypotes baserat på insikterna (inte gissningar!) och testa hypotesen med frågor som _“Vi tänker att det skulle kunna fungera så här, vad tycker du?”_ eller genom att visa en enkel skiss/prototyp.
 
-Du frågar inte för att få reda på vad kunderna vill ha, du frågar för att förstå kundernas behov och drivkrafter för att kunna skapa hypoteser som du kan testa. Värdera de behov som du upptäcker utifrån nytta för kunden och värde för företaget, och testa hypoteser redan på whiteboard-stadiet. Om det kostar 10kr att ändra på whiteboarden, 1000kr i designen, och 100 000kr i produkten, hur tidigt vill du veta om hypotesen håller då?
 
 ## Framtagen tillsammans med kunder och användare
 
