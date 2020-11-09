@@ -10,7 +10,7 @@ timeToRead = 3
 title = "Sortera alternativ - ny funktion i Panelista"
 
 +++
-Efter noggrann analys av våra kunders behov så skapade vi en ny typ av videofråga på Panelista. Nu kan du be dina kunder att sortera olika alternativ och motivera sina sorteringar.
+Efter mycket input och noggrann analys av våra kunders behov så skapade vi en ny typ av videofråga på Panelista. Nu kan du be dina kunder att sortera olika alternativ och motivera varför de prioriterade som de gjorde.
 
 ## Baserat på card sorting-metodik
 
