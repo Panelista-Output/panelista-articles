@@ -17,14 +17,9 @@ Vi är fokuserade på snabba kvalitativa metoder och vår sorteringsfunktion är
 
 Vid fysiska intervjuer så har man papperskort med ett alternativ på varje som man ber kunderna att sortera. Man får då både en känsla för vad som är viktigast för kunderna, och skapar en lärorik diskussion om alternativen när kunderna tvingas välja, sortera och prioritera. Ofta ber man kunderna att göra saker i flera steg, t ex. först välja bort alternativ som inte alls är viktiga för dem och sedan prioritera de som är kvar från viktigast till minst viktigt.
 
-Panelistas sorteringsfråga är digital och vi har fångat två steg i ett där kunderna först får se alla alternativ
+Panelistas sorteringsfråga är digital och vi har fångat två steg i ett där kunderna först får välja vilka alternativ som är viktiga och placera dessa ovanför en linje, sedan sorterar de alternativen och skriver en kort förklaring till varför de prioriterade som de gjorde.
 
 Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet
-
-The panelists will first choose what options are important to them, and will then sort those options. The initial order of the options will be randomized to not affect the results.
-
-
-
 
 ## Framtagen tillsammans med kunder och användare
 
