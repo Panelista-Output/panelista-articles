@@ -43,7 +43,7 @@ Co-creation session med Annelie från inUse som även jobbar med Västtrafik som
 
 Pappersprototyper
 
-![](/images/img_4710-2020-11-09.JPG)
+<div class="Image__small"> <img src="/images/img_4710-2020-11-09.JPG" alt="Pappersprototyp" /> </div>
 
 Intervjuer med användare....
 
