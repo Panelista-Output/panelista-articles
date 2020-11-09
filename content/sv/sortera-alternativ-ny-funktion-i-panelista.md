@@ -51,7 +51,7 @@ Nu har några modiga företag redan ställt sina första sorteringsfrågor med l
 
 ## Så här blir kundens upplevelse
 
-{{< vimeo 452200755 >}}
+{{< vimeo 477211062 >}}
 
 _[Panelista](https://panelista.com "Panelista") togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt. Du skickar en öppen fråga i en 30-sekunders video, ställer följdfrågor i en onlinediskussion och får en automatiserad insiktsrapport. De första svaren trillar in inom en timme!_
 
