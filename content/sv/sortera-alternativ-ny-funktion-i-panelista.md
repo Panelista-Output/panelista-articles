@@ -2,21 +2,17 @@
 authors = ["Anders Palm"]
 date = 2020-10-20T09:00:00Z
 draft = true
-excerpt = "Alla är överens om att jobba kundcentrerat för att skapa framgångsrika produkter, tjänster och erbjudanden som kunderna älskar. Det finns beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken."
+excerpt = "Nu kan du be dina kunder att sortera olika alternativ och motivera sina prioriteringar."
 hero = "/images/2-1-2020-10-06.jpg"
-hero_image_body = "Det finns beprövade metoder för hur det ska gå till. Ändå sliter många företag med att få det att fungera i praktiken."
-hero_image_title = "Alla är överens om att jobba kundcentrerat för att skapa framgångsrika produkter, tjänster och erbjudanden som kunderna älskar."
+hero_image_body = ""
+hero_image_title = ""
 timeToRead = 3
 title = "Sortera alternativ - ny funktion i Panelista"
 
 +++
-De beprövade metoderna är mjukvaruvärldens agila utveckling, startupvärldens “Lean Startup”-tänk och designvärldens Service Design. Gemensamt är ett stenhårt fokus på att skapa värde för kunden med hjälp av tre pusselbitar:
+Vi har precis 
 
-1. Jobba hypotesdrivet utifrån kundinsikter
-2. Gör saker i små värdeskapande steg
-3. Skapa snabba feedbackloopar
-
-Att du också minskar risker, kostnader och tid från idé till lansering när du prioriterar träffsäkert är något som ledningsgruppen brukar gilla. Så hur får du arbetet med kundinsikter att bli agilt?
+Nu kan du be dina kunder att sortera olika alternativ och motivera sina prioriteringar.
 
 ## Jobba hypotesdrivet utifrån kundinsikter
 Vill du redan i förväg veta om kunderna kommer att uppskatta det du skapar? Börja med att ta reda på deras behov, skapa sedan en hypotes om hur du ska uppfylla deras behov och testa den hypotesen på enklast och snabbast möjliga sätt. ~~Allt är en hypotes innan det har mött kunden~~.
