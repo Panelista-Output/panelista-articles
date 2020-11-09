@@ -14,7 +14,10 @@ Vi har precis
 
 Nu kan du be dina kunder att sortera olika alternativ och motivera sina prioriteringar.
 
-## Jobba hypotesdrivet utifrån kundinsikter
+## Baserat på card sorting-metodik
+
+Panelistas snabba, personliga och strukturerade feedbackloopar är en kvalitativ metod....
+
 Vill du redan i förväg veta om kunderna kommer att uppskatta det du skapar? Börja med att ta reda på deras behov, skapa sedan en hypotes om hur du ska uppfylla deras behov och testa den hypotesen på enklast och snabbast möjliga sätt. ~~Allt är en hypotes innan det har mött kunden~~.
 
 - Börja med att gräva fram insikter som redan finns eller ställ utforskande frågor som _“Hur skulle du önska att det kändes/fungerade när du...?”_ följt av följdfrågor för att komma ner på djupet. 
