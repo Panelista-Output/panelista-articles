@@ -25,6 +25,22 @@ Vill du redan i förväg veta om kunderna kommer att uppskatta det du skapar? B�
 
 Du frågar inte för att få reda på vad kunderna vill ha, du frågar för att förstå kundernas behov och drivkrafter för att kunna skapa hypoteser som du kan testa. Värdera de behov som du upptäcker utifrån nytta för kunden och värde för företaget, och testa hypoteser redan på whiteboard-stadiet. Om det kostar 10kr att ändra på whiteboarden, 1000kr i designen, och 100 000kr i produkten, hur tidigt vill du veta om hypotesen håller då?
 
+## Framtagen tillsammans med kunder och användare
+Det vore märkligt om vi på Panelista inte involverade våra kunder och användare i vår utveckling....
+
+Baserat på lärdomar från egna paneler, kontakt med befintliga kunders.....
+
+Co-creation session med Annelie från inUse som även jobbar med Västtrafik som ....
+
+Pappersprototyper
+
+Intervjuer med användare....
+
+Testfråga om Göteborgs bästa burgare med en testpanel...
+
+Nu har några modiga företag redan ställt sina första sorteringsfrågor med lyckat resultat!
+
+
 ## Gör saker i små värdeskapande steg
 Precis som inom agil utveckling så behöver du i arbetetet med kundinsikter bryta ner det du vill göra i små delar och prioritera det som skapar mest värde just nu. Uppnå hög hastighet och låg risk genom den agila principen om att ~~maximera mängden arbete som inte görs~~.
 
@@ -33,15 +49,6 @@ Precis som inom agil utveckling så behöver du i arbetetet med kundinsikter bry
 - Ersätt färdiga frågebatterier med öppna frågor, anpassa dig längs med vägen och ställ följdfrågor som _“Varför?”_, _“Kan du ge ett exempel?”_ och _“Hur skulle du vilja att det fungerade istället?”_. 
 
 De flesta företag satsar numera mer på kvalitativa metoder med öppna frågor, diskussioner, intervjuer och observationer. Inte minst datadrivna startups som har bra koll på beteendedata, analys och nyckeltal och är intresserade av att komplettera med en förståelse för varför kunderna gör som de gör och testa nya idéer som det inte finns data för ännu.
-
-## Skapa snabba feedbackloopar
-Grunden i allt från den agila utvecklingens sprintar, Lean Startups “Build-Measure-Learn”-loop och Service Designs iterativa experimenterande är att snabbt ta sig igenom loopar där du skapar en hypotes, testar den, lär dig. Och börjar om igen.
-
-- Skapa förutsättningar för att snabbt kunna diskutera enskilda frågor med kunderna ([Panelista](https://panelista.com "Panelista")) eller boka fem djupintervjuer ([Ethnio](https://ethn.io "Ethnio")).
-- För många företag är det även bra att skapa förutsättningar för att observera vad kunder gör i ett gränssnitt ([Hotjar](https://hotjar.com "Hotjar")) eller en fysisk miljö.
-- Utforska ett fokuserat område åt gången och testa snabbt och enkelt hypoteser genom att beskriva en idé i en video och få input från kunderna, skapa enkla skisser som du ber kunderna att högt reflektera kring i intervjuer, eller observera hur kunderna reagerar på ett potentiellt framtida erbjudande. 
-
-Ha alltid med kundinsikter som en del i arbetet, det ska vara lika självklart som att kolla med dina intressenter, korrläsa texter eller testa att nya funktioner fungerar. Lägg INTE ut det som ska styra era prioriteringar på en byrå eller annan avdelning! ~~Det är helt avgörande att de som skapar nya saker för kunderna har direkt tillgång till kunderna och verktyg för att snabbt kunna involvera dem~~. 
 
 _[Panelista](https://panelista.com "Panelista") togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt. Du skickar en öppen fråga i en 30-sekunders video, ställer följdfrågor i en onlinediskussion och får en automatiserad insiktsrapport. De första svaren trillar in inom en timme!_
 
