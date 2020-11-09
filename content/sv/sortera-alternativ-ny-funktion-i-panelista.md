@@ -49,9 +49,13 @@ Testfråga om Göteborgs bästa burgare med en testpanel...
 Nu har några modiga företag redan ställt sina första sorteringsfrågor med lyckat resultat!
 
 
-## Så här blir kundens upplevelse
+## En video av kundens upplevelse
+
+***
 
 {{< vimeo 477211062 >}}
+
+***
 
 _[Panelista](https://panelista.com "Panelista") togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt. Du skickar en öppen fråga i en 30-sekunders video, ställer följdfrågor i en onlinediskussion och får en automatiserad insiktsrapport. De första svaren trillar in inom en timme!_
 
