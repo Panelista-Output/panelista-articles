@@ -1,6 +1,6 @@
 +++
 authors = ["Anders Palm"]
-date = 2020-10-20T09:00:00Z
+date = 2020-11-11T08:00:00Z
 draft = true
 excerpt = "Nu kan du be dina kunder att sortera olika alternativ och motivera sina prioriteringar."
 hero = "/images/sortering1-2020-11-09.png"
