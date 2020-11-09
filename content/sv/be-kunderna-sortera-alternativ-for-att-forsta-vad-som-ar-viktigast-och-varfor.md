@@ -21,6 +21,14 @@ Panelistas sorteringsfråga är digital där kunderna får välja vilka alternat
 
 Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet.
 
+## Så här blev kundens upplevelse!
+
+***
+
+{{< vimeo 477211062 >}}
+
+***
+
 ## Framtagen tillsammans med våra kunder
 På Panelista älskar vi att skapa tillsammans med våra kunder för att säkerställa att vi uppfyller riktiga behov och bygger träffsäkra funktioner. Baserat på lärdomar från företagen vi jobbar med så ringade vi snabbt in området till att vi behöver skapa möjligheten att be kunder visa vad som är viktigast av olika alternativ.
 
@@ -33,14 +41,6 @@ Vi valde att som nästa steg göra en pappersprototyp som visualiserade vår hyp
 ~~Vi validerade vår hypotes~~ med hjälp av intervjuerna och lärde oss massor som hjälpte oss designa en bra första version. Sedan ställde vi en sorteringsfråga till vår egen panel på Panelista med frågan _"Vem gör Göteborgs bästa burgare? Och varför?"_ med alternativ som _"Burgersson"_ och _"Lasse på Heden"_.
 
 Vi lärde oss ytterligare några saker och putsade snabbt funktionen innan vi släppte ut den i det vilda, och nu har några modiga företag redan ställt sina första sorteringsfrågor med lyckat resultat!
-
-## Så här blev kundens upplevelse!
-
-***
-
-{{< vimeo 477211062 >}}
-
-***
 
 [_Panelista_](https://panelista.com "Panelista") _togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt._
 
