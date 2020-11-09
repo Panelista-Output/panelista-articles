@@ -30,7 +30,7 @@ Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmäss
 ***
 
 ## Framtagen tillsammans med våra kunder
-På Panelista älskar vi att skapa tillsammans med våra kunder för att säkerställa att vi uppfyller riktiga behov och bygger träffsäkra funktioner. Baserat på lärdomar från företagen vi jobbar med så ringade vi snabbt in området till att vi behöver skapa möjligheten att be kunder visa vad som är viktigast av olika alternativ.
+På Panelista älskar vi att skapa tillsammans med våra kunder för att säkerställa att vi uppfyller riktiga behov och bygger träffsäkra funktioner. Baserat på lärdomar från våra kunder och deras paneler på Panelista så ringade vi snabbt in området till att vi behöver skapa möjligheten att be kunder visa vad som är viktigast av olika alternativ.
 
 Sedan körde vi en co-creation session med Annelie från inUse som jobbar med Västtrafik där behovet dykt upp. Vi utforskade olika varianter av röstning och sortering av alternativ innan vi skapade en hypotes på whiteboarden.
 
