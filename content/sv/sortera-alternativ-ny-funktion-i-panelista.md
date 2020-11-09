@@ -18,6 +18,14 @@ Nu kan du be dina kunder att sortera olika alternativ och motivera sina priorite
 
 Panelistas snabba, personliga och strukturerade feedbackloopar är en kvalitativ metod....
 
+Då ofta på papper, post-its eller lappar....
+
+Två steg i ett
+
+Understand preferences by asking panelists to sort a number of options (max 7 options). The panelists will be asked to explain their priorities.
+
+The panelists will first choose what options are important to them, and will then sort those options. The initial order of the options will be randomized to not affect the results.
+
 Vill du redan i förväg veta om kunderna kommer att uppskatta det du skapar? Börja med att ta reda på deras behov, skapa sedan en hypotes om hur du ska uppfylla deras behov och testa den hypotesen på enklast och snabbast möjliga sätt. ~~Allt är en hypotes innan det har mött kunden~~.
 
 - Börja med att gräva fram insikter som redan finns eller ställ utforskande frågor som _“Hur skulle du önska att det kändes/fungerade när du...?”_ följt av följdfrågor för att komma ner på djupet. 
