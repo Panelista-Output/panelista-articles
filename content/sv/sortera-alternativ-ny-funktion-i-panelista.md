@@ -19,22 +19,18 @@ Vid fysiska intervjuer så har man papperskort med ett alternativ på varje som 
 
 Panelistas sorteringsfråga är digital där kunderna får välja vilka alternativ som är viktiga och placera dessa ovanför en linje, sortera alternativen och sedan skriva en kort förklaring till varför de prioriterade som de gjorde.
 
-Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet
+Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet.
 
 ## Framtagen tillsammans med kunderna
-Vi på Panelista älskar att skapa tillsammans med våra kunder för att säkerställa att vi uppfyller riktiga behov och skapa träffsäkra produkter.
+Vi på Panelista älskar att skapa tillsammans med våra kunder för att säkerställa att vi uppfyller riktiga behov och skapa träffsäkra produkter. Baserat på lärdomar från våra kunder ringade vi snabbt in området till att vi behöver skapa möjlighet att be kunder visa vilket eller vilka som är viktigast av olika alternativ.
 
-Baserat på lärdomar från våra kunder ringade vi snabbt in området till att vi behöver skapa möjlighet att be kunder visa vilket eller vilka som är viktigast av olika alternativ.
+Sedan körde vi en co-creation session med Annelie från inUse som även jobbar med Västtrafik där behovet dykt upp. Vi utforskade olika varianter av röstning och sortera alternativ innan vi skapade en hypotes på whiteboarden.
 
-Sedan körde vi en co-creation session med Annelie från inUse som även jobbar med Västtrafik där behovet dykt upp. Vi utforskade olika varianter av röstning, välja alternativ och sortera alternativ och skapade en hypotes.
-
-Vi valde att som nästa steg skapa en pappersprototyp för vår hypotes och testa denna i intervjuer med användare.
+Vi valde att som nästa steg göra en pappersprototyp som visualiserade vår hypotes för att testa denna i intervjuer med fem personer.
 
 <div class="Image__small"> <img src="/images/img_4710-2020-11-09.JPG" alt="Pappersprototyp" /> </div>
 
-Vi validerade vår hypotes med hjälp av intervjuerna och lärde oss massor som gjorde att vi kunde finslipa konceptet innan design och utveckling.
-
-När vi hade en första version så ställde vi en sorteringsfråga till vår egen panel på Panelista med frågan _"Vem gör Göteborgs bästa burgare? Och varför?"_ med alternativ som _"Burgersson"_ och _"Lasse på Heden"_.
+Vi validerade vår hypotes med hjälp av intervjuerna och lärde oss massor som hjälpte oss designa en bra första version. Sedan ställde vi en sorteringsfråga till vår egen panel på Panelista med frågan _"Vem gör Göteborgs bästa burgare? Och varför?"_ med alternativ som _"Burgersson"_ och _"Lasse på Heden"_.
 
 Vi lärde oss ytterligare några saker och putsade snabbt funktionen innan vi släppte ut den i det vilda, och nu har några modiga företag redan ställt sina första sorteringsfrågor med lyckat resultat!
 
