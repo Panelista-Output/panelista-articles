@@ -22,9 +22,9 @@ Panelistas sorteringsfråga är digital där kunderna får välja vilka alternat
 Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet.
 
 ## Framtagen tillsammans med kunderna
-Vi på Panelista älskar att skapa tillsammans med våra kunder för att säkerställa att vi uppfyller riktiga behov och bygger träffsäkra funktioner. Baserat på lärdomar från våra kunder ringade vi snabbt in området till att vi behöver skapa möjlighet att be kunder visa vilket eller vilka som är viktigast av olika alternativ.
+På Panelista älskar vi att skapa tillsammans med våra kunder för att säkerställa att vi uppfyller riktiga behov och bygger träffsäkra funktioner. Baserat på lärdomar från företagen vi jobbar med så ringade vi snabbt in området till att vi behöver skapa möjligheten att be kunder visa vad som är viktigast av olika alternativ.
 
-Sedan körde vi en co-creation session med Annelie från inUse som även jobbar med Västtrafik där behovet dykt upp. Vi utforskade olika varianter av röstning och sortera alternativ innan vi skapade en hypotes på whiteboarden.
+Sedan körde vi en co-creation session med Annelie från inUse som jobbar med Västtrafik där behovet dykt upp. Vi utforskade olika varianter av röstning och sortering av alternativ innan vi skapade en hypotes på whiteboarden.
 
 Vi valde att som nästa steg göra en pappersprototyp som visualiserade vår hypotes för att testa denna i intervjuer med fem personer.
 
@@ -42,7 +42,7 @@ Vi lärde oss ytterligare några saker och putsade snabbt funktionen innan vi sl
 
 ***
 
-[_Panelista_](https://panelista.com "Panelista") _togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt. Du skickar en öppen fråga i en 30-sekunders video, ställer följdfrågor i en onlinediskussion och får en automatiserad insiktsrapport. De första svaren trillar in inom en timme!_
+[_Panelista_](https://panelista.com "Panelista") _togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt._
 
 {{< sv/bookdemo >}}
 
