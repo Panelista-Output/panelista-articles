@@ -16,6 +16,7 @@ Efter noggrann analys av våra kunders behov så skapade vi en ny typ av videofr
 
 Panelistas snabba, personliga och strukturerade feedbackloopar är en kvalitativ metod....
 
+
 Då ofta på papper, post-its eller lappar....
 
 Två steg i ett
@@ -35,9 +36,13 @@ Du frågar inte för att få reda på vad kunderna vill ha, du frågar för att 
 
 Det vore märkligt om vi på Panelista inte involverade våra kunder och användare i vår utveckling....
 
+Ringade in området till att vi behöver skapa möjlighet att be sina kunder visa vilket eller vilka som är viktigast av olika alternativ.
+
+
+
 Baserat på lärdomar från egna paneler, kontakt med befintliga kunders.....
 
-Co-creation session med Annelie från inUse som även jobbar med Västtrafik som ....
+Co-creation session med Annelie från inUse som även jobbar med Västtrafik som .... utforskade olika varianter av röstning, välja alternativ och sortera alternativ
 
 Pappersprototyper
 
