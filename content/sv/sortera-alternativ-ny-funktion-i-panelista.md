@@ -34,7 +34,7 @@ Vi validerade vår hypotes med hjälp av intervjuerna och lärde oss massor som 
 
 Vi lärde oss ytterligare några saker och putsade snabbt funktionen innan vi släppte ut den i det vilda, och nu har några modiga företag redan ställt sina första sorteringsfrågor med lyckat resultat!
 
-## En video av kundens upplevelse
+## Så här blev kundens upplevelse!
 
 ***
 
