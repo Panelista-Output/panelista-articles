@@ -21,7 +21,7 @@ Panelistas sorteringsfråga är digital där kunderna får välja vilka alternat
 
 Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet
 
-## Framtagen tillsammans med kunder och användare
+## Framtagen tillsammans med kunderna
 Vi på Panelista älskar att skapa tillsammans med våra kunder för att säkerställa att vi uppfyller riktiga behov och skapa träffsäkra produkter.
 
 Baserat på lärdomar från våra kunder ringade vi snabbt in området till att vi behöver skapa möjlighet att be kunder visa vilket eller vilka som är viktigast av olika alternativ.
