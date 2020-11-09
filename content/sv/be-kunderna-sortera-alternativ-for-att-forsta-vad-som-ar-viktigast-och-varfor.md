@@ -21,7 +21,7 @@ Panelistas sorteringsfråga är digital där kunderna får välja vilka alternat
 
 Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet.
 
-## Så här blev kundens upplevelse!
+## Så här blev kundens upplevelse
 
 ***
 
