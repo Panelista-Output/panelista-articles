@@ -41,14 +41,9 @@ Testfråga om Göteborgs bästa burgare med en testpanel...
 Nu har några modiga företag redan ställt sina första sorteringsfrågor med lyckat resultat!
 
 
-## Gör saker i små värdeskapande steg
-Precis som inom agil utveckling så behöver du i arbetetet med kundinsikter bryta ner det du vill göra i små delar och prioritera det som skapar mest värde just nu. Uppnå hög hastighet och låg risk genom den agila principen om att ~~maximera mängden arbete som inte görs~~.
+## Så här blir kundens upplevelse
 
-- Undvik att göra förstudier om saker som kanske ska göras i framtiden, det mesta du utforskar som du inte har kapacitet att agera på i närtid slösas ändå bort.
-- Komplettera eller ersätt stora schemalagda undersökningsprojekt med snabba utforskande aktiviteter kring det som snart ska bli verklighet.
-- Ersätt färdiga frågebatterier med öppna frågor, anpassa dig längs med vägen och ställ följdfrågor som _“Varför?”_, _“Kan du ge ett exempel?”_ och _“Hur skulle du vilja att det fungerade istället?”_. 
-
-De flesta företag satsar numera mer på kvalitativa metoder med öppna frågor, diskussioner, intervjuer och observationer. Inte minst datadrivna startups som har bra koll på beteendedata, analys och nyckeltal och är intresserade av att komplettera med en förståelse för varför kunderna gör som de gör och testa nya idéer som det inte finns data för ännu.
+{{< vimeo 452200755 >}}
 
 _[Panelista](https://panelista.com "Panelista") togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt. Du skickar en öppen fråga i en 30-sekunders video, ställer följdfrågor i en onlinediskussion och får en automatiserad insiktsrapport. De första svaren trillar in inom en timme!_
 
