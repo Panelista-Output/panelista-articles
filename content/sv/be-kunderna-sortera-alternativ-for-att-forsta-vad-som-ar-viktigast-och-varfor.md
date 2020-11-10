@@ -36,7 +36,7 @@ I Panelista ser det ut så här:
 
 Baserat på lärdomar från våra kunder och deras paneler på Panelista så ringade vi snabbt in området till att vi behöver skapa möjligheten att be kunder visa vad som är viktigast av olika alternativ.
 
-Sedan körde vi en co-creation session med Annelie från inUse som jobbar med Västtrafik där behovet dykt upp. Vi utforskade olika varianter av röstning och sortering av alternativ innan vi skapade en hypotes på whiteboarden.
+Sedan körde vi en co-creation session med Annelie från inUse som jobbar med vår kund Västtrafik där behovet dykt upp. Vi utforskade olika varianter av röstning och sortering av alternativ innan vi skapade en hypotes på whiteboarden.
 
 Vi valde att som nästa steg göra en pappersprototyp som visualiserade vår hypotes för att testa denna i intervjuer med fem personer.
 
