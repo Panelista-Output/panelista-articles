@@ -16,7 +16,11 @@ Stöd för snabba och träffsäkra prioriteringar är helt centralt när man vil
 
 Kunderna väljer vilka alternativ som är viktiga och placerar dessa ovanför en linje, sedan sorterar de alternativen och skriver en kort förklaring till varför de prioriterade som de gjorde.
 
-<div class="Image__small"> <img src="/images/02-2020-11-10.jpg" alt="Results Dashboard" /> </div>
+***
+
+{{< vimeo 477211062 >}}
+
+***
 
 Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet.
 
@@ -24,13 +28,9 @@ Vi är fokuserade på snabba kvalitativa metoder och ~~vår sorteringsfunktion �
 
 Vid fysiska intervjuer så har man papperskort med ett alternativ på varje som man ber kunderna att sortera. Man får då både en känsla för vad som är viktigast för kunderna, och skapar en lärorik diskussion om alternativen när kunderna tvingas välja, sortera och prioritera. Ofta ber man kunderna att göra saker i flera steg, t ex. först välja bort alternativ som inte alls är viktiga för dem och sedan prioritera de som är kvar.
 
-I Panelista ser det ut så här:
+Sammanställningen av sorteringen ser ut så här:
 
-***
-
-{{< vimeo 477211062 >}}
-
-***
+<div class="Image__small"> <img src="/images/02-2020-11-10.jpg" alt="Results Dashboard" /> </div>
 
 ## Vi gillar också att utveckla tillsammans med kunderna. Så här gjorde vi.
 
