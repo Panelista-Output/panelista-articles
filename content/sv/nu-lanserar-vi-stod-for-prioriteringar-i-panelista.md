@@ -10,7 +10,7 @@ timeToRead = 3
 title = "Nu lanserar vi stöd för prioriteringar i Panelista"
 
 +++
-Stöd för snabba och träffsäkra prioriteringar är helt centralt när man vill jobba kunddrivet. Flera av våra kunder har önskat stöd i Panelista för att prioritera, t.ex. för att ställa olika potentiella produkter eller funktioner mot varandra. Därför har vi utvecklat en ny typ av videofråga i Panelista för att kunder ska kunna sortera alternativ samt motivera vad de tycker är viktigast och varför. 
+Stöd för snabba och träffsäkra prioriteringar är helt centralt när man vill jobba kunddrivet. Flera av våra kunder har önskat stöd i Panelista för att prioritera, t.ex. för att ställa olika potentiella produkter eller funktioner mot varandra. Därför har vi utvecklat en ny typ av videofråga för att kunder ska kunna sortera alternativ samt motivera vad de tycker är viktigast och varför.
 
 ## Så här funkar det
 
