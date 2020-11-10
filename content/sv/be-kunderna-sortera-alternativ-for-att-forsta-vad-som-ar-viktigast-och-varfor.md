@@ -44,6 +44,8 @@ Vi valde att som nästa steg göra en pappersprototyp som visualiserade vår hyp
 
 Vi lärde oss ytterligare några saker och putsade snabbt funktionen innan vi släppte ut den i det vilda, och nu har några modiga företag redan ställt sina första sorteringsfrågor med lyckat resultat!
 
+<div class="Image__small"> <img src="/images/02-2020-11-10.jpg" alt="Results Dashboard" /> </div>
+
 [_Panelista_](https://panelista.com "Panelista") _togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt._
 
 {{< sv/bookdemo >}}
