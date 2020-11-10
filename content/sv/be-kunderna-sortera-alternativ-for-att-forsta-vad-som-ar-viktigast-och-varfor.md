@@ -2,12 +2,12 @@
 authors = ["Anders Palm"]
 date = 2020-11-11T08:00:00Z
 draft = true
-excerpt = "Nu kan du be dina kunder att sortera olika alternativ och motivera varför de prioriterade som de gjorde."
+excerpt = "Be kunderna sortera alternativ för att förstå vad som är viktigast och varför."
 hero = "/images/05-2020-11-10.jpg"
 hero_image_body = ""
-hero_image_title = ""
+hero_image_title = "Be kunderna sortera alternativ för att förstå vad som är viktigast och varför."
 timeToRead = 3
-title = "Be kunderna sortera alternativ för att förstå vad som är viktigast och varför"
+title = "Nu lanserar vi stöd för prioriteringar i Panelista"
 
 +++
 Efter att ha utforskat området tillsammans med våra kunder så har vi skapat en ny typ av videofråga på Panelista. Nu kan du be dina kunder att sortera olika alternativ och motivera varför de prioriterade som de gjorde för att du ska ~~förstå vad som är viktigast och varför~~. Alternativen kan t ex. vara flera produkter som du vill ställa mot varandra eller olika saker du funderar på att utveckla och vill ha hjälp att prioritera mellan.
