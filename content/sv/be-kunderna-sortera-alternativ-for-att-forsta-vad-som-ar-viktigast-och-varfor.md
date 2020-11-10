@@ -13,6 +13,7 @@ title = "Be kunderna sortera alternativ för att förstå vad som är viktigast 
 Efter att ha utforskat området tillsammans med våra kunder så har vi skapat en ny typ av videofråga på Panelista. Nu kan du be dina kunder att sortera olika alternativ och motivera varför de prioriterade som de gjorde för att du ska ~~förstå vad som är viktigast och varför~~. Alternativen kan t ex. vara flera produkter som du vill ställa mot varandra eller olika saker du funderar på att utveckla och vill ha hjälp att prioritera mellan.
 
 ## Baserat på card sorting-metodik
+
 Vi är fokuserade på snabba kvalitativa metoder och vår sorteringsfunktion är inspirerad av "card sorting" som är en metodik med brett stöd inom både UX-design och forskning. Card sorting används framförallt i kvalitativa intervjuer med kunder.
 
 Vid fysiska intervjuer så har man papperskort med ett alternativ på varje som man ber kunderna att sortera. Man får då både en känsla för vad som är viktigast för kunderna, och skapar en lärorik diskussion om alternativen när kunderna tvingas välja, sortera och prioritera. Ofta ber man kunderna att göra saker i flera steg, t ex. först välja bort alternativ som inte alls är viktiga för dem och sedan prioritera de som är kvar.
@@ -30,13 +31,14 @@ Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmäss
 ***
 
 ## Framtagen tillsammans med våra kunder
+
 På Panelista älskar vi att skapa tillsammans med våra kunder för att säkerställa att vi uppfyller riktiga behov och bygger träffsäkra funktioner. Baserat på lärdomar från våra kunder och deras paneler på Panelista så ringade vi snabbt in området till att vi behöver skapa möjligheten att be kunder visa vad som är viktigast av olika alternativ.
 
 Sedan körde vi en co-creation session med Annelie från inUse som jobbar med Västtrafik där behovet dykt upp. Vi utforskade olika varianter av röstning och sortering av alternativ innan vi skapade en hypotes på whiteboarden.
 
 Vi valde att som nästa steg göra en pappersprototyp som visualiserade vår hypotes för att testa denna i intervjuer med fem personer.
 
-<div class="Image__small"> <img src="/images/img_4710-2020-11-09.JPG" alt="Pappersprototyp" /> </div>
+<div class="Image__medium"> <img src="/images/prototype-image-2020-11-10.jpg" alt="Pappersprototyp" /> </div>
 
 ~~Vi validerade vår hypotes~~ med hjälp av intervjuerna och lärde oss massor som hjälpte oss designa en bra första version. Sedan ställde vi en sorteringsfråga till vår egen panel på Panelista med frågan _"Vem gör Göteborgs bästa burgare? Och varför?"_ med alternativ som _"Burgersson"_ och _"Lasse på Heden"_.
 
