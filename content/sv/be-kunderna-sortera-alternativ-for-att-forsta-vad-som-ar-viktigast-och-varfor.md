@@ -10,9 +10,30 @@ timeToRead = 3
 title = "Nu lanserar vi stöd för prioriteringar i Panelista"
 
 +++
-Efter att ha utforskat området tillsammans med våra kunder så har vi skapat en ny typ av videofråga på Panelista. Nu kan du be dina kunder att sortera olika alternativ och motivera varför de prioriterade som de gjorde för att du ska ~~förstå vad som är viktigast och varför~~. Alternativen kan t ex. vara flera produkter som du vill ställa mot varandra eller olika saker du funderar på att utveckla och vill ha hjälp att prioritera mellan.
+Stöd för snabba och träffsäkra prioriteringar är helt centralt när man vill jobba kunddrivet. Flera av våra kunder har önskat stöd i Panelista för att prioritera, t.ex. för att ställa olika potentiella produkter eller funktioner mot varandra. Därför har vi utvecklat en ny typ av videofråga i Panelista för att kunder ska kunna sortera alternativ samt motivera vad de tycker är viktigast och varför. 
 
-## Baserat på card sorting-metodik
+## Så här funkar det
+
+Panelistas sorteringsfråga är digital där kunderna väljer vilka alternativ som är viktiga och placerar dessa ovanför en linje, sedan sorterar de alternativen och skriver en kort förklaring till varför de prioriterade som de gjorde.
+
+<div class="Image__small"> <img src="/images/02-2020-11-10.jpg" alt="Results Dashboard" /> </div>
+
+Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet.
+
+Vi är fokuserade på snabba kvalitativa metoder och ~~vår sorteringsfunktion är inspirerad av "card sorting" som är en metodik med brett stöd inom både UX-design och forskning~~. Card sorting används framförallt i kvalitativa intervjuer med kunder.
+
+Vid fysiska intervjuer så har man papperskort med ett alternativ på varje som man ber kunderna att sortera. Man får då både en känsla för vad som är viktigast för kunderna, och skapar en lärorik diskussion om alternativen när kunderna tvingas välja, sortera och prioritera. Ofta ber man kunderna att göra saker i flera steg, t ex. först välja bort alternativ som inte alls är viktiga för dem och sedan prioritera de som är kvar.
+
+I Panelista ser det ut så här:
+
+***
+
+{{< vimeo 477211062 >}}
+
+***
+
+## Vi gillar också att utveckla tillsammans med kunderna. Så här gjorde vi.
+
 
 Vi är fokuserade på snabba kvalitativa metoder och vår sorteringsfunktion är inspirerad av "card sorting" som är en metodik med brett stöd inom både UX-design och forskning. Card sorting används framförallt i kvalitativa intervjuer med kunder.
 
@@ -24,11 +45,7 @@ Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmäss
 
 ## Så här blev kundens upplevelse
 
-***
 
-{{< vimeo 477211062 >}}
-
-***
 
 ## Framtagen tillsammans med våra kunder
 
@@ -44,7 +61,7 @@ Vi valde att som nästa steg göra en pappersprototyp som visualiserade vår hyp
 
 Vi lärde oss ytterligare några saker och putsade snabbt funktionen innan vi släppte ut den i det vilda, och nu har några modiga företag redan ställt sina första sorteringsfrågor med lyckat resultat!
 
-<div class="Image__small"> <img src="/images/02-2020-11-10.jpg" alt="Results Dashboard" /> </div>
+
 
 [_Panelista_](https://panelista.com "Panelista") _togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt._
 
