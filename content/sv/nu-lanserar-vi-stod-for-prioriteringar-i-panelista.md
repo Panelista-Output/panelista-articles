@@ -34,7 +34,7 @@ I Panelista ser det ut så här:
 
 ## Vi gillar också att utveckla tillsammans med kunderna. Så här gjorde vi.
 
-Baserat på lärdomar från våra kunder och deras paneler på Panelista så ringade vi snabbt in området till att vi behöver skapa möjligheten att be kunder visa vad som är viktigast av olika alternativ.
+Baserat på lärdomar från våra kunder och deras paneler på Panelista så ringade vi snabbt in området till att vi behövde skapa stöd för prioriteringar.
 
 Sedan körde vi en co-creation session med Annelie från inUse som jobbar med vår kund Västtrafik där behovet dykt upp. Vi utforskade olika varianter av röstning och sortering av alternativ innan vi skapade en hypotes på whiteboarden.
 
