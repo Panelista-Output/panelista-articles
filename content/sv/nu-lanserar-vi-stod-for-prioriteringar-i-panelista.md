@@ -14,7 +14,7 @@ Stöd för snabba och träffsäkra prioriteringar är helt centralt när man vil
 
 ## Så här funkar det
 
-Panelistas sorteringsfråga är digital där kunderna väljer vilka alternativ som är viktiga och placerar dessa ovanför en linje, sedan sorterar de alternativen och skriver en kort förklaring till varför de prioriterade som de gjorde.
+Kunderna väljer vilka alternativ som är viktiga och placerar dessa ovanför en linje, sedan sorterar de alternativen och skriver en kort förklaring till varför de prioriterade som de gjorde.
 
 <div class="Image__small"> <img src="/images/02-2020-11-10.jpg" alt="Results Dashboard" /> </div>
 
