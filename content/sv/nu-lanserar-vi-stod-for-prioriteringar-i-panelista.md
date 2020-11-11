@@ -1,7 +1,6 @@
 +++
 authors = ["Anders Palm"]
 date = 2020-11-11T08:00:00Z
-draft = true
 excerpt = "Be kunderna sortera alternativ för att förstå vad som är viktigast och varför."
 hero = "/images/05-2020-11-10-1.jpg"
 hero_image_body = ""
