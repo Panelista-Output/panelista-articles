@@ -26,7 +26,7 @@ Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmäss
 
 <div class="Image__small"> <img src="/images/02-2020-11-10.jpg" alt="Results Dashboard" /> </div>
 
-Vi är fokuserade på snabba kvalitativa metoder och ~~vår sorteringsfunktion är inspirerad av "card sorting" som är en metodik med brett stöd inom både UX-design och forskning~~. Card sorting används framförallt i kvalitativa intervjuer med kunder.
+~~Vår sorteringsfunktion är inspirerad av "card sorting" som är en metodik med brett stöd inom både UX-design och forskning~~. Card sorting används framförallt i kvalitativa intervjuer med kunder.
 
 Vid fysiska intervjuer så har man papperskort med ett alternativ på varje som man ber kunderna att sortera. Man får då både en känsla för vad som är viktigast för kunderna, och skapar en lärorik diskussion om alternativen när kunderna tvingas välja, sortera och prioritera. Ofta ber man kunderna att göra saker i flera steg, t ex. först välja bort alternativ som inte alls är viktiga för dem och sedan prioritera de som är kvar.
 
