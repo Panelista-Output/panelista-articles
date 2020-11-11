@@ -44,7 +44,7 @@ Vi validerade vår hypotes med hjälp av intervjuerna och lärde oss massor som 
 
 ~~Vi lärde oss ytterligare några saker med vår videofråga till panelen och putsade snabbt funktionen innan vi släppte ut den skarpt i Panelista~~. Redan efter ett par dagar har några modiga företag ställt sina första sorteringsfrågor med lyckat resultat!
 
-[_Panelista_](https://panelista.com "Panelista") _togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt._
+[_Panelista_](https://panelista.com "Panelista") _möjliggör snabba kvalitativa feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt._
 
 {{< sv/bookdemo >}}
 
