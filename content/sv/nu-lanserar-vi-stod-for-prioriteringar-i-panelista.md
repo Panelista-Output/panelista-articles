@@ -5,7 +5,7 @@ draft = true
 excerpt = "Be kunderna sortera alternativ för att förstå vad som är viktigast och varför."
 hero = "/images/05-2020-11-10-1.jpg"
 hero_image_body = ""
-hero_image_title = "Be kunderna sortera alternativ för att förstå vad som är viktigast och varför"
+hero_image_title = "Be kunderna sortera alternativ för att förstå vad som är viktigast och varför."
 timeToRead = 3
 title = "Nu lanserar vi stöd för prioriteringar i Panelista"
 
