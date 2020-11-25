@@ -10,7 +10,7 @@ timeToRead = 5
 title = "5 sätt att skapa en snabbrörlig organisation"
 
 +++
-Vi på Panelista stöter ofta på organisationer som har utmaningar med både att fånga kundinsikter, och att snabbt agera på dem. Många organisationer vill vara agila men sitter fast i gamla mönster kring teknik och ledarskap.
+Vi på Panelista stöter ofta på organisationer som har utmaningar med både att fånga kundinsikter, och att snabbt agera på dem. De vill vara agila men sitter fast i gamla mönster kring teknik och ledarskap.
 
 Vi hade ett intressant snack med Laszlo Fischer från agilitets-experterna på [ProAgile](proagile.se) om hans bästa tips för företag som vill bryta gamla vanor och bli agila på riktigt.
 
