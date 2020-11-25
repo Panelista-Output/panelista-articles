@@ -16,13 +16,13 @@ Vi hade ett intressant snack med Laszlo Fischer från agilitets-experterna på [
 
 Laszlo har en bakgrund som systemutvecklare och har jobbat som Scrum Master och agil coach de senaste åtta åren, Förutom att hjälpa organisationer att utvecklas, utbildar han även Scrum Masters, produktägare och ledare.
 
-[ProAgile](www.proagile.se) grundades av en samling entusiaster inom agilt som ville förändra produkt- och tjänsteutvecklingsbranschen. Vi försöker leva som vi lär, säger Laszlo, i en transparent och platt organisation där alla har lika mycket inflytande. Människor förtjänar att arbeta i organisationer där de kan komma till sin rätt och skapa värde, inte för att de måste, utan för att de vill. Organisationer som inser detta blir morgondagens vinnare!
+[ProAgile](www.proagile.se) grundades av en samling entusiaster inom agilt som ville förändra produkt- och tjänsteutvecklingsbranschen. Vi försöker leva som vi lär, säger Laszlo, i en transparent och platt organisation där alla har lika mycket inflytande. ~~Människor förtjänar att arbeta i organisationer där de kan komma till sin rätt och skapa värde, inte för att de måste, utan för att de vill. Organisationer som inser detta blir morgondagens vinnare!~~
 
-## #1: Tjänande ledarskap
+## #1: Ledarskap som främjar självstyre
 
-Förändringen behöver börja på ledarskapsnivå. Det är där mandatet att skapa förutsättningarna finns. Kunskapsskillnaden mellan chefer och medarbetare har radikalt minskat sedan nu rådande organisationsteorier utvecklades, kring förrförra sekelskiftet. Därför är det heller inte längre mest sannolikt att cheferna själva har svaren på arbetet som görs. Detta leder till den rimliga slutsatsen att beslutsfattande behöver hamna på hos de som utför arbetet och påverkas av beslut. Chefers och ledares främsta uppgift är att skapa förhållanden som främjar självorganisering och självstyrande. Denna ledarskap kallas tjänande ledarskap, eller servant leadership på engelska.
+Förändringen behöver börja på ledarskapsnivå. Det är där mandatet att skapa förutsättningarna finns. Kunskapsskillnaden mellan chefer och medarbetare har radikalt minskat sedan nu rådande organisationsteorier utvecklades, kring förrförra sekelskiftet. Därför är det inte längre mest sannolikt att cheferna själva har svaren på arbetet som görs. Detta leder till den rimliga slutsatsen att beslutsfattande behöver hamna hos de som utför arbetet och påverkas av beslut. Chefers och ledares främsta uppgift är att skapa förhållanden som främjar självorganisering och självstyrande. Detta ledarskap kallas tjänande ledarskap, eller servant leadership på engelska.
 
-Rädsla är den stora bromsen till denna förändring. Den övervinns bäst med tydlighet, i såväl mål som ramar. Inom dessa ramar får teamen och medarbetarna frihet att göra det som är behövs för att uppnå målen. Motsatsen är slöseri och demotiverande för kompetenta och kreativa medarbetare.
+Rädsla är den stora bromsen för denna förändring. Den övervinns bäst med tydlighet, i såväl mål som ramar. Inom dessa ramar får teamen och medarbetarna frihet att göra det som behövs för att uppnå målen. ~~Den här typen av ledarskap motiverar kompetenta och kreativa medarbetare och tar vara på företagets resurser.~~
 
 ## #2: Tydligt produktägarskap
 
