@@ -16,7 +16,7 @@ Vi hade ett intressant snack med Laszlo Fischer från agilitets-experterna på [
 
 Laszlo har en bakgrund som systemutvecklare och har jobbat som Scrum Master och agil coach de senaste åtta åren, Förutom att hjälpa organisationer att utvecklas, utbildar han även Scrum Masters, produktägare och ledare.
 
-[ProAgile](www.proagile.se) grundades av en samling entusiaster inom agilt och allt däromkring som ville förändra produkt- och tjänsteutvecklingsbranschen. Vi försöker leva som vi lär, säger Laszlo, i en transparent och platt organisation där alla har lika mycket inflytande. Människor förtjänar att arbeta i organisationer där de kan komma till sin rätt och skapa värde, inte för att de måste, utan för att de vill. Organisationer som inser detta blir morgondagens vinnare!
+[ProAgile](www.proagile.se) grundades av en samling entusiaster inom agilt som ville förändra produkt- och tjänsteutvecklingsbranschen. Vi försöker leva som vi lär, säger Laszlo, i en transparent och platt organisation där alla har lika mycket inflytande. Människor förtjänar att arbeta i organisationer där de kan komma till sin rätt och skapa värde, inte för att de måste, utan för att de vill. Organisationer som inser detta blir morgondagens vinnare!
 
 ## #1: Tjänande ledarskap
 
