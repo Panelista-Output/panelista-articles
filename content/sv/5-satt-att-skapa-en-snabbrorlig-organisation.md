@@ -34,7 +34,7 @@ Det är viktigt att inte skapa en produktägarhierarki. Den undergräver mandate
 
 ## 3#: Organisera team i värdeströmmar
 
-Organisationer behöver röra sig bort från komponent-team (ett team som jobbar med gränssnitt tex) och istället skapa feature-team. Det innebär att sätta samman team som har möjlighet att själva skapa värde från idé till tjänst eller produkt hela vägen till kunden eller användaren. Det kan vara en ganska stor sak att ge sig på och kan ibland leda till att man omorganiserar.
+Organisationer behöver röra sig bort från komponent-team (ett team som jobbar med gränssnitt tex) och istället skapa feature-team. ~~Det innebär att sätta samman team som har möjlighet att själva skapa värde från idé till tjänst eller produkt hela vägen till kunden eller användaren.~~ Det kan vara en ganska stor sak att ge sig på och kan ibland leda till att man omorganiserar.
 
 {{< sv/bookdemo >}}
 
