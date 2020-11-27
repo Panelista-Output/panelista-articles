@@ -44,7 +44,7 @@ Att skapa sådana organisationsstrukturer lyckas sällan på första försöket 
 
 ## #4: Våga utforska och bli tekniskt agila
 
-Produktägarskap, tjänande ledarskap och smidiga organisationer i all ära, men ska organisationer snabbt skapa värde av hög kvalitet så behövs också tekniska förutsättningar. Teknisk agilitet innefattar många arbetssätt, metoder och tekniker som syftar till kunna utveckla system på ett säkert sätt med hög förändringstakt.
+Produktägarskap, tjänande ledarskap och smidiga organisationer i all ära, men ska organisationer snabbt skapa värde av hög kvalitet så behövs också tekniska förutsättningar. Teknisk agilitet innefattar många arbetssätt, metoder och tekniker som syftar till kunna förändra system på ett säkert sätt med hög förändringstakt.
 
 Begreppet innefattar bland mycket annat refaktorisering, kontinuerlig integration, testautomation och mob-programmering. Framgång här innebär en kombination mellan tekniska lösningar samt hur utvecklare samarbetar med varandra.
 
@@ -54,7 +54,7 @@ Ibland hör man begrepp som iterativt skapande och inkrementellt värde i betyde
 
 Iterativt betyder att aktiviteter utförs regelbundet, till exempel dagligen, varje vecka, varje sprint och så vidare. Styrkan med iterativ utveckling är att det finns återkommande möjlighet att granska vad som har byggts, och hur. Anpassning av bägge delarna är då en naturlig följd, och organisationen blir bättre på sitt värdeskapande.
 
-Inkrementellt innebär att produkten eller tjänsten byggs upp stegvis, där varje steg lägger till värde till de föregående stegen. Arbetar organisationen iterativt, men inte inkrementellt, är det svårt att granska utkomsten av arbetet, för den är inte nödvändigtvis ett fungerande, värdefullt inkrement. Anpassningen och de framtida besluten blir då lidande. Agila organisationer är duktiga på att skapa värde inkrementellt i regelbundna iterationer.
+Inkrementellt innebär att produkten eller tjänsten byggs upp stegvis, där varje steg lägger till värde till de föregående stegen. Arbetar organisationen iterativt, men inte inkrementellt, är det svårt att granska utkomsten av arbetet, för den är inte nödvändigtvis ett fungerande, värdefull del som går att få feedback på. Anpassningen och de framtida besluten blir då lidande. Agila organisationer är duktiga på att skapa värde inkrementellt i regelbundna iterationer.
 
 Panelista kan integreras i den här processen på ett intuitivt sätt och kan bidra till att direkt få kvalitativ feedback från användaren. -Vi ser tyvärr att många organisationer kämpar, eller inte ibland inte ens kämpar, med att jobba med kundinsikter, säger Laszlo. Vi vill komma ifrån antagandet att organisationen har alla svar och istället jobba med insikter från användare och kunder.
 
