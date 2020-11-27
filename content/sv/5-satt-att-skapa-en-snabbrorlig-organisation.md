@@ -44,9 +44,9 @@ Att skapa sådana organisationsstrukturer lyckas sällan på första försöket 
 
 ## #4: Våga utforska och bli tekniskt agila
 
-Produktägarskap, tjänande ledarskap och smidiga organisationer i all ära, men ska organisationer snabbt skapa värde av hög kvalitet så behövs också tekniska förutsättningar. Teknisk agilitet innefattar många arbetssätt, metoder och tekniker som syftar till kunna förändra system på ett säkert sätt med hög förändringstakt.
+Produktägarskap, tjänande ledarskap och smidiga organisationer i all ära, men ska organisationer snabbt skapa värde av hög kvalitet så behövs också tekniska förutsättningar. Många företag är begränsade av gamla system och tekniska lösningar som är dyra och svåra att anpassa. 
 
-Begreppet innefattar bland mycket annat refaktorisering, kontinuerlig integration, testautomation och mob-programmering. Framgång här innebär en kombination mellan tekniska lösningar samt hur utvecklare samarbetar med varandra.
+Teknisk agilitet innebär att man kontinuerligt och iterativt bryter sig loss från gamla systemberoenden och bygger en mer lättrörlig teknik och arkitektur. Det omfattar många arbetssätt, metoder och tekniker som syftar till kunna förändra system på ett säkert sätt med hög förändringstakt genom till exempel refaktorisering , kontinuerlig integration, testautomation och mob-programmering. 
 
 ## #5: Ta små smarta steg
 
