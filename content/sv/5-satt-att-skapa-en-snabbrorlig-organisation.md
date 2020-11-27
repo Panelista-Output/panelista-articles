@@ -7,7 +7,7 @@ hero = "/images/laszlo-2020-11-23.png"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 5
-title = "5 sätt att skapa en snabbrörlig organisation"
+title = "5 sätt att skapa en agil organisation"
 
 +++
 Vi på Panelista stöter ofta på organisationer som har utmaningar med både att fånga kundinsikter, och att snabbt agera på dem. De vill vara agila men sitter fast i gamla mönster kring teknik och ledarskap.
