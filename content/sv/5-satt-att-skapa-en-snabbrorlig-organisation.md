@@ -58,4 +58,6 @@ Inkrementellt innebär att produkten eller tjänsten byggs upp stegvis, där var
 
 \- Jag tycker att Panelista kan integreras i den här processen för att skapa en agil organisation på ett intuitivt sätt och kan bidra till att direkt få kvalitativ feedback från användaren. Vi ser tyvärr att många organisationer kämpar, eller inte ibland inte ens kämpar, med att jobba med kundinsikter, säger Laszlo. Vi vill komma ifrån antagandet att organisationen har alla svar och istället jobba med insikter från användare och kunder.
 
+{{< sv/bookdemo >}}
+
 {{< sv/subscribe >}}
