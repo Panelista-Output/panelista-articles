@@ -56,6 +56,6 @@ Iterativt betyder att aktiviteter utförs regelbundet, till exempel dagligen, va
 
 Inkrementellt innebär att produkten eller tjänsten byggs upp stegvis, där varje steg lägger till värde till de föregående stegen. Arbetar organisationen iterativt, men inte inkrementellt, är det svårt att granska utkomsten av arbetet, för den är inte nödvändigtvis ett fungerande, värdefull del som går att få feedback på. Anpassningen och de framtida besluten blir då lidande. Agila organisationer är duktiga på att skapa värde inkrementellt i regelbundna iterationer.
 
-Panelista kan integreras i den här processen på ett intuitivt sätt och kan bidra till att direkt få kvalitativ feedback från användaren. -Vi ser tyvärr att många organisationer kämpar, eller inte ibland inte ens kämpar, med att jobba med kundinsikter, säger Laszlo. Vi vill komma ifrån antagandet att organisationen har alla svar och istället jobba med insikter från användare och kunder.
+\- Jag tycker att Panelista kan integreras i den här processen för att skapa en agil organisation på ett intuitivt sätt och kan bidra till att direkt få kvalitativ feedback från användaren. Vi ser tyvärr att många organisationer kämpar, eller inte ibland inte ens kämpar, med att jobba med kundinsikter, säger Laszlo. Vi vill komma ifrån antagandet att organisationen har alla svar och istället jobba med insikter från användare och kunder.
 
 {{< sv/subscribe >}}
