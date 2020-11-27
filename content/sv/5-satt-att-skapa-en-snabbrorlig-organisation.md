@@ -26,7 +26,7 @@ Rädsla är den stora bromsen för denna förändring. Den övervinns bäst med 
 
 ## #2: Tydligt produktägarskap
 
-Produktägaren har en otroligt viktig roll för att överbrygga gapet mellan långsiktiga mål och dagligt arbete. Produktägaren är den som har ensamt ansvar för att en produkt eller tjänst skall nå högsta möjliga värde.
+~~Produktägaren har en otroligt viktig roll för att överbrygga gapet mellan långsiktiga mål och dagligt arbete.~~ Produktägaren är den som har ensamt ansvar för att en produkt eller tjänst skall nå högsta möjliga värde.
 
 Många organisationer har produkter som skall tillgodose många olika målgrupper. Produktägarens roll är att definiera vad som skall fokuseras på och att både hantera “tratten och förstoringsglaset”, det vill säga att tydligt prioritera vad som görs här och nu och samtidigt ha koll på långsiktiga mål och omvärld.
 
