@@ -1,7 +1,6 @@
 +++
 authors = ["Oscar Månsson Grahn"]
 date = 2020-11-22T23:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/articel-image-proagile-2020-12-02.png"
 hero_image_body = ""
