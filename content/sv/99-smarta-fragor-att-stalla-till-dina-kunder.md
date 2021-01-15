@@ -1,6 +1,6 @@
 +++
-authors = ["Oscar Mansson Grahn"]
-date = 2020-06-02T22:00:00Z
+authors = []
+date = 2021-01-18T23:00:00Z
 draft = true
 excerpt = "Karin Lycke, Service Design Lead på The Service Design Studio ger sina bästa tips för hur man ställer bra kvalitativa frågor och når kundinsikter på djupet."
 hero = "/images/karin-lycke-2020-06-03.png"
@@ -10,80 +10,116 @@ timeToRead = 5
 title = "99 smarta frågor att ställa till dina kunder"
 
 +++
-Vi på Panelista tror mycket på värdet av kvalitativa metoder för att utforska behov och testa idéer. Men det kan ibland vara svårt att formulera bra frågeställningar. I denna artikel får du läsa om hur man ställer bra kvalitativa frågor och når kundinsikter på djupet. Karin Lycke, Service Design Lead på [The Service Design Studio]() ger sina 10 bästa tips.
+Vi på Panelista ser hur framgångsrika företag lyssnar mer på sina kunder. Jag tog en kaffe med insiktsproffset Karin Lycke från The Service Design Agency. Vi hade ett spännande samtal om vilka frågor man ska ställa till sina kunder i olika lägen för att få välgrundade insikter med sig för beslut.
 
-**Varför Service Design är viktigt**
+\- Att kontinuerligt involvera sina kunder i affärsutveckling och produktutveckling blir mer och mer självklart för företag. Genom att ställa frågor till kunderna under olika skeden i utvecklingen blir det enklare att prioritera rätt och att utveckla produkter och tjänster som kunder älskar.
 
-Karin har jobbat med Service Design sedan 2013. Hon är utbildad inom Business and Design med bakgrund som AD inom reklambranschen där intresset för att hitta metoder för att förstå verkliga kundbehov väcktes.
+Karin, vad är det man ska fråga sina kunder? Och hur ska man ställa sina frågor? Och när ska man ställa vilken sorts frågor?
 
-\- När jag jobbade med reklam och kommunikation så gissade man mycket. Man försökte tänka från sig själv eller sina bekanta och det blev ofta en ganska snäv krets att utgå ifrån. Tidigare var det också mycket mer att man fick saker i knät, till exempel en kvantitativ marknadsundersökning, och utifrån den skulle man göra ut något kreativt.
+\- Framför allt ska man vänja sig vid att ställa öppna frågor, dvs frågor som uppmuntrar till mer fylliga svar. Och utnyttja möjligheten att gräva djupare genom att ställa följdfrågor.
 
-\- Om saker inte funkade på marknaden så lade man ännu mer krut på marknadsföring och sälj, istället för att ta reda på varför, att ta reda på behov och designa bättre tjänster. Jag sökte efter en bättre metod, och upptäckte Service Design och har jobbat med det sedan dess.
+**Vad vill du fråga dina kunder?**
 
-\- Idag jobbar vi tätt med uppdragsgivaren och istället för att få en brief och göra ut på egen kammare så gör man det tillsammans. Vi jobbar främst med kvalitativ research genom djupintervjuer men kompletterar med kvantitativa undersökningar  och någon annan metod, som en sorts triangulering.
+* Har du själv funderat på varför du vill ställa frågor? Vad ska du använda svar och insikter till? Att ha koll på syftet och i vilken utvecklingsfas man befinner sig är A och O.
 
-**#1: Förberedelser inför djupintervjuer**
+* Är du affärsutvecklare så vill du förmodligen utforska vilka framtidsmöjligheter ni har och vilka nya produkter och tjänster som kan utvecklas.
+* Om du är produktutvecklare så kanske du redan har en backlog med behov som ska adresseras och behöver stämma av kontinuerligt med kunderna i snabba feedbackloopar för att välja rätt väg.
 
-\- Vi brukar börja med att skriva en frågeguide eller frågeplan. ~~Frågeplanen är inget frågebatteri med färdigformulerade frågor utan mer som en spelplan med olika frågeområden som vi vill täcka in under vår research.~~ Vi har endast några få färdiga huvudfrågor. Kontexten är också väldigt viktig, att man har en grundlig förståelse för vad det är man skall undersöka. Vad har gjorts tidigare, vad vet man och vad vet man inte?
+Tänk att utveckling sker i tre huvudsakliga faser, säger Karin.
 
-**#2: Följ energin under samtalet**
+1. Samla in abstrakta tankar och rama in området - få en uppfattning om vilka behov som finns
+2. Samskapa möjliga lösningar - konkretisera behov och iterera lösningar
+3. Detaljera och finjustera - förbättra befintliga lösningar i små steg
 
-\- ~~Vid en intervju är det viktigt att låta intervjupersonen vara med och styra intervjun och att tillåta att man fördjupar sig där energin finns.~~ Om man gör flera intervjuer så behöver man inte vara orolig över att hela spelplanen täcks in under en specifik intervju, det brukar kompletteras med övriga intervjuer.
+Var befinner du dig?
 
-**#3: Tänk igenom miljön vid fysiska intervjuer**
+### ![](https://lh5.googleusercontent.com/ABxGRQFYcAn3b4FwxjvcqOziUkvc-k-XyIRbNZ4jR2C3JFEGnw4qGk97Fri5VtyNgsO8UJWK61q63XGrD5fpALoDEe_Yupke9fYc1223fOyH_Hdbv4opF3ORXYTTmnFP9VoRKXe5 =489x314)
 
-\- Vi gjorde tidigare mycket intervjuer på hotell. Men vilken stämning sätter det? Stämmer det överens med vad vårt företag representerar? Nu finns förmedlingstjänster av lägenheter för att under dagtid kunna vara i en hemma-miljö. Det gör ofta intervjupersonen mer avslappnad.
+### #1 Frågor för att utforska nya möjligheter
 
-\- Tänk på att den du intervjuar skall känna sig bekväm. Var inte för uppklädd, till exempel i kostym, utan var på samma nivå som den du ska intervjua. Tänk igenom hur man sitter i rummet. Förklara rollerna och varför folk som lyssnar är där. Börja med att småprata och erbjud kaffe.
+Ta alltid avstamp var ni befinner er i utvecklingen. Förklara för kunden varför ni behöver hjälp. _“Nu står vi här och därför skulle vi vilja fråga dig…”_ Det gör det lättare och mer angeläget för kunden att bidra.
 
-\- Ett trick kan vara att säga att man själv är lite nervös. “Du är den första jag intervjuar i detta projekt”. Det viktigaste är att det mer skall vara ett samtal än en intervju. Ett nyfiket samtal!
+* Vad tänker du om det här?
+* Vilka möjligheter eller utmaningar ser du framåt?
+* Hur skulle vi kunna göra det/möta det?
 
-**#4: Förstå de bakomliggande behoven**
+### #2 Frågor för att hitta rätt utmaning
 
-\- ~~Att ställa öppna frågor är A och O.~~ Men hur kan vi garantera att folk säger som det är?
+Här får du ställa utforskande frågor som utmanar kunden att tänka ganska fritt och också utgå från sig själv och sina personliga behov och åsikter. Det gäller att ringa in rätt behov att lösa.
 
-Det handlar om att förstå value action gapet. Vad är det vi säger och vad är det vi tänker? Om någon till exempel får en fråga “Vad skulle du helst vilja äta till lunch?” och svarar “en nyttig sallad”, men sen när det blir lunch oftast tar något snabbt och enkelt som en burgare. Man måste förstå vad det är som styr besluten genom att ställa frågor som till exempel:
+* Hur ska vi göra det vi gör bättre?
+* Hur ska vi utveckla oss?
 
-* Vad väljer du när du har mycket tid?
-* ...när du har lite tid?
-* ...när du vet vad vad som finns?
-* Vad valde du senaste?
-* Vad är det som skulle få dig att välja någonting annat?
-* Berätta om sista gången du gjorde det?
+* Vad tänker du i stort om____?
+* Vad saknar du?
+* Vad är en ___ för dig? Hur skulle det påverka dig om ___inte fanns? Vad skulle du göra istället?
+* Berätta om en gång___
+* Berätta om en positiv upplevelse av____
+* Berätta om den bästa upplevelsen av___?
+* Berätta om den sämsta upplevelsen av___?
+  * Vad tänkte du då?
+* Varför använder du___?
 
-{{< sv/visitpanelista >}}
+### #3 Frågor för att stämma av utmaningen och vår hypotes
 
-**#5: Om man glider ifrån ämnet**
+Har du tolkat kunderna rätt? Formulera din hypotes och fråga kunderna om det stämmer.
 
-\- Ibland måste den man intervjuar få ur sig saker. Bekräfta dem istället i det. Låt dem prata. Säg “vad bra att du berättar detta” och sen försöka styra frågorna till de områden du vill utforska. Ibland kan det vara läge att avbryta. Isåfall kan man göra ett snabbt och tydligt avbrott, där man bekräftar det som tidigare sagts “Superbra att du berättade detta! Nu tänkte jag att vi ska ta och prata lite om det här. “
+* Vi har förstått att många är intresserade av det här___.
+* Vi tänkte adressera det här____.
+* Känner du igen den här utmaningen?
+* Vad tänker du om det?
+* Om vi skulle göra så här____vad skulle du göra mest av då?
+* Om vi gör det här___, vad har du då för förväntningar?
+* Tycker du att vi ska erbjuda någon sorts abonnemang? Isåfall, vad är viktigt för dig?
 
-**#6: Vikten av att ställa följdfrågor**
+### #4 Frågor för att verifiera, testa och prioritera
 
-\- ~~Följdfrågor är hela intervjun. Det handlar om att ställa frågor som är relevanta och som fångar upp det som sägs. Tänk att det finns tusen olika sätt att säga “Varför?”.~~ Till exempel:
+När du itererar och vidareutvecklar behöver du snabba feedback-loopar med kunderna. Fråga vad kunder tycker så är chansen större att du gör rätt prioriteringar.
 
-* Vad intressant berätta mer!
-* Det där skulle jag vilja att du utvecklade!
-* Hur fungerade det då?
-* Vad hade hänt precis innan, vad hände efteråt, hur kändes det?
+* Vi tänkte så här___Vad tycker du om det?
+* Vi skulle vilja hjälpa våra kunder med det här____. Då tänkte vi göra så här____. Vad tycker du?
+* Hur kan vi förbättra vår___?
+* Varför köpte du____?
+* Vad är viktigast för dig när du köper___online?
+* Vad skulle få dig att inte köpa nästa version av ____?
+* Hur skulle det bli enklare för dig att använda vårt verktyg/vår produkt?
+* Om du fick välja mellan de här____, vad är då viktigast för dig?
 
-**#7: Hur man hanterar negativa tankar**
+Om du ber om hjälp med prioriteringar så ha alltid med ett öppet alternativ eller en frågeteckenbild om man vill välja något annat. På så sätt fångar du upp om du har missat några viktiga alternativ.
 
-\- Ofta har de som haft en negativ upplevelse, starka tankar om hur något skulle kunna göras bättre. Det är bra att bekräfta det som sägs och vända till nuläget istället. Till exempel: "Det där var inte en bra upplevelse. Hur skulle du vilja att det var om det var bra?” Eller “Hur hade du gjort istället?”
+### Följdfrågor - nyckeln till att förstå _varför_?
 
-**#8: Var fler än en person som intervjuar**
+Att ställa följdfrågor är nyckeln till att förstå de bakomliggande behoven och varför kunden, säger Karin. Det här är bra frågor för att få veta mer:
 
-\- Det är en klar fördel att vara två som intervjuar. En är huvudintervjuare och en antecknar men kan också ställa frågor och följdfrågor. Man hinner andas lite, tänka efter och anteckna. Om fler lyssnar så underlättar det analysen så att det inte är en persons tolkning som styr. Fler har hört grundresonemangen och man kan hjälpa varandra.
+* Kan du berätta mer?
+* Hur menar du?
+* Kan du utveckla det?
+* Varför tycker du det?
+* Kan du ge exempel på det?
 
-**#9: Intervjuer på distans**
+### Fler smarta tips för att få riktigt bra svar
 
-\- Under Coronan har vi varit tvungna att göra fler intervjuer på distans än vi vanligtvis gör. Som tur är fungerar remoteintervjuer via till exempel zoom eller meetup förvånansvärt bra. Det är nästan så att man kan vara mer ärlig. Det finns en skärm emellan som kan göra en mer avslappnad och öppen, säger Karin.
+Vi börjar runda av och Karin delar också med sig att sina bästa tips för att få så bra svar som möjligt.
 
-Vi på Panelista har tydligt sett styrkan i att med [Panelistas videofrågor](https://panelista.com/guide/how-to-create-your-first-video-question "Om videofrågor i Panelista") kunna prata och interagera med sin målgrupp för att få kvalitativa insikter - utan att behöva investera tid och pengar i att sätta ihop fysiska fokusgrupper eller boka intervjuer på plats.
+* Var ödmjuk. Tonalitet är viktig. Visa dig mänsklig, öppen och sårbar. Var ärlig.Ju mer öppen du är desto mer öppna kommer dina kunder vara när de svarar.
 
-**#10: Tips vid avslutning**
 
-Ett tips vid avslutning av en intervju är att låta den man intervjuat sammanfatta vad man pratat om. Till exempel “Tack så jättemycket för att du tog dig tid, om du skulle sammanfatta vad vi har pratat om, vad är det viktigaste? Eller “Är det några sista tankar som har dykt upp som du vill berätta om?” Då dyker det ofta upp saker som man missat, eller att man får ta del av tankar som väckts under intervjun. Där kan man få mycket värdefulla insikter.
+* “Vi behöver din hjälp för att…”
+* “ Vi har förstått att vi inte har kunnat möta alla önskemål/inte varit så bra på det här. Därför…
 
+* Sätt scenen. Sätt alltid in frågan i sitt sammanhang med en startpunkt. Nu står vi här. Därför skulle vi vilja ta reda på det här.
+
+* “Vad tänker du? Hur var det för dig?” Ställ personligt riktade frågor för att få konkreta svar.
+
+* Stängde vi för tidigt? Ha med en frågeteckenbild, dvs en öppen bild som kan vara något annat. Har vi missat något?
+
+* Har vi missat målet? Lämna utrymme för generella kommentarer i slutet av ett projekt.
+  * “Skulle du vilja tillägga något?”
+  * “Är det någon annan upplevelse av oss som du skulle vilja dela med dig av?”
+
+* Tack! Återkoppla till kunderna. Berätta vad ni tog med er från förra frågan. Hur ska ni använda det här resultatet? Berätta vad ni har lärt er.
+
+  
 **Om du vill läsa mer**
 
 I vår guide-sektion kan man läsa [tips på hur man skapar bra videofrågor i Panelista](https://panelista.com/guide/how-to-create-your-first-video-question "Hur man skapar bra videofrågor").
