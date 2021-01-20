@@ -16,7 +16,7 @@ Vi på Panelista ser hur framgångsrika företag lyssnar mer på sina kunder. Ja
 
 Karin, vad är det man ska fråga sina kunder? Och hur ska man ställa sina frågor? Och när ska man ställa vilken sorts frågor?
 
-\- Framför allt ska man vänja sig vid att ställa öppna frågor, dvs frågor som uppmuntrar till mer eftertanke. Och utnyttja möjligheten att gräva djupare genom att ställa följdfrågor.
+\- Framför allt ska man vänja sig vid att <<ställa öppna frågor, dvs frågor som uppmuntrar till mer eftertanke. Och utnyttja möjligheten att gräva djupare genom att ställa följdfrågor.>>
 
 ![](/images/illustrationcluster08-2021-01-20.png)
 
