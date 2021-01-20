@@ -30,11 +30,11 @@ Karin, vad är det man ska fråga sina kunder? Och hur ska man ställa sina frå
 
 Tänk att utveckling sker i tre huvudsakliga faser, säger Karin.
 
-1\. Rama in utvecklingsområden - uppmana till berättande i relation till organisation, produkt eller tjänst för att identifiera vilka behov som finns och hitta rätt sak att lösa
+**1. Rama in utvecklingsområden** - uppmana till berättande i relation till organisation, produkt eller tjänst för att identifiera vilka behov som finns och hitta rätt sak att lösa
 
-2\. Samskapa möjliga lösningar – verifiera utmaning, konkretisera behov, förstå framtida visioner och iterera olika lösningar
+**2. Samskapa möjliga lösningar** – verifiera utmaning, konkretisera behov, förstå framtida visioner och iterera olika lösningar
 
-3\. Detaljera och finjustera - förbättra en lösning i små steg genom att testa och prioritera
+**3. Detaljera och finjustera** - förbättra en lösning i små steg genom att testa och prioritera
 
 Var befinner du dig?
 
