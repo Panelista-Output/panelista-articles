@@ -18,6 +18,8 @@ Karin, vad är det man ska fråga sina kunder? Och hur ska man ställa sina frå
 
 \- Framför allt ska man vänja sig vid att ställa öppna frågor, dvs frågor som uppmuntrar till mer eftertanke. Och utnyttja möjligheten att gräva djupare genom att ställa följdfrågor.
 
+![](/images/illustrationcluster08-2021-01-20.png)
+
 ### Vad vill du fråga dina kunder?
 
 \- Har du själv funderat på varför du vill ställa frågor? Vad ska du använda svar och insikter till? Att ha koll på syftet och i vilken utvecklingsfas man befinner sig är A och O.
@@ -35,6 +37,8 @@ Tänk att utveckling sker i tre huvudsakliga faser, säger Karin.
 3\. Detaljera och finjustera - förbättra en lösning i små steg genom att testa och prioritera
 
 Var befinner du dig?
+
+![](/images/bubbles2-2021-01-20.jpg)
 
 ### #1 Frågor för att utforska nya möjligheter
 
