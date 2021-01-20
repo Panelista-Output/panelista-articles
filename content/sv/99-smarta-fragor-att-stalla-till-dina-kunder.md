@@ -16,7 +16,7 @@ Vi på Panelista ser hur framgångsrika företag lyssnar mer på sina kunder. Ja
 
 Karin, vad är det man ska fråga sina kunder? Och hur ska man ställa sina frågor? Och när ska man ställa vilken sorts frågor?
 
-\- Framför allt ska man vänja sig vid att <<ställa öppna frågor, dvs frågor som uppmuntrar till mer eftertanke. Och utnyttja möjligheten att gräva djupare genom att ställa följdfrågor.>>
+\- Framför allt ska man vänja sig vid att ~~ställa öppna frågor, dvs frågor som uppmuntrar till mer eftertanke. Och utnyttja möjligheten att gräva djupare genom att ställa följdfrågor.~~
 
 ![](/images/illustrationcluster08-2021-01-20.png)
 
@@ -40,7 +40,7 @@ Var befinner du dig?
 
 ![](/images/bubbles2-2021-01-20.jpg)
 
-### #1 Frågor för att utforska nya möjligheter
+### #1 Frågor för att ~~utforska nya möjligheter~~
 
 Ta alltid avstamp i var ni befinner er i utvecklingen. Förklara för kunden varför ni behöver hjälp. _“Nu står vi här och därför skulle vi vilja fråga dig…”_ Det gör det lättare och mer angeläget för kunden att bidra.
 
@@ -49,7 +49,7 @@ Ta alltid avstamp i var ni befinner er i utvecklingen. Förklara för kunden var
 * Vad är viktigast för dig kopplat till det här? Varför då?
 * Om du fick bestämma, hur skulle vi kunna göra det/möta det?
 
-  ### #2 Frågor för att hitta rätt utmaning
+  ### #2 Frågor för att ~~hitta rätt utmaning~~
 
 Här får du ställa utforskande frågor som utmanar kunden att tänka ganska fritt och också utgå från sig själv och sina personliga behov och åsikter. Det gäller att ringa in rätt behov att lösa.
 
@@ -65,7 +65,7 @@ Här får du ställa utforskande frågor som utmanar kunden att tänka ganska fr
   * Vad tänkte du då?
 * Varför använder du___?
 
-### #3 Frågor för att stämma av utmaningen och vår hypotes
+### #3 Frågor för att ~~stämma av utmaningen och vår hypotes~~
 
 Har du tolkat kunderna rätt? Formulera din hypotes och fråga kunderna om det stämmer.
 
@@ -77,7 +77,7 @@ Har du tolkat kunderna rätt? Formulera din hypotes och fråga kunderna om det s
 * Om vi gör det här___, vad har du då för förväntningar?
 * Tycker du att vi ska erbjuda någon sorts abonnemang? Isåfall, vad är viktigt för dig?
 
-### #4 Frågor för att verifiera, testa och prioritera
+### #4 Frågor för att ~~verifiera, testa och prioritera~~
 
 När du itererar och vidareutvecklar behöver du snabba feedback-loopar med kunderna. Fråga vad kunder tycker så är chansen större att du gör rätt prioriteringar.
 
@@ -92,7 +92,7 @@ När du itererar och vidareutvecklar behöver du snabba feedback-loopar med kund
 
 Om du ber om hjälp med prioriteringar så ha alltid med ett öppet alternativ eller en frågeteckenbild om man vill välja något annat. På så sätt fångar du upp om du har missat några viktiga alternativ.
 
-### Följdfrågor - nyckeln till att förstå _varför_?
+### ~~Följdfrågor~~ - nyckeln till att förstå _varför_?
 
 Att ställa följdfrågor är nyckeln till att förstå de bakomliggande behoven och varför kunden, säger Karin. Det här är bra frågor för att få veta mer:
 
