@@ -2,7 +2,7 @@
 authors = []
 date = 2021-01-18T23:00:00Z
 draft = true
-excerpt = "Karin Lycke, Service Design Lead på The Service Design Studio ger sina bästa tips för hur man ställer bra kvalitativa frågor och når kundinsikter på djupet."
+excerpt = "Karin Lycke, Service Design Lead på The Service Design Studio ger sina bästa tips för vilka kvalitativa frågor du ska ställa för att få rätt insikter."
 hero = "/images/karin-lycke-2020-06-03.png"
 hero_image_body = ""
 hero_image_title = ""
