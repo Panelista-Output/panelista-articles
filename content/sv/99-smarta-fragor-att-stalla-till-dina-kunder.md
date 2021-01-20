@@ -96,15 +96,11 @@ Om du ber om hjälp med prioriteringar så ha alltid med ett öppet alternativ e
 
 Att ställa följdfrågor är nyckeln till att förstå de bakomliggande behoven och varför kunden, säger Karin. Det här är bra frågor för att få veta mer:
 
-● Kan du berätta mer?
-
-● Hur menar du?
-
-● Kan du utveckla det?
-
-● Varför tycker du det?
-
-● Kan du ge exempel på det?
+* Kan du berätta mer?
+* Hur menar du?
+* Kan du utveckla det?
+* Varför tycker du det?
+* Kan du ge exempel på det?
 
 ### Fler smarta tips för att få riktigt bra svar
 
