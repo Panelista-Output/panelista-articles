@@ -40,39 +40,26 @@ Var befinner du dig?
 
 Ta alltid avstamp i var ni befinner er i utvecklingen. Förklara för kunden varför ni behöver hjälp. _“Nu står vi här och därför skulle vi vilja fråga dig…”_ Det gör det lättare och mer angeläget för kunden att bidra.
 
-● Vad tänker du om det här?
+* Vad tänker du om det här?
+* Vilka möjligheter eller utmaningar ser du framåt?
+* Vad är viktigast för dig kopplat till det här? Varför då?
+* Om du fick bestämma, hur skulle vi kunna göra det/möta det?
 
-● Vilka möjligheter eller utmaningar ser du framåt?
-
-● Vad är viktigast för dig kopplat till det här? Varför då?
-
-● Om du fick bestämma, hur skulle vi kunna göra det/möta det?
-
-### #2 Frågor för att hitta rätt utmaning
+  ### #2 Frågor för att hitta rätt utmaning
 
 Här får du ställa utforskande frågor som utmanar kunden att tänka ganska fritt och också utgå från sig själv och sina personliga behov och åsikter. Det gäller att ringa in rätt behov att lösa.
 
-● Hur ska vi göra det vi gör bättre?
-
-● Hur ska vi utveckla oss?
-
-● Vad tänker du i stort om____?
-
-● Vad saknar du?
-
-● Vad är en ___ för dig? Hur skulle det påverka dig om ___inte fanns? Vad skulle du göra istället?
-
-● Berätta om en gång___
-
-● Berätta om en positiv upplevelse av____
-
-● Berätta om den bästa upplevelsen av___?
-
-● Berätta om den sämsta upplevelsen av___?
-
-○ Vad tänkte du då?
-
-● Varför använder du___?
+* Hur ska vi göra det vi gör bättre?
+* Hur ska vi utveckla oss?
+* Vad tänker du i stort om____?
+* Vad saknar du?
+* Vad är en ___ för dig? Hur skulle det påverka dig om ___inte fanns? Vad skulle du göra istället?
+* Berätta om en gång___
+* Berätta om en positiv upplevelse av____
+* Berätta om den bästa upplevelsen av___?
+* Berätta om den sämsta upplevelsen av___?
+  * Vad tänkte du då?
+* Varför använder du___?
 
 ### #3 Frågor för att stämma av utmaningen och vår hypotes
 
@@ -90,21 +77,14 @@ Har du tolkat kunderna rätt? Formulera din hypotes och fråga kunderna om det s
 
 När du itererar och vidareutvecklar behöver du snabba feedback-loopar med kunderna. Fråga vad kunder tycker så är chansen större att du gör rätt prioriteringar.
 
-● Vi tänkte så här___Vad tycker du om det?
-
-● Vi skulle vilja hjälpa våra kunder med det här____. Då tänkte vi göra så här____. Vad tycker du?
-
-● Hur kan vi förbättra vår___?
-
-● Varför köpte du____?
-
-● Vad är viktigast för dig när du köper___online?
-
-● Vad skulle få dig att inte köpa nästa version av ____?
-
-● Hur skulle det bli enklare för dig att använda vårt verktyg/vår produkt?
-
-● Om du fick välja mellan de här____, vad är då viktigast för dig?
+* Vi tänkte så här___Vad tycker du om det?
+* Vi skulle vilja hjälpa våra kunder med det här____. Då tänkte vi göra så här____. Vad tycker du?
+* Hur kan vi förbättra vår___?
+* Varför köpte du____?
+* Vad är viktigast för dig när du köper___online?
+* Vad skulle få dig att inte köpa nästa version av ____?
+* Hur skulle det bli enklare för dig att använda vårt verktyg/vår produkt?
+* Om du fick välja mellan de här____, vad är då viktigast för dig?
 
 Om du ber om hjälp med prioriteringar så ha alltid med ett öppet alternativ eller en frågeteckenbild om man vill välja något annat. På så sätt fångar du upp om du har missat några viktiga alternativ.
 
