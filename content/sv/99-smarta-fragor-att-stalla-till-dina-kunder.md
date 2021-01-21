@@ -38,7 +38,7 @@ Tänk att utveckling sker i tre huvudsakliga faser, säger Karin.
 
 Var befinner du dig?
 
-![](/images/bubbles2-2021-01-20.jpg)
+<div class="Image__small"> <img src="/images/bubbles2-2021-01-20.jpg" alt="Graph" /> </div>
 
 ### #1 Frågor för att ~~utforska nya möjligheter~~
 

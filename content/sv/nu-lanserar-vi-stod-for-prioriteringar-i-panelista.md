@@ -37,7 +37,7 @@ Sedan körde vi en co-creation session med Annelie från inUse som jobbar med v�
 
 Vi valde att som nästa steg göra en pappersprototyp som visualiserade vår hypotes för att testa denna i intervjuer med fem personer.
 
-<div class="Image__small"> <img src="/images/prototype-image-2020-11-10.jpg" alt="Graph" /> </div>
+<div class="Image__small"> <img src="/images/prototype-image-2020-11-10.jpg" alt="Pappersprototyp" /> </div>
 
 Vi validerade vår hypotes med hjälp av intervjuerna och lärde oss massor som hjälpte oss designa en bra första version. Sedan ställde vi en sorteringsfråga till vår egen panel på Panelista med frågan "Vem gör Göteborgs bästa burgare? Och varför?" med alternativ som "Burgersson" och "Lasse på Heden".
 
