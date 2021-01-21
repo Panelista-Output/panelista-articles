@@ -18,7 +18,7 @@ Karin, vad är det man ska fråga sina kunder? Och hur ska man ställa sina frå
 
 \- Framför allt ska man vänja sig vid att ~~ställa öppna frågor, dvs frågor som uppmuntrar till mer eftertanke. Och utnyttja möjligheten att gräva djupare genom att ställa följdfrågor.~~
 
-![](/images/illustrationcluster08-2021-01-20.png)
+<div class="Image__small"> <img src="/images/illustrationcluster08-2021-01-20.png" alt="Results Dashboard" /></div>
 
 ### Vad vill du fråga dina kunder?
 
@@ -51,7 +51,7 @@ Ta alltid avstamp i var ni befinner er i utvecklingen. Förklara för kunden var
 
   ### #2 Frågor för att ~~hitta rätt utmaning~~
 
-Här får du ställa utforskande frågor som utmanar kunden att tänka ganska fritt och också utgå från sig själv och sina personliga behov och åsikter. Det gäller att ringa in rätt behov att lösa. 
+Här får du ställa utforskande frågor som utmanar kunden att tänka ganska fritt och också utgå från sig själv och sina personliga behov och åsikter. Det gäller att ringa in rätt behov att lösa.
 
 * Hur ska vi göra det vi gör bättre?
 * Hur ska vi utveckla oss?
