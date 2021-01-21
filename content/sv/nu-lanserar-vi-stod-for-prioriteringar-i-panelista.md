@@ -23,7 +23,7 @@ Kunderna väljer vilka alternativ som är viktiga och placerar dessa ovanför en
 
 Du kan skapa upp till 7 alternativ och dessa visas alltid först i en slumpmässig ordning för att inte påverka resultatet.
 
-<div class="Image__small"> <img src="/images/02-2020-11-10.jpg" alt="Results Dashboard" /> </div>
+<div class="Image__small"> <img src="/images/02-2020-11-10.jpg" alt="Panelista tool" /> </div>
 
 ~~Vår sorteringsfunktion är inspirerad av "card sorting" som är en metodik med brett stöd inom både UX-design och forskning~~. Card sorting används framförallt i kvalitativa intervjuer med kunder.
 
