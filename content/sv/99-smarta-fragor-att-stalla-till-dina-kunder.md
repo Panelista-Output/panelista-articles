@@ -62,7 +62,7 @@ Här får du ställa utforskande frågor som utmanar kunden att tänka ganska fr
 * Berätta om en positiv upplevelse av____
 * Berätta om den bästa upplevelsen av___?
 * Berätta om den sämsta upplevelsen av___?
-  * Vad tänkte du då?
+* Vad tänkte du då?
 * Varför använder du___?
 
 ### #3 Frågor för att ~~stämma av utmaningen och vår hypotes~~
