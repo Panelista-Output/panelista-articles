@@ -48,8 +48,6 @@ Ta alltid avstamp i var ni befinner er i utvecklingen. Förklara för kunden var
 * Vad är viktigast för dig kopplat till det här? Varför då?
 * Om du fick bestämma, hur skulle vi kunna göra det/möta det?
 
-{{< sv/visitpanelista >}}
-
 ### #2 Frågor för att ~~hitta rätt utmaning~~
 
 Här får du ställa utforskande frågor som utmanar kunden att tänka ganska fritt och också utgå från sig själv och sina personliga behov och åsikter. Det gäller att ringa in rätt behov att lösa.
@@ -77,6 +75,8 @@ Har du tolkat kunderna rätt? Formulera din hypotes och fråga kunderna om det s
 * Om vi skulle göra så här____vad skulle du göra mest av då?
 * Om vi gör det här___, vad har du då för förväntningar?
 * Tycker du att vi ska erbjuda någon sorts abonnemang? Isåfall, vad är viktigt för dig?
+
+{{< sv/visitpanelista >}}
 
 ### #4 Frågor för att ~~verifiera, testa och prioritera~~
 
