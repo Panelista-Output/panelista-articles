@@ -22,7 +22,7 @@ Karin, vad är det man ska fråga sina kunder? Och hur ska man ställa sina frå
 
 ### Vad vill du fråga dina kunder?
 
-\- Har du själv funderat på varför du vill ställa frågor? Vad ska du använda svar och insikter till? Att ha koll på syftet och i vilken utvecklingsfas man befinner sig är A och O.
+\- Har du själv funderat på varför du vill ställa frågor? Vad ska du använda svar och insikter till? Vilket är ditt sammanhang? Att ha koll på syftet och i vilken utvecklingsfas man befinner sig är A och O.
 
 \- Är du affärsutvecklare så vill du förmodligen utforska vilka framtidsmöjligheter ni har och vilka nya produkter och tjänster som kan utvecklas.
 
