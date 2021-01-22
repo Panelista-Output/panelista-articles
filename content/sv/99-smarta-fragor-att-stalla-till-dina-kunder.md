@@ -1,7 +1,7 @@
 +++
 authors = ["Charlotta Alexen"]
 date = 2021-01-18T23:00:00Z
-excerpt = "Karin Lycke, Service Design Lead på The Service Design Studio ger sina bästa tips för vilka kvalitativa frågor du ska ställa för att få rätt insikter."
+excerpt = "Karin Lycke frånThe Service Design Studio och Charlotta Alexén från Panelistager sina bästa tips för vilka kvalitativa frågor du ska ställa för att få rätt insikter."
 hero = "/images/article-image-99-fragor-2021-01-21.jpg"
 hero_image_body = ""
 hero_image_title = ""
