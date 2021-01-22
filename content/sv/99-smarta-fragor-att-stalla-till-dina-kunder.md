@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Charlotta Alexen"]
 date = 2021-01-18T23:00:00Z
 draft = true
 excerpt = "Karin Lycke, Service Design Lead på The Service Design Studio ger sina bästa tips för vilka kvalitativa frågor du ska ställa för att få rätt insikter."
@@ -7,7 +7,7 @@ hero = "/images/article-image-99-fragor-2021-01-21.jpg"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 5
-title = "99 smarta frågor att ställa till dina kunder"
+title = "35 smarta frågor att ställa till dina kunder"
 
 +++
 Vi på Panelista ser hur framgångsrika företag lyssnar mer på sina kunder. Jag tog en kaffe med insiktsproffset Karin Lycke från The Service Design studio. Vi hade ett spännande samtal om vilka frågor man ska ställa till sina kunder i olika lägen för att få välgrundade insikter med sig för beslut.
