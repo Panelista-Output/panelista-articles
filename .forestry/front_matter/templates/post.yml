@@ -55,6 +55,7 @@ fields:
       format: markdown
   label: Hero image body
 pages:
+- content/en/35-smart-questions-to-ask-your-customers.md
 - content/en/5-tips-to-increase-the-speed-of-your-product-development.md
 - content/en/fractal-design-and-panelista.md
 - content/en/lantmannen-and-panelista.md
@@ -62,7 +63,6 @@ pages:
 - content/en/wayke-and-panelista.md
 - content/sv/5-satt-att-skapa-en-snabbrorlig-organisation.md
 - content/sv/5-tips-for-att-oka-takten-i-er-produktutveckling.md
-- content/sv/99-smarta-fragor-att-stalla-till-dina-kunder.md
 - content/sv/designa-med-kunderna-och-dubbla-dina-affarsresultat.md
 - content/sv/hur-staller-man-bra-kvalitativa-fragor.md
 - content/sv/nu-lanserar-vi-stod-for-prioriteringar-i-panelista.md
