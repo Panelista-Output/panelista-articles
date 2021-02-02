@@ -12,7 +12,7 @@ title = "35 smart questions to ask your customers"
 +++
 We at Panelista see how successful companies listen to their customers. I grabbed a cup of coffee with Karin Lycke, the insights expert to listen to her advice. We had an exciting discussion about how to engage customers by asking smart questions to gather relevant insights for better decision-making.
 
-\\- Att kontinuerligt involvera sina kunder i affärsutveckling och produktutveckling blir mer och mer självklart för företag. Genom att ställa frågor till kunderna under olika skeden i utvecklingen blir det enklare att prioritera rätt och att utveckla produkter och tjänster som kunder älskar.
+\\- It is more and more clear for many companies the value of continuously involving customers in business and product development efforts. By involving customers during different stages of development, it becomes easier for companies to prioritize correctly and to develop products and services that customers actually love.
 
 Karin, vad är det man ska fråga sina kunder? Och hur ska man ställa sina frågor? Och när ska man ställa vilken sorts frågor?
 
