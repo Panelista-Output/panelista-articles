@@ -122,19 +122,19 @@ If you ask for help with priorities, always have an open alternative or a questi
 
 \### \~\~Follow-up questions\~\~ - the key to understanding _why_ 
 
-Att ställa följdfrågor är nyckeln till att förstå de bakomliggande behoven och varför kunden, säger Karin. Det här är bra frågor för att få veta mer:
+Asking follow-up questions is the key to understanding the underlying needs and their meaning, says Karin. These are good questions to know more:
 
-\* Kan du berätta mer?
+\* Can you tell me more?
 
-\* Hur menar du?
+\* How do you mean?
 
-\* Kan du utveckla det?
+\* Can you elaborate?
 
-\* Varför tycker du det?
+\* Why do think so?
 
-\* Kan du ge exempel på det?
+\* Can you give an example of that?
 
-\### Fler smarta tips för att få riktigt bra svar
+\### More smart tips to get really good answers
 
 Vi börjar runda av och Karin delar också med sig att sina bästa tips för att få så bra svar som möjligt.
 
