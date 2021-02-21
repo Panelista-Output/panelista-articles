@@ -142,11 +142,12 @@ We start rounding off and Karin shared her best tips for getting the best answer
 
 \\- “We need your help to…”
 
-\\- “ Vi har förstått att vi inte har kunnat möta alla önskemål/inte varit så bra på det här. Därför…
+\\- “ “We have understood that we have not been able to meet all wishes / have not been so good at this. Because…
 
-\*_Sätt scenen._* Sätt alltid in frågan i sitt sammanhang med en startpunkt. Nu står vi här. Därför skulle vi vilja ta reda på det här.
+\*_Set the scene._* Always phrase question(s) within a given context with a clear starting point. Now that we are here. Therefore, we would like to find out...
 
-\**“Vad tänker du? Hur var det för dig?”** Ställ personligt riktade frågor för att få konkreta svar.
+
+\**“What do you think? How was it for you?”** Ask personal questions to get concrete answers.
 
 \*_Stängde vi för tidigt?_* Ha med en frågeteckenbild, dvs en öppen bild som kan vara något annat. Har vi missat något?
 
