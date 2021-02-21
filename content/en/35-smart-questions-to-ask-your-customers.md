@@ -30,12 +30,11 @@ Karin, what questions would you recommend companies to ask their customers? And 
 
 Consider that development takes place in three main phases, says Karin.
 
-\**Phase 1. Frame the development areas** - encourage a conversation in relation to organization, product or service in order to identify existing needs and focus on the right thing to solve.
+\*_Phase 1. Frame the development areas_* - encourage a conversation in relation to organization, product or service in order to identify existing needs and focus on the right thing to solve.
 
+\*_Phase 2. Co-create possible solutions_* - verify challenges, concretize needs, understand future scenarios and iterate different solutions.
 
-\**Phase 2. Co-create possible solutions** - verify challenges, concretize needs, understand future scenarios and iterate different solutions.
-
-\**Phase 3. Details and fine-tuning** - improve a solution in small steps by testing and prioritizing.
+\*_Phase 3. Details and fine-tuning_* - improve a solution in small steps by testing and prioritizing.
 
 What phase are you in?
 
@@ -43,7 +42,7 @@ What phase are you in?
 
 \### #1 Questions to \~\~explore new opportunities\~\~
 
-Always start with where you are in the development phase. Explain to the customer why you need help. _"Now we are here and therefore we would like to ask you…"_ This makes it easier and clear for the customer to contribute. 
+Always start with where you are in the development phase. Explain to the customer why you need help. _"Now we are here and therefore we would like to ask you…"_ This makes it easier and clear for the customer to contribute.
 
 \* What do you think about this?
 
@@ -67,17 +66,15 @@ Here you get to ask exploratory questions that allow the customer to think quite
 
 \* What is a ___ for you? How would it affect you if ___ did not exist? What would you do instead?
 
-\* Berätta om en gång___
+\* Tell us more about___
 
-\* Berätta om en positiv upplevelse av____
+* Tell us about a positive experience____
 
-\* Berätta om den bästa upplevelsen av___?
 
-\* Berätta om den sämsta upplevelsen av___?
-
-\* Vad tänkte du då?
-
-\* Varför använder du___?
+* Tell us about your best experience___?
+* Tell us about your worst experience ___?
+* What were you thinking then?
+* Why do you use___?
 
 \### #3 Frågor för att \~\~stämma av utmaningen och vår hypotes\~\~
 
@@ -139,27 +136,27 @@ Att ställa följdfrågor är nyckeln till att förstå de bakomliggande behoven
 
 Vi börjar runda av och Karin delar också med sig att sina bästa tips för att få så bra svar som möjligt.
 
-\**Var ödmjuk.** Tonalitet är viktig. Visa dig mänsklig, öppen och sårbar. Var ärlig.Ju mer öppen du är desto mer öppna kommer dina kunder vara när de svarar.
+\*_Var ödmjuk._* Tonalitet är viktig. Visa dig mänsklig, öppen och sårbar. Var ärlig.Ju mer öppen du är desto mer öppna kommer dina kunder vara när de svarar.
 
 \\- “Vi behöver din hjälp för att…”
 
 \\- “ Vi har förstått att vi inte har kunnat möta alla önskemål/inte varit så bra på det här. Därför…
 
-\**Sätt scenen.** Sätt alltid in frågan i sitt sammanhang med en startpunkt. Nu står vi här. Därför skulle vi vilja ta reda på det här.
+\*_Sätt scenen._* Sätt alltid in frågan i sitt sammanhang med en startpunkt. Nu står vi här. Därför skulle vi vilja ta reda på det här.
 
 \**“Vad tänker du? Hur var det för dig?”** Ställ personligt riktade frågor för att få konkreta svar.
 
-\**Stängde vi för tidigt?** Ha med en frågeteckenbild, dvs en öppen bild som kan vara något annat. Har vi missat något?
+\*_Stängde vi för tidigt?_* Ha med en frågeteckenbild, dvs en öppen bild som kan vara något annat. Har vi missat något?
 
-\**Har vi missat målet?** Lämna utrymme för generella kommentarer i slutet av ett projekt.
+\*_Har vi missat målet?_* Lämna utrymme för generella kommentarer i slutet av ett projekt.
 
 \\- “Skulle du vilja tillägga något?”
 
 \\- “Är det någon annan upplevelse av oss som du skulle vilja dela med dig av?”
 
-\**Tack!** Återkoppla till kunderna. Berätta vad ni tog med er från förra frågan. Hur ska ni använda det här resultatet? Berätta vad ni har lärt er.
+\*_Tack!_* Återkoppla till kunderna. Berätta vad ni tog med er från förra frågan. Hur ska ni använda det här resultatet? Berätta vad ni har lärt er.
 
-\**Om du vill läsa mer**
+\*_Om du vill läsa mer_*
 
 I vår guide-sektion kan man läsa \[tips på hur man skapar bra videofrågor i Panelista\]([https://panelista.com/guide/how-to-create-your-first-video-question](https://panelista.com/guide/how-to-create-your-first-video-question "https://panelista.com/guide/how-to-create-your-first-video-question") "Hur man skapar bra videofrågor").
 
