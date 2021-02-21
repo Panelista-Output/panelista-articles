@@ -33,39 +33,39 @@ Consider that development takes place in three main phases, says Karin.
 \**Phase 1. Frame the development areas** - encourage a conversation in relation to organization, product or service in order to identify existing needs and focus on the right thing to solve.
 
 
-\**Fas 2. Samskapa möjliga lösningar** – verifiera utmaning, konkretisera behov, förstå framtida visioner och iterera olika lösningar
+\**Phase 2. Co-create possible solutions** - verify challenges, concretize needs, understand future scenarios and iterate different solutions.
 
-\**Fas 3. Detaljera och finjustera** - förbättra en lösning i små steg genom att testa och prioritera
+\**Phase 3. Details and fine-tuning** - improve a solution in small steps by testing and prioritizing.
 
-Var befinner du dig?
+What phase are you in?
 
 <div class="Image__medium"> <img src="/images/bubbles2-2021-01-20.jpg" alt="Graph" /> </div>
 
-\### #1 Frågor för att \~\~utforska nya möjligheter\~\~
+\### #1 Questions to \~\~explore new opportunities\~\~
 
-Ta alltid avstamp i var ni befinner er i utvecklingen. Förklara för kunden varför ni behöver hjälp. _“Nu står vi här och därför skulle vi vilja fråga dig…”_ Det gör det lättare och mer angeläget för kunden att bidra.
+Always start with where you are in the development phase. Explain to the customer why you need help. _"Now we are here and therefore we would like to ask you…"_ This makes it easier and clear for the customer to contribute. 
 
-\* Vad tänker du om det här?
+\* What do you think about this?
 
-\* Vilka möjligheter eller utmaningar ser du framåt?
+\* What opportunities or challenges do you see ahead?
 
-\* Vad är viktigast för dig kopplat till det här? Varför då?
+\* What is most important to you related to this? Why?
 
-\* Om du fick bestämma, hur skulle vi kunna göra det/möta det?
+\* If you could decide, how could we do it / meet it?
 
-\### #2 Frågor för att \~\~hitta rätt utmaning\~\~
+\### #2 Questions to \~\~find the right challenge\~\~
 
-Här får du ställa utforskande frågor som utmanar kunden att tänka ganska fritt och också utgå från sig själv och sina personliga behov och åsikter. Det gäller att ringa in rätt behov att lösa.
+Here you get to ask exploratory questions that allow the customer to think quite freely and answer from their own perspective. It is important to focus on the right need to address.
 
-\* Hur ska vi göra det vi gör bättre?
+\* How do we improve what we do?
 
-\* Hur ska vi utveckla oss?
+\* How should we develop?
 
-\* Vad tänker du i stort om____?
+\* What do you think about ____ in general?
 
-\* Vad saknar du?
+\* VWhat do you miss?
 
-\* Vad är en ___ för dig? Hur skulle det påverka dig om ___inte fanns? Vad skulle du göra istället?
+\* What is a ___ for you? How would it affect you if ___ did not exist? What would you do instead?
 
 \* Berätta om en gång___
 
