@@ -110,13 +110,13 @@ When you iterate and further develop, you need fast feedback loops with customer
 
 \* Why did you buy____?
 
-\* Vad är viktigast för dig när du köper___online?
+\* What is most important to you when you buy ___ online?
 
-\* Vad skulle få dig att inte köpa nästa version av ____?
+\* What would make you not buy the next version of ____?
 
-\* Hur skulle det bli enklare för dig att använda vårt verktyg/vår produkt?
+\* How would it be easier for you to use our tool / our product?
 
-\* Om du fick välja mellan de här____, vad är då viktigast för dig?
+\* If you had to choose between these ____, then what is most important to you?
 
 Om du ber om hjälp med prioriteringar så ha alltid med ett öppet alternativ eller en frågeteckenbild om man vill välja något annat. På så sätt fångar du upp om du har missat några viktiga alternativ.
 
