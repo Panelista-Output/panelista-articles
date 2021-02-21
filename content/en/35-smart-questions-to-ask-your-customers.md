@@ -149,17 +149,17 @@ We start rounding off and Karin shared her best tips for getting the best answer
 
 \**“What do you think? How was it for you?”** Ask personal questions to get concrete answers.
 
-\*_Stängde vi för tidigt?_* Ha med en frågeteckenbild, dvs en öppen bild som kan vara något annat. Har vi missat något?
+\*_Did we close too early?_*  Include a question mark image, i.e. an open option that can be something else. Have we missed anything?
 
-\*_Har vi missat målet?_* Lämna utrymme för generella kommentarer i slutet av ett projekt.
+\*_Have we missed the mark?_* Leave room for general comments at the end.
 
-\\- “Skulle du vilja tillägga något?”
+\\- “Would you like to add something?”
 
-\\- “Är det någon annan upplevelse av oss som du skulle vilja dela med dig av?”
+\\- “Is there any other experience with us that you would like to share?”
 
-\*_Tack!_* Återkoppla till kunderna. Berätta vad ni tog med er från förra frågan. Hur ska ni använda det här resultatet? Berätta vad ni har lärt er.
+\*_Thanks!_* Feedback to customers. Tell us what you brought with you from the previous question. How are you going to use this result? Tell us what you have learned.
 
-\*_Om du vill läsa mer_*
+\*_If you want to read more_*
 
 I vår guide-sektion kan man läsa \[tips på hur man skapar bra videofrågor i Panelista\]([https://panelista.com/guide/how-to-create-your-first-video-question](https://panelista.com/guide/how-to-create-your-first-video-question "https://panelista.com/guide/how-to-create-your-first-video-question") "Hur man skapar bra videofrågor").
 
