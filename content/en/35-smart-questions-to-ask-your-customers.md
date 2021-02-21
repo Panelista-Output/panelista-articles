@@ -14,23 +14,24 @@ We at Panelista see how successful companies listen to their customers. I grabbe
 
 \\- It is more and more clear for many companies the value of continuously involving customers in business and product development efforts. By involving customers during different stages of development, it becomes easier for companies to prioritize correctly and to develop products and services that customers actually love.
 
-Karin, vad är det man ska fråga sina kunder? Och hur ska man ställa sina frågor? Och när ska man ställa vilken sorts frågor?
+Karin, what questions would you recommend companies to ask their customers? And how to phrase these questions? And when to ask which questions?
 
-\\- Framför allt ska man vänja sig vid att \~\~ställa öppna frågor, dvs frågor som uppmuntrar till mer eftertanke. Och utnyttja möjligheten att gräva djupare genom att ställa följdfrågor.\~\~
+\\- Above all, I would recommend companies to get used to asking \~\~open-ended questions, i.e. questions that encourage more reflection. And take advantage of the opportunity to dig deeper by asking follow-up questions.\~\~
 
 <div class="Image__small"> <img src="/images/illustrationcluster08-2021-01-20.png" alt="Results Dashboard" /></div>
 
-\### Vad vill du fråga dina kunder?
+\### What do you want to ask your customers?
 
-\\- Har du själv funderat på varför du vill ställa frågor? Vad ska du använda svar och insikter till? Vilket är ditt sammanhang? Att ha koll på syftet och i vilken utvecklingsfas man befinner sig är A och O.
+\\- Have you thought about why you want to ask questions? What should you use answers and insights for? What is your context? Keeping track of the purpose and in which development phase you are in is vital.
 
-\\- Är du affärsutvecklare så vill du förmodligen utforska vilka framtidsmöjligheter ni har och vilka nya produkter och tjänster som kan utvecklas.
+\\- If you are a business developer, you probably want to explore what future opportunities you have and what new products and services can be developed.
 
-\\- Om du är produktutvecklare så kanske du redan har en backlog med behov som ska adresseras och behöver stämma av kontinuerligt med kunderna i snabba feedbackloopar för att välja rätt väg.
+\\- If you are a product developer, you may already have a backlog with needs that need to be addressed and need to coordinate continuously with customers in quick feedback loops to choose the right path.
 
-Tänk att utveckling sker i tre huvudsakliga faser, säger Karin.
+Consider that development takes place in three main phases, says Karin.
 
-\**Fas 1. Rama in utvecklingsområden** - uppmana till berättande i relation till organisation, produkt eller tjänst för att identifiera vilka behov som finns och hitta rätt sak att lösa
+\**Phase 1. Frame the development areas** - encourage a conversation in relation to organization, product or service in order to identify existing needs and focus on the right thing to solve.
+
 
 \**Fas 2. Samskapa möjliga lösningar** – verifiera utmaning, konkretisera behov, förstå framtida visioner och iterera olika lösningar
 
