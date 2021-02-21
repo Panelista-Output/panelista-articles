@@ -118,9 +118,9 @@ When you iterate and further develop, you need fast feedback loops with customer
 
 \* If you had to choose between these ____, then what is most important to you?
 
-Om du ber om hjälp med prioriteringar så ha alltid med ett öppet alternativ eller en frågeteckenbild om man vill välja något annat. På så sätt fångar du upp om du har missat några viktiga alternativ.
+If you ask for help with priorities, always have an open alternative or a question mark image if you want to choose something else. This way, you catch if you have missed any important options.
 
-\### \~\~Följdfrågor\~\~ - nyckeln till att förstå _varför_?
+\### \~\~Follow-up questions\~\~ - the key to understanding _why_ 
 
 Att ställa följdfrågor är nyckeln till att förstå de bakomliggande behoven och varför kunden, säger Karin. Det här är bra frågor för att få veta mer:
 
