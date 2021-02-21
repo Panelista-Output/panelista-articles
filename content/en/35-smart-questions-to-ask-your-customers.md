@@ -68,45 +68,47 @@ Here you get to ask exploratory questions that allow the customer to think quite
 
 \* Tell us more about___
 
-* Tell us about a positive experience____
+\* Tell us about a positive experience____
 
+\* Tell us about your best experience___?
 
-* Tell us about your best experience___?
-* Tell us about your worst experience ___?
-* What were you thinking then?
-* Why do you use___?
+\* Tell us about your worst experience ___?
 
-\### #3 Frågor för att \~\~stämma av utmaningen och vår hypotes\~\~
+\* What were you thinking then?
 
-Har du tolkat kunderna rätt? Formulera din hypotes och fråga kunderna om det stämmer.
+\* Why do you use___?
 
-\* Vi har förstått att många är intresserade av det här___.
+\### #3 Questions to \~\~frame the challenge and hypothesis\~\~
 
-\* Vi tänkte adressera det här____.
+Have you interpreted the customers correctly? Formulate your hypothesis and ask customers if it is true.
 
-\* Känner du igen den här utmaningen?
+\* We understand that many are interested in ___.
 
-\* Vad tänker du om det?
+\* We were going to address this ____.
 
-\* Om vi skulle göra så här____vad skulle du göra mest av då?
+\* Do you recognize this challenge?
 
-\* Om vi gör det här___, vad har du då för förväntningar?
+\* What do you think about it?
 
-\* Tycker du att vi ska erbjuda någon sorts abonnemang? Isåfall, vad är viktigt för dig?
+\* If we were to do this ____ what would you do most of then?
+
+\* If we do this ___, then what are your expectations?
+
+\* Do you think we should offer some kind of subscription? If so, what is important to you?
 
 {{< sv/visitpanelista >}}
 
-\### #4 Frågor för att \~\~verifiera, testa och prioritera\~\~
+\### #4 Questions to \~\~verify, test and prioritize\~\~
 
-När du itererar och vidareutvecklar behöver du snabba feedback-loopar med kunderna. Fråga vad kunder tycker så är chansen större att du gör rätt prioriteringar.
+When you iterate and further develop, you need fast feedback loops with customers. Ask what customers think and you are more likely to make the right priorities.
 
-\* Vi tänkte så här___Vad tycker du om det?
+\* We thought like this ___ What do you think about it?
 
-\* Vi skulle vilja hjälpa våra kunder med det här____. Då tänkte vi göra så här____. Vad tycker du?
+\* We would like to help our customers with this ____. Then we thought of doing this ____. What do you think?
 
-\* Hur kan vi förbättra vår___?
+\* How can we improve our ___?
 
-\* Varför köpte du____?
+\* Why did you buy____?
 
 \* Vad är viktigast för dig när du köper___online?
 
