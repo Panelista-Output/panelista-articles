@@ -136,11 +136,11 @@ Asking follow-up questions is the key to understanding the underlying needs and 
 
 \### More smart tips to get really good answers
 
-Vi börjar runda av och Karin delar också med sig att sina bästa tips för att få så bra svar som möjligt.
+We start rounding off and Karin shared her best tips for getting the best answers possible.
 
-\*_Var ödmjuk._* Tonalitet är viktig. Visa dig mänsklig, öppen och sårbar. Var ärlig.Ju mer öppen du är desto mer öppna kommer dina kunder vara när de svarar.
+\*_Be humble._*  Tone of voice is important. Present your personal side - open and vulnerable. Be honest. The more open you are, the more open your customers will be when they respond.
 
-\\- “Vi behöver din hjälp för att…”
+\\- “We need your help to…”
 
 \\- “ Vi har förstått att vi inte har kunnat möta alla önskemål/inte varit så bra på det här. Därför…
 
