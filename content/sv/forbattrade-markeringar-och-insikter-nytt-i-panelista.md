@@ -21,3 +21,5 @@ Flera av våra användare har efterfrågat möjlighet att jobba mer med markerin
 Du lägger till markeringar med kommentarer som vanligt genom att markera den del av texten som du vill lyfta fram. Du kan nu också välja färg på markering, och kategorisera markeringar i olika kategorier.
 
 Använd knapparna för att växla mellan markeringar och insikter.
+
+<div class="Image__Small"> <img src="/images/2021-03-23-15-55-00-2021-03-23.gif" alt="Insight editing" /> </div>
