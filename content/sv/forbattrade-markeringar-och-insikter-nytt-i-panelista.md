@@ -14,7 +14,7 @@ Genom att använda markeringar och insikter får man ut det extra av Panelista o
 
 Flera av våra användare har efterfrågat möjlighet att jobba mer med markeringar, i t.ex olika kategorier vilket man nu kan göra. Vi har även passat på att förbättra och förenkla hur man lägger till insikter genom att lägga funktionen direkt i anslutning till diskussionen. Vi hoppas att det ska bli roligare och enklare att använda markeringar och insikter.
 
-<div class="Image__medium"> <img src="/images/2021-03-23-15-52-10-2021-03-23.gif" alt="Highlight editing" /> </div>
+<div class="Image__Small"> <img src="/images/2021-03-23-15-52-10-2021-03-23.gif" alt="Highlight editing" /> </div>
 
 ## Så här funkar det
 
