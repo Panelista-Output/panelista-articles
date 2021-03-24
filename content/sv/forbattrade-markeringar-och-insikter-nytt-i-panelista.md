@@ -31,3 +31,11 @@ Du lägger till markeringar med kommentarer som vanligt genom att markera den de
 Använd knapparna för att växla mellan markeringar och insikter.
 
 <div class="Image__Small"> <img src="/images/2021-03-23-15-55-00-2021-03-23.gif" alt="Insight editing" /> </div>
+
+Läs gärna mer om våra andra funktioner som:
+
+[Hur man lägger till bilder i diskussioner](https://articles.panelista.com/sv/ny-funktion-i-panelista-svara-med-bild/)
+
+[Hur man ställer frågor med prioritering](https://articles.panelista.com/sv/nu-lanserar-vi-stod-for-prioriteringar-i-panelista/)
+
+{{< sv/bookdemo >}}
