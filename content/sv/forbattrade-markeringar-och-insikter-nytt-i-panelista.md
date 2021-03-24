@@ -18,6 +18,14 @@ Flera av våra användare har efterfrågat möjlighet att jobba mer med markerin
 
 ## Så här funkar det
 
+De nya funktionerna för markeringar och insikter hittar du i direkt anslutning till diskussionen. De går nu att:
+
+1) Välja olika färger för markeringar för att särskilja dem och stå ut mer
+
+2) Välja kategori, och lägga till nya kategorier för markeringar
+
+3) Lägga till och uppdatera insikter direkt från diskussionssidan
+
 Du lägger till markeringar med kommentarer som vanligt genom att markera den del av texten som du vill lyfta fram. Du kan nu också välja färg på markering, och kategorisera markeringar i olika kategorier.
 
 Använd knapparna för att växla mellan markeringar och insikter.
