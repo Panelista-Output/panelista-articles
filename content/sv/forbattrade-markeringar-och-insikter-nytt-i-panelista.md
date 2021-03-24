@@ -1,7 +1,6 @@
 +++
 authors = ["Oscar Månsson Grahn"]
 date = 2021-03-22T23:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/new-discussion-poster-2021-03-23-1.jpg"
 hero_image_body = ""
