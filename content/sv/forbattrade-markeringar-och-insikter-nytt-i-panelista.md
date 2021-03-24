@@ -19,7 +19,7 @@ Flera av våra användare har efterfrågat möjlighet att jobba mer med markerin
 
 ## Så här funkar det
 
-De nya funktionerna för markeringar och insikter hittar du i direkt anslutning till diskussionen. De går nu att:
+De nya funktionerna för markeringar och insikter hittar du i direkt anslutning till diskussionen. Det går nu att:
 
 1. Välja olika färger för markeringar för att särskilja dem och stå ut mer
 2. Välja kategori, och lägga till nya kategorier för markeringar
