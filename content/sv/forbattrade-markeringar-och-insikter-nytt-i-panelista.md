@@ -6,7 +6,7 @@ excerpt = ""
 hero = "/images/new-discussion-poster-2021-03-23-1.jpg"
 hero_image_body = ""
 hero_image_title = "Använd de nya funktionerna för markeringar och insikter och dela resultatet med organisationen"
-timeToRead = 0
+timeToRead = 5
 title = "Förbättrade markeringar och insikter - nytt i Panelista"
 
 +++
