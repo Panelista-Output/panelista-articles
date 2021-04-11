@@ -33,7 +33,7 @@ Djupintervjuer och fokusgrupper är smalt, tar tid och mycket förberedelser. Vi
 
 Nu har vi ett verktyg som är snabbt och lättillgängligt, och på sätt och vis blir det mer representativt för vi når läsare över hela landet.
 
-Panelista är snyggt, enkelt och roligt att jobba med. 
+Panelista är snyggt, enkelt och roligt att jobba med.
 
 Fler paneler - ett sätt att jobba kvalitativt med olika målgrupper
 
@@ -58,6 +58,10 @@ Panelista har verkligen överträffat förväntningarna kring värdet, hur mycke
 Vad händer härnäst?
 
 Många i organisationen är intresserade av panelerna och kommer med idéer kring vad vi ska fråga. Jag skickar ut rapporten brett hos oss och det är ett enormt intresse för insikterna. Så jag tror att fler kommer att bli ännu mer involverade i arbetet med panelerna.
+
+Vill du veta mer om Panelista?
+
+{{< sv/bookdemo >}}
 
 P.S. Vilket är ditt bästa boktips just nu Kristina?
 
