@@ -59,9 +59,11 @@ Vad händer härnäst?
 
 Många i organisationen är intresserade av panelerna och kommer med idéer kring vad vi ska fråga. Jag skickar ut rapporten brett hos oss och det är ett enormt intresse för insikterna. Så jag tror att fler kommer att bli ännu mer involverade i arbetet med panelerna.
 
-Vill du veta mer om Panelista?
+Läs mer om Panelista
 
 {{< sv/bookdemo >}}
+
+{{< sv/subscribe >}}
 
 P.S. Vilket är ditt bästa boktips just nu Kristina?
 
