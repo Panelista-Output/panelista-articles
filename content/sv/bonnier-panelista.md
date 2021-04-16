@@ -14,6 +14,8 @@ title = "Bonnier & Panelista"
 
 Kunder och läsare som är med i panelerna berättar att de verkligen gillar verktyget. Panelista gör det lätt, snyggt och kul att vara med och bidra.
 
+### **Bonnier**
+
   
 **Bonniers Bokklubbar** ingår i **Bonnierkoncernen** eller _Bonnier Group_ som är en familjeägd mediekoncern med bas i Sverige. Bonnierkoncernen grundades av Albert Bonnier 1837 och ägs fortfarande av medlemmar ur släkten Bonnier. Bonnierkoncernen är idag verksam i 16 länder och omfattar c:a 175 företag, t.ex: Dagens Nyheter, Expressen, Dagens Industri, Bonnier Tidskrifter, Svensk Filmindustri och Mittmediakoncernen.
 
