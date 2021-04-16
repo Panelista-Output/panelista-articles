@@ -46,8 +46,7 @@ För bara några veckor sedan startades **_Bookie-panelen_**. Bookie är en ny d
 
 _Hur jobbar du med dina tre paneler?_
 
-_  
-_Vi ställer frågor på en jämn nivå ungefär två gånger i månaden. Det känns lagom ofta.
+Vi ställer frågor på en jämn nivå ungefär två gånger i månaden. Det känns lagom ofta.
 
 Den automatiska rapporten i Panelista är väldigt bra. Det blir tydligt och insiktsfullt för den som läser och lätt att ta till sig. För mig som gör highlights och skriver insikter är det bra med alla noteringar bredvid diskussionstråden och att jag kan välja vad som ska visas i rapporten och inte.
 
