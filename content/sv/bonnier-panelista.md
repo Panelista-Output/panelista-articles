@@ -56,12 +56,12 @@ _Vad händer härnäst?_
 
 Många i organisationen är intresserade av panelerna och kommer med idéer kring vad vi ska fråga. Jag skickar ut rapporten brett hos oss och det är ett enormt intresse för insikterna. Så jag tror att fler kommer att bli ännu mer involverade i arbetet med panelerna framöver
 
-_P.S. Vilket är ditt bästa boktips just nu Kristina?_
-
-Shuggie Bain av Douglas Stuart! En helt otrolig debut som är delvis självbiografisk. Den handlar om fattigdom, medberoende och stor kärlek. En bok som blivit hyllad internationellt och nu gör succé även i Sverige.
-
 **Läs mer om Panelista**
 
 {{< sv/bookdemo >}}
+
+_P.S. Vilket är ditt bästa boktips just nu Kristina?_
+
+Shuggie Bain av Douglas Stuart! En helt otrolig debut som är delvis självbiografisk. Den handlar om fattigdom, medberoende och stor kärlek. En bok som blivit hyllad internationellt och nu gör succé även i Sverige.
 
 {{< sv/subscribe >}}
