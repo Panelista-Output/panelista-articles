@@ -3,23 +3,17 @@ authors = []
 date = 2021-04-10T22:00:00Z
 draft = true
 excerpt = "Fler paneler - ett sätt att jobba kvalitativt med olika målgrupper."
-hero = ""
-hero_image_body = ""
-hero_image_title = ""
+hero = "/images/bonnier_header-2021-04-16.png"
+hero_image_body = "Kunder och läsare som är med i panelerna berättar att de verkligen gillar verktyget. Panelista gör det lätt, snyggt och kul att vara med och bidra."
+hero_image_title = "Panelista har verkligen överträffat förväntningarna kring värdet - hur mycket vi lär oss och kan fördjupa oss."
 timeToRead = 0
 title = "Bonnier & Panelista"
 
 +++
-**Panelista har verkligen överträffat förväntningarna kring värdet - hur mycket vi lär oss och kan fördjupa oss.**
+## **Bonnier**
 
-Kunder och läsare som är med i panelerna berättar att de verkligen gillar verktyget. Panelista gör det lätt, snyggt och kul att vara med och bidra.
-
-### **Bonnier**
-
-  
 **Bonniers Bokklubbar** ingår i **Bonnierkoncernen** eller _Bonnier Group_ som är en familjeägd mediekoncern med bas i Sverige. Bonnierkoncernen grundades av Albert Bonnier 1837 och ägs fortfarande av medlemmar ur släkten Bonnier. Bonnierkoncernen är idag verksam i 16 länder och omfattar c:a 175 företag, t.ex: Dagens Nyheter, Expressen, Dagens Industri, Bonnier Tidskrifter, Svensk Filmindustri och Mittmediakoncernen.
 
-  
 **Vi på Panelista hade ett intressant samtal med Kristina Thorén som är customer insight manager på Bonniers Bokklubbar och Bonnierförlagen.**
 
 _Du är redan igång med tre paneler. Hur går det?_
@@ -58,7 +52,6 @@ _Vad har överraskat dig mest?_
 
 Att det går så smidigt att få kvalitativa insikter så ofta! Det är till stor hjälp för vår utveckling.
 
-  
 _Vad händer härnäst?_
 
 Många i organisationen är intresserade av panelerna och kommer med idéer kring vad vi ska fråga. Jag skickar ut rapporten brett hos oss och det är ett enormt intresse för insikterna. Så jag tror att fler kommer att bli ännu mer involverade i arbetet med panelerna framöver
