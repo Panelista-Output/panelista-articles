@@ -65,7 +65,3 @@ Shuggie Bain av Douglas Stuart! En helt otrolig debut som är delvis självbiogr
 {{< sv/bookdemo >}}
 
 {{< sv/subscribe >}}
-
-P.S. Vilket är ditt bästa boktips just nu Kristina?
-
-xxxxxxxxxxx
