@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Anna Lena Ekeblad"]
 date = 2021-04-10T22:00:00Z
 draft = true
 excerpt = "Fler paneler - ett sätt att jobba kvalitativt med olika målgrupper."
