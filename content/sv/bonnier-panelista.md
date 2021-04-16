@@ -38,7 +38,7 @@ Den andra panelen Kristina drog igång heter **_SelmaStories Läsarpanel_** och 
 
 För bara några veckor sedan startades **_Bookie-panelen_**. Bookie är en ny digital boktjänst i en alldeles egen nisch. _“Även här är Panelista ett bra verktyg för att vi ska förstå våra kunder och kunna vidareutveckla vår tjänst redan från ett tidigt skede.”_
 
-**~~“Vi har en stor medlemsbas och Panelista ger oss en ypperlig möjlighet att få till snabba feedbackloopar med dem så att vi snabbt kan agera på det vi ser. “~~**
+**_~~“Vi har en stor medlemsbas och Panelista ger oss en ypperlig möjlighet att få till snabba feedbackloopar med dem så att vi snabbt kan agera på det vi ser. “~~_**
 
 _Hur jobbar du med dina tre paneler?_
 
