@@ -24,7 +24,7 @@ Bokbranschen är i stor förändring med nya läsarbeteenden, växande e-handel,
 
 Kristina definierade tidigt behovet av ett verktyg för både kvantitativa och kvalitativa insikter. Det är viktigt att kunna gräva djupare, fråga varför och förstå!
 
-_~~"Vi vill fördjupa relationen med våra kunder men det ska inte bli ett stort projekt varje gång vi vill fråga dem något. Det måste vara lätt att fråga. För oss har det varit ett otroligt framsteg att börja använda Panelista.”~~_
+_"Vi vill fördjupa relationen med våra kunder men det ska inte bli ett stort projekt varje gång vi vill fråga dem något. ~~Det måste vara lätt att fråga. För oss har det varit ett otroligt framsteg att börja använda Panelista.”~~_
 
 Djupintervjuer och fokusgrupper är ett smalt arbetssätt som tar tid och kräver mycket förberedelser. Vi nådde i princip bara ut i stockholmsområdet tidigare. Nu har vi ett verktyg som är snabbt och lättillgängligt - På sätt och vis blir det också mer representativt, för nu når vi läsare över hela landet.
 
