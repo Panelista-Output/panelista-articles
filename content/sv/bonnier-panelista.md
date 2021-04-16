@@ -42,6 +42,8 @@ För bara några veckor sedan startades **_Bookie-panelen_**. Bookie är en ny d
 
 **_~~“Vi har en stor medlemsbas och Panelista ger oss en ypperlig möjlighet att få till snabba feedbackloopar med dem så att vi snabbt kan agera på det vi ser. “~~_**
 
+![](/images/image-from-ios-16-2021-04-16.png)
+
 _Hur jobbar du med dina tre paneler?_
 
 Vi ställer frågor på en jämn nivå ungefär två gånger i månaden. Det känns lagom ofta.
