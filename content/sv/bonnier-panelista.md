@@ -17,7 +17,7 @@ title = "Bonnier & Panelista"
 
 _Du är redan igång med tre paneler. Hur går det?_
 
-Det går väldigt bra! Deltagarna visar ett överraskande stort engagemang. De kunder och läsare som är med i panelerna berättar att de verkligen gillar verktyget, som är snyggt och enkelt att använda. Det gör mig glatt överraskad att det går så smidigt att få kvalitativa insikter så ofta, vilket är till stor hjälp i vår utveckling.
+Det går väldigt bra! Deltagarna visar ett överraskande stort engagemang. De kunder och läsare som är med i panelerna berättar att de verkligen gillar verktyget, som är snyggt och enkelt att använda. ~~Det gör mig glatt överraskad att det går så smidigt att få kvalitativa insikter så ofta, vilket är till stor hjälp i vår utveckling.~~
 
 Bokbranschen är i stor förändring med nya läsarbeteenden, växande e-handel, nya format som e-böcker och ljudböcker och samtidigt ett ökat intresse för läsande. I egenskap av landets ledande förlagshus är det såklart oerhört viktigt för Bonnierförlagen att förstå de olika kundbehov och önskemål som finns, för att kunna fortsätta utveckla och förbättra sina mera träffsäkra tjänster och erbjudanden till läsarna. Även om Bonnierförlagen är ett stort företag, som varit med länge, har de kommit långt med att ställa om sin organisation och bli mer snabbrörliga. De arbetar för att lätt kunna agera på nya idéer och ha en agil utveckling av verksamheten.
 
