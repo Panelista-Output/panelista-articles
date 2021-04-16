@@ -60,7 +60,7 @@ _P.S. Vilket är ditt bästa boktips just nu Kristina?_
 
 Shuggie Bain av Douglas Stuart! En helt otrolig debut som är delvis självbiografisk. Den handlar om fattigdom, medberoende och stor kärlek. En bok som blivit hyllad internationellt och nu gör succé även i Sverige.
 
-Läs mer om Panelista
+**Läs mer om Panelista**
 
 {{< sv/bookdemo >}}
 
