@@ -28,6 +28,8 @@ _"Vi vill fördjupa relationen med våra kunder men det ska inte bli ett stort p
 
 Djupintervjuer och fokusgrupper är ett smalt arbetssätt som tar tid och kräver mycket förberedelser. Vi nådde i princip bara ut i stockholmsområdet tidigare. Nu har vi ett verktyg som är snabbt och lättillgängligt - På sätt och vis blir det också mer representativt, för nu når vi läsare över hela landet.
 
+{{< sv/visitpanelista >}}
+
 **Fler paneler - ett sätt att arbeta kvalitativt med olika målgrupper.**
 
 En utmaning man står inför som stor aktör med många kunder är att kunderna är så olika. För vissa är den fysiska boken en livsstilsfråga, medan andra brinner för läsningen på ett annat sätt. Bonnierförlagen har därför valt att prata med sina kunder genom tre olika paneler.
