@@ -2,7 +2,7 @@
 authors = ["Oscar Månsson Grahn"]
 date = 2021-03-22T23:00:00Z
 excerpt = ""
-hero = "/images/header_highligt-2021-04-16.jpg"
+hero = "/images/highligt_header-2021-04-16.jpg"
 hero_image_body = ""
 hero_image_title = "Använd de nya funktionerna för markeringar och insikter och dela resultatet med organisationen"
 timeToRead = 5
