@@ -1,8 +1,8 @@
 +++
-authors = ["Oscar Månsson Grahn"]
+authors = []
 date = 2021-03-22T23:00:00Z
 excerpt = ""
-hero = "/images/new-discussion-poster-2021-03-23-1.jpg"
+hero = "/images/highlights-2021-04-19.jpg"
 hero_image_body = ""
 hero_image_title = "Använd de nya funktionerna för markeringar och insikter och dela resultatet med organisationen"
 timeToRead = 5
