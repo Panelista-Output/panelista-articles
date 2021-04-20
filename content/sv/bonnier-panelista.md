@@ -45,6 +45,8 @@ För bara några veckor sedan startades **_Bookie-panelen_**. Bookie är en ny d
 
 ![](/images/2021-04-16-16-06-02-2021-04-16.gif)
 
+_Så här såg det ut när man rekryterade panelmedlemmar via social medier._ 
+
 _Hur jobbar du med dina tre paneler?_
 
 Vi ställer frågor på en jämn nivå ungefär två gånger i månaden. Det känns lagom ofta.
