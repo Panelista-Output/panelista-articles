@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2021-03-22T23:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/highlights-2021-04-19.jpg"
 hero_image_body = ""
