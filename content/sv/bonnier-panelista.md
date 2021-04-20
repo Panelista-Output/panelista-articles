@@ -1,6 +1,7 @@
 +++
 authors = ["Anna Lena Ekeblad"]
 date = 2021-04-10T22:00:00Z
+draft = true
 excerpt = "Fler paneler - ett sätt att jobba kvalitativt med olika målgrupper."
 hero = "/images/bonnier-smaller-2021-04-16.jpg"
 hero_image_body = "Kunder och läsare som är med i panelerna berättar att de verkligen gillar verktyget. Panelista gör det lätt, snyggt och kul att vara med och bidra."
@@ -58,8 +59,6 @@ _Vad har överraskat dig mest?_
 _Vad händer härnäst?_
 
 Många i organisationen är intresserade av panelerna och kommer med idéer kring vad vi ska fråga. Jag skickar ut rapporten brett hos oss och det är ett enormt intresse för insikterna. Så jag tror att fler kommer att bli ännu mer involverade i arbetet med panelerna framöver
-
-**Läs mer om Panelista**
 
 {{< sv/bookdemo >}}
 
