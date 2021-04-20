@@ -32,7 +32,7 @@ De nya funktionerna för markeringar och insikter hittar du i direkt anslutning 
 
 4\. Lägga till och uppdatera insikter direkt från diskussionssidan.
 
-Du lägger till kommentarer och markeringar som vanligt genom att markera den del av texten som du vill lyfta fram. Nu kan du också välja färg på din markering och lägga den i önskad kategori.
+Du lägger till markeringar som vanligt genom att färglägga den del av texten som du vill lyfta fram. Nu kan du också välja färg på din markering och lägga den i önskad kategori.
 
 Använd knapparna för att växla mellan markeringar och insikter.
 
