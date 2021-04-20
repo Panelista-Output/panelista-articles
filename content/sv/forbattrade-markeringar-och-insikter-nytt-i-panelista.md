@@ -11,7 +11,7 @@ title = "Nytt i Panelista - Lätt att markera, kategorisera och hålla full koll
 +++
 **Vi har gjort justeringar som gör Panelista ännu mer användarvänligt.**
 
-En ny smart funktion är att du nu kan markera textstycken i olika färger, så att du lätt kan kategorisera insikter och dela dem med rätt person i organisationen. Du kan även dölja insikter och markeringar från rapporten. - Det är du som väljer vad som ska synas och inte!
+En ny smart funktion är att du nu kan markera textstycken i olika färger, så att du lätt kan kategorisera insikter och dela dem med rätt person i organisationen. Du kan även dölja markeringar från rapporten. - Det är du som väljer vad som ska synas och inte!
 
 Vi har också gjort förbättringar som gör det enklare för dig att lägga till insikter direkt från diskussionssidan. Tack för att ni fortsätter bolla era idéer och tankar med oss så att vi kan göra Panelista ännu snyggare, smartare och mer användarvänligt.
 
