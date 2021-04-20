@@ -1,6 +1,7 @@
 +++
 authors = ["Anna Lena Ekeblad"]
 date = 2021-04-10T22:00:00Z
+draft = true
 excerpt = "Fler paneler - ett sätt att jobba kvalitativt med olika målgrupper."
 hero = "/images/bonnier-smaller-2021-04-16.jpg"
 hero_image_body = "Kunder och läsare som är med i panelerna berättar att de verkligen gillar verktyget. Panelista gör det lätt, snyggt och kul att vara med och bidra."
@@ -18,6 +19,8 @@ title = "Bonnier & Panelista"
 _Du är redan igång med tre paneler. Hur går det?_
 
 Det går väldigt bra! Deltagarna visar ett överraskande stort engagemang. De kunder och läsare som är med i panelerna berättar att de verkligen gillar verktyget, som är snyggt och enkelt att använda. ~~Det gör mig glatt överraskad att det går så smidigt att få kvalitativa insikter så ofta, vilket är till stor hjälp i vår utveckling.~~
+
+**Bonnierförlagen jobbar för att ha en agil utveckling av verksamheten.**
 
 Bokbranschen är i stor förändring med nya läsarbeteenden, växande e-handel, nya format som e-böcker och ljudböcker och samtidigt ett ökat intresse för läsande. I egenskap av landets ledande förlagshus är det såklart oerhört viktigt för Bonnierförlagen att förstå de olika kundbehov och önskemål som finns, för att kunna fortsätta utveckla och förbättra sina mera träffsäkra tjänster och erbjudanden till läsarna. Även om Bonnierförlagen är ett stort företag, som varit med länge, har de kommit långt med att ställa om sin organisation och bli mer snabbrörliga. De arbetar för att lätt kunna agera på nya idéer och ha en agil utveckling av verksamheten.
 
