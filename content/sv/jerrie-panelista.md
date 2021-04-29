@@ -10,7 +10,7 @@ timeToRead = 0
 title = "Jerrie & Panelista"
 
 +++
-**Jerrie**
+##**Jerrie**
 
 **Jerries** historia börjar med **Maquire**. De startade, som chefsrekryteringsföretag 2007, med en stark övertygelse och vision - att förändra synen på en hel bransch.
 
