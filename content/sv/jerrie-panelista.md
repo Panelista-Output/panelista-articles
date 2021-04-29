@@ -50,6 +50,8 @@ Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa delta
 
 Bäst har varit att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man kan hitta den där perfekta tjänsten till dem. ~~Med hjälp av Panelista så kan vi fånga upp dem också.~~ Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna gå in, kommentera, lajka och stötta.
 
+{{< sv/visitpanelista >}}
+
 **Har ni stött på några utmaningar?**
 
 Svårast har nog varit att ställa rätt frågor. Vad vill vi fråga dem om? Hur ska vi fråga det på ett bra sätt? Vi vill ju få bra svar som vi kan jobba vidare med. Det som är väldigt bra i Panelista är att vi kan gå in och ställa följdfrågor. ”Hur menade du där?” Även om vi inte har ställt exakt rätt fråga från början har vi möjligheten att gå in och fortsätta dialogen.
