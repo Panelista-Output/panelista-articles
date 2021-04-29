@@ -1,5 +1,5 @@
 +++
-authors = ["Anna Lena Ekeblad"]
+authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-04-28T22:00:00Z
 draft = true
 excerpt = ""
