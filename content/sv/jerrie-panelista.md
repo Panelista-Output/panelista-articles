@@ -6,7 +6,7 @@ excerpt = ""
 hero = ""
 hero_image_body = "Rekryteringsföretaget Jerrie vågar ställa de svåra frågorna och lyssnar noggrant när kunderna svarar. "
 hero_image_title = "Panelista ger våra kandidater en röst - både till de som vill gå in och kräkas på oss rekryterare och de som är väldigt konstruktiva och innovativa."
-timeToRead = 0
+timeToRead = 3
 title = "Jerrie & Panelista"
 
 +++
@@ -39,6 +39,8 @@ Vår panel består av kandidater som sökt jobb via oss de senaste tre månadern
 **Hur känner du för formatet att ställa videofrågor?**
 
 Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen får vi en chans att presentera oss för våra kunder. Vi har delat upp frågorna mellan oss för att panelen skall få träffa flera av oss konsulter. Det blir personligt och det behöver inte vara så perfekt. Det gäller att våga utmana sig själv lite där.
+
+Lite kul att du frågar om just videoformatet för en insikt vi fått genom Panelista är att flera av våra kandidater gärna hade sett att det gick att skicka in en kort videopresentation av sig själva när de söker jobb. Det finns en önskan om att få uttrycka sig och visa varför man söker jobbet. Många känner en rädsla över att bli missad i urvalet, att inte få berätta vem man är.
 
 **Vilka insikter får ni från paneldeltagarna?**
 
