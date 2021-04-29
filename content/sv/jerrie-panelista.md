@@ -19,7 +19,8 @@ Rekryteringsbranchen präglades av kontakter före kompetens, kandidater som int
   
 _Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen med samma namn och brinnande övertygelse._
 
-**Nu för tiden heter man Maquire Group och består av tre verksamheter: Jerrie, Maquire och Tidewell**
+  
+Nu för tiden heter man Maquire Group och består av tre verksamheter: Jerrie, Maquire och Tidewell
 
 ###### **Panelista bjöd in Helene Hagman, _digital marketing & sales recruiter_ till vad som blev ett härligt samtal fyllt av energi och skratt.**
 
