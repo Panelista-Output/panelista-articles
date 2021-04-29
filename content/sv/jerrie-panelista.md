@@ -20,7 +20,7 @@ _Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen 
 
 **Nu för tiden heter man Maquire Group och består av tre verksamheter: Jerrie, Maquire och Tidewell**
 
-Panelista bjöd in Helene Hagman, _digital marketing & sales recruiter_ till vad som blev ett härligt samtal fyllt av energi och skratt.
+**Panelista bjöd in Helene Hagman, _digital marketing & sales recruiter_ till vad som blev ett härligt samtal fyllt av energi och skratt.**
 
 **Hej Helene! Berätta lite om ditt arbete.**
 
@@ -30,7 +30,7 @@ Jerrie startade 2012 med fokus på specialistrekrytering med mottot ”kandidate
 
 Det finns många olika vägar att söka jobb idag, via rekryteringsföretag eller direkt hos företagen. Vår tanke med Panelista var att skapa en dialog och diskussion kring hur det är att söka jobb och få insikter från våra kandidater. Vi vill hitta enkelheten i att söka ett jobb. Hur vill du söka ett jobb? Vad får dig att söka ett jobb? Vi kallar panelen ”Jerrie Labs”.
 
-**Berätta hur ni gjorde för att skaffa lämpliga deltagare till er panel?**
+**Hur gjorde ni för att skaffa lämpliga deltagare till er panel?**
 
 Vår panel består av kandidater som sökt jobb via oss de senaste tre månaderna. Det är en mix av människor som har sökt många jobb hos oss och andra företag till de som sökt ett enda jobb - och fått det. Vi hade ett stort antal svar från de som ville vara med men stannade vid 130.
 
@@ -38,7 +38,7 @@ Vår panel består av kandidater som sökt jobb via oss de senaste tre månadern
 
 Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen får vi en chans att presentera oss för våra kunder. Vi har delat upp frågorna mellan oss för att panelen skall få träffa flera av oss konsulter. Det blir personligt och det behöver inte vara så perfekt. Det gäller att våga utmana sig själv lite där.
 
-**Vilken input får ni från paneldeltagarna?**
+**Vilka insikter får ni från paneldeltagarna?**
 
 Det handlar mycket om förväntningar och tydlighet. Att man söker ett jobb men inte riktigt förstår om man fyller kravprofilen. Inte heller hur processen för just den aktuella tjänsten ser ut och hur ett urval går till.
 
@@ -50,7 +50,7 @@ Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa delta
 
 Bäst har varit att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man kan hitta den där perfekta tjänsten till dem. **Med hjälp av Panelista så kan vi fånga upp dem också.** Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna gå in, kommentera, lajka och stötta.
 
-**Vad har varit svårast?**
+**Har ni stött på några utmaningar?**
 
 Svårast har nog varit att ställa rätt frågor. Vad vill vi fråga dem om? Hur ska vi fråga det på ett bra sätt? Vi vill ju få bra svar som vi kan jobba vidare med. Det som är väldigt bra i Panelista är att vi kan gå in och ställa följdfrågor. ”Hur menade du där?” Även om vi inte har ställt exakt rätt fråga från början har vi möjligheten att gå in och fortsätta dialogen.
 
