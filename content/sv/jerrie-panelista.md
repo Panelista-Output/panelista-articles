@@ -42,7 +42,7 @@ Lite kul att du frågar om just videoformatet för en insikt vi fått genom Pane
 
 Det handlar mycket om förväntningar och tydlighet. Att man söker ett jobb men inte riktigt förstår om man fyller kravprofilen. Inte heller hur processen för just den aktuella tjänsten ser ut och hur ett urval går till.
 
-En insikt vi har fått tack vare vår panel är hur lite kunskap kandidaterna har om vårt jobb. ~~Vi måste bli tydligare, det kommer tillbaka hela tiden som en insikt i Panelista.~~ Vi tänker att det är självklart att de förstår hur vi gör. Det kommer väldigt mycket tips på hur vi ska göra. Jag tänker ”Det är ju exakt så vi redan gör och lite till. Vet folk så lite om hur en rekryteringsprocess går till och varför man gör vissa saker och det här med urval och så?” Panelen vill att det är tydligare med vilka skallkraven är, hur urvalet av kandidater går till och när man förväntas få ett svar.
+En insikt vi har fått tack vare vår panel är hur lite kunskap kandidaterna har om vårt jobb. ~~Vi måste bli tydligare, det kommer tillbaka hela tiden som en insikt i Panelista.~~ Vi tänker att det är självklart att de förstår hur vi gör. Det kommer väldigt mycket tips på hur vi ska göra. Jag tänker ”Det är ju exakt så vi redan gör och lite till. Vet folk så lite om hur en rekryteringsprocess går till?” Panelen vill att det är tydligare med vilka skallkraven är, hur urvalet av kandidater går till och när man förväntas få ett svar.
 
 Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa deltagare är väldigt kritiska, men då är det ju bra att de kan se vad andra tycker och få lite råd därifrån också. ~~Det är ett lärande i panelen.~~ Det tycker vi är bra! Det har skapats många jätteintressanta dialoger.
 
