@@ -22,7 +22,7 @@ Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, 
 
 **Hej Helene! Berätta lite om ditt arbete.**
 
-Jerrie startade 2012 med fokus på specialistrekrytering med mottot ”kandidaten är vår största kund”. Det var just kandidatfokuset som attraherade mig när jag tackade ja att vara med från början. Jag är rekryterare och mitt specialistområde är marknad, kommunikation och försäljning. Jag är också medlem i vårt marknadsteam.
+Jerrie startade 2012 med fokus på specialistrekrytering med mottot ”kandidaten är vår största kund”. Det var just kandidatfokuset som attraherade mig när jag tackade ja till att vara med från början. Jag är rekryterare och mitt specialistområde är marknad, kommunikation och försäljning. Jag är också medlem i vårt marknadsteam.
 
 **Kan du lite kort berätta hur ni använder Panelista?**
 
@@ -36,7 +36,7 @@ Vår panel består av kandidater som sökt jobb via oss de senaste tre månadern
 
 Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen får vi en chans att presentera oss för våra kunder. Vi har delat upp frågorna mellan oss för att panelen skall få träffa flera av oss konsulter. Det blir personligt och det behöver inte vara så perfekt. Det gäller att våga utmana sig själv lite där.
 
-Lite kul att du frågar om just videoformatet för en insikt vi fått genom Panelista är att flera av våra kandidater gärna hade sett att det gick att skicka in en kort videopresentation av sig själva när de söker jobb. Det finns en önskan om att få uttrycka sig och visa varför man söker jobbet. 
+Lite kul att du frågar om just videoformatet för en insikt vi fått genom Panelista är att flera av våra kandidater gärna hade sett att det gick att skicka in en kort videopresentation av sig själva när de söker jobb. Det finns en önskan om att få uttrycka sig och visa varför man söker jobbet.
 
 **Vilka insikter får ni från paneldeltagarna?**
 
