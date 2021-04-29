@@ -58,7 +58,7 @@ Svårast har nog varit att ställa rätt frågor. Vad vill vi fråga dem om? Hur
 
 **Vilka förväntningar hade ni innan ni satte igång?**
 
-Att vi skulle kunna ha en bra dialog med de som söker våra utannonserade jobb. Även hur vi kan ska kunna göra det enklare, roligare och tydligare att ansöka via oss. Jerrie står på kandidatens sida och har alltid gjort det. ~~Vi har alltid jobbat med det vi kallar för ”kandidatresan” - Nu vill vi levla upp en våning och tänker att Panelista kan hjälpa oss med det.~~
+Att vi skulle kunna ha en bra dialog med de som söker våra utannonserade jobb. Även hur vi kan ska kunna göra det enklare, roligare och tydligare att ansöka via oss. Jerrie står på kandidatens sida och har alltid gjort det. Vi har alltid jobbat med det vi kallar för ”kandidatresan” - ~~Nu vill vi levla upp en våning och tänker att Panelista kan hjälpa oss med det.~~
 
 **Kan du berätta lite om hur det skiljer sig att skaffa kundinsikter genom Panelista jämfört med hur ni arbetade tidigare?**
 
