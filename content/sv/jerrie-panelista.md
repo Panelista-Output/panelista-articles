@@ -34,7 +34,7 @@ Vår panel består av kandidater som sökt jobb via oss de senaste tre månadern
 
 **Hur känner du för formatet att ställa videofrågor?**
 
-Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen får vi en chans att presentera oss för våra kunder. Vi har delat upp frågorna mellan oss för att panelen skall få träffa flera av oss konsulter. Det blir personligt och det behöver inte vara så perfekt. Det gäller att våga utmana sig själv lite där.
+Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen får vi en chans att presentera oss för våra kunder. Vi har delat upp frågorna mellan oss för att panelen skall få träffa flera av oss konsulter. ~~Det blir personligt och det behöver inte vara så perfekt.~~ Det gäller att våga utmana sig själv lite där.
 
 Lite kul att du frågar om just videoformatet för en insikt vi fått genom Panelista är att flera av våra kandidater gärna hade sett att det gick att skicka in en kort videopresentation av sig själva när de söker jobb. Det finns en önskan om att få uttrycka sig och visa varför man söker jobbet.
 
