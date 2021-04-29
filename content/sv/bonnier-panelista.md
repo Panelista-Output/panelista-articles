@@ -1,5 +1,5 @@
 +++
-authors = ["Anna Lena Ekeblad"]
+authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-04-10T22:00:00Z
 excerpt = "Fler paneler - ett sätt att jobba kvalitativt med olika målgrupper."
 hero = "/images/bonnier-smaller-2021-04-16.jpg"
