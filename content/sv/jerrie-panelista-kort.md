@@ -32,9 +32,9 @@ En insikt vi har fått tack vare vår panel är hur lite kunskap kandidaterna ha
 
 Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa deltagare är väldigt kritiska, men då är det ju bra att de kan se vad andra tycker och få lite råd därifrån också. ~~Det är ett lärande i panelen.~~ Det tycker vi är bra! Det har skapats många jätteintressanta dialoger.
 
-**Om du får välja vad som varit absolut bäst med att arbeta i verktyget Panelista - vad skulle det då vara?**
+**Om du får välja vad som är absolut bäst med att arbeta i verktyget Panelista - vad skulle det då vara?**
 
-Bäst har varit att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg. ~~Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.~~
+Bäst är att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg. ~~Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.~~
 
 {{< sv/visitpanelista >}}
 
