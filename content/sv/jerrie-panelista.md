@@ -36,6 +36,8 @@ Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen
 
 Lite kul att du frågar om just videoformatet för en insikt vi fått genom Panelista är att flera av våra kandidater gärna hade sett att det gick att skicka in en kort videopresentation av sig själva när de söker jobb. Det finns en önskan om att få uttrycka sig och visa varför man söker jobbet.
 
+[](/images/jerrie_teams-2021-05-04.jpg)
+
 **Era paneldeltagare verkar inte vara rädda för att säga vad de tycker. Vilka är de största insikter ni fått genom Panelista?**
 
 Det handlar mycket om förväntningar och tydlighet. Att man söker ett jobb men inte riktigt förstår om man fyller kravprofilen. Inte heller hur processen för just den aktuella tjänsten ser ut och hur ett urval går till.
@@ -68,6 +70,6 @@ Vi har löpande anonyma kandidat- och kundundersökningar men här kan vi ha en 
 
 Skallkraven! Matcha ditt CV med sökorden som anges i annonsen. Gör det enkelt för den som läser ditt CV att se varför just du passar i rollen. Ha en uppdaterad Linkedin profil med de sökord du vill bli hittad på. **Fetmarkera** ord du ser är viktiga för rollen du söker. Lägg inte så mycket tid på ett personligt brev, om det inte är ett krav i ansökan. Gör istället ett kort intro i ditt CV för personlig presentation. ~~Paketera dig själv som ett erbjudande!~~
 
-_Tack till fotograf Kate Gabor_ 
+_Tack till fotograf Kate Gabor_
 
 {{< sv/subscribe >}}
