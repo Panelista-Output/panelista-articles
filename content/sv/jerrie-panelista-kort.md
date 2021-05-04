@@ -24,7 +24,7 @@ Vår panel består av kandidater som sökt jobb via oss de senaste tre månadern
 
 **Formatet att ställa videofrågor verkar passa er perfekt. Kan inte du dela med dig av era erfarenheter kring det?**
 
-Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen får vi en chans att presentera oss för våra kunder. Vi har delat upp frågorna mellan oss för att panelen skall få träffa flera av oss konsulter. ~~Det blir personligt och det behöver inte vara så perfekt.~~ Det gäller att våga utmana sig själv lite där.
+Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen får vi en chans att presentera oss för våra kunder. Dessutom blir det en dialog eftersom vi kan ställa följdfrågor och gräva djupare. Vi har delat upp frågorna mellan oss för att panelen skall få träffa flera av oss konsulter. ~~Det blir personligt och det behöver inte vara så perfekt.~~ Det gäller att våga utmana sig själv lite där.
 
 **Era paneldeltagare verkar inte vara rädda för att säga vad de tycker. Vilka är de största insikter ni fått genom Panelista?**
 
