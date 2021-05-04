@@ -36,8 +36,6 @@ Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen
 
 Lite kul att du frågar om just videoformatet för en insikt vi fått genom Panelista är att flera av våra kandidater gärna hade sett att det gick att skicka in en kort videopresentation av sig själva när de söker jobb. Det finns en önskan om att få uttrycka sig och visa varför man söker jobbet.
 
-[](/images/jerrie_teams-2021-05-04.jpg)
-
 **Era paneldeltagare verkar inte vara rädda för att säga vad de tycker. Vilka är de största insikter ni fått genom Panelista?**
 
 Det handlar mycket om förväntningar och tydlighet. Att man söker ett jobb men inte riktigt förstår om man fyller kravprofilen. Inte heller hur processen för just den aktuella tjänsten ser ut och hur ett urval går till.
