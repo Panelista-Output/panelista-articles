@@ -46,7 +46,7 @@ Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa delta
 
 **Om du får välja vad som varit absolut bäst med att arbeta i verktyget Panelista - vad skulle det då vara?**
 
-Bäst har varit att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. ~~Med hjälp av Panelista så kan vi fånga upp dem också.~~ Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
+~~Bäst har varit att kunna ha en dialog med våra kandidater ~~ och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. ~~Med hjälp av Panelista så kan vi fånga upp dem också.~~ Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
 
 {{< sv/visitpanelista >}}
 
