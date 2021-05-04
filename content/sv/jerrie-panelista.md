@@ -46,7 +46,7 @@ Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa delta
 
 **Om du får välja vad som varit absolut bäst med att arbeta i verktyget Panelista - vad skulle det då vara?**
 
-~~Bäst har varit att kunna ha en dialog med våra kandidater ~~ och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. ~~Med hjälp av Panelista så kan vi fånga upp dem också.~~ Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
+\~\~Bäst har varit att kunna ha en dialog med våra kandidater \~\~ och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. ~~Med hjälp av Panelista så kan vi fånga upp dem också.~~ Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
 
 {{< sv/visitpanelista >}}
 
@@ -67,5 +67,7 @@ Vi har löpande anonyma kandidat- och kundundersökningar men här kan vi ha en 
 **Om du fick ge arbetssökande ett tips på något de absolut inte får missa att lyfta fram i sitt CV alternativt i sitt personliga brev, vad skulle det vara?**
 
 Skallkraven! Matcha ditt CV med sökorden som anges i annonsen. Gör det enkelt för den som läser ditt CV att se varför just du passar i rollen. Ha en uppdaterad Linkedin profil med de sökord du vill bli hittad på. **Fetmarkera** ord du ser är viktiga för rollen du söker. Lägg inte så mycket tid på ett personligt brev, om det inte är ett krav i ansökan. Gör istället ett kort intro i ditt CV för personlig presentation. ~~Paketera dig själv som ett erbjudande!~~
+
+_Tack till fotograf Kate Gabor_ 
 
 {{< sv/subscribe >}}
