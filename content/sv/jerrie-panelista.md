@@ -20,7 +20,7 @@ Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, 
 
 **_Panelista bjöd in Helene Hagman, digital marketing & sales recruiter till vad som blev ett härligt samtal fyllt av energi och skratt._**
 
-**Det känns som att du verkligen älskar ditt jobb och är mån om att ha stort kundfokus.**
+**Hej Helene! Du känns som en person som verkligen älskar ditt jobb och är mån om att ha stort kundfokus.**
 
 Absolut! Jerrie startade 2012 med fokus på specialistrekrytering med mottot ”kandidaten är vår största kund”. Det var just kandidatfokuset som attraherade mig när jag tackade ja till att vara med från början. Jag är rekryterare och mitt specialistområde är marknad, kommunikation och försäljning. Jag är också medlem i vårt marknadsteam.
 
