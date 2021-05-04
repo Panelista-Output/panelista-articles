@@ -14,7 +14,7 @@ title = "Jerrie & Panelista"
 
 **Jerries historia börjar med Maquire. De startade 2007 som ett chefsrekryteringsföretag med en stark övertygelse och vision - att förändra synen på en hel bransch.**
 
-Rekryteringsbranchen präglades av kontakter före kompetens, kandidater som inte behandlades med respekt, otydliga processer som drog ut på tiden och konsulter som inte var tillräckligt erfarna. Det här ville man ändra på och företaget föddes ur en övertygelse att det går att bryta mönster.
+Rekryteringsbranschen präglades av kontakter före kompetens, kandidater som inte behandlades med respekt, otydliga processer som drog ut på tiden och konsulter som inte var tillräckligt erfarna. Det här ville man ändra på och företaget föddes ur en övertygelse att det går att bryta mönster.
 
 Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, med samma namn, där budskapet är "följ ditt hjärta". Nu för tiden heter man Maquire Group och består av tre verksamheter: Jerrie, Maquire och Tidewell
 
@@ -42,7 +42,7 @@ Det handlar mycket om förväntningar och tydlighet. Att man söker ett jobb men
 
 En insikt vi har fått tack vare vår panel är hur lite kunskap kandidaterna har om vårt jobb. ~~Vi måste bli tydligare, det kommer tillbaka hela tiden som en insikt i Panelista.~~ Vi tänker att det är självklart att de förstår hur vi gör. Det kommer väldigt mycket tips på hur vi ska göra. Jag tänker ”Det är ju exakt så vi redan gör och lite till. Vet folk så lite om hur en rekryteringsprocess går till?” Panelen vill att det är tydligare med vilka skallkraven är, hur urvalet av kandidater går till och när man förväntas få ett svar.
 
-Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa deltagare är väldigt kritiska, men då är det ju bra att de kan se vad andra tycker och få lite råd därifrån också. ~~Det är ett lärande i panelen.~~ Det tycker vi är bra! Det har skapats många jätteintressanta dialoger.
+Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa deltagare är väldigt kritiska, men då är det ju bra att de kan se vad andra tycker och få lite råd därifrån också. ~~Det är ett lärande i panelen.~~ Det tycker vi är bra! ~~Det har skapats många jätteintressanta dialoger.~~
 
 **Om du får välja vad som varit absolut bäst med att arbeta i verktyget Panelista - vad skulle det då vara?**
 
