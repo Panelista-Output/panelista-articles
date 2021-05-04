@@ -6,7 +6,7 @@ excerpt = ""
 hero = "/images/header_jerrie-2021-04-29.jpg"
 hero_image_body = "Rekryteringsföretaget Jerrie vågar ställa de svåra frågorna och lyssnar noga när kunderna svarar. "
 hero_image_title = "Panelista ger våra kandidater en röst - både till de som vill ge oss kritik och de som är väldigt konstruktiva."
-timeToRead = 4
+timeToRead = 2
 title = "Jerrie & Panelista - kort"
 
 +++
