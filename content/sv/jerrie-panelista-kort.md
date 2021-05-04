@@ -44,7 +44,7 @@ Att vi skulle kunna ha en bra dialog med de som söker våra utannonserade jobb.
 
 **Kan du berätta lite om hur det skiljer sig att skaffa kundinsikter genom Panelista jämfört med hur ni arbetade tidigare?**
 
-Vi har löpande anonyma kandidat- och kundundersökningar men här kan vi ha en öppnare dialog med personer som valt att vara med i vår panel. Det är en lärande diskussion där vi och även de som är med i panelen lär av varandra. ~~Panelista blir en hjälp för oss att affärs- och processutveckla.~~
+Vi har löpande anonyma kandidat- och kundundersökningar men ~~här kan vi ha en djupare och öppnare dialog med personer som valt att vara med i vår panel~~. Det är en lärande diskussion där vi och även de som är med i panelen lär av varandra. ~~Panelista blir en hjälp för oss att affärs- och processutveckla.~~
 
 **BONUSFRÅGA**
 
