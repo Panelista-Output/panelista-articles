@@ -26,9 +26,9 @@ Absolut! Jerrie startade 2012 med fokus på specialistrekrytering med mottot ”
 
 **Ni verkar ha enormt engagerade kandidater i er panel! Berätta hur ni gjorde när ni sökte deltagare.**
 
-Det finns många olika vägar att söka jobb idag, via rekryteringsföretag eller direkt hos företagen. Vår tanke med Panelista var att skapa en dialog och diskussion kring hur det är att söka jobb och få insikter från våra kandidater. Vi vill hitta enkelheten i att söka ett jobb. Hur vill du söka ett jobb? Vad får dig att söka ett jobb? Vi kallar panelen ”Jerrie Labs”.
-
 Vår panel består av kandidater som sökt jobb via oss de senaste tre månaderna. Det är en mix av människor som har sökt många jobb hos oss och andra företag till de som sökt ett enda jobb - och fått det. Vi hade ett stort antal svar från de som ville vara med men stannade vid 130.
+
+Det finns många olika vägar att söka jobb idag, via rekryteringsföretag eller direkt hos företagen. Vår tanke med Panelista var att skapa en dialog och diskussion kring hur det är att söka jobb och få insikter från våra kandidater. Vi vill hitta enkelheten i att söka ett jobb. Hur vill du söka ett jobb? Vad får dig att söka ett jobb? Vi kallar panelen ”Jerrie Labs”.
 
 **Formatet att ställa videofrågor verkar passa er perfekt. Kan inte du dela med dig av era erfarenheter kring det?**
 
