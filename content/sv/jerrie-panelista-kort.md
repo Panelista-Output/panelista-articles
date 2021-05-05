@@ -28,7 +28,7 @@ Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen
 
 **Era paneldeltagare verkar inte vara rädda för att säga vad de tycker. Vilka är de största insikter ni fått genom Panelista?**
 
-En insikt vi har fått tack vare vår panel är hur lite kunskap kandidaterna har om vårt jobb. ~~Vi måste bli tydligare, det kommer tillbaka hela tiden som en insikt i Panelista.~~ Panelen vill att det är tydligare med vilka skallkraven är, hur urvalet av kandidater går till och när man förväntas få ett svar.
+En insikt vi har fått tack vare vår panel är hur svårt det måste vara för en kandidat att veta hur en rekryteringsprocess går till. ~~Vi måste bli tydligare, det kommer tillbaka hela tiden som en insikt i Panelista.~~ Panelen vill att det skall vara tydligare med vilka kompetenser som är viktigast i en tjänst, hur urvalet av kandidater går till och när man förväntas få ett svar. Vi behöver bli ännu bättre på att kommunicera kring hur vi arbetar och vad vi förväntar oss av de sökande.
 
 Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa deltagare är väldigt kritiska, men då är det ju bra att de kan se vad andra tycker och få lite råd därifrån också. ~~Det är ett lärande i panelen.~~ Det tycker vi är bra! Det har skapats många jätteintressanta dialoger.
 
@@ -52,6 +52,6 @@ Vi har löpande anonyma kandidat- och kundundersökningar men ~~här kan vi ha e
 
 Skallkraven! Matcha ditt CV med sökorden som anges i annonsen. Gör det enkelt för den som läser ditt CV att se varför just du passar i rollen. Ha en uppdaterad Linkedin profil med de sökord du vill bli hittad på. **Fetmarkera** ord du ser är viktiga för rollen du söker. Lägg inte så mycket tid på ett personligt brev, om det inte är ett krav i ansökan. Gör istället ett kort intro i ditt CV för personlig presentation. Paketera dig själv som ett erbjudande!
 
-_Tack till fotograf Kate Gabor_ 
+_Tack till fotograf Kate Gabor_
 
 {{< sv/subscribe >}}
