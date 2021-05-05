@@ -10,7 +10,7 @@ timeToRead = 4
 title = "Jerrie & Panelista"
 
 +++
-## **Jerrie**
+## Jerrie
 
 **Jerries historia börjar med Maquire. De startade 2007 som ett chefsrekryteringsföretag med en stark övertygelse och vision - att förändra synen på en hel bransch.**
 
@@ -20,6 +20,7 @@ Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, 
 
 **_Panelista bjöd in Helene Hagman, digital marketing & sales recruiter till vad som blev ett härligt samtal fyllt av energi och skratt._**
 
+
 **Hej Helene! Du känns som en person som verkligen älskar ditt jobb och är mån om att ha stort kundfokus.**
 
 Absolut! Jerrie startade 2012 med fokus på specialistrekrytering med mottot ”kandidaten är vår största kund”. Det var just kandidatfokuset som attraherade mig när jag tackade ja till att vara med från början. Jag är rekryterare och mitt specialistområde är marknad, kommunikation och försäljning. Jag är också medlem i vårt marknadsteam.
@@ -28,11 +29,11 @@ Absolut! Jerrie startade 2012 med fokus på specialistrekrytering med mottot ”
 
 Vår panel består av kandidater som sökt jobb via oss de senaste tre månaderna. Det är en mix av människor som har sökt många jobb hos oss och andra företag till de som sökt ett enda jobb - och fått det. Vi hade ett stort antal svar från de som ville vara med men stannade vid 130.
 
-Det finns många olika vägar att söka jobb idag, via rekryteringsföretag eller direkt hos företagen. ~~Vår tanke med Panelista var att skapa en dialog och diskussion kring hur det är att söka jobb och få insikter från våra kandidater.~~ Vi vill hitta enkelheten i att söka ett jobb. Hur vill du söka ett jobb? Vad får dig att söka ett jobb? Vi kallar panelen ”Jerrie Labs”.
+Det finns många olika vägar att söka jobb idag, via rekryteringsföretag eller direkt hos företagen. Vår tanke med Panelista var att skapa en dialog och diskussion kring hur det är att söka jobb och få insikter från våra kandidater. Vi vill hitta enkelheten i att söka ett jobb. Hur vill du söka ett jobb? Vad får dig att söka ett jobb? Vi kallar panelen ”Jerrie Labs”.
 
 **Formatet att ställa videofrågor verkar passa er perfekt. Kan inte du dela med dig av era erfarenheter kring det?**
 
-Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen får vi en chans att presentera oss för våra kunder. Vi har delat upp frågorna mellan oss för att panelen skall få träffa flera av oss konsulter. ~~Det blir personligt och det behöver inte vara så perfekt.~~ Det gäller att våga utmana sig själv lite där.
+Det är ett trevligt och personligt sätt att ställa frågan. Tack vare panelen får vi en chans att presentera oss för våra kunder. Vi har delat upp frågorna mellan oss för att panelen skall få träffa flera av oss konsulter. Det blir personligt och det behöver inte vara så perfekt. Det gäller att våga utmana sig själv lite där.
 
 Lite kul att du frågar om just videoformatet för en insikt vi fått genom Panelista är att flera av våra kandidater gärna hade sett att det gick att skicka in en kort videopresentation av sig själva när de söker jobb. Det finns en önskan om att få uttrycka sig och visa varför man söker jobbet.
 
@@ -40,39 +41,19 @@ Lite kul att du frågar om just videoformatet för en insikt vi fått genom Pane
 
 Det handlar mycket om förväntningar och tydlighet. Att man söker ett jobb men inte riktigt förstår om man fyller kravprofilen. Inte heller hur processen för just den aktuella tjänsten ser ut och hur ett urval går till.
 
-En insikt vi har fått tack vare vår panel är hur svårt det måste vara för en kandidat att veta hur en rekryteringsprocess går till. ~~Vi måste bli tydligare, det kommer tillbaka hela tiden som en insikt i Panelista.~~ Panelen vill att det skall vara tydligare med vilka kompetenser som är viktigast i en tjänst, hur urvalet av kandidater går till och när man förväntas få ett svar. Vi behöver bli ännu bättre på att kommunicera kring hur vi arbetar och vad vi förväntar oss av de sökande.
+En insikt vi har fått tack vare vår panel är hur svårt det måste vara för en kandidat att veta hur en rekryteringsprocess går till. Vi måste bli tydligare, det kommer tillbaka hela tiden som en insikt i Panelista. Panelen vill att det skall vara tydligare med vilka kompetenser som är viktigast i en tjänst, hur urvalet av kandidater går till och när man förväntas få ett svar. Vi behöver bli ännu bättre på att kommunicera kring hur vi arbetar och vad vi förväntar oss av de sökande.
 
-Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa deltagare är väldigt kritiska, men då är det ju bra att de kan se vad andra tycker och få lite råd därifrån också. ~~Det är ett lärande i panelen.~~ Det tycker vi är bra! ~~Det har skapats många jätteintressanta dialoger.~~
+Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa deltagare är väldigt kritiska, men då är det ju bra att de kan se vad andra tycker och få lite råd därifrån också. Det är ett lärande i panelen. Det tycker vi är bra! Det har skapats många jätteintressanta dialoger.
 
 **Om du får välja vad som varit absolut bäst med att arbeta i verktyget Panelista - vad skulle det då vara?**
 
-~~Bäst har varit att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg.~~ Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. Med hjälp av Panelista så kan vi fånga upp dem också. Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
-
-{{< sv/visitpanelista >}}
-
-Vilka förväntningar hade ni på Panelista och paneldeltagarna innan ni satte igång?
-
-Att vi skulle kunna ha en bra dialog med de som söker våra utannonserade jobb. Även hur vi kan ska kunna göra det enklare, roligare och tydligare att ansöka via oss. Jerrie står på kandidatens sida och har alltid gjort det. Vi har alltid jobbat med det vi kallar för ”kandidatresan” - Nu vill vi levla upp en våning och tänker att Panelista kan hjälpa oss med det.
-
-Kan du berätta lite om hur det skiljer sig att skaffa kundinsikter genom Panelista jämfört med hur ni arbetade tidigare?
-
-Vi har löpande anonyma kandidat- och kundundersökningar men här kan vi ha en djupare och öppnare dialog med personer som valt att vara med i vår panel. Det är en lärande diskussion där vi och även de som är med i panelen lär av varandra. Panelista blir en hjälp för oss att affärs- och processutveckla.
-
-BONUSFRÅGA
-
-Om du fick ge arbetssökande ett tips på något de absolut inte får missa att lyfta fram i sitt CV alternativt i sitt personliga brev, vad skulle det vara?
-
-Matcha ditt CV med de önskade kraven som anges i annonsen! Gör det enkelt för den som läser ditt CV att se varför just du passar i rollen. Ha en uppdaterad Linkedin profil med de sökord du vill bli hittad på. Fetmarkera ord du ser är viktiga för rollen du söker. Lägg inte så mycket tid på ett personligt brev, om det inte är ett krav i ansökan. Gör istället ett kort intro i ditt CV för personlig presentation. Paketera dig själv som ett erbjudande!
-
-Tack till fotograf Kate Gabor
-
-Bäst har varit att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. ~~Med hjälp av Panelista så kan vi fånga upp dem också.~~ Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
+Bäst har varit att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. Med hjälp av Panelista så kan vi fånga upp dem också. Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
 
 {{< sv/visitpanelista >}}
 
 **Har ni stött på några utmaningar?**
 
-Svårast har nog varit att ställa rätt frågor. Vad vill vi fråga dem om? Hur ska vi fråga det på ett bra sätt? Vi vill ju få bra svar som vi kan jobba vidare med. ~~Det som är väldigt bra i Panelista är att vi kan gå in och ställa följdfrågor.~~ ”Hur menade du där?” Även om vi inte har ställt exakt rätt fråga från början har vi möjligheten att gå in och fortsätta dialogen.
+Svårast har nog varit att ställa rätt frågor. Vad vill vi fråga dem om? Hur ska vi fråga det på ett bra sätt? Vi vill ju få bra svar som vi kan jobba vidare med. Det som är väldigt bra i Panelista är att vi kan gå in och ställa följdfrågor. ”Hur menade du där?” Även om vi inte har ställt exakt rätt fråga från början har vi möjligheten att gå in och fortsätta dialogen.
 
 **Vilka förväntningar hade ni på Panelista och paneldeltagarna innan ni satte igång?**
 
@@ -80,7 +61,7 @@ Att vi skulle kunna ha en bra dialog med de som söker våra utannonserade jobb.
 
 **Kan du berätta lite om hur det skiljer sig att skaffa kundinsikter genom Panelista jämfört med hur ni arbetade tidigare?**
 
-Vi har löpande anonyma kandidat- och kundundersökningar men här kan vi ha en öppnare dialog med personer som valt att vara med i vår panel. ~~Det är en lärande diskussion där vi och även de som är med i panelen lär av varandra.~~ Panelista blir en hjälp för oss att affärs- och processutveckla.
+Vi har löpande anonyma kandidat- och kundundersökningar men här kan vi ha en öppnare dialog med personer som valt att vara med i vår panel. Det är en lärande diskussion där vi och även de som är med i panelen lär av varandra. Panelista blir en hjälp för oss att affärs- och processutveckla.
 
 **BONUSFRÅGA**
 
