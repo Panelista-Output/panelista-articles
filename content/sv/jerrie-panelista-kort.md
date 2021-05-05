@@ -14,7 +14,7 @@ title = "Jerrie & Panelista - kort"
 
 **Jerries historia börjar med Maquire. De startade 2007 som ett chefsrekryteringsföretag med en stark övertygelse och vision - att förändra synen på en hel bransch.**
 
-Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, med samma namn, där budskapet är "följ ditt hjärta". Nu för tiden heter man Maquire Group och består av tre verksamheter: Jerrie, Maquire och Tidewell
+Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, med samma namn, där budskapet är "följ ditt hjärta". Nu för tiden heter man Maquire Group och består av tre verksamheter: Jerrie, Maquire och Tidwell.
 
 **_Panelista bjöd in Helene Hagman, digital marketing & sales recruiter till vad som blev ett härligt samtal fyllt av energi och skratt._**
 
