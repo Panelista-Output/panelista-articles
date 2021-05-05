@@ -46,7 +46,27 @@ Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa delta
 
 **Om du får välja vad som varit absolut bäst med att arbeta i verktyget Panelista - vad skulle det då vara?**
 
-\~\~Bäst har varit att kunna ha en dialog med våra kandidater \~\~ och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. ~~Med hjälp av Panelista så kan vi fånga upp dem också.~~ Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
+~~Bäst har varit att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg.~~ Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. Med hjälp av Panelista så kan vi fånga upp dem också. Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
+
+{{< sv/visitpanelista >}}
+
+Vilka förväntningar hade ni på Panelista och paneldeltagarna innan ni satte igång?
+
+Att vi skulle kunna ha en bra dialog med de som söker våra utannonserade jobb. Även hur vi kan ska kunna göra det enklare, roligare och tydligare att ansöka via oss. Jerrie står på kandidatens sida och har alltid gjort det. Vi har alltid jobbat med det vi kallar för ”kandidatresan” - Nu vill vi levla upp en våning och tänker att Panelista kan hjälpa oss med det.
+
+Kan du berätta lite om hur det skiljer sig att skaffa kundinsikter genom Panelista jämfört med hur ni arbetade tidigare?
+
+Vi har löpande anonyma kandidat- och kundundersökningar men här kan vi ha en djupare och öppnare dialog med personer som valt att vara med i vår panel. Det är en lärande diskussion där vi och även de som är med i panelen lär av varandra. Panelista blir en hjälp för oss att affärs- och processutveckla.
+
+BONUSFRÅGA
+
+Om du fick ge arbetssökande ett tips på något de absolut inte får missa att lyfta fram i sitt CV alternativt i sitt personliga brev, vad skulle det vara?
+
+Matcha ditt CV med de önskade kraven som anges i annonsen! Gör det enkelt för den som läser ditt CV att se varför just du passar i rollen. Ha en uppdaterad Linkedin profil med de sökord du vill bli hittad på. Fetmarkera ord du ser är viktiga för rollen du söker. Lägg inte så mycket tid på ett personligt brev, om det inte är ett krav i ansökan. Gör istället ett kort intro i ditt CV för personlig presentation. Paketera dig själv som ett erbjudande!
+
+Tack till fotograf Kate Gabor
+
+Bäst har varit att kunna ha en dialog med våra kandidater och att de kan kommentera varandras inlägg. Flera av dem har gått igenom hela rekryteringsprocessen men får nej hela tiden. Det finns de som söker och söker - de är ledsna, frustrerade och uppgivna. Vi har ett stort hjärta för alla de här som verkligen försöker. Man bara önskar att man skulle kunna hitta den där perfekta tjänsten till dem. ~~Med hjälp av Panelista så kan vi fånga upp dem också.~~ Vi vill fungera som bollplank och gå in och stötta. Tack vare panelen kan även de andra deltagarna kommentera, lajka och visa sitt stöd.
 
 {{< sv/visitpanelista >}}
 
