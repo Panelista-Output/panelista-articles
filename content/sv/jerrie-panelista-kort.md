@@ -50,7 +50,7 @@ Vi har löpande anonyma kandidat- och kundundersökningar men ~~här kan vi ha e
 
 **Om du fick ge arbetssökande ett tips på något de absolut inte får missa att lyfta fram i sitt CV alternativt i sitt personliga brev, vad skulle det vara?**
 
-Skallkraven! Matcha ditt CV med sökorden som anges i annonsen. Gör det enkelt för den som läser ditt CV att se varför just du passar i rollen. Ha en uppdaterad Linkedin profil med de sökord du vill bli hittad på. **Fetmarkera** ord du ser är viktiga för rollen du söker. Lägg inte så mycket tid på ett personligt brev, om det inte är ett krav i ansökan. Gör istället ett kort intro i ditt CV för personlig presentation. Paketera dig själv som ett erbjudande!
+Matcha ditt CV med de önskade kraven som anges i annonsen! Gör det enkelt för den som läser ditt CV att se varför just du passar i rollen. Ha en uppdaterad Linkedin profil med de sökord du vill bli hittad på. **Fetmarkera** ord du ser är viktiga för rollen du söker. Lägg inte så mycket tid på ett personligt brev, om det inte är ett krav i ansökan. Gör istället ett kort intro i ditt CV för personlig presentation. Paketera dig själv som ett erbjudande!
 
 _Tack till fotograf Kate Gabor_
 
