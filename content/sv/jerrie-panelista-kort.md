@@ -15,7 +15,7 @@ title = "Jerrie & Panelista"
 
 Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, med samma namn, där budskapet är "följ ditt hjärta". Nu för tiden heter man Maquire Group och består av tre verksamheter: Jerrie, Maquire och Tidwell.
 
-**_Panelista bjöd in Helene Hagman, digital marketing & sales recruiter till vad som blev ett härligt samtal fyllt av energi och skratt._**
+**_Panelista bjöd in Helene Hagman, digital marketing & sales recruiter, till vad som blev ett härligt samtal fyllt av energi och skratt._**
 
 **Ni verkar ha enormt engagerade kandidater i er panel! Berätta hur ni gjorde när ni sökte deltagare.**
 
