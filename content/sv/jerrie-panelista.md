@@ -16,7 +16,7 @@ title = "Jerrie & Panelista"
 
 Rekryteringsbranschen präglades av kontakter före kompetens, kandidater som inte behandlades med respekt, otydliga processer som drog ut på tiden och konsulter som inte var tillräckligt erfarna. Det här ville man ändra på och företaget föddes ur en övertygelse att det går att bryta mönster.
 
-Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, med samma namn, där budskapet är "följ ditt hjärta". Nu för tiden heter man Maquire Group och består av tre verksamheter: Jerrie, Maquire och Tidewell
+Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, med samma namn, där budskapet är "följ ditt hjärta". Nu för tiden heter man Maquire Group och består av tre verksamheter: Jerrie, Maquire och Tidwell.
 
 **_Panelista bjöd in Helene Hagman, digital marketing & sales recruiter till vad som blev ett härligt samtal fyllt av energi och skratt._**
 
@@ -40,7 +40,7 @@ Lite kul att du frågar om just videoformatet för en insikt vi fått genom Pane
 
 Det handlar mycket om förväntningar och tydlighet. Att man söker ett jobb men inte riktigt förstår om man fyller kravprofilen. Inte heller hur processen för just den aktuella tjänsten ser ut och hur ett urval går till.
 
-En insikt vi har fått tack vare vår panel är hur lite kunskap kandidaterna har om vårt jobb. ~~Vi måste bli tydligare, det kommer tillbaka hela tiden som en insikt i Panelista.~~ Vi tänker att det är självklart att de förstår hur vi gör. Det kommer väldigt mycket tips på hur vi ska göra. Jag tänker ”Det är ju exakt så vi redan gör och lite till. Vet folk så lite om hur en rekryteringsprocess går till?” Panelen vill att det är tydligare med vilka skallkraven är, hur urvalet av kandidater går till och när man förväntas få ett svar.
+En insikt vi har fått tack vare vår panel är hur svårt det måste vara för en kandidat att veta hur en rekryteringsprocess går till. ~~Vi måste bli tydligare, det kommer tillbaka hela tiden som en insikt i Panelista.~~ Panelen vill att det skall vara tydligare med vilka kompetenser som är viktigast i en tjänst, hur urvalet av kandidater går till och när man förväntas få ett svar. Vi behöver bli ännu bättre på att kommunicera kring hur vi arbetar och vad vi förväntar oss av de sökande.
 
 Sen är det ju så att man kan se varandras kommentarer i Panelista. Vissa deltagare är väldigt kritiska, men då är det ju bra att de kan se vad andra tycker och få lite råd därifrån också. ~~Det är ett lärande i panelen.~~ Det tycker vi är bra! ~~Det har skapats många jätteintressanta dialoger.~~
 
