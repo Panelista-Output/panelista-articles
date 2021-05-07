@@ -1,7 +1,7 @@
 +++
 authors = []
 date = 2021-03-22T23:00:00Z
-excerpt = ""
+excerpt = "Vi har gjort justeringar som gör Panelista ännu mer användarvänligt"
 hero = "/images/highlights-2021-04-19.jpg"
 hero_image_body = ""
 hero_image_title = "Använd de nya funktionerna för markeringar och insikter och dela resultatet med organisationen"
