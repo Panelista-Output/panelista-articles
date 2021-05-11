@@ -18,7 +18,7 @@ _Vi gjorde en snabb avstämning med Irma Markgren, project manager på Wayke, f�
 
 Det är full rulle här hos Wayke! Vi har väldigt kul just nu och mycket på gång i vår produkt. Saker som vi just nu testar mot våra panelmedlemmar för att kunna sätta en bra roadmap efter sommaren. Det gäller ju att veta vad vi ska börja med när vi är tillbaka från hemestern!
 
-**_Ni är ett av de företag som har arbetat med Panelista ända sedan vi drog igång i början av 2020. Har ert arbetssätt förändrats under resans gång? Ställer ni t ex frågor på ett annat sätt nu än ni gjorde i början?_**
+**_Ni är ett av de företag som har arbetat med Panelista ända sedan vi drog igång  2019. Hur har ert arbetssätt förändrats under resans gång? Ställer ni t ex frågor på ett annat sätt nu än ni gjorde i början?_**
 
 Själva frågorna ställer vi nog på samma sätt nu som för ett år sedan. Men vi har blivit bättre på att ställa bra uppföljningsfrågor i den pågående diskussionen - det skapas ännu mer dialog bland panelmedlemmarna och vi får ännu bättre insikter. Det tycker vi fungerar riktigt bra!
 
