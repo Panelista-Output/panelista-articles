@@ -22,9 +22,7 @@ Det är full rulle här hos Wayke! Vi har väldigt kul just nu och mycket på g�
 
 Själva frågorna ställer vi nog på samma sätt nu som för ett år sedan. Men vi har blivit bättre på att ställa bra uppföljningsfrågor i den pågående diskussionen - det skapas ännu mer dialog bland panelmedlemmarna och vi får ännu bättre insikter. Det tycker vi fungerar riktigt bra!
 
-Min känsla är dessutom att panelmedlemmarna tycker det är roligare när de får chatta direkt med oss på Wayke - och gärna med olika personer i företaget.
-
-Vi får ofta svar vi kanske inte förväntat oss. Våra panelister ger oss ett nytt perspektiv på problemet vi försöker lösa. Det är alltid härligt att få hjälp att tänka utanför boxen - att kunna justera vår egen plan efter insikter som kommer direkt från vara kunder.
+Min känsla är dessutom att panelmedlemmarna tycker det är roligare när de får chatta direkt med oss på Wayke - och gärna med olika personer i företaget. Vi får ofta svar vi kanske inte förväntat oss. Våra panelister ger oss nya perspektiv på problemen vi försöker lösa. Det är alltid härligt att få hjälp att tänka utanför boxen - att kunna justera vår egen plan efter insikter som kommer direkt från vara kunder.
 
 **_På vilket sätt skulle du säga att Panelista utmärker sig i arbetet med att få givande kundinsikter?_**
 
