@@ -16,7 +16,7 @@ _Vi gjorde en snabb avstämning med Irma Markgren, project manager på Wayke, f�
 
 **_Hej Irma! Hur har ni det på Wayke? Kan tänka mig att to do listan är full inför semestern. Vad gör ni just nu i Panelista?_**
 
-Det är full rulle här hos Wayke! Vi har väldigt kul och mycket på gång i vår produkt. Saker som vi testar just nu testar mot våra panelmedlemmar för att kunna sätta en bra roadmap efter sommaren. Det gäller ju att veta vad vi ska börja med när vi är tillbaka från hemestern!
+Det är full rulle här hos Wayke! Vi har väldigt kul och mycket på gång i vår produkt. Saker som vi just nu testar mot våra panelmedlemmar för att kunna sätta en bra roadmap efter sommaren. Det gäller ju att veta vad vi ska börja med när vi är tillbaka från hemestern!
 
 **_Ni är ett av de företag som har arbetat med Panelista ända sedan vi drog igång  2019. Hur har ert arbetssätt förändrats under resans gång? Ställer ni t ex frågor på ett annat sätt nu än ni gjorde i början?_**
 
