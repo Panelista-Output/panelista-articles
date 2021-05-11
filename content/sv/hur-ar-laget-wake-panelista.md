@@ -10,23 +10,7 @@ timeToRead = 3
 title = "HUR ÄR LÄGET? - Wayke & Panelista"
 
 +++
-
-  
-**”Det ger otrolig tyngd för oss i vår produktutveckling att veta att vi är på rätt spår eller att vi kan justera funktioner allt eftersom.”**
-
-_Irma Markgren, project manager, Wayke_
-
-**”Vi får ofta svar vi kanske inte förväntat oss. Våra panelister ger oss ett nytt perspektiv på problem vi försöker lösa. Det är alltid härligt att få hjälp att tänka utanför boxen - att kunna justera vår egen plan efter insikter som kommer direkt från vara kunder.”**
-
-_Irma Markgren, project manager, Wayke_
-
-**”När vi knyter ihop säcken har vi både djupa, detaljerade svar och flera mer övergripande svar. Det tycker vi har varit ett vinnande koncept för att känna att vi har god förståelse för våra kunder.”**
-
-_Irma Markgren, project manager, Wayke_
-
-  
-  
-Wayke är marknadsplatsen för den som vill göra trygga bilaffärer på nätet. Målet är att göra kundresan så trygg, kul och smidig som möjligt och redan för ett drygt år sedan satte man ihop panelen Wayke Innovations tillsammans med Panelista. Tillsammans har man skapat en direktkanal till Waykes kunder. Det pågår en ständig dialog där panelmedlemmarna bjuder på både detaljerade och mer övergripande svar på frågor som dyker upp i det dagliga förbättringsarbetet.
+**Wayke är marknadsplatsen för den som vill göra trygga bilaffärer på nätet. Målet är att göra kundresan så trygg, kul och smidig som möjligt och redan för ett drygt år sedan satte man ihop panelen Wayke Innovations tillsammans med Panelista.** Tillsammans har man skapat en direktkanal till Waykes kunder. Det pågår en ständig dialog där panelmedlemmarna bjuder på både detaljerade och mer övergripande svar på frågor som dyker upp i det dagliga förbättringsarbetet.
 
 _Vi gjorde en snabb avstämning med Irma Markgren, project manager på Wayke, för att kolla lite vad som hänt sedan sist._
 
