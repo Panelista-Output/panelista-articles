@@ -24,7 +24,7 @@ Själva frågorna ställer vi nog på samma sätt nu som för ett år sedan. Men
 
 Min känsla är dessutom att panelmedlemmarna tycker det är roligare när de får chatta direkt med oss på Wayke - och gärna med olika personer i företaget. Vi får ofta svar vi kanske inte förväntat oss. Våra panelister ger oss nya perspektiv på problemen vi försöker lösa. Det är alltid härligt att få hjälp att tänka utanför boxen - att kunna justera vår egen plan efter insikter som kommer direkt från vara kunder.
 
-**_På vilket sätt skulle du säga att Panelista utmärker sig i arbetet med att få givande kundinsikter?_**
+**_På vilket sätt skulle du säga att Panelista bidrar i arbetet med att samla in kundinsikter?_**
 
 En styrka för Wayke, som har många medlemmar, är att vi kan göra både kvalitativa och kvantitativa tester. Vi brukar kombinera Panelista med en bredare och anonym enkät som går ut till alla våra medlemmar på Wayke. När vi då knyter ihop säcken har vi både djupa, detaljerade svar och flera mer övergripande svar. Det tycker vi har varit ett vinnande koncept för att känna att vi har god förståelse för våra kunder.
 
