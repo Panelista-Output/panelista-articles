@@ -7,7 +7,7 @@ hero = "/images/wayke_panelista-2021-05-11-1.jpg"
 hero_image_body = "Irma Markgren, project manager, Wayke"
 hero_image_title = "”Det ger otrolig tyngd för oss i vår produktutveckling att veta att vi är på rätt spår eller att vi kan justera funktioner allt eftersom.”"
 timeToRead = 3
-title = "HUR ÄR LÄGET? - Wake & Panelista"
+title = "HUR ÄR LÄGET? - Wayke & Panelista"
 
 +++
 
