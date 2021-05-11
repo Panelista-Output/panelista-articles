@@ -4,8 +4,8 @@ date = ""
 draft = true
 excerpt = "Wayke är marknadsplatsen för den som vill göra trygga bilaffärer på nätet. Målet är att göra kundresan så trygg, kul och smidig som möjligt och redan för ett drygt år sedan satte man ihop panelen Wayke Innovations tillsammans med Panelista. Tillsammans har man skapat en direktkanal till Waykes kunder. "
 hero = "/images/wayke_panelista-2021-05-11.jpg"
-hero_image_body = ""
-hero_image_title = "Wayke & Panelista"
+hero_image_body = "Irma Markgren, project manager, Wayke"
+hero_image_title = "”Det ger otrolig tyngd för oss i vår produktutveckling att veta att vi är på rätt spår eller att vi kan justera funktioner allt eftersom.”"
 timeToRead = 3
 title = "HUR ÄR LÄGET? - Wake & Panelista"
 
