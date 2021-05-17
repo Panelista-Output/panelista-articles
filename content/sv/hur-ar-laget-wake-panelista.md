@@ -33,4 +33,4 @@ Ja, precis så tänker vi än idag. Det ger en otrolig tyngd för oss i vår ege
 
 **_Tack för att du tog dig tid Irma och stort lycka till med ert fortsatta arbete tillsammans med Panelista!_**
 
-{{< sv/visitpanelista >}}
+{{< sv/subscribe >}}
