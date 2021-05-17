@@ -1,6 +1,6 @@
 +++
 authors = ["Anna Lena Mayor Ekeblad"]
-date = 2021-05-10T22:00:00Z
+date = 2021-05-16T22:00:00Z
 excerpt = "Wayke är marknadsplatsen för den som vill göra trygga bilaffärer på nätet. Målet är att göra kundresan så trygg, kul och smidig som möjligt och redan för ett drygt år sedan satte man ihop panelen Wayke Innovations tillsammans med Panelista. Tillsammans har man skapat en direktkanal till Waykes kunder. "
 hero = "/images/wayke_panelista-2021-05-11-1.jpg"
 hero_image_body = "Irma Markgren, project manager, Wayke"
