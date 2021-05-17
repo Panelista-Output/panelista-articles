@@ -28,7 +28,7 @@ Min känsla är dessutom att panelmedlemmarna tycker det är roligare när de f�
 
 En styrka för Wayke, som har många medlemmar, är att vi kan göra både kvalitativa och kvantitativa tester. Vi brukar kombinera Panelista med en bredare och anonym enkät som går ut till alla våra medlemmar på Wayke. När vi då knyter ihop säcken har vi både djupa, detaljerade svar och flera mer övergripande svar. Det tycker vi har varit ett vinnande koncept för att känna att vi har god förståelse för våra kunder.
 
-**_I intervjun vi gjorde med dig för lite drygt ett år sedan säger du att du nog aldrig kommer att sluta ställa frågor till era kunder. Härligt! Finns det några tankar på att starta fler paneler eller några andra framtidsplaner du kan dela med dig av?_**
+**_I intervjun vi gjorde med dig för lite drygt ett år sedan säger du att du nog aldrig kommer att sluta ställa frågor till era kunder. Härligt! Finns det några framtidsplaner du kan dela med dig av?_**
 
 Ja, precis så tänker vi än idag. Det ger en otrolig tyngd för oss i vår egen roadmap och produktutveckling att veta att vi är på rätt spår och att vi kan justera funktioner allt eftersom. Framöver tänker vi även att vi vill börja arbeta närmare enskilda panelmedlemmar för mer djupgående produkttest inför nya lanseringar. Vi ser fram emot att testa den nya Touchpoint funktionen i Panelista - möjligheten att fånga kundens intryck i stunden låter ju väldigt spännande. Vi vet att vi nu har flera riktigt engagerade panelmedlemmar som gärna hjälper till så vi hoppas att det är ett vinnande koncept.
 
