@@ -10,7 +10,7 @@ timeToRead = 3
 title = "HUR ÄR LÄGET? - Wayke & Panelista"
 
 +++
-**Wayke är marknadsplatsen för den som vill göra trygga bilaffärer på nätet. Målet är att göra kundresan så säker, kul och smidig som möjligt och redan för ett drygt år sedan satte man ihop panelen Wayke Innovations i Panelista.** Tillsammans har man skapat en direktkanal till Waykes kunder. Det pågår en ständig dialog där panelmedlemmarna bjuder på både detaljerade och mer övergripande svar på frågor som dyker upp i det dagliga förbättringsarbetet.
+**Wayke är marknadsplatsen för den som vill göra trygga bilaffärer på nätet. Målet är att göra kundresan så säker, kul och smidig som möjligt och redan för ett drygt år sedan satte man ihop panelen Wayke Innovations i Panelista.** ~~Tillsammans har man skapat en direktkanal till Waykes kunder.~~ Det pågår en ständig dialog där panelmedlemmarna bjuder på både detaljerade och mer övergripande svar på frågor som dyker upp i det dagliga förbättringsarbetet.
 
 _Vi gjorde en snabb avstämning med Irma Markgren, project manager på Wayke, för att kolla lite vad som hänt sedan sist._
 
