@@ -33,3 +33,5 @@ En styrka för Wayke, som har många medlemmar, är att vi kan göra både kvali
 Ja, precis så tänker vi än idag. Det ger en otrolig tyngd för oss i vår egen roadmap och produktutveckling att veta att vi är på rätt spår och att vi kan justera funktioner allt eftersom. Framöver tänker vi även att vi vill börja arbeta närmare enskilda panelmedlemmar för mer djupgående produkttest inför nya lanseringar. ~~Vi ser fram emot att testa den nya Touchpoint funktionen i Panelista - möjligheten att fånga kundens intryck i stunden låter ju väldigt spännande.~~ Vi vet att vi nu har flera riktigt engagerade panelmedlemmar som gärna hjälper till så vi hoppas att det är ett vinnande koncept.
 
 **_Tack för att du tog dig tid Irma och stort lycka till med ert fortsatta arbete tillsammans med Panelista!_**
+
+{{< sv/visitpanelista >}}
