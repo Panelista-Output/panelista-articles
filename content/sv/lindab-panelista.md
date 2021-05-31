@@ -37,13 +37,13 @@ Vi ställer frågor som hur de har upplevt uppstarten av projektet, vad de tycke
 
 **_Har ni redan nu i uppstarten av projektet fått några "Aha-upplevelser" eller på något sätt blivit förvånade över svar ni har fått från panelisterna?_**
 
-Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation, produkten, hur monitorn installeras och vår manual. Även om panelen inte består av så många panelister så är de oerhört engagerade. Vi är glatt överraskade av hur ~~engagerade alla är och att de snabbt tar sig tid att svara och ge användbar feedback.~~
+~~Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina det vi gör~~ - vår kommunikation, produkten, hur monitorn installeras och vår manual. Även om panelen inte består av så många panelister så är de oerhört engagerade. Vi är glatt överraskade av hur engagerade alla är och att de snabbt tar sig tid att svara och ge användbar feedback.
 
 **_Berätta lite om de förväntningar ni har på projektet och hur Panelista och panelen ska hjälpa er nå ert mål._**
 
 En av målsättningarna är att skapa mer medvetenhet och intresse för inneklimatet och luftkvaliteten inomhus. ~~Ett annat mål är att vi ska lära oss mer om målgruppen i sig – allmänheten.~~ Hur tänker de när det kommer till ämnet? Finns det ett intresse av att förstå och lära sig mer? Och hur ställer man sig till att mäta sitt inneklimat? Finns det intresse av att förbättra inneklimatet om det upplevs dåligt? Finns det en betalningsvilja? Vad tycker man om utbudet av ventilations- och inomhusklimatprodukter idag?
 
-Ja, du hör ju - frågorna tar aldrig slut. Det är tur att vi genom Panelista har skapat oss en direktkanal till en samling engagerade medborgare så vi kan få svar på allt vi undrar.
+Ja, du hör ju - frågorna tar aldrig slut. ~~Det är tur att vi genom Panelista har skapat oss en direktkanal till en samling engagerade medborgare så vi kan få svar på allt vi undrar.~~
 
 **_Tack Camilla och Malin för att ni tog er tid att svara på våra frågor. Det känns som att vi snart får återkomma för en uppföljningsintervju när ni kommit ännu längre med ert spännande projekt. Stort lycka till!_**
 {{< sv/subscribe >}}
