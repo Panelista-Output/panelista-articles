@@ -43,3 +43,5 @@ Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedb
 En av målsättningarna är att skapa mer medvetenhet och intresse för inneklimatet och luftkvaliteten inomhus. ~~Ett annat mål är att vi ska lära oss mer om målgruppen i sig – allmänheten.~~ Hur tänker de när det kommer till ämnet? Finns det ett intresse av att förstå och lära sig mer? Och hur ställer man sig till att mäta sitt inneklimat? Finns det intresse av att förbättra inneklimatet om det upplevs dåligt? Finns det en betalningsvilja? Vad tycker man om utbudet av ventilations- och inomhusklimatprodukter idag?
 
 Ja, du hör ju - frågorna tar aldrig slut. Det är tur att vi genom Panelista har skapat oss en direktkanal till en samling engagerade medborgare så vi kan få svar på allt vi undrar.
+
+**_Tack Camilla och Malin för att ni tog er tid att svara på våra frågor. Det känns som att vi snart får återkomma för en uppföljningsintervju när ni kommit ännu längre med ert spännande projekt. Stort lycka till!_**
