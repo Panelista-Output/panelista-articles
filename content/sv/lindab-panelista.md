@@ -20,7 +20,7 @@ _Vi på Panelista mötte upp Camilla Andreasson och Malin Bengtsson, båda proje
 
 Helsingborg står inför en stor välfärdssatsning där man vill ge sina invånare en ökad livskvalitet i en smartare och mer hållbar stad. Man kallar projektet H22 - Ett City Expo där man sätter ljuset på allt som åstadkommits fram till 2022 helt enkelt.
 
-Lindab är partner till H22 och ser projektet som en fantastisk plattform för att bedriva öppen innovation. Vi har startat ett pilotprojekt där vi bjudit in Helsingborgs invånare till en panel. Målet är att skapa engagemang och sprida kunskap om hur inomhusklimatet i våra hem påverkar vår livskvalitet. ~~Med hjälp av Panelista ställer man frågor och skapar dialog kring ämnet.~~
+Lindab är partner till H22 och ser projektet som en fantastisk plattform för att bedriva öppen innovation. Vi har startat ett pilotprojekt där vi bjudit in Helsingborgs invånare till en panel. ~~Målet är att skapa engagemang och sprida kunskap~~ om hur inomhusklimatet i våra hem påverkar vår livskvalitet. Med hjälp av Panelista ställer man frågor och skapar dialog kring ämnet.
 
 **_Hur tänkte ni när ni satte ihop er panel? Vilka ville ni ha med och hur fick ni tag på deltagare?_**
 
@@ -40,6 +40,6 @@ Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedb
 
 **_Berätta lite om de förväntningar ni har på projektet och hur Panelista och panelen ska hjälpa er nå ert mål._**
 
-En av målsättningarna är att skapa mer medvetenhet och intresse för inneklimatet och luftkvaliteten inomhus. Ett annat mål är att vi ska lära oss mer om målgruppen i sig – allmänheten. Hur tänker de när det kommer till ämnet? Finns det ett intresse av att förstå och lära sig mer? Och hur ställer man sig till att mäta sitt inneklimat? Finns det intresse av att förbättra inneklimatet om det upplevs dåligt? Finns det en betalningsvilja? Vad tycker man om utbudet av ventilations- och inomhusklimatprodukter idag?
+En av målsättningarna är att skapa mer medvetenhet och intresse för inneklimatet och luftkvaliteten inomhus. ~~Ett annat mål är att vi ska lära oss mer om målgruppen i sig – allmänheten.~~ Hur tänker de när det kommer till ämnet? Finns det ett intresse av att förstå och lära sig mer? Och hur ställer man sig till att mäta sitt inneklimat? Finns det intresse av att förbättra inneklimatet om det upplevs dåligt? Finns det en betalningsvilja? Vad tycker man om utbudet av ventilations- och inomhusklimatprodukter idag?
 
-Ja, du hör ju - frågorna tar aldrig slut. ~~Det är tur att vi genom Panelista har skapat oss en direktkanal till en samling engagerade medborgare så vi kan få svar på allt vi undrar.~~
+Ja, du hör ju - frågorna tar aldrig slut. Det är tur att vi genom Panelista har skapat oss en direktkanal till en samling engagerade medborgare så vi kan få svar på allt vi undrar.
