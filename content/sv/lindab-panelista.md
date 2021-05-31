@@ -25,6 +25,7 @@ Lindab är partner till H22 och ser projektet som en fantastisk plattform för a
 **_Hur tänkte ni när ni satte ihop er panel? Vilka ville ni ha med och hur fick ni tag på deltagare?_**
 
 Vi ville ha med invånare som kände sig nyfikna på att mäta luften hemma och lära sig mer om vikten av ett bra inneklimat. De som ville vara med fick själva anmäla sig via en hemsida hos Helsingborgs stad där man kunde läsa om de olika pilotprojekten i staden.
+{{< sv/visitpanelista >}}
 
 **_Berätta lite om hur ni använder Panelista så här i uppstarten av er kontakt med invånarna._**
 
@@ -34,7 +35,6 @@ Vi började projektet med att ta en mailkontakt med våra paneldeltagare, för a
 
 Vi ställer frågor som hur de har upplevt uppstarten av projektet, vad de tycker om produkten (en monitor vid namn Air Bird som mäter kvaliteten på inomhusklimat), manualen och paketeringen. Vi använder också Panelista som vår kommunikation till deltagarna - till exempel att vi uppmanar dem att flytta monitorn till ett nytt rum i samband med att vi ställer en fråga.
 
-{{< sv/visitpanelista >}}
 
 **_Har ni redan nu i uppstarten av projektet fått några "Aha-upplevelser" eller på något sätt blivit förvånade över svar ni har fått från panelisterna?_**
 
