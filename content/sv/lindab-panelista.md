@@ -20,7 +20,7 @@ _Vi på Panelista mötte upp Camilla Andreasson och Malin Bengtsson, båda proje
 
 Helsingborg står inför en stor välfärdssatsning där man vill ge sina invånare ökad livskvalitet i en smartare och mer hållbar stad. Man kallar projektet H22 - Ett City Expo där man sätter ljuset på allt som åstadkommits fram till 2022 helt enkelt.
 
-~~Lindab är partner till H22 och ser projektet som en fantastisk plattform för att bedriva öppen innovation.~~  Vi har startat ett pilotprojekt där vi bjudit in Helsingborgs invånare till en panel. Målet är att skapa engagemang och sprida kunskap om hur inomhusklimatet i våra hem påverkar vår livskvalitet. ~~Med hjälp av Panelista ställer vi frågor och skapar dialog kring ämnet.~~
+~~Lindab är partner till H22 och ser projektet som en fantastisk plattform för att bedriva öppen innovation med Helsingborgs invånare.~~  Vi har startat ett pilotprojekt där vi bjudit in dem till en panel. Målet är att skapa engagemang och sprida kunskap om hur inomhusklimatet i våra hem påverkar vår livskvalitet. ~~Med hjälp av Panelista ställer vi frågor och skapar dialog kring ämnet.~~
 
 **_Hur tänkte ni när ni satte ihop er panel? Vilka ville ni ha med och hur fick ni tag på deltagare?_**
 
