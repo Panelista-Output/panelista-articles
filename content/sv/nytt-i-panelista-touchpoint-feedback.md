@@ -29,3 +29,5 @@ Du kan ställa en följdfråga direkt eller bjuda in kunden till en panel där d
 * Placera en videofråga i en digital eller fysisk kanal.
 * Få ett samlat flöde av feedback och ställ följdfrågor när du vill.
 * Få en automatiserad insiktrapport när du vill.
+
+{{< sv/visitpanelista >}}
