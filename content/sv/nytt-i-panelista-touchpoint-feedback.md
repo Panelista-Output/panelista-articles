@@ -12,9 +12,9 @@ title = "Nytt i Panelista - Touchpoint feedback"
 +++
 **Vi började med att skapa en direktkanal mellan teamet och kunderna - optimerad för engagemang och feedback av hög kvalitet.**
 
-Nu gör vi det möjligt att placera en fråga var som helst i kundresan. Ett personligt sätt att fånga upp synpunkter i stunden - Du får kundens feedback från exakt rätt ögonblick. Dessutom går det att placera funktionen med touchpoint feedback i både digitala och fysiska kanaler.
+~~Nu gör vi det möjligt att placera en fråga var som helst i kundresan.~~ Ett personligt sätt att fånga upp synpunkter i stunden - Du får kundens feedback från exakt rätt ögonblick. Dessutom går det att placera funktionen med touchpoint feedback i både digitala och fysiska kanaler.
 
-Du kan ställa en följdfråga direkt eller bjuda in kunden till en panel där dialogen fortsätter. Bäst av allt är att du kan dra nytta av våra enkla analysverktyg - som markeringar i olika färger och automatiserade insiktsrapporter.
+Du kan ställa en följdfråga direkt eller bjuda in kunden till en panel där dialogen fortsätter. ~~Bäst av allt är att du kan dra nytta av våra enkla analysverktyg~~ - som markeringar i olika färger och automatiserade insiktsrapporter.
 
 
 **Skicka en videofråga till en panel**
