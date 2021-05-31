@@ -27,11 +27,9 @@ Helsingborg står inför en stor välfärdssatsning där man vill ge sina invån
 Vi ville ha med invånare som kände sig nyfikna på att mäta luften hemma och lära sig mer om vikten av ett bra inneklimat. ~~De som ville vara med fick själva anmäla sig via en hemsida hos Helsingborgs stad~~ där man kunde läsa om de olika pilotprojekten i staden.
 {{< sv/visitpanelista >}}
 
-**_Berätta lite om hur ni använder Panelista så här i uppstarten av er kontakt med invånarna._**
+**_Berätta lite om hur ni använder Panelista så här i uppstarten av er kontakt med invånarna. Vilken typ av frågor kommer ni till exempel att ställa till era panelister?_**
 
 Vi började projektet med att ta en mailkontakt med våra paneldeltagare, för att sedan ha ett digitalt möte med dem. ~~I de kommande stegen kommer Panelista att vara vår kommunikationskanal till deltagarna.~~ All kontakt kommer ske via Panelista - dels så att vi kan informera om vad de som deltar förväntas göra, dels så att vi hela tiden kan följa upp projektet genom att ställa frågor och få svar.
-
-**_Vilken typ av frågor kommer ni att ställa till era panelister?_**
 
 Vi ställer frågor som hur de har upplevt uppstarten av projektet, vad de tycker om produkten (en monitor vid namn Air Bird som mäter kvaliteten på inomhusklimat), manualen och paketeringen. Vi använder också Panelista som vår kommunikation till deltagarna - till exempel att vi uppmanar dem att flytta monitorn till ett nytt rum i samband med att vi ställer en fråga.
 
