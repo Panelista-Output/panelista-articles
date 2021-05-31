@@ -36,7 +36,7 @@ Vi ställer frågor som hur de har upplevt uppstarten av projektet, vad de tycke
 
 **_Har ni redan nu i uppstarten av projektet fått några "Aha-upplevelser" eller på något sätt blivit förvånade över svar ni har fått från panelisterna?_**
 
-Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation, produkten, hur monitorn installeras och vår manual. Även om panelen inte består av så många panelister så är de oerhört engagerade. ~~Vi är glatt överraskade av hur engagerade alla är och att de snabbt tar sig tid att svara och ge användbar feedback.~~
+Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation, produkten, hur monitorn installeras och vår manual. Även om panelen inte består av så många panelister så är de oerhört engagerade. Vi är glatt överraskade av hur ~~engagerade alla är och att de snabbt tar sig tid att svara och ge användbar feedback.~~
 
 **_Berätta lite om de förväntningar ni har på projektet och hur Panelista och panelen ska hjälpa er nå ert mål._**
 
