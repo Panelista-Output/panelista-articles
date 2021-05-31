@@ -10,29 +10,19 @@ timeToRead = 2
 title = "Nytt i Panelista - Touchpoint feedback"
 
 +++
-**Nytt i Panelista - touchpoint feedback**
-
 Vi började med att skapa en direktkanal mellan teamet och kunderna - optimerad för engagemang och feedback av hög kvalitet.
 
-Nu gör vi det möjligt att placera en fråga var som helst i kundens flöde. Ett personligt sätt att fånga kundens synpunkter i stunden. Du får ett flöde av kundens feedback från exakt rätt ögonblick. Det går att placera funktionen med touchpoint feedback i både digitala och fysiska kanaler.
+Nu gör vi det möjligt att placera en fråga var som helst i kundens flöde. Ett personligt sätt att fånga kundens synpunkter i stunden. Du får kundens feedback från exakt rätt ögonblick. Det går att placera funktionen med touchpoint feedback i både digitala och fysiska kanaler.
 
-Skapa engagemang som ger feedback av hög kvalitet med vår personliga metod. Du kan ställa en följdfråga direkt eller bjuda in kunden till en panel där dialogen kan fortsätta.
-
-Erbjud en enkel och rolig upplevelse för både de som svarar och frågar.
-
-Dra nytta av våra enkla analysverktyg, som markeringar i olika färger och automatiserade insiktsrapporter.
-
-Utforska behov och testa idéer löpande med riktiga kunder redan på whiteboard-stadiet.
-
-Utvärdera och förbättra snabbt och enkelt det som du har lanserat.
-
-Etablera en direktkanal till kunderna - optimerad för engagemang och feedback av hög kvalitet.
+Du kan ställa en följdfråga direkt eller bjuda in kunden till en panel där dialogen kan fortsätta. Bäst av allt är att du kan dra nytta av våra enkla analysverktyg - som markeringar i olika färger och automatiserade insiktsrapporter.
+![](/images/skarmavbild-2021-05-31-kl-11-08-58-2021-05-31.png)
 
 **Snabba och personliga feedbackloopar**
 
-Paneler - Skicka videofrågor till en panel med utvalda kunder. Få kvalitativ feedback från många på bara några timmar.
-
-Tochpoints - Placera videofrågor i digitala och fysiska kanaler. Få flöden av feedback från exakt rätt ögonblick.
+* Utforska behov och testa idéer löpande med riktiga kunder redan på whiteboard-stadiet.
+* Utvärdera och förbättra snabbt och enkelt det som du har lanserat.
+* Etablera en direktkanal till kunderna - optimerad för engagemang och feedback av hög kvalitet.
+* 
 
 **Skicka en videofråga till en panel**
 
