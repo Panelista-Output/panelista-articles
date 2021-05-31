@@ -32,7 +32,7 @@ Vi började projektet med att ta en mailkontakt med våra paneldeltagare, för a
 
 **_Vilken typ av frågor kommer ni att ställa till era panelister?_**
 
-Vi ställer frågor som hur de har upplevt uppstarten av projektet, vad de tycker om produkten (en monitor vid namn Air Bird som mäter kvaliteten på inomhusklimat), manualen och paketeringen. Vi använder också Panelista som vår kommunikation till deltagarna till exempel att vi uppmanar dem att flytta monitorn till ett nytt rum i samband med att vi ställer en fråga.
+Vi ställer frågor som hur de har upplevt uppstarten av projektet, vad de tycker om produkten (en monitor vid namn Air Bird som mäter kvaliteten på inomhusklimat), manualen och paketeringen. Vi använder också Panelista som vår kommunikation till deltagarna - till exempel att vi uppmanar dem att flytta monitorn till ett nytt rum i samband med att vi ställer en fråga.
 
 **_Har ni redan nu i uppstarten av projektet fått några "Aha-upplevelser" eller på något sätt blivit förvånade över svar ni har fått från panelisterna?_**
 
