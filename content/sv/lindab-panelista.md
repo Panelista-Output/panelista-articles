@@ -34,6 +34,8 @@ Vi började projektet med att ta en mailkontakt med våra paneldeltagare, för a
 
 Vi ställer frågor som hur de har upplevt uppstarten av projektet, vad de tycker om produkten (en monitor vid namn Air Bird som mäter kvaliteten på inomhusklimat), manualen och paketeringen. Vi använder också Panelista som vår kommunikation till deltagarna - till exempel att vi uppmanar dem att flytta monitorn till ett nytt rum i samband med att vi ställer en fråga.
 
+{{< sv/visitpanelista >}}
+
 **_Har ni redan nu i uppstarten av projektet fått några "Aha-upplevelser" eller på något sätt blivit förvånade över svar ni har fått från panelisterna?_**
 
 Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation, produkten, hur monitorn installeras och vår manual. Även om panelen inte består av så många panelister så är de oerhört engagerade. Vi är glatt överraskade av hur ~~engagerade alla är och att de snabbt tar sig tid att svara och ge användbar feedback.~~
