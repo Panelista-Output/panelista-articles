@@ -10,7 +10,7 @@ timeToRead = 0
 title = "Lindab & Panelista"
 
 +++
-Lindab är en internationell koncern inom bygg- och ventilationssektorn, med cirka 5000 anställda. Huvudkontoret hittar du där företaget har sina rötter, i Grevie på Bjärehalvön i nordvästra Skåne. Nu använder man Panelista i sitt arbete med att öka livskvaliteten för invånarna i Helsingborg. 
+**Lindab är en internationell koncern inom bygg- och ventilationssektorn, med cirka 5000 anställda.** Huvudkontoret hittar du där företaget har sina rötter, i Grevie på Bjärehalvön i nordvästra Skåne. ~~Nu är de igång med ett projekt där de använder Panelista i sitt arbete med att öka livskvaliteten för invånarna i Helsingborg.~~ 
 
 Våren 2019 öppnade man en ny anläggning för forskning och utveckling i Helsingborg – Lindab Innovation Hub. Teamet har i uppdrag att utforska nya tekniker och affärsmodeller, samt att sprida information om hur man skapar ett hälsosamt inomhusklimat.
 
