@@ -47,5 +47,4 @@ En av målsättningarna är att skapa mer medvetenhet och intresse för inneklim
 Ja, du hör ju - frågorna tar aldrig slut. Det är tur att vi genom Panelista har skapat oss en direktkanal till en samling engagerade medborgare så vi kan få svar på allt vi undrar.
 
 **_Tack Camilla och Malin för att ni tog er tid att svara på våra frågor. Det känns som att vi snart får återkomma för en uppföljningsintervju när ni kommit ännu längre med ert spännande projekt. Stort lycka till!_**
-
 {{< sv/subscribe >}}
