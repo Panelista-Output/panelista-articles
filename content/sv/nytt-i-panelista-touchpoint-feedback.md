@@ -6,7 +6,7 @@ excerpt = ""
 hero = "/images/skarmavbild-2021-05-31-kl-11-08-58-2021-05-31.png"
 hero_image_body = "Det går att placera funktionen med touchpoint feedback i både digitala och fysiska kanaler."
 hero_image_title = "Ett personligt sätt att fånga kundens synpunkter i stunden. Du får ett flöde av kundens feedback från exakt rätt ögonblick."
-timeToRead = 2
+timeToRead = 1
 title = "Nytt i Panelista - Touchpoint feedback"
 
 +++
