@@ -10,7 +10,7 @@ timeToRead = 0
 title = "Lindab & Panelista"
 
 +++
-**Lindab är en internationell koncern inom bygg- och ventilationssektorn, med cirka 5000 anställda.** Huvudkontoret hittar du där företaget har sina rötter, i Grevie på Bjärehalvön i nordvästra Skåne. ~~Nu är de igång med ett projekt där de använder Panelista i sitt arbete med att öka livskvaliteten för invånarna i Helsingborg.~~ 
+**Lindab är en internationell koncern inom bygg- och ventilationssektorn, med cirka 5000 anställda.** Huvudkontoret hittar du där företaget har sina rötter, i Grevie på Bjärehalvön i nordvästra Skåne. ~~Nu är de igång med ett projekt där de använder Panelista i sitt arbete med att öka livskvaliteten för invånarna i Helsingborg.~~
 
 Våren 2019 öppnade man en ny anläggning för forskning och utveckling i Helsingborg – Lindab Innovation Hub. Teamet har i uppdrag att utforska nya tekniker och affärsmodeller, samt att sprida information om hur man skapar ett hälsosamt inomhusklimat.
 
@@ -20,7 +20,7 @@ _Vi på Panelista mötte upp Camilla Andreasson och Malin Bengtsson, båda proje
 
 Helsingborg står inför en stor välfärdssatsning där man vill ge sina invånare en ökad livskvalitet i en smartare och mer hållbar stad. Man kallar projektet H22 - Ett City Expo där man sätter ljuset på allt som åstadkommits fram till 2022 helt enkelt.
 
-Lindab är partner till H22 och ser projektet som en fantastisk plattform för att bedriva öppen innovation. Vi har startat ett pilotprojekt där vi bjudit in Helsingborgs invånare till en panel. ~~Målet är att skapa engagemang och sprida kunskap~~ om hur inomhusklimatet i våra hem påverkar vår livskvalitet. Med hjälp av Panelista ställer man frågor och skapar dialog kring ämnet.
+Lindab är partner till H22 och ser projektet som en fantastisk plattform för att bedriva öppen innovation. Vi har startat ett pilotprojekt där vi bjudit in Helsingborgs invånare till en panel. ~~Målet är att skapa engagemang och sprida kunskap~~ om hur inomhusklimatet i våra hem påverkar vår livskvalitet. Med hjälp av Panelista ställer vi frågor och skapar dialog kring ämnet.
 
 **_Hur tänkte ni när ni satte ihop er panel? Vilka ville ni ha med och hur fick ni tag på deltagare?_**
 
