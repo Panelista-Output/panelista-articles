@@ -2,7 +2,7 @@
 authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-05-30T22:00:00Z
 draft = true
-excerpt = ""
+excerpt = "Lindab är en internationell koncern inom bygg- och ventilationssektorn, med cirka 5000 anställda. Nu är de igång med ett projekt där de använder Panelista i sitt arbete med att öka livskvaliteten för invånarna i Helsingborg."
 hero = "/images/placeholder_pic_lindab-2021-05-31.jpg"
 hero_image_body = "Camilla Andreasson och Malin Bengtsson -  Lindab"
 hero_image_title = "Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation."
