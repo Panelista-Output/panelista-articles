@@ -5,7 +5,7 @@ excerpt = "Vi har gjort justeringar som gör Panelista ännu mer användarvänli
 hero = "/images/highlights-2021-04-19.jpg"
 hero_image_body = ""
 hero_image_title = "Använd de nya funktionerna för markeringar och insikter och dela resultatet med organisationen"
-timeToRead = 5
+timeToRead = 2
 title = "Nytt i Panelista - Lätt att markera, kategorisera och hålla full koll."
 
 +++
