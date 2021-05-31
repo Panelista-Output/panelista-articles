@@ -16,6 +16,8 @@ Nu gör vi det möjligt att placera en fråga var som helst i kundresan. Ett per
 
 Du kan ställa en följdfråga direkt eller bjuda in kunden till en panel där dialogen fortsätter. Bäst av allt är att du kan dra nytta av våra enkla analysverktyg - som markeringar i olika färger och automatiserade insiktsrapporter.
 
+![](/images/skarmavbild-2021-05-31-kl-11-08-58-2021-05-31.png)
+
 **Skicka en videofråga till en panel**
 
 * Skicka en videofråga till dina utvalda kunder.
