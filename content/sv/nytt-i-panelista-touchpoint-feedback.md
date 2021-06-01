@@ -7,7 +7,7 @@ hero = "/images/skarmavbild-2021-05-31-kl-11-08-58-2021-05-31.png"
 hero_image_body = "Det går att placera funktionen med touchpoint feedback i både digitala och fysiska kanaler."
 hero_image_title = "Nytt i Panelista - Ställ frågor vid varje touchpoint och samla in kundens tyckande mitt i användandet. "
 timeToRead = 1
-title = "Fånga kundens intryck i stunden"
+title = "Touchpoint feedback - Fånga kundens intryck i stunden"
 
 +++
 **Vi började med att skapa en direktkanal mellan teamet och kunderna - optimerad för engagemang och feedback av hög kvalitet.**
