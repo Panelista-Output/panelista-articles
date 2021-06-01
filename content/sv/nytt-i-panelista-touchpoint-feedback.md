@@ -2,7 +2,7 @@
 authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-05-30T22:00:00Z
 excerpt = "Nytt i Panelista - Ställ videofrågor vid varje touchpoint och samla in kundens tyckande mitt i användandet. "
-hero = "/images/skarmavbild-2021-05-31-kl-11-08-58-2021-06-01.jpg"
+hero = "/images/skarmavbild-2021-06-01-kl-16-48-40-2021-06-01.png"
 hero_image_body = ""
 hero_image_title = "Nu gör vi det möjligt att placera en videofråga var som helst i kundresan."
 timeToRead = 1
