@@ -11,9 +11,9 @@ title = "Touchpoint feedback - Fånga kundens intryck i stunden"
 +++
 **Vi började med att skapa en direktkanal mellan teamet och kunderna - optimerad för engagemang och feedback av hög kvalitet.**
 
-~~Nu gör vi det möjligt att placera en fråga var som helst i kundresan.~~ Ett personligt sätt att fånga upp synpunkter i stunden. När man lägger in videofrågor, i digitala och fysiska kanaler, kan man fånga kundens känslor och tyckande i stunden - mitt i användandet.
+~~Nu gör vi det möjligt att placera en fråga var som helst i kundresan.~~ Ett personligt sätt att fånga upp synpunkter i stunden. När man lägger in videofrågor, i digitala och fysiska kanaler, kan man fånga kundens behov och upplevelse i stunden - mitt i användandet.
 
-Lägg en videofråga i din mailsignatur, i din app, som en QR-kod på din produktförpackning, tryck den på en affisch som du hänger i en busskur. Ja du förstår ju - möjligheterna är oändliga!
+Lägg en videofråga i din mailsignatur, i din app, på din webb, som en QR-kod på din produktförpackning, tryck den på en affisch som du hänger i en busskur. Ja du förstår ju - möjligheterna är oändliga!
 
 Dagsfärsk? Nej, till och med ”stundfärsk feedback”. Bästa sättet att få fler och mer lojala kunder är att förstå deras behov och se till att uppfylla dem. Varför krångla till det när det kan vara precis så här enkelt?
 
