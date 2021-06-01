@@ -19,7 +19,7 @@ Dagsfärsk? Nej, till och med ”stundfärsk feedback”. Bästa sättet att få
 
 Du kan ställa en följdfråga direkt eller bjuda in kunden till en panel där dialogen fortsätter. ~~Bäst av allt är att du kan dra nytta av våra enkla analysverktyg~~ - som markeringar i olika färger och automatiserade insiktsrapporter.
 
-<div class="Image__Medium"> <img src="/images/skarmavbild-2021-05-31-kl-11-11-30-2021-05-31.png" alt="Touchpoint" /> </div>
+<div class="Image__Medium"> <img src="/images/skarmavbild-2021-06-01-kl-16-48-54-2021-06-01.png" alt="Touchpoint" /> </div>
 
 **Skicka en videofråga till en panel**
 
