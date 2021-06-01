@@ -5,7 +5,7 @@ draft = true
 excerpt = "Lindab är en internationell koncern inom bygg- och ventilationssektorn, med cirka 5000 anställda. Nu är de igång med ett projekt där de använder Panelista i sitt arbete med att öka livskvaliteten för invånarna i Helsingborg."
 hero = "/images/placeholder_pic_lindab-2021-05-31.jpg"
 hero_image_body = "Camilla Andreasson och Malin Bengtsson -  Lindab"
-hero_image_title = "Projektet har nyligen startat men har vi redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation."
+hero_image_title = "Projektet har nyligen startat men vi har redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation."
 timeToRead = 3
 title = "Lindab & Panelista"
 
@@ -14,13 +14,15 @@ title = "Lindab & Panelista"
 
 Våren 2019 öppnade man en ny anläggning för forskning och utveckling i Helsingborg – Lindab Innovation Hub. Teamet har i uppdrag att utforska nya tekniker och affärsmodeller, samt att sprida information om hur man skapar ett hälsosamt inomhusklimat.
 
-_Vi på Panelista mötte upp Camilla Andreasson och Malin Bengtsson, båda projektledare på Lindab, för ett samtal om innovation och engagerade invånare._
+_Vi på Panelista mötte upp Camilla Andreasson och Malin Bengtsson, från innovationshubben, för ett samtal om innovation och engagerade invånare._
 
 **_”Varför bryr vi oss inte mer om vårt inomhusklimat?” skriver ni på er hemsida. Berätta mer om ert engagemang kring luften vi andas och hur Panelista kommer in i det hela._**
 
+Ett av våra tre huvuduppdrag på Innovationshubben är att öka medvetenheten kring inomhusklimat och vi jobbar med ett antal olika projekt som styr mot detta. Ett av dessa projekt är det vi kallar H22 invånarpanel.
+
 Helsingborg står inför en stor välfärdssatsning där man vill ge sina invånare ökad livskvalitet i en smartare och mer hållbar stad. Man kallar projektet H22 - Ett City Expo där man sätter ljuset på allt som åstadkommits fram till 2022 helt enkelt.
 
-~~Lindab är partner till H22 och ser projektet som en fantastisk plattform för att bedriva öppen innovation med Helsingborgs invånare.~~  Vi har startat ett pilotprojekt där vi bjudit in dem till en panel. Målet är att skapa engagemang och sprida kunskap om hur inomhusklimatet i våra hem påverkar vår livskvalitet. ~~Med hjälp av Panelista ställer vi frågor och skapar dialog kring ämnet.~~
+~~Lindab är bland annat partner till H22 och ser projektet som en fantastisk plattform för att bedriva öppen innovation med Helsingborgs invånare.~~  Vi har startat ett pilotprojekt där vi bjudit in dem till en panel. Målet är att skapa engagemang och sprida kunskap om hur inomhusklimatet i våra hem påverkar vår livskvalitet. ~~Med hjälp av Panelista ställer vi frågor och skapar dialog kring ämnet.~~
 
 **_Hur tänkte ni när ni satte ihop er panel? Vilka ville ni ha med och hur fick ni tag på deltagare?_**
 
@@ -35,13 +37,15 @@ Vi ställer frågor som hur de har upplevt uppstarten av projektet, vad de tycke
 
 **_Har ni redan nu i uppstarten av projektet fått några "Aha-upplevelser" eller på något sätt blivit förvånade över svar ni har fått från panelisterna?_**
 
-~~Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina det vi gör~~ - vår kommunikation, produkten, hur monitorn installeras och vår manual. Även om panelen inte består av så många panelister så är de oerhört engagerade. Vi är glatt överraskade av hur engagerade alla är och att de snabbt tar sig tid att svara och ge användbar feedback.
+~~Trots att projektet nyligen startat har vi redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina det vi gör~~ - vår kommunikation, produkten, hur monitorn installeras och vår manual.
+
+Även om panelen inte består av så många panelister så är vi glatt överraskade av hur engagerade alla är och att de snabbt tar sig tid att svara på våra frågor och ge användbar feedback.
 
 **_Berätta lite om de förväntningar ni har på projektet och hur Panelista och panelen ska hjälpa er nå ert mål._**
 
 En av målsättningarna är att skapa mer medvetenhet och intresse för inneklimatet och luftkvaliteten inomhus. ~~Ett annat mål är att vi ska lära oss mer om målgruppen i sig – allmänheten.~~ Hur tänker de när det kommer till ämnet? Finns det ett intresse av att förstå och lära sig mer? Och hur ställer man sig till att mäta sitt inneklimat? Finns det intresse av att förbättra inneklimatet om det upplevs dåligt? Finns det en betalningsvilja? Vad tycker man om utbudet av ventilations- och inomhusklimatprodukter idag?
 
-Ja, du hör ju - frågorna tar aldrig slut. ~~Det är tur att vi genom Panelista har skapat oss en direktkanal till en samling engagerade medborgare så vi kan få svar på allt vi undrar.~~
+Ja, du hör ju - frågorna tar aldrig slut. ~~Vi upplever att Panelista är ett jättebra verktyg för oss~~ när det gäller att komma i direktkontakt med såväl slutanvändare som andra viktiga målgrupper.
 
 **_Tack Camilla och Malin för att ni tog er tid att svara på våra frågor. Det känns som att vi snart får återkomma för en uppföljningsintervju när ni kommit ännu längre med ert spännande projekt. Stort lycka till!_**
 {{< sv/subscribe >}}
