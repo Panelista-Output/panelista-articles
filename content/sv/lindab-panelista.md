@@ -5,7 +5,7 @@ draft = true
 excerpt = "Lindab är en internationell koncern inom bygg- och ventilationssektorn, med cirka 5000 anställda. Nu är de igång med ett projekt där de använder Panelista i sitt arbete med att öka livskvaliteten för invånarna i Helsingborg."
 hero = "/images/header_lindab-2021-06-01.jpg"
 hero_image_body = "Camilla Andreasson och Malin Bengtsson -  Lindab"
-hero_image_title = "Projektet har nyligen startat men vi har redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation."
+hero_image_title = "Innovationsprojektet har precis startat men vi har redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation."
 timeToRead = 3
 title = "Lindab & Panelista"
 
