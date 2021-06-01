@@ -1,7 +1,7 @@
 +++
 authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-05-30T22:00:00Z
-excerpt = "Lindab är nu i full gång med ett projekt där de använder Panelista i sitt innovationsarbete med att öka livskvaliteten för invånarna i Helsingborg."
+excerpt = "Lindab är nu i full gång med ett projekt där de använder Panelista i sitt innovationsarbete för att öka livskvaliteten för invånarna i Helsingborg."
 hero = "/images/header_lindab-2021-06-01.jpg"
 hero_image_body = "Camilla Andreasson och Malin Bengtsson -  Lindab"
 hero_image_title = "Innovationsprojektet har precis startat men vi har redan fått väldigt värdefull feedback som gör att vi kan förbättra, vidareutveckla och förfina vår kommunikation."
