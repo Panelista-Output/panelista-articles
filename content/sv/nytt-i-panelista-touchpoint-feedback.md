@@ -32,4 +32,6 @@ Du kan ställa en följdfråga direkt eller bjuda in kunden till en panel där d
 * Få ett samlat flöde av feedback och ställ följdfrågor när du vill.
 * Få en automatiserad insiktrapport när du vill.
 
-[Hojta till om du vill veta mer! ](mailto:anders@panelista.com "Anders")
+[Hojta till om du vill veta mer!](mailto:anders@panelista.com "Anders")
+
+{{< sv/visitpanelista >}}
