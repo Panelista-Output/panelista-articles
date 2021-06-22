@@ -17,3 +17,9 @@ title = "Bilia & Panelista"
 Bilia har förstått hur viktigt det är att lyssna på sina kunders behov och är grymt duktiga på allt som har med bilar och service att göra. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något annat att veta hur man på bästa sätt fångar upp sina kunders önskningar och behov. 
 
 Vi på Panelista är stolta och glada över att Bilia har gett oss förtroendet att kliva in och vara den samarbetspartner som hjälper dem bygga en direktkanal till sina kunder. Tillsammans skapar vi nöjda kunder!
+
+Uppdrag Propel
+
+Service designer
+
+Komma igång
