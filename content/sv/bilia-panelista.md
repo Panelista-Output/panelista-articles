@@ -40,11 +40,23 @@ Jessica, service designer på Panelista, berättar: "Redan när vi klurade på u
 
 I Research & Analys fasen skapar man insikter om kundernas beteenden och behov. Tack vare Panelista kunde man bjuda in till en panel med ca 100 av Bilias kunder och skapa en löpande dialog med dem. 
 
-Man ställde frågor Vi kunde ställa utforskande frågor om t ex vem Bilia är för kunderna för att förstå hur Bilia uppfattas och vilka relationer man skapar. Sen hade v i också möjligheten att dyka ned i detaljer och fråga omkring specifika beteenden och preferenser i olika scenarier. 
+Bilia ville ta reda på hur kunderna ser på dem som företag. Man var genuint intresserade av att förstå hur Bilia uppfattas och vilka relationer man skapar. 
 
-Med hjälp av Panelistas digital kundpanel hade vi också möjlighet att bjuda in några av paneldeltagaren till en så kallade Live Panel. Där träffade vi på Propel / Panelista och Bilia kunder för ytterligare interaktioner såsom fördjupande samtal och en livlig dialog mellan medarbetare och kunder och mellan kunder själva. Insikterna vi fick genom observationer, intervjuer och panelen hjälpte oss att utforma ett relevant, kreativt och progressivt koncept för och tillsammans med Bilia och dess kunder. Efter konceptutvecklingsfasen använde vi oss igen av panelen för att testa våra idéer och prototyper. Sammanfattat kunde vi använda oss av panelen för att synliggöra olika beteenden, behov och uppfattningar för att skapa ett nyttigt koncept som vi sen kunde iterera och validera tillsammans med samma paneldeltagare. Vilken feedbackloop! Kundinvolvering hela vägen.Vi hade regelbundna avstämningsmöten med vår arbetsgrupp på Bilia där vi pratade om vår process och vad vi har lärt oss längs vägen. Alla hade tillgång till panelen och i våra möten delade vi av oss med de insikterna som återkom och de som kändes lite extra spännande. Att skapa en panel kan inleda ett nytt sätt att jobba. Nu är Bilia nyfiken på att använda panelen för olika interna projekt, där Propel / Panelista ska förankra arbetssättet.Det är otroligt starkt att kunna ha med kundens röst i hela utvecklingsprocessen och att kunna visa ett svar svart på vitt. Nu där panelen var skapad och igång kände Bilia väl att man borde verkligen dra nytta av det, för att dem har sett hur lätt det är att interagera med sina kunder och att det dessutom inte bara ger bra resultat men också bra känslor att se allt engagemang. 
+Genom Panelista hade man även möjligheten att dyka ned i detaljer och ställa frågor kring specifika beteenden och preferenser i olika scenarios. 
 
-Mitt svar var väl inte helt kort. Projektet började i mars och vi presenterade vårt koncept i slutet av april. Sen kunde vi börja med att förbereda implementeringen, vi itererade olika delar, vidareutvecklade prototyp, …
+För att kunna gå ett steg djupare bjöd man in några av de paneldeltagare som visat extra stort engagemang till en så kallad Live Panel. 
+
+Här fick Bilia en unik möjlighet att genom Propel och Panelista föra fördjupande samtal och hålla en livlig dialog mellan medarbetare och kunder. Ja, det blev till och med så att en intensiv dialog uppstod även kunderna emellan. 
+
+Tack vare panelen och den fördjupande Live Panelen skaffade man sig insikter genom observation och intervjuer. Av resultatet kunde Propel sedan sammanfatta ett relevant, kreativt och progressivt koncept för Bilia och deras kunder. 
+
+När väl konceptet var utvecklat kunde man sedan återgå till samma panel för att testa idéer och prototyper. 
+
+Tack vare panelen kunde man nu synliggöra olika beteenden, behov och uppfattningar för att skapa ett nyttigt koncept som man sen kunde iterera och validera tillsammans med samma paneldeltagare. Det är vad vi kallar en perfekt feedbackloop! Involverade kunder - på riktigt. 
+
+Även om det var Panelista som startade upp och drev panelen deltog arbetsgruppen på Bilia engagerat i regelbundna avstämningsmöten. Här pratade man om processen och alla de lärdomar vi samlat på oss längs vägen. 
+
+Dessutom hade alla tillgång till panelen och i våra möten delade vi av oss med de insikterna som återkom och de som kändes lite extra spännande. Att skapa en panel kan inleda ett nytt sätt att jobba. Nu är Bilia nyfiken på att använda panelen för olika interna projekt, där Propel / Panelista ska förankra arbetssättet.Det är otroligt starkt att kunna ha med kundens röst i hela utvecklingsprocessen och att kunna visa ett svar svart på vitt. Nu där panelen var skapad och igång kände Bilia väl att man borde verkligen dra nytta av det, för att dem har sett hur lätt det är att interagera med sina kunder och att det dessutom inte bara ger bra resultat men också bra känslor att se allt engagemang. 
 
 Steget till att involvera kunder i utvecklingen av nya tjänster
 
