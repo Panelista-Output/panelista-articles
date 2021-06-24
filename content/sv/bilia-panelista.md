@@ -12,13 +12,13 @@ title = "Bilia & Panelista"
 +++
 **Bilia & Panelista**
 
-**Bilia är en helhetsleverantör som erbjuder allt du behöver för ditt bilägande.** De säljer nya och begagnade bilar, bildelar och tillbehör. I sina service- och skadecenter utför de originalservice och reparation, och så hjälper de sina kunder med finansiering, försäkring och abonnemangslösningar.
+**Bilia är en helhetsleverantör som erbjuder allt du behöver för ditt bilägande.** De säljer nya och begagnade bilar, bildelar och tillbehör. I sina service- och skadecenter utför de originalservice och reparationer - och så hjälper de sina kunder med finansiering, försäkring och abonnemangslösningar.
 
 Bilia har förstått hur viktigt det är att lyssna på sina kunders behov och är grymt duktiga på allt som har med bilar och service att göra. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.
 
 Vi på Panelista är stolta och glada över att Bilia har gett oss förtroendet att kliva in och vara den samarbetspartner som hjälper dem bygga en direktkanal till sina kunder. Tillsammans skapar vi nöjda kunder!
 
-En första utmaning man nu var redo att ta tag i var hur man tydligare skulle kunna involvera sina kunder i utvecklingen av nya tjänster. Bilia ville skapa en möjlighet att ställa frågor för att sedan kunna prioritera arbetsuppgifterna på bästa sätt.
+Den första utmaningen Bilia kände sig redo att ta tag i var hur man tydligare skulle kunna involvera sina kunder i utvecklingen av nya tjänster. Bilia ville skapa en möjlighet att ställa frågor för att sedan kunna prioritera sina arbetsuppgifter på bästa sätt.
 
 (Här tänker jag att vi måste berätta om relationen mellan Propel och Panelista. Vilka är de olika bolagen och hur hänger de ihop.)
 
