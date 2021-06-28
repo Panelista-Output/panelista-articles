@@ -3,7 +3,7 @@ authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-06-27T22:00:00Z
 draft = true
 excerpt = "UL använder Panelista för att lyssna in sina kunders behov och skapa en bra kundupplevelse. "
-hero = "/images/skarmavbild-2021-06-28-kl-14-55-43-2021-06-28.png"
+hero = ""
 hero_image_body = "Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare samtidigt som vi fortsätter interagera med dem."
 hero_image_title = "Vi ser Panelista som det perfekta komplementet till de djupintervjuer och enkäter vi redan genomför. "
 timeToRead = 2
@@ -14,7 +14,7 @@ UL har det övergripande ansvaret för kollektivtrafiken i Uppsala län. I [Regi
 
 _Hej Sebastian! Vad kul att du kunde ta dig tid för ett litet snack. Jag läste ett citat från dig där du sa ”Vi ska sträva efter att vara med på kundens resa istället för att de ska vara med på vår resa, men oavsett är det viktigaste att vi gör resan tillsammans.” Så himla fint och bra. Hur gör ni för att nå det målet?_
 
-I vår Regionplan och budget står det _”Region Uppsala strävar efter att ständigt förenkla, förnya och förbättra verksamheten utifrån invånarnas behov”_. Min fråga till verksamheten var då, hur vet vi vilka behov våra invånare har? Det var upprinnelsen till UL-panelen. Vi ville skapa ett verktyg som hjälper oss att förså och ta reda på vad invånarna tycker om vår kollektivtrafik, oavsett om det är positivt eller negativt.
+I vår Regionplan och budget står det _”Region Uppsala strävar efter att ständigt förenkla, förnya och förbättra verksamheten utifrån invånarnas behov”_. Min fråga till verksamheten var då, hur vet vi vilka behov våra invånare har? Det var upprinnelsen till UL-panelen. Vi ville skapa ett verktyg som hjälper oss att förstå och ta reda på vad invånarna tycker om vår kollektivtrafik, oavsett om det är positivt eller negativt.
 
 _Aha, smart att skapa en invånarpanel. Hur tänkte ni när ni satte ihop er panel? Vilka ville ni ha med och hur fick ni tag på deltagare?_
 
