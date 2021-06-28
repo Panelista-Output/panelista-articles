@@ -4,8 +4,8 @@ date = 2021-06-27T22:00:00Z
 draft = true
 excerpt = "UL använder Panelista för att lyssna in sina kunders behov och skapa en bra kundupplevelse. "
 hero = "/images/ul_1-2021-06-28.JPG"
-hero_image_body = "Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare men även kunna interagera med dem."
-hero_image_title = "Vi ser Panelista som ett perfekt verktyg som kompletterar mer kvalitativa undersökningar som till exempel djupintervjuer och mer kvalitativa undersökningar som enkäter. "
+hero_image_body = "Vi ser Panelista som ett perfekt verktyg att komplettera djupintervjuer och enkäter med. "
+hero_image_title = "Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare men även kunna interagera med dem."
 timeToRead = 2
 title = "UL & Panelista"
 
