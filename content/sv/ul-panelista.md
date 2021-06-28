@@ -14,7 +14,6 @@ UL har det övergripande ansvaret för kollektivtrafiken i Uppsala län. Det är
 
 I [Region Uppsala](https://www.linkedin.com/company/region-uppsala/)s styrdokument står det tydligt att "Region Uppsala strävar efter att ständigt förenkla, förnya och förbättra verksamheten utifrån invånarnas behov”. Vi på Panelsita tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.
 
-  
 _Hej Sebastian! Vad kul att du kunde ta dig tid för ett litet snack. Jag läste ett citat från dig där du sa ”Vi ska sträva efter att vara med på kundens resa istället för att de ska vara med på vår resa, men oavsett är det viktigaste att vi gör resan tillsammans.” Så himla fint och bra. Hur gör ni för att nå det målet?_
 
 I vår Regionplan och budget står det _”Region Uppsala strävar efter att ständigt förenkla, förnya och förbättra verksamheten utifrån invånarnas behov”_. Min fråga till verksamheten var då, hur vet vi vilka behov våra invånare har? Det var upprinnelsen till UL-panelen. Vi ville skapa ett verktyg som hjälper oss att förså och ta reda på vad invånarna tycker om vår kollektivtrafik, oavsett om det är positivt eller negativt.
@@ -42,3 +41,5 @@ _Berätta lite om de förväntningar ni har på projektet och hur Panelista och 
 Vi vill fortsätta att arbeta med UL-panelen och driva den så långt vi kan. Målet är att UL-panelen ska vara en ännu viktigare del av verksamheten och att alla beslut vi tar inom verksamheten ska vara förankrade med våra resenärer. Det kommer i slutändan att gynna oss på alla möjliga sätt och vis.
 
 I takt med att UL-panelen växer och vi får fler verktyg i vår verktygslåda kan vi arbeta ännu mer effektivt med behovsfångst och kundinsikter. Panelista är ett ypperligt verktyg som hjälper oss nå fler, lyssna mer och helt enkelt lär oss mer om våra resenärers behov och önskningar.
+
+Copy
