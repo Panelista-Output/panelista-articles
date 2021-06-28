@@ -10,7 +10,7 @@ timeToRead = 2
 title = "UL & Panelista"
 
 +++
-UL har det övergripande ansvaret för kollektivtrafiken i Uppsala län. I [Region Uppsala](https://www.linkedin.com/company/region-uppsala/)s styrdokument står det tydligt att "Region Uppsala strävar efter att ständigt förenkla, förnya och förbättra verksamheten utifrån invånarnas behov”. Vi på Panelsita tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.
+UL har det övergripande ansvaret för kollektivtrafiken i Uppsala län. I [Region Uppsala](https://www.linkedin.com/company/region-uppsala/)s styrdokument står det tydligt att "Region Uppsala strävar efter att ständigt förenkla, förnya och förbättra verksamheten utifrån invånarnas behov”. **Vi på Panelsita tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.**
 
 _Hej Sebastian! Vad kul att du kunde ta dig tid för ett litet snack. Jag läste ett citat från dig där du sa ”Vi ska sträva efter att vara med på kundens resa istället för att de ska vara med på vår resa, men oavsett är det viktigaste att vi gör resan tillsammans.” Så himla fint och bra. Hur gör ni för att nå det målet?_
 
