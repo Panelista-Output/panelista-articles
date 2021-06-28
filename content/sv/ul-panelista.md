@@ -30,7 +30,7 @@ _Vilken typ av frågor ställer ni till era paneldeltagare?_
 
 Vår ambition är att ställa frågor som rör hela verksamheten. Vi har arbetat mycket med att få olika avdelningar, enheter och projekt att ställa olika frågor. Det här gör vi för att visa styrkan i våra resenärers tankar och åsikter men också för att visa upp mer av oss som verksamhet. I dagsläget har vi till exempel ställt frågor om ett spårvägsprojekt, vår UL-app och munskydd i kollektivtrafiken.
 
-_Lär ni er något under resans gång? Har ni fått några "Aha-upplevelser" eller på något sätt blivit förvånade över svar ni får tex._
+_Lär ni er något under resans gång? Har ni fått några "Aha-upplevelser" eller på något sätt blivit förvånade över de svar ni fått?_
 
 Det är framförallt två "Aha-upplevelser" som jag vill lyfta i och med Panelista! För det första har vi internt insett hur enkelt det är att ställa frågor till våra resenärer samtidigt som vi får in bra underlag. Sedan är det fascinerande att se hur våra resenärer tar sig tid att ge gedigna och ärliga svar. Jag slutar aldrig att förvånas över styrkan i att fråga. Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar.
 
