@@ -20,7 +20,7 @@ _Aha, smart att skapa en invånarpanel. Hur tänkte ni när ni satte ihop er pan
 
 Att få ett underlag som representerar 400 000 invånare är inte det lättaste och vi ville verkligen försöka få en så bra representation som möjligt. Tidigare har vi gjort ett arbete där vi kategoriserat våra resenärer utifrån tre resenärsprofiler, som baserar sig på olika behov resenärer kan ha vid olika tillfällen. Det är utifrån dessa profiler, samt geografisk spridning som vi har satt ihop vår panel. Vi har genom olika kanaler lyckats samla in ungefär 400 deltagare som täcker vissa områden och profiler - men arbetet med att få in deltagare från fler regioner fortsätter, för att vi ska få till en ännu bättre representation.
 
-_Hur använder ni er av Panelista? Dela gärna med dig av tankar ni har kring verktyget. Hur är Panelista användbart för just er och det här projektet?_
+_Hur är Panelista användbart för just er och det här projektet?_
 
 Panelista kom tidigt på tal, faktiskt redan innan själva UL-panelen var skapad. En viktig faktor med att kunna arbeta behovsdrivet och agilt är att det ska vara enkelt för verksamheten. Vi ville hitta ett snabbt och enkelt sätt att samla in ett bra underlag för att kunna ta beslut - och där passade Panelista in.
 
