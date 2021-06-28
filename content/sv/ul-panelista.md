@@ -36,6 +36,6 @@ Det är framförallt två "Aha-upplevelser" som jag vill lyfta i och med Panelis
 
 _Berätta lite om de förväntningar ni har på projektet och hur Panelista och panelen ska hjälpa er nå ert mål._
 
-Vi vill fortsätta att arbeta med UL-panelen och driva den så långt vi kan. Målet är att UL-panelen ska vara en ännu viktigare del av verksamheten och att alla beslut vi tar inom verksamheten ska vara förankrade med våra resenärer. Det kommer i slutändan att gynna oss på alla möjliga sätt och vis.
+Vi vill fortsätta att arbeta med UL-panelen och driva den så långt vi kan. Målet är att UL-panelen ska vara en ännu viktigare del av verksamheten och att alla beslut vi tar inom verksamheten ska vara förankrade med våra resenärer. Det kommer i slutändan att gynna oss på alla möjliga sätt.
 
 I takt med att UL-panelen växer och vi får fler verktyg i vår verktygslåda kan vi arbeta ännu mer effektivt med behovsfångst och kundinsikter. Panelista är ett ypperligt verktyg som hjälper oss nå fler, lyssna mer och helt enkelt lär oss mer om våra resenärers behov och önskningar.
