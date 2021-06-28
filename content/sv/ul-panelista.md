@@ -4,7 +4,7 @@ date = 2021-06-27T22:00:00Z
 draft = true
 excerpt = "UL använder Panelista för att lyssna in sina kunders behov och skapa en bra kundupplevelse. "
 hero = "/images/header_ul_justerad-2021-06-28.jpg"
-hero_image_body = "Vi ser Panelista som ett perfekt verktyg att komplettera djupintervjuer och enkäter med. "
+hero_image_body = "Vi ser Panelista som det perfekta komplementet till de djupintervjuer och enkäter vi redan genomför. "
 hero_image_title = "Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare samtidigt som vi fortsätter interagera med dem."
 timeToRead = 2
 title = "UL & Panelista"
@@ -41,5 +41,3 @@ _Berätta lite om de förväntningar ni har på projektet och hur Panelista och 
 Vi vill fortsätta att arbeta med UL-panelen och driva den så långt vi kan. Målet är att UL-panelen ska vara en ännu viktigare del av verksamheten och att alla beslut vi tar inom verksamheten ska vara förankrade med våra resenärer. Det kommer i slutändan att gynna oss på alla möjliga sätt och vis.
 
 I takt med att UL-panelen växer och vi får fler verktyg i vår verktygslåda kan vi arbeta ännu mer effektivt med behovsfångst och kundinsikter. Panelista är ett ypperligt verktyg som hjälper oss nå fler, lyssna mer och helt enkelt lär oss mer om våra resenärers behov och önskningar.
-
-Copy
