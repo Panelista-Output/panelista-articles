@@ -10,6 +10,8 @@ timeToRead = 3
 title = "Bilia & Panelista"
 
 +++
+**Fokus för artikeln: Arbetsflödet, Hur kom man igång? Den röda tråden är så här ser processen ut.** 
+
 **Bilia & Panelista**
 
 **Bilia erbjuder allt du behöver för ditt bilägande.** De säljer nya och begagnade bilar, bildelar och tillbehör. I sina service- och skadecenter utför de originalservice och reparationer - och så hjälper de sina kunder med finansiering, försäkring och abonnemangslösningar.
