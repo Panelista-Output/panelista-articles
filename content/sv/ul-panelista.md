@@ -4,13 +4,19 @@ date = 2021-06-27T22:00:00Z
 draft = true
 excerpt = "UL använder Panelista för att lyssna in sina kunders behov och skapa en bra kundupplevelse. "
 hero = "/images/header_ul_justerad_export-2021-06-28.jpg"
-hero_image_body = "Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare samtidigt som vi fortsätter interagera med dem."
-hero_image_title = "Vi ser Panelista som det perfekta komplementet till de djupintervjuer och enkäter vi redan genomför. "
+hero_image_body = "Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar - Sebastian Sund, UL"
+hero_image_title = "Jag slutar aldrig att förvånas över styrkan i att fråga."
 timeToRead = 2
-title = "UL & Panelista"
+title = "Uppsala Lästrafik & Panelista"
 
 +++
-UL har det övergripande ansvaret för kollektivtrafiken i Uppsala län. I [Region Uppsala](https://www.linkedin.com/company/region-uppsala/)s styrdokument står det tydligt att "Region Uppsala strävar efter att ständigt förenkla, förnya och förbättra verksamheten utifrån invånarnas behov”. **Vi på Panelista tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.**
+Uppsala Lästrafik - fundera ut sätt att skriva ut och sedan förkorta. 
+
+Gör till rubrik. 
+
+Jag slutar aldrig att förvånas över styrkan i att fråga. Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar.
+
+UL har det övergripande ansvaret för kollektivtrafiken i Uppsala län. **Vi på Panelista tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.**
 
 _Hej Sebastian! Vad kul att du kunde ta dig tid för ett litet snack. Jag läste ett citat från dig där du sa ”Vi ska sträva efter att vara med på kundens resa istället för att de ska vara med på vår resa, men oavsett är det viktigaste att vi gör resan tillsammans.” Så himla fint och bra. Hur gör ni för att nå det målet?_
 
