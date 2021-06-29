@@ -10,13 +10,7 @@ timeToRead = 2
 title = "Uppsala Lästrafik & Panelista"
 
 +++
-Uppsala Lästrafik - fundera ut sätt att skriva ut och sedan förkorta. 
-
-Gör till rubrik. 
-
-Jag slutar aldrig att förvånas över styrkan i att fråga. Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar.
-
-UL har det övergripande ansvaret för kollektivtrafiken i Uppsala län. **Vi på Panelista tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.**
+Uppsala Lästrafik (UL) har det övergripande ansvaret för kollektivtrafiken i Uppsala län. **Vi på Panelista tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.**
 
 _Hej Sebastian! Vad kul att du kunde ta dig tid för ett litet snack. Jag läste ett citat från dig där du sa ”Vi ska sträva efter att vara med på kundens resa istället för att de ska vara med på vår resa, men oavsett är det viktigaste att vi gör resan tillsammans.” Så himla fint och bra. Hur gör ni för att nå det målet?_
 
@@ -30,15 +24,15 @@ _Hur är Panelista användbart för just er och det här projektet?_
 
 Panelista kom tidigt på tal, faktiskt redan innan själva UL-panelen var skapad. En viktig faktor med att kunna arbeta behovsdrivet och agilt är att det ska vara enkelt för verksamheten. Vi ville hitta ett snabbt och enkelt sätt att samla in ett bra underlag för att kunna ta beslut - och där passade Panelista in.
 
-Vi ser Panelista som ett perfekt verktyg som kompletterar mer kvalitativa undersökningar som till exempel djupintervjuer och mer kvalitativa undersökningar som enkäter. Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare men även kunna interagera med dem. Här får vi till den ulitimata blandningen av att kunna ställa frågor till ett större urval och samtidigt ha möjligheten att interagera med dem för att få veta mer, förtydliga ett svar eller bara spinna vidare på ett svar tillsammans med kunden.
+Vi ser Panelista som ett perfekt verktyg som kompletterar mer kvalitativa undersökningar som till exempel djupintervjuer och mer kvalitativa undersökningar som enkäter. Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare men vi kan också även interagera med dem. Här får vi till den ulitimata blandningen av att kunna ställa frågor till ett större urval och samtidigt ha möjligheten att fortsätta dialogen med dem för att få veta mer, förtydliga ett svar eller bara spinna vidare på ett svar tillsammans med kunden.
 
 _Vilken typ av frågor ställer ni till era paneldeltagare?_
 
 Vår ambition är att ställa frågor som rör hela verksamheten. Vi har arbetat mycket med att få olika avdelningar, enheter och projekt att ställa olika frågor. Det här gör vi för att visa styrkan i våra resenärers tankar och åsikter men också för att visa upp mer av oss som verksamhet. I dagsläget har vi till exempel ställt frågor om ett spårvägsprojekt, vår UL-app och munskydd i kollektivtrafiken.
 
-_Lär ni er något under resans gång? Har ni fått några "Aha-upplevelser" eller på något sätt blivit förvånade över de svar ni fått?_
+_Har ni lärt er något under resans gång?_ 
 
-Det är framförallt två "Aha-upplevelser" som jag vill lyfta i och med Panelista! För det första har vi internt insett hur enkelt det är att ställa frågor till våra resenärer samtidigt som vi får in bra underlag. Sedan är det fascinerande att se hur våra resenärer tar sig tid att ge gedigna och ärliga svar. Jag slutar aldrig att förvånas över styrkan i att fråga. Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar.
+Det är framförallt två "Aha-upplevelser" som jag vill lyfta i och med Panelista. För det första har vi internt insett hur enkelt det är att ställa frågor till våra resenärer samtidigt som vi får in bra underlag. Sedan är det fascinerande att se hur våra resenärer tar sig tid att ge gedigna och ärliga svar. Jag slutar aldrig att förvånas över styrkan i att fråga. Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar.
 
 _Berätta lite om de förväntningar ni har på projektet och hur Panelista och panelen ska hjälpa er nå ert mål._
 
