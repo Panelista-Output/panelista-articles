@@ -14,7 +14,7 @@ Kollektivtrafiken i _Region Uppsala_ går under en politisk nämnd, trafik- och 
 
 _Hej Sebastian! Vad kul att du kunde ta dig tid för ett litet snack. Jag läste ett citat från dig där du sa ”Vi ska sträva efter att vara med på kundens resa istället för att de ska vara med på vår resa, men oavsett är det viktigaste att vi gör resan tillsammans.” Så himla fint och bra. Hur gör ni för att nå det målet?_
 
-I vår Regionplan och budget står det _”Region Uppsala strävar efter att ständigt förenkla, förnya och förbättra verksamheten utifrån invånarnas behov”_. ~~Min fråga till verksamheten var då, hur vet vi vilka behov våra invånare har?~~ Det var upprinnelsen till UL-panelen. Vi ville skapa ett verktyg som hjälper oss att förstå och ta reda på vad invånarna tycker om vår kollektivtrafik, oavsett om det är positivt eller negativt.
+I vår Regionplan och budget står det _”Region Uppsala strävar efter att ständigt förenkla, förnya och förbättra verksamheten utifrån invånarnas behov”_. Min fråga till verksamheten var då, ~~hur vet vi vilka behov våra invånare har?~~ Det var upprinnelsen till UL-panelen. Vi ville skapa ett verktyg som hjälper oss att förstå och ta reda på vad invånarna tycker om vår kollektivtrafik, oavsett om det är positivt eller negativt.
 
 _Aha, smart att skapa en invånarpanel. Hur tänkte ni när ni satte ihop er panel? Vilka ville ni ha med och hur fick ni tag på deltagare?_
 
@@ -34,7 +34,7 @@ Vår ambition är att ställa frågor som rör hela verksamheten. Vi har arbetat
 
 _Har ni lärt er något under resans gång?_
 
-Det är framförallt två "Aha-upplevelser" som jag vill lyfta i och med Panelista. För det första har vi internt insett hur ~~enkelt det är att ställa frågor till våra resenärer~~ samtidigt som vi får in bra underlag. Sedan är det fascinerande att se hur våra resenärer tar sig tid att ge gedigna och ärliga svar. Jag slutar aldrig att förvånas över styrkan i att fråga. Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar.
+Det är framförallt två "Aha-upplevelser" som jag vill lyfta i och med Panelista. För det första har vi internt insett hur ~~enkelt det är att ställa frågor till våra resenärer~~ samtidigt som vi får in bra underlag. Sedan är det fascinerande att se hur våra resenärer tar sig tid att ge gedigna och ärliga svar. ~~Jag slutar aldrig att förvånas över styrkan i att fråga.~~ Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar.
 
 _Berätta lite om de förväntningar ni har på projektet och hur Panelista och panelen ska hjälpa er nå ert mål._
 
