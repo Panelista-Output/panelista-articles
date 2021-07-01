@@ -23,9 +23,9 @@ Att få ett underlag som representerar 400 000 invånare är inte det lättaste 
   
 _Hur är Panelista användbart för just er och det här projektet?_
 
-Panelista kom tidigt på tal, faktiskt redan innan själva UL-panelen var skapad. En viktig faktor med att kunna arbeta behovsdrivet och agilt är att det ska vara enkelt för verksamheten. Vi ville hitta ett snabbt och enkelt sätt att samla in ett bra underlag för att kunna ta beslut - och där passade Panelista in.
+Panelista kom tidigt på tal, faktiskt redan innan själva UL-panelen var skapad. En viktig faktor med att kunna ~~arbeta behovsdrivet och agilt~~ är att det ska vara enkelt för verksamheten. Vi ville hitta ett snabbt och enkelt sätt att samla in ett bra underlag för att kunna ta beslut - och där passade Panelista in.
 
-Vi ser Panelista som ett bra verktyg som kompletterar mer kvalitativa undersökningar som till exempel djupintervjuer och mer kvantitativa undersökningar som enkäter. Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare men vi kan också även interagera med dem. Här får vi till en bra blandning genom att vi kan ställa frågor till ett större urval och samtidigt ha möjligheten att fortsätta dialogen med dem för att få veta mer, förtydliga ett svar eller bara spinna vidare på ett svar tillsammans med kunden.
+Vi ser Panelista som ett bra verktyg som kompletterar mer kvalitativa undersökningar som till exempel djupintervjuer och mer kvantitativa undersökningar som enkäter. ~~Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare~~ men vi kan också även interagera med dem. Här får vi till en bra blandning genom att vi kan ställa frågor till ett större urval och samtidigt ha möjligheten att fortsätta dialogen med dem för att få veta mer, förtydliga ett svar eller bara spinna vidare på ett svar tillsammans med kunden.
 
 {{< sv/visitpanelista >}}
 
@@ -35,13 +35,13 @@ Vår ambition är att ställa frågor som rör hela verksamheten. Vi har arbetat
 
 _Har ni lärt er något under resans gång?_
 
-Det är framförallt två "Aha-upplevelser" som jag vill lyfta i och med Panelista. För det första har vi internt insett hur enkelt det är att ställa frågor till våra resenärer samtidigt som vi får in bra underlag. Sedan är det fascinerande att se hur våra resenärer tar sig tid att ge gedigna och ärliga svar. Jag slutar aldrig att förvånas över styrkan i att fråga. Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar.
+Det är framförallt två "Aha-upplevelser" som jag vill lyfta i och med Panelista. För det första har vi internt insett hur ~~enkelt det är att ställa frågor till våra resenärer~~ samtidigt som vi får in bra underlag. Sedan är det fascinerande att se hur våra resenärer tar sig tid att ge gedigna och ärliga svar. Jag slutar aldrig att förvånas över styrkan i att fråga. Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar.
 
 _Berätta lite om de förväntningar ni har på projektet och hur Panelista och panelen ska hjälpa er nå ert mål._
 
 Vi vill fortsätta att arbeta med UL-panelen och driva den så långt vi kan. Målet är att UL-panelen ska vara en ännu viktigare del av verksamheten och att alla beslut vi tar inom verksamheten ska vara förankrade med våra resenärer. Det kommer i slutändan att gynna oss på alla möjliga sätt.
 
-I takt med att UL-panelen växer och vi får fler verktyg i vår verktygslåda kan vi arbeta ännu mer effektivt med behovsfångst och kundinsikter. Panelista är ett bra verktyg som hjälper oss nå fler, lyssna mer och helt enkelt lär oss mer om våra resenärers behov och önskningar.
+I takt med att UL-panelen växer och vi får fler verktyg i vår verktygslåda kan vi arbeta ännu mer effektivt med behovsfångst och kundinsikter. ~~Panelista är ett bra verktyg som hjälper oss nå fler,~~ lyssna mer och helt enkelt lär oss mer om våra resenärers behov och önskningar.
 
 _På bilden: Sebastian Sund och Lina Brynö från UL_
 
