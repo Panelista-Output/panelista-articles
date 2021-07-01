@@ -24,7 +24,7 @@ _Hur är Panelista användbart för just er och det här projektet?_
 
 Panelista kom tidigt på tal, faktiskt redan innan själva UL-panelen var skapad. En viktig faktor med att kunna arbeta behovsdrivet och agilt är att det ska vara enkelt för verksamheten. Vi ville hitta ett snabbt och enkelt sätt att samla in ett bra underlag för att kunna ta beslut - och där passade Panelista in.
 
-Vi ser Panelista som ett bra verktyg som kompletterar mer kvalitativa undersökningar som till exempel djupintervjuer och mer kvalitativa undersökningar som enkäter. Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare men vi kan också även interagera med dem. Här får vi till en bra blandning genom att vi kan ställa frågor till ett större urval och samtidigt ha möjligheten att fortsätta dialogen med dem för att få veta mer, förtydliga ett svar eller bara spinna vidare på ett svar tillsammans med kunden.
+Vi ser Panelista som ett bra verktyg som kompletterar mer kvalitativa undersökningar som till exempel djupintervjuer och mer kvantitativa undersökningar som enkäter. Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare men vi kan också även interagera med dem. Här får vi till en bra blandning genom att vi kan ställa frågor till ett större urval och samtidigt ha möjligheten att fortsätta dialogen med dem för att få veta mer, förtydliga ett svar eller bara spinna vidare på ett svar tillsammans med kunden.
 
 _Vilken typ av frågor ställer ni till era paneldeltagare?_
 
