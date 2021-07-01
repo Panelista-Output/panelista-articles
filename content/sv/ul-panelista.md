@@ -27,6 +27,8 @@ Panelista kom tidigt på tal, faktiskt redan innan själva UL-panelen var skapad
 
 Vi ser Panelista som ett bra verktyg som kompletterar mer kvalitativa undersökningar som till exempel djupintervjuer och mer kvantitativa undersökningar som enkäter. Genom att använda Panelista kan vi ställa snabba frågor till våra deltagare men vi kan också även interagera med dem. Här får vi till en bra blandning genom att vi kan ställa frågor till ett större urval och samtidigt ha möjligheten att fortsätta dialogen med dem för att få veta mer, förtydliga ett svar eller bara spinna vidare på ett svar tillsammans med kunden.
 
+{{< sv/visitpanelista >}}
+
 _Vilken typ av frågor ställer ni till era paneldeltagare?_
 
 Vår ambition är att ställa frågor som rör hela verksamheten. Vi har arbetat mycket med att få olika avdelningar, enheter och projekt att ställa olika frågor. Det här gör vi för att visa styrkan i våra resenärers tankar och åsikter men också för att visa upp mer av oss som verksamhet. I dagsläget har vi till exempel ställt frågor om ett spårvägsprojekt, vår UL-app och munskydd i kollektivtrafiken.
@@ -42,3 +44,5 @@ Vi vill fortsätta att arbeta med UL-panelen och driva den så långt vi kan. M�
 I takt med att UL-panelen växer och vi får fler verktyg i vår verktygslåda kan vi arbeta ännu mer effektivt med behovsfångst och kundinsikter. Panelista är ett bra verktyg som hjälper oss nå fler, lyssna mer och helt enkelt lär oss mer om våra resenärers behov och önskningar.
 
 _På bilden: Sebastian Sund och Lina Brynö från UL_
+
+{{< sv/subscribe >}}
