@@ -10,7 +10,7 @@ timeToRead = 2
 title = "UL & Panelista"
 
 +++
-Kollektivtrafiken i _Region Uppsala_ går under en politisk nämnd, trafik- och samhällsutvecklingsnämnden. Nämnden har en egen förvaltning som heter _Trafik och samhälle._ Under varumärket UL utför förvaltningen länets kollektivtrafik i samarbete med olika trafikföretag. **Vi på Panelista tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.**
+Kollektivtrafiken i _Region Uppsala_ går under en politisk nämnd, trafik- och samhällsutvecklingsnämnden. Nämnden har en egen förvaltning som heter _Trafik och samhälle._ Under varumärket UL utför förvaltningen länets kollektivtrafik i samarbete med olika trafikföretag. ~~**Vi på Panelista tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.**~~
 
 _Hej Sebastian! Vad kul att du kunde ta dig tid för ett litet snack. Jag läste ett citat från dig där du sa ”Vi ska sträva efter att vara med på kundens resa istället för att de ska vara med på vår resa, men oavsett är det viktigaste att vi gör resan tillsammans.” Så himla fint och bra. Hur gör ni för att nå det målet?_
 
@@ -18,7 +18,7 @@ I vår Regionplan och budget står det _”Region Uppsala strävar efter att ~~s
 
 _Aha, smart att skapa en invånarpanel. Hur tänkte ni när ni satte ihop er panel? Vilka ville ni ha med och hur fick ni tag på deltagare?_
 
-Att få ett underlag som representerar 400 000 invånare är inte det lättaste och vi vill verkligen försöka få en så bra representation som möjligt. Tidigare har vi gjort ett arbete där vi kategoriserat våra resenärer utifrån tre resenärsprofiler, som baserar sig på olika behov resenärer kan ha vid olika tillfällen. Utöver profilerna har vi även försökt att finna fler målgrupper som exempelvis pensionärer eller resenärer med funktionsnedsättning. Det är utifrån dessa profiler tillsammans med andra målgrupper som vi har satt ihop vår panel. Vi har genom olika kanaler lyckats samla in ungefär 400 deltagare som täcker vissa målgrupper och profiler - ~~men arbetet med att få in deltagare från fler målgrupper fortsätter,~~ för att vi ska få till en ännu bättre representation.
+Att få ett underlag som representerar 400 000 invånare är inte det lättaste och vi vill verkligen försöka ~~få en så bra representation som möjligt.~~ Tidigare har vi gjort ett arbete där vi kategoriserat våra resenärer utifrån tre resenärsprofiler, som baserar sig på olika behov resenärer kan ha vid olika tillfällen. Utöver profilerna har vi även försökt att finna fler målgrupper som exempelvis pensionärer eller resenärer med funktionsnedsättning. Det är utifrån dessa profiler tillsammans med andra målgrupper som vi har satt ihop vår panel. Vi har genom olika kanaler lyckats samla in ungefär 400 deltagare som täcker vissa målgrupper och profiler - ~~men arbetet med att få in deltagare från fler målgrupper fortsätter,~~ för att vi ska få till en ännu bättre representation.
 
   
 _Hur är Panelista användbart för just er och det här projektet?_
