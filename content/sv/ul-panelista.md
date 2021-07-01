@@ -18,8 +18,9 @@ I vår Regionplan och budget står det _”Region Uppsala strävar efter att st�
 
 _Aha, smart att skapa en invånarpanel. Hur tänkte ni när ni satte ihop er panel? Vilka ville ni ha med och hur fick ni tag på deltagare?_
 
-Eftersom vårt län består av alla typer av resenärer och invånare har vi utöver profilerna försökt att finna fler målgrupper som exempelvis pensionärer eller resenärer med funktionsnedsättning. Det är utifrån dessa profiler tillsammans med andra målgrupper som vi har satt ihop vår panel. Vi har genom olika kanaler lyckats samla in ungefär 400 deltagare som täcker vissa målgrupper och profiler - men arbetet med att få in deltagare från fler målgrupper fortsätter, för att vi ska få till en ännu bättre representation.
+Att få ett underlag som representerar 400 000 invånare är inte det lättaste och vi vill verkligen försöka få en så bra representation som möjligt. Tidigare har vi gjort ett arbete där vi kategoriserat våra resenärer utifrån tre resenärsprofiler, som baserar sig på olika behov resenärer kan ha vid olika tillfällen. Utöver profilerna har vi även försökt att finna fler målgrupper som exempelvis pensionärer eller resenärer med funktionsnedsättning. Det är utifrån dessa profiler tillsammans med andra målgrupper som vi har satt ihop vår panel. Vi har genom olika kanaler lyckats samla in ungefär 400 deltagare som täcker vissa målgrupper och profiler - men arbetet med att få in deltagare från fler målgrupper fortsätter, för att vi ska få till en ännu bättre representation.
 
+  
 _Hur är Panelista användbart för just er och det här projektet?_
 
 Panelista kom tidigt på tal, faktiskt redan innan själva UL-panelen var skapad. En viktig faktor med att kunna arbeta behovsdrivet och agilt är att det ska vara enkelt för verksamheten. Vi ville hitta ett snabbt och enkelt sätt att samla in ett bra underlag för att kunna ta beslut - och där passade Panelista in.
