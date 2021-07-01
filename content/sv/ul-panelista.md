@@ -1,6 +1,7 @@
 +++
 authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-06-27T22:00:00Z
+draft = true
 excerpt = "UL använder Panelista för att lyssna in sina kunders behov och skapa en bra kundupplevelse. "
 hero = "/images/ul-header-2021-06-29.jpeg"
 hero_image_body = "Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar - Sebastian Sund, UL"
