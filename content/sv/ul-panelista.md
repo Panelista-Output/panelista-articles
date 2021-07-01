@@ -6,11 +6,11 @@ excerpt = "UL använder Panelista för att lyssna in sina kunders behov och skap
 hero = "/images/ul-header-2021-06-29.jpeg"
 hero_image_body = "Det har kommit upp tankar som vi aldrig hade tänkt på samtidigt som vi fått en rejäl bekräftelse på att vi är på rätt väg med besluten vi tar - Sebastian Sund, UL"
 hero_image_title = "Jag slutar aldrig att förvånas över styrkan i att fråga."
-timeToRead = 2
+timeToRead = 3
 title = "UL & Panelista"
 
 +++
-Kollektivtrafiken i _Region Uppsala_ går under en politisk nämnd, trafik- och samhällsutvecklingsnämnden. Nämnden har en egen förvaltning som heter _Trafik och samhälle._ Under varumärket UL utför förvaltningen länets kollektivtrafik i samarbete med olika trafikföretag. ~~**Vi på Panelista tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.**~~
+Kollektivtrafiken i _Region Uppsala_ går under en politisk nämnd, trafik- och samhällsutvecklingsnämnden. Nämnden har en egen förvaltning som heter _Trafik och samhälle._ Under varumärket UL utför förvaltningen länets kollektivtrafik i samarbete med olika trafikföretag. **Vi på Panelista tog kontakt med Sebastian Sund på UL för att höra mer om hur de gör för att lyssna in sina kunders behov och skapa en bra kundupplevelse.**
 
 _Hej Sebastian! Vad kul att du kunde ta dig tid för ett litet snack. Jag läste ett citat från dig där du sa ”Vi ska sträva efter att vara med på kundens resa istället för att de ska vara med på vår resa, men oavsett är det viktigaste att vi gör resan tillsammans.” Så himla fint och bra. Hur gör ni för att nå det målet?_
 
