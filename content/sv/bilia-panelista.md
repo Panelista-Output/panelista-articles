@@ -10,7 +10,24 @@ timeToRead = 3
 title = "Bilia & Panelista"
 
 +++
-**Fokus för artikeln: Arbetsflödet, Hur kom man igång? Den röda tråden är så här ser processen ut.** 
+**Fokus för artikeln: Arbetsflödet, Hur kom man igång? Den röda tråden är så här ser processen ut.**
+
+**Bilia har redan idag en stark personlig relation till sina kunder genom möten med servicetekniker och xxxx.” (fråga Jessica)**
+
+**Nu vill de ta steget till att involvera kunder i utvecklingen av nya tjänster**
+
+**(Inkludera Johan, servicemarknadschef)**
+
+**Berätta om processen och på vilket sätt jessica hjälpt Johan att komma igång**
+
+* **Nytt sätt att jobba för Bilia. Johan tog hjälp Jessica som är servicedesigner från oss för att komma igång**
+* **Vad ville de ta reda på? Varför? (Hur tänkte de använda resultatet)**
+* **Vilka skulle vara med i panelen?**
+* **Var fanns de kunderna?**
+* **Utforma en personlig inbjudan**
+* **Skriva manus till frågan**
+* **Johan spelade in och var den som syntes i videon**
+* **Vi hjälpte till med att facilitera, ställa följdfrågor och markera intressanta svar samt sammanställa insikter från frågorna.**
 
 **Bilia & Panelista**
 
