@@ -46,7 +46,7 @@ Tack vare panelen kunde man nu synliggöra olika beteenden, behov och uppfattnin
 
 Bilia har hela tiden haft full insyn i panelen och på samtliga avstämningsmöten har det förts livliga samtal om de insikter, kommentarer och frågeställningar som känts extra spännande.
 
-Att skapa en panel kan vara inledningen till ett nytt arbetssätt. För Bilias del blev det en rejäl ögonöppnare för alla möjligheter som finns i Panelista. man funderar till exempel på att skapa paneler för olika interna projekt nu när Propel/Panelista ska förankra det nya arbetssättet i organisationen.
+Att skapa en panel kan vara inledningen till ett nytt arbetssätt. För Bilias del blev det en rejäl ögonöppnare för alla möjligheter som finns i Panelista - Man funderar till exempel på att skapa paneler för olika interna projekt nu när Propel/Panelista ska förankra det nya arbetssättet i organisationen.
 
 Vad kan väl vara starkare än att ha med kundens röst i hela utvecklingsprocessen? Att verkligen kunna visa ett svar svart på vitt.
 
