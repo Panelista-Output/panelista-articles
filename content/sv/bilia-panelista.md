@@ -41,34 +41,9 @@ Johan berättar:
 
 (Påhittat citat) 
 
-Jag var otroligt peppad på att starta en dialog med våra kunder. Men helt ärligt visste jag inte i vilken ände jag skulle börja. Därför var den en otrolig fördel att ha Jessica vid min sida redan från början av projektet. Tillsammans gick vi igenom allt ifrån vilka kunder som skulle bjudas in till panelen, hur vi skulle hitta de kunderna och hur en personlig inbjudan till dem skulle se ut. 
+Jag var otroligt peppad på att starta en dialog med våra kunder. Men helt ärligt visste jag inte i vilken ände jag skulle börja. Därför var den en otrolig fördel att ha Jessica vid min sida redan från projektets start. Tillsammans gick vi igenom allt ifrån vilka kunder som skulle bjudas in till panelen, hur vi skulle hitta de kunderna och hur en personlig inbjudan till dem skulle se ut. 
 
-När man sedan 
-
-et var en otrolig fördel att ha Jessica vid min sida
-
-* **Vilka skulle vara med i panelen?**
-* **Var fanns de kunderna?**
-* **Utforma en personlig inbjudan**
-* **Skriva manus till frågan**
-* **Johan spelade in och var den som syntes i videon**
-* **Vi hjälpte till med att facilitera, ställa följdfrågor och markera intressanta svar samt sammanställa insikter från frågorna.**
-
-**Nu vill de ta steget till att involvera kunder i utvecklingen av nya tjänster**
-
-**(Inkludera Johan, servicemarknadschef)**
-
-(Här tänker jag att vi måste berätta om relationen mellan Propel och Panelista. Vilka är de olika bolagen och hur hänger de ihop.)
-
-Bilia har redan idag en stark personlig relation till sina kunder genom möten med servicetekniker och andra samarbetspartners.
-
-Via Propel var man i full gång med ett projekt inriktat på att göra Bilia till en ledande aktör på marknaden.
-
-Genom att man redan lyssnade till Propel blev det ett naturligt steg att skapa en kundpanel i Panelista för att skapa en direktlänk till de kunder som satt inne med svaren på alla frågor man hade.
-
-Bilia kände sig inte redo att själva sätta ihop en panel eller utforma de frågor som skulle ställas till deltagarna. Tack vare det goda samarbetet och förtroendet man redan kände för Propel och Panelista överlät man arbetet med all administration kring kundpanelen till dem.
-
-Bilia visst vad de ville fråga sina kunder men tackade glatt ja till avlastning med hur projektet skulle skötas på smidigaste sätt.
+Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbetet med det administrativa arbetet som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista hjälpte sedan till att facilitera arbetet; ställa följdfrågor, markera intressanta svar och sammanställa de insikter som frågorna gav. 
 
 Genom den research Propel genomförde på flera av Bilias olika anläggningar i kombination med de insikter man skaffade sig genom panelen kom man fram till slutsatsen att Bilia borde positionera sig bredare.
 
@@ -101,5 +76,3 @@ Att skapa en panel kan vara inledningen till ett nytt arbetssätt. För Bilias d
 Vad kan väl vara starkare än att ha med kundens röst i hela utvecklingsprocessen? Att verkligen kunna visa ett svar svart på vitt.
 
 Nu när panelen är skapad och i full gång känner Bilia att man verkligen ska dra nytta av direktdialogen man har skapat. Plötsligt känns det lätt att interagera med kunderna. Dessutom ger det inte bara resultat - det ger också bra känslor av att se hur engagerade kunderna faktiskt är.
-
-Vi på Panelista är stolta och glada över att Bilia har gett oss förtroendet att kliva in och vara den samarbetspartner som hjälper dem bygga en direktkanal till sina kunder. Tillsammans skapar vi nöjda kunder!
