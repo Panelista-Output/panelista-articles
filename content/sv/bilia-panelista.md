@@ -34,7 +34,7 @@ I Research & Analys fasen skapar man insikter om kundernas beteenden och behov. 
 
 Bilia ville ta reda på hur kunderna ser på dem som företag. Man var genuint intresserade av att förstå hur Bilia uppfattas och vilka relationer man skapar. Genom Panelista hade man även möjligheten att dyka ned i detaljer och ställa frågor kring specifika beteenden och preferenser i olika scenarios.
 
-För att kunna gå ett steg djupare bjöd man sedan in några av de paneldeltagare som visat extra stort engagemang till en så kallad Live Panel. Här fick Bilia en unik möjlighet att genom Propel och Panelista föra fördjupande samtal och hålla en livlig dialog mellan medarbetare och kunder. Det blev till och med så att en intensiv dialog uppstod även kunderna emellan.
+För att kunna gå ett steg djupare bjöd man sedan in några av de paneldeltagare som visat extra stort engagemang till en så kallad Live Panel. Här fick Bilia en unik möjlighet att genom Propel och Panelista föra fördjupande samtal och hålla en livlig dialog mellan medarbetare och kunder. En oförutsedd bonus var att det uppstod en intensiv dialog även kunderna emellan.
 
 Tack vare panelen och den fördjupande Live Panelen skaffade man sig insikter genom observation och intervjuer. Av resultatet kunde Propel sedan sammanfatta ett relevant, kreativt och progressivt koncept för Bilia och deras kunder.
 
