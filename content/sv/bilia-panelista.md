@@ -24,9 +24,7 @@ Johan berättar:
 
 Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbetet som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista faciliterar det löpande arbetet; ställer följdfrågor, markerar intressanta svar och sammanställer de insikter som frågorna ger. 
 
-Genom den research Propel genomförde på flera av Bilias olika anläggningar i kombination med de insikter man skaffade sig genom panelen kom man fram till slutsatsen att Bilia borde positionera sig bredare.
-
-I början av mars 2021 fick Panelista i uppdrag att se över Bilias position på marknaden när det kommer till "glasaffären". Man ville ta reda på mer om de val och behov kunden har när de t ex ska laga ett stenskott i vindrutan.
+Genom den research Propel genomförde på flera av Bilias olika anläggningar i kombination med de insikter man skaffade sig genom panelen kom man fram till slutsatsen att Bilia borde positionera sig bredare. I början av mars 2021 fick Panelista i uppdrag att se över Bilias position på marknaden när det kommer till "glasaffären". Man ville ta reda på mer om de val och behov kunden har när de t ex ska laga ett stenskott i vindrutan.
 
 Jessica, service designer på Panelista, berättar: 
 
