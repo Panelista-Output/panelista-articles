@@ -10,25 +10,6 @@ timeToRead = 3
 title = "Bilia & Panelista"
 
 +++
-**Fokus för artikeln: Arbetsflödet, Hur kom man igång? Den röda tråden är så här ser processen ut.**
-
-**Bilia har redan idag en stark personlig relation till sina kunder genom möten med servicetekniker och xxxx.” (fråga Jessica)**
-
-**Nu vill de ta steget till att involvera kunder i utvecklingen av nya tjänster**
-
-**(Inkludera Johan, servicemarknadschef)**
-
-**Berätta om processen och på vilket sätt jessica hjälpt Johan att komma igång**
-
-* **Nytt sätt att jobba för Bilia. Johan tog hjälp Jessica som är servicedesigner från oss för att komma igång**
-* **Vad ville de ta reda på? Varför? (Hur tänkte de använda resultatet)**
-* **Vilka skulle vara med i panelen?**
-* **Var fanns de kunderna?**
-* **Utforma en personlig inbjudan**
-* **Skriva manus till frågan**
-* **Johan spelade in och var den som syntes i videon**
-* **Vi hjälpte till med att facilitera, ställa följdfrågor och markera intressanta svar samt sammanställa insikter från frågorna.**
-
 **Bilia erbjuder allt du behöver för ditt bilägande.** De säljer nya och begagnade bilar, bildelar och tillbehör. I sina service- och skadecenter utför de originalservice och reparationer - och så hjälper de sina kunder med finansiering, försäkring och abonnemangslösningar.
 
 Bilia har förstått hur viktigt det är att lyssna på sina kunders behov. Redan idag har man byggt upp en stark personlig relation, där mötet med en servicetekniker, är ett bra exempel. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.
@@ -76,3 +57,22 @@ Att skapa en panel kan vara inledningen till ett nytt arbetssätt. För Bilias d
 Vad kan väl vara starkare än att ha med kundens röst i hela utvecklingsprocessen? Att verkligen kunna visa ett svar svart på vitt.
 
 Nu när panelen är skapad och i full gång känner Bilia att man verkligen ska dra nytta av direktdialogen man har skapat. Plötsligt känns det lätt att interagera med kunderna. Dessutom ger det inte bara resultat - det ger också bra känslor av att se hur engagerade kunderna faktiskt är.
+
+**Fokus för artikeln: Arbetsflödet, Hur kom man igång? Den röda tråden är så här ser processen ut.**
+
+**Bilia har redan idag en stark personlig relation till sina kunder genom möten med servicetekniker och xxxx.” (fråga Jessica)**
+
+**Nu vill de ta steget till att involvera kunder i utvecklingen av nya tjänster**
+
+**(Inkludera Johan, servicemarknadschef)**
+
+**Berätta om processen och på vilket sätt jessica hjälpt Johan att komma igång**
+
+* **Nytt sätt att jobba för Bilia. Johan tog hjälp Jessica som är servicedesigner från oss för att komma igång**
+* **Vad ville de ta reda på? Varför? (Hur tänkte de använda resultatet)**
+* **Vilka skulle vara med i panelen?**
+* **Var fanns de kunderna?**
+* **Utforma en personlig inbjudan**
+* **Skriva manus till frågan**
+* **Johan spelade in och var den som syntes i videon**
+* **Vi hjälpte till med att facilitera, ställa följdfrågor och markera intressanta svar samt sammanställa insikter från frågorna.**
