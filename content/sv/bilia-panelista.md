@@ -4,8 +4,8 @@ date = 2021-06-21T22:00:00Z
 draft = true
 excerpt = ""
 hero = "/images/skarmavbild-2021-08-10-kl-10-55-14-2021-08-10.png"
-hero_image_body = ""
-hero_image_title = ""
+hero_image_body = "De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov."
+hero_image_title = "Bilia har förstått hur viktigt det är att lyssna på sina kunders behov. "
 timeToRead = 3
 title = "Bilia & Panelista"
 
