@@ -4,7 +4,7 @@ date = 2021-06-21T22:00:00Z
 draft = true
 excerpt = ""
 hero = "/images/skiss_bilia-2021-08-10.jpg"
-hero_image_body = "De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov."
+hero_image_body = "De visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbetet som krävs för att sköta en panel."
 hero_image_title = "Bilia har förstått hur viktigt det är att lyssna på sina kunders behov. "
 timeToRead = 3
 title = "Bilia & Panelista"
@@ -24,7 +24,7 @@ Johan berättar:
 
 Jag var otroligt peppad på att starta en dialog med våra kunder. Men helt ärligt visste jag inte i vilken ände jag skulle börja. Därför var den en otrolig fördel att ha Jessica vid min sida redan från projektets start. Tillsammans gick vi igenom allt ifrån vilka kunder som skulle bjudas in till panelen, hur vi skulle hitta de kunderna och hur en personlig inbjudan till dem skulle se ut. 
 
-Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbetet med det administrativa arbetet som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista hjälpte sedan till att facilitera arbetet; ställa följdfrågor, markera intressanta svar och sammanställa de insikter som frågorna gav. 
+Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbetet som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista hjälpte sedan till att facilitera arbetet; ställa följdfrågor, markera intressanta svar och sammanställa de insikter som frågorna gav. 
 
 Genom den research Propel genomförde på flera av Bilias olika anläggningar i kombination med de insikter man skaffade sig genom panelen kom man fram till slutsatsen att Bilia borde positionera sig bredare.
 
