@@ -29,13 +29,17 @@ title = "Bilia & Panelista"
 * **Johan spelade in och var den som syntes i videon**
 * **Vi hjälpte till med att facilitera, ställa följdfrågor och markera intressanta svar samt sammanställa insikter från frågorna.**
 
-**Bilia & Panelista**
-
 **Bilia erbjuder allt du behöver för ditt bilägande.** De säljer nya och begagnade bilar, bildelar och tillbehör. I sina service- och skadecenter utför de originalservice och reparationer - och så hjälper de sina kunder med finansiering, försäkring och abonnemangslösningar.
 
-Bilia har förstått hur viktigt det är att lyssna på sina kunders behov och är grymt duktiga på allt som har med bilar och service att göra. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.
+Bilia har förstått hur viktigt det är att lyssna på sina kunders behov. Redan idag har man byggt upp en stark personlig relation, där mötet med en servicetekniker, är ett bra exempel. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.
 
-Vi på Panelista är stolta och glada över att Bilia har gett oss förtroendet att kliva in och vara den samarbetspartner som hjälper dem bygga en direktkanal till sina kunder. Tillsammans skapar vi nöjda kunder!
+När man på Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av Jessica som är servicedesigner hos oss på Propel/Panelista. 
+
+Johan, servicemarknadschef på Bilia, 
+
+**Nu vill de ta steget till att involvera kunder i utvecklingen av nya tjänster**
+
+**(Inkludera Johan, servicemarknadschef)**
 
 Den första utmaningen Bilia kände sig redo att ta tag i var hur man tydligare skulle kunna involvera sina kunder i utvecklingen av nya tjänster. Bilia ville skapa en möjlighet att ställa frågor för att sedan kunna prioritera sina arbetsuppgifter på bästa sätt.
 
@@ -82,3 +86,5 @@ Att skapa en panel kan vara inledningen till ett nytt arbetssätt. För Bilias d
 Vad kan väl vara starkare än att ha med kundens röst i hela utvecklingsprocessen? Att verkligen kunna visa ett svar svart på vitt.
 
 Nu när panelen är skapad och i full gång känner Bilia att man verkligen ska dra nytta av direktdialogen man har skapat. Plötsligt känns det lätt att interagera med kunderna. Dessutom ger det inte bara resultat - det ger också bra känslor av att se hur engagerade kunderna faktiskt är.
+
+Vi på Panelista är stolta och glada över att Bilia har gett oss förtroendet att kliva in och vara den samarbetspartner som hjälper dem bygga en direktkanal till sina kunder. Tillsammans skapar vi nöjda kunder!
