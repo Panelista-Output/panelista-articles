@@ -33,15 +33,30 @@ title = "Bilia & Panelista"
 
 Bilia har förstått hur viktigt det är att lyssna på sina kunders behov. Redan idag har man byggt upp en stark personlig relation, där mötet med en servicetekniker, är ett bra exempel. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.
 
-När man på Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av Jessica som är servicedesigner hos oss på Propel/Panelista. 
+När man på Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av oss på Propel/Panelista. 
 
-Johan, servicemarknadschef på Bilia, 
+Johan, servicemarknadschef på Bilia, inledde ett nära samarbete med vår servicedesigner Jessica. Tillsammans tog de fram en plan för hur man skulle komma igång med arbetet. 
+
+Johan berättar: 
+
+(Påhittat citat) 
+
+Jag var otroligt peppad på att starta en dialog med våra kunder. Men helt ärligt visste jag inte i vilken ände jag skulle börja. Därför var den en otrolig fördel att ha Jessica vid min sida redan från början av projektet. Tillsammans gick vi igenom allt ifrån vilka kunder som skulle bjudas in till panelen, hur vi skulle hitta de kunderna och hur en personlig inbjudan till dem skulle se ut. 
+
+När man sedan 
+
+et var en otrolig fördel att ha Jessica vid min sida
+
+* **Vilka skulle vara med i panelen?**
+* **Var fanns de kunderna?**
+* **Utforma en personlig inbjudan**
+* **Skriva manus till frågan**
+* **Johan spelade in och var den som syntes i videon**
+* **Vi hjälpte till med att facilitera, ställa följdfrågor och markera intressanta svar samt sammanställa insikter från frågorna.**
 
 **Nu vill de ta steget till att involvera kunder i utvecklingen av nya tjänster**
 
 **(Inkludera Johan, servicemarknadschef)**
-
-Den första utmaningen Bilia kände sig redo att ta tag i var hur man tydligare skulle kunna involvera sina kunder i utvecklingen av nya tjänster. Bilia ville skapa en möjlighet att ställa frågor för att sedan kunna prioritera sina arbetsuppgifter på bästa sätt.
 
 (Här tänker jag att vi måste berätta om relationen mellan Propel och Panelista. Vilka är de olika bolagen och hur hänger de ihop.)
 
