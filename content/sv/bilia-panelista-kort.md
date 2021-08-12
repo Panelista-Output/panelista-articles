@@ -10,9 +10,7 @@ timeToRead = 3
 title = "Bilia & Panelista"
 
 +++
-**_Bilia_** _är en av Europas största bilåterförsäljare och erbjuder allt som rör bilägande._
-
-**Bilia har förstått hur viktigt det är att lyssna på sina kunder för att förstå deras behov. Redan idag har man byggt upp en stark personlig relation, där mötet med en servicetekniker, är ett bra exempel. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något helt annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.**
+**Bilia är en av Europas största bilåterförsäljare och erbjuder allt som rör bilägande. Redan idag har man byggt upp en stark personlig relation med sina kunder, där mötet med en servicetekniker, är ett bra exempel. Bilia är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något helt annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.**
 
 När Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av oss på Propel/Panelista. Johan Hillmerson, servicemarknadschef på Bilia, inledde ett nära samarbete med vår servicedesigner Jessica Litzel. Tillsammans tog de fram en plan för hur man, på bästa sätt, skulle komma igång med arbetet.
 
