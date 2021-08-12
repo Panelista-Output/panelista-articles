@@ -30,9 +30,7 @@ Jessica Litzel, service designer på Panelista, berättar:
 
 "Redan när vi klurade på uppdragsbeskrivningen visste vi att vi ville involvera Bilias medarbetare och kunder genom observationer och intervjuer i vår så kallade Research & Analys fas."
 
-I Research & Analys fasen skapar man insikter om kundernas beteenden och behov. Tack vare Panelista kunde man bjuda in till en panel med ett hundratal av Bilias befintliga kunder och skapa en löpande dialog med dem.
-
-Bilia ville ta reda på hur kunderna ser på dem som företag. Man var genuint intresserade av att förstå hur Bilia uppfattas och vilka relationer man skapar. Genom Panelista hade man även möjligheten att dyka ned i detaljer och ställa frågor kring specifika beteenden och preferenser i olika scenarios.
+I Research & Analys fasen skapar man insikter om kundernas beteenden och behov. Tack vare Panelista kunde man bjuda in till en panel med ett hundratal av Bilias befintliga kunder och skapa en löpande dialog med dem. Bilia ville ta reda på hur kunderna ser på dem som företag. Man var genuint intresserade av att förstå hur Bilia uppfattas och vilka relationer man skapar. Genom Panelista hade man även möjligheten att dyka ned i detaljer och ställa frågor kring specifika beteenden och preferenser i olika scenarios.
 
 I nästa steg bjöd man in några av de paneldeltagare som visat extra stort engagemang till en så kallad Live Panel. Här fick Bilia en unik möjlighet att genom Propel och Panelista föra fördjupande samtal och hålla en livlig dialog mellan medarbetare och kunder. En oförutsedd bonus var att det uppstod en intensiv dialog även kunderna emellan.
 
