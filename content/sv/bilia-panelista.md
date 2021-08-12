@@ -12,7 +12,7 @@ title = "Bilia & Panelista"
 +++
 **_Bilia erbjuder allt du behöver för ditt bilägande._** _De säljer nya och begagnade bilar, bildelar och tillbehör. I sina service- och skadecenter utför de originalservice och reparationer - och så hjälper de sina kunder med finansiering, försäkring och abonnemangslösningar._
 
-(Den här beskrivningen av Bilia skulle kunna göras kortare) 
+(Den här beskrivningen av Bilia skulle kunna göras kortare)
 
 **Bilia har förstått hur viktigt det är att lyssna på sina kunders behov. Redan idag har man byggt upp en stark personlig relation, där mötet med en servicetekniker, är ett bra exempel. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något helt annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.**
 
@@ -22,7 +22,7 @@ Johan berättar:
 
 (Påhittat citat)
 
-"Jag var otroligt peppad på att starta en dialog med våra kunder. Men helt ärligt visste jag inte i vilken ände jag skulle börja. Därför var den en otrolig fördel att ha Jessica vid min sida redan från start. Tillsammans gick vi igenom allt ifrån vilka kunder som skulle bjudas in till panelen, hur vi skulle hitta de kunderna och hur en personlig inbjudan till dem skulle se ut."
+"Jag var otroligt peppad på att starta en dialog med våra kunder. Men helt ärligt visste jag inte i vilken ände jag skulle börja. Därför var det en otrolig fördel att ha Jessica vid min sida redan från start. Tillsammans gick vi igenom allt ifrån vilka kunder som skulle bjudas in till panelen, hur vi skulle hitta de kunderna och hur en personlig inbjudan till dem skulle se ut."
 
 Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista ta hand om det administrativa arbete som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista faciliterar det löpande arbetet; ställer följdfrågor, markerar intressanta svar och sammanställer de insikter som frågorna ger.
 
