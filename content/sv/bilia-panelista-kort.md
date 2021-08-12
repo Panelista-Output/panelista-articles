@@ -1,12 +1,12 @@
 +++
 authors = []
-date = ""
+date = 2021-08-11T22:00:00Z
 draft = true
-excerpt = ""
-hero = ""
-hero_image_body = ""
-hero_image_title = ""
-timeToRead = 0
+excerpt = "Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbete som krävs för att sköta en panel. "
+hero = "/images/skiss_bilia-2021-08-10.jpg"
+hero_image_body = "Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbete som krävs för att sköta en panel."
+hero_image_title = "Bilia har förstått hur viktigt det är att lyssna på sina kunders behov. "
+timeToRead = 3
 title = "Bilia & Panelista - Kort"
 
 +++
