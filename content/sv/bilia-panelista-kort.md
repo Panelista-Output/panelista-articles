@@ -40,8 +40,6 @@ Tack vare panelen kunde man nu synliggöra olika beteenden, behov och uppfattnin
 
 Även om det var Panelista som startade upp och drev panelen deltog arbetsgruppen på Bilia engagerat i regelbundna avstämningsmöten. Här pratade man om processen och alla de lärdomar man samlat på sig längs vägen. Bilia har hela tiden haft full insyn i panelen och på samtliga avstämningsmöten har det förts livliga samtal om de insikter, kommentarer och frågeställningar som känts extra spännande.
 
-Att skapa en panel kan vara inledningen till ett nytt arbetssätt. För Bilias del blev det en rejäl ögonöppnare för alla möjligheter som finns i Panelista - Man funderar till exempel på att skapa paneler för olika interna projekt nu när Propel/Panelista ska förankra det nya arbetssättet i organisationen.
-
 Nu när panelen är skapad och i full gång känner Bilia att man verkligen ska dra nytta av direktdialogen man har skapat. Plötsligt känns det lätt att interagera med kunderna. Dessutom ger det inte bara resultat - det ger också bra känslor av att se hur engagerade kunderna faktiskt är.
 
 Vad kan väl vara starkare än att ha med kundens röst i hela utvecklingsprocessen? Att verkligen kunna visa ett svar svart på vitt.
