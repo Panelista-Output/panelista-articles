@@ -12,6 +12,8 @@ title = "Bilia & Panelista"
 +++
 **_Bilia erbjuder allt du behöver för ditt bilägande._** _De säljer nya och begagnade bilar, bildelar och tillbehör. I sina service- och skadecenter utför de originalservice och reparationer - och så hjälper de sina kunder med finansiering, försäkring och abonnemangslösningar._
 
+(Den här beskrivningen av Bilia skulle kunna göras kortare) 
+
 **Bilia har förstått hur viktigt det är att lyssna på sina kunders behov. Redan idag har man byggt upp en stark personlig relation, där mötet med en servicetekniker, är ett bra exempel. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något helt annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.**
 
 När Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av oss på Propel/Panelista. Johan Hillmersson, servicemarknadschef på Bilia, inledde ett nära samarbete med vår servicedesigner Jessica Litzel. Tillsammans tog de fram en plan för hur man, på bästa sätt, skulle komma igång med arbetet.
