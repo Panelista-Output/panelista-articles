@@ -10,9 +10,7 @@ timeToRead = 3
 title = "Bilia & Panelista - Kort"
 
 +++
-**_Bilia erbjuder allt du behöver för ditt bilägande._** _De säljer nya och begagnade bilar, bildelar och tillbehör. I sina service- och skadecenter utför de originalservice och reparationer - och så hjälper de sina kunder med finansiering, försäkring och abonnemangslösningar._
-
-(Den här beskrivningen av Bilia skulle kunna göras kortare)
+**_Bilia_** _är en av Europas största bilåterförsäljare och erbjuder allt som rör bilägande._
 
 **Bilia har förstått hur viktigt det är att lyssna på sina kunder för att förstå deras behov. Redan idag har man byggt upp en stark personlig relation, där mötet med en servicetekniker, är ett bra exempel. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något helt annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.**
 
