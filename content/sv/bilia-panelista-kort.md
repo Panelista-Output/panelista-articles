@@ -24,8 +24,6 @@ Johan berättar:
 
 Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbete som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista faciliterar det löpande arbetet; ställer följdfrågor, markerar intressanta svar och sammanställer de insikter som frågorna ger.
 
-Genom den research Propel genomförde på flera av Bilias olika anläggningar i kombination med de insikter man skaffade sig genom panelen kom man fram till slutsatsen att Bilia borde positionera sig bredare. I början av mars 2021 fick Panelista i uppdrag att se över Bilias position på marknaden när det kommer till "glasaffären". Man ville ta reda på mer om de val och behov kunden har när de ska laga ett stenskott i vindrutan.
-
 Jessica, service designer på Panelista, berättar:
 
 "Redan när vi klurade på uppdragsbeskrivningen visste vi att vi ville involvera Bilias medarbetare och kunder genom observationer och intervjuer i vår så kallade Research & Analys fas."
@@ -35,10 +33,6 @@ I Research & Analys fasen skapar man insikter om kundernas beteenden och behov. 
 Bilia ville ta reda på hur kunderna ser på dem som företag. Man var genuint intresserade av att förstå hur Bilia uppfattas och vilka relationer man skapar. Genom Panelista hade man även möjligheten att dyka ned i detaljer och ställa frågor kring specifika beteenden och preferenser i olika scenarios.
 
 För att kunna gå ett steg djupare bjöd man sedan in några av de paneldeltagare som visat extra stort engagemang till en så kallad Live Panel. Här fick Bilia en unik möjlighet att genom Propel och Panelista föra fördjupande samtal och hålla en livlig dialog mellan medarbetare och kunder. En oförutsedd bonus var att det uppstod en intensiv dialog även kunderna emellan.
-
-Tack vare panelen och den fördjupande Live Panelen skaffade man sig insikter genom observation och intervjuer. Av resultatet kunde Propel sedan sammanfatta ett relevant, kreativt och progressivt koncept för Bilia och deras kunder.
-
-När väl konceptet var utvecklat kunde man sedan återgå till samma panel för att testa idéer och prototyper.
 
 Tack vare panelen kunde man nu synliggöra olika beteenden, behov och uppfattningar för att skapa ett nyttigt koncept som man sen kunde iterera och validera tillsammans med samma paneldeltagare. Det är vad vi kallar en perfekt feedbackloop! Involverade kunder - på riktigt.
 
