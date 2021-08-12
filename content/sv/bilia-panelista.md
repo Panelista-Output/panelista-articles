@@ -7,7 +7,7 @@ hero = "/images/skiss_bilia-2021-08-10.jpg"
 hero_image_body = "De visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista ta hand om det administrativa arbetet som krävs för att  sköta en panel och nå banbrytande insikter. "
 hero_image_title = "Bilia har förstått vikten av att lyssna på sina kunder för att förstå deras behov. "
 timeToRead = 4
-title = "Bilia & Panelista"
+title = "Bilia & Panelista - Lång"
 
 +++
 **_Bilia erbjuder allt du behöver för ditt bilägande._** _De säljer nya och begagnade bilar, bildelar och tillbehör. I sina service- och skadecenter utför de originalservice och reparationer - och så hjälper de sina kunder med finansiering, försäkring och abonnemangslösningar._
