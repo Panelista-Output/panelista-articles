@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-08-11T22:00:00Z
 draft = true
 excerpt = "Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbete som krävs för att sköta en panel. "
