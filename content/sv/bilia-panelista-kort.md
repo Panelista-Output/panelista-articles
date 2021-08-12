@@ -14,7 +14,7 @@ title = "Bilia & Panelista - Kort"
 
 **Bilia har förstått hur viktigt det är att lyssna på sina kunders behov. Redan idag har man byggt upp en stark personlig relation, där mötet med en servicetekniker, är ett bra exempel. De är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något helt annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov.**
 
-När Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av oss på Propel/Panelista. Johan, servicemarknadschef på Bilia, inledde ett nära samarbete med vår servicedesigner Jessica. Tillsammans tog de fram en plan för hur man, på bästa sätt, skulle komma igång med arbetet.
+När Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av oss på Propel/Panelista. Johan, servicemarknadschef på Bilia, inledde ett nära samarbete med vår servicedesigner Jessica Litzel. Tillsammans tog de fram en plan för hur man, på bästa sätt, skulle komma igång med arbetet.
 
 Johan berättar:
 
@@ -24,7 +24,7 @@ Johan berättar:
 
 Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista ta han om det administrativa arbete som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista faciliterar det löpande arbetet; ställer följdfrågor, markerar intressanta svar och sammanställer de insikter som frågorna ger.
 
-Jessica, service designer på Panelista, berättar:
+Jessica Litzel, service designer på Panelista, berättar:
 
 "Redan när vi klurade på uppdragsbeskrivningen visste vi att vi ville involvera Bilias medarbetare och kunder genom observationer och intervjuer i vår så kallade Research & Analys fas."
 
