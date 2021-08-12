@@ -24,7 +24,7 @@ Johan berättar:
 
 "Jag var otroligt peppad på att starta en dialog med våra kunder. Men helt ärligt visste jag inte i vilken ände jag skulle börja. Därför var det en otrolig fördel att ha Jessica vid min sida redan från start. Tillsammans gick vi igenom allt ifrån vilka kunder som skulle bjudas in till panelen, hur vi skulle hitta de kunderna och hur en personlig inbjudan till dem skulle se ut."
 
-Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista ta han om det administrativa arbete som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista faciliterar det löpande arbetet; ställer följdfrågor, markerar intressanta svar och sammanställer de insikter som frågorna ger.
+Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista ta hand om det administrativa arbete som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista faciliterar det löpande arbetet; ställer följdfrågor, markerar intressanta svar och sammanställer de insikter som frågorna ger.
 
 Jessica Litzel, service designer på Panelista, berättar:
 
