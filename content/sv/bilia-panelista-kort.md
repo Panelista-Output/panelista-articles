@@ -12,7 +12,7 @@ title = "Bilia & Panelista"
 +++
 **_Bilia är en av Europas största bilåterförsäljare och erbjuder allt som rör bilägande. Redan idag har man byggt upp en stark personlig relation med sina kunder, där mötet med en servicetekniker, är ett bra exempel._** _Bilia är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något helt annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov._
 
-När Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av oss på Propel/Panelista. Bilias servicemarknadschef, Johan Hillmerson, inledde ett nära samarbete med vår servicedesigner Jessica Litzel och tillsammans tog de fram en plan för hur man, på bästa sätt, skulle komma igång med arbetet.
+När Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av oss på Propel/Panelista. Bilias servicemarknadschef, Johan Hillmerson, inledde ett nära samarbete med vår servicedesigner Jessica Litzel. Tillsammans tog de fram en plan för hur man, på bästa sätt, skulle komma igång med arbetet.
 
 Johan berättar:
 
@@ -32,4 +32,4 @@ I nästa steg bjöd man in några av de paneldeltagare som visat extra stort eng
 
 Även om det var Panelista som startade upp och drev panelen deltog arbetsgruppen på Bilia engagerat i regelbundna avstämningsmöten. Här pratade man om processen och alla de lärdomar man samlat på sig längs vägen. Bilia har hela tiden haft full insyn i panelen och på samtliga avstämningsmöten har det förts livliga samtal om de insikter, kommentarer och frågeställningar som känts extra spännande.
 
-Nu när panelen är skapad och i full gång känner Bilia att man verkligen ska dra nytta av direktdialogen man har skapat. Plötsligt känns det lätt att interagera med kunderna. Dessutom ger det inte bara resultat - det ger också bra känslor av att se hur engagerade kunderna faktiskt är. Vad kan väl vara starkare än att ha med kundens röst i hela utvecklingsprocessen? Att verkligen kunna visa ett svar svart på vitt.
+Nu när panelen är uppbyggd och i full gång känner Bilia att man verkligen ska dra nytta av direktdialogen man har skapat. Plötsligt känns det lätt att interagera med kunderna. Dessutom ger det inte bara resultat - det ger också bra känslor av att se hur engagerade kunderna faktiskt är. Vad kan väl vara starkare än att ha med kundens röst i hela utvecklingsprocessen? Att verkligen kunna visa ett svar svart på vitt.
