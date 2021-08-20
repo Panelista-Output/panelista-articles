@@ -5,7 +5,7 @@ draft = true
 excerpt = "Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbete som krävs för att sköta en panel. "
 hero = "/images/skiss_bilia-2021-08-10.jpg"
 hero_image_body = "De visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista ta hand om det administrativa arbete som krävs för att sköta en panel."
-hero_image_title = "Bilia tar hjälp av Panelista för att förstå sina kunders behov. "
+hero_image_title = "Bilia tar hjälp av Panelista, med det praktiska arbete som krävs,  för att verkligen förstå sina kunders behov. "
 timeToRead = 2
 title = "Bilia & Panelista"
 
