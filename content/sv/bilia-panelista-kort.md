@@ -6,7 +6,7 @@ excerpt = "Bilia visste vad de ville fråga sina kunder men tackade glatt ja til
 hero = "/images/skiss_bilia-2021-08-10.jpg"
 hero_image_body = "Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta Panelista ta hand om det praktiska arbete som krävs för att sköta en panel."
 hero_image_title = "Bilia tar hjälp av Panelista för att verkligen förstå sina kunders behov. "
-timeToRead = 2
+timeToRead = 3
 title = "Bilia & Panelista"
 
 +++
