@@ -18,7 +18,7 @@ Johan berättar:
 
 (Påhittat citat)
 
-"Jag var otroligt peppad på att affärsutveckla Bilia och insåg hur många fördelar det skulle vara att ha en kundpanel där vi i teamet lätt och snabbt skulle kunna ha en dialog med våra kunder. Men helt ärligt visste jag inte i vilken ände jag skulle börja. Därför var det en otrolig smidigt att ha Jessica vid min sida redan från start. Tillsammans gick vi igenom allt ifrån vilka kunder som skulle bjudas in till panelen, hur vi skulle hitta de kunderna, hur en personlig inbjudan till dem skulle se ut och dessutom få hjälp att skiva manus till de frågor vi ville ställa."
+"För att kunna affärsutveckla Bilia och ta fram konkreta tjänster, som är intressanta för våra kunder, måste vi så klart veta vilka behov våra kunder har. Jag insåg snabbt hur många fördelar det finns med att ha en kundpanel där vi i teamet lätt och snabbt kan föra en dialog med våra kunder. Det var otrolig smidigt att ha Jessica vid min sida redan från start. Tillsammans gick vi igenom allt ifrån vilka kunder som skulle bjudas in till panelen, hur vi skulle hitta de kunderna, hur en personlig inbjudan till dem skulle se ut och dessutom få hjälp att formulera de  frågor vi ville ställa."
 
 Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista ta hand om det praktiska arbete som krävs för att sköta en panel. Så rent konkret gjorde man så att Jessica hjälpte till med alla de steg som krävs för att sätta ihop en panel med engagerade kunder och skrev manus till de frågor som Johan sedan spelade in och ställde till paneldeltagarna. Panelista faciliterar det löpande arbetet; ställer följdfrågor, markerar intressanta svar och sammanställer de insikter som frågorna ger.
 
