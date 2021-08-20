@@ -5,12 +5,12 @@ draft = true
 excerpt = "Bilia visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista sköta det administrativa arbete som krävs för att sköta en panel. "
 hero = "/images/skiss_bilia-2021-08-10.jpg"
 hero_image_body = "De visste vad de ville fråga sina kunder men tackade glatt ja till att låta oss på Panelista ta hand om det administrativa arbete som krävs för att sköta en panel."
-hero_image_title = "Bilia har förstått hur viktigt det är att lyssna på sina kunder för att förstå deras behov. "
+hero_image_title = "Bilia tar hjälp av Panelista för att förstå sina kunders behov. "
 timeToRead = 2
 title = "Bilia & Panelista"
 
 +++
-**_Bilia är en av Europas största bilåterförsäljare och erbjuder allt som rör bilägande. Redan idag har man byggt upp en stark personlig relation med sina kunder, där mötet med en servicetekniker, är ett bra exempel._** _Bilia är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något helt annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov._
+**_Bilia är en av Europas största bilåterförsäljare och erbjuder allt du behöver som bilanvändare. Redan idag har man byggt upp en stark personlig relation med sina kunder, där mötet med en servicetekniker, är ett bra exempel._** _Bilia är dessutom kloka nog att inse att det är en sak att vilja lyssna på sina kunder - men något helt annat att veta hur man på bästa sätt fångar upp kundernas önskningar och behov._
 
 När Bilia var redo att involvera sina kunder i utvecklingen av nya tjänster valde man att ta hjälpa av oss på Propel/Panelista. Bilias servicemarknadschef, Johan Hillmerson, inledde ett nära samarbete med vår servicedesigner Jessica Litzel. Tillsammans tog de fram en plan för hur man, på bästa sätt, skulle komma igång med arbetet.
 
