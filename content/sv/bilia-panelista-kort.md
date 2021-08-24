@@ -16,8 +16,12 @@ _"För att kunna affärsutveckla Bilia och ta fram konkreta tjänster, som är i
 
 Med Panelistas hjälp bjöd Bilia in ett hundratal befintliga kunder till den digitala panel som nu fungerar som en direktlänk mellan Johans team på Bilia och ett gäng engagerade Biliakunder. Bilia vill ta reda på hur kunderna ser på dem som företag och viktigast av allt; vilka behov av tjänster man har för att komma vidare i affärsutvecklingen. ~~Genom Panelista har man nu även möjlighet att dyka ner i detalj och ställa frågor kring specifika beteenden och preferenser i olika scenarios.~~
 
+{{< sv/visitpanelista >}}
+
 I nästa steg har man bjudit in några av de paneldeltagare som visat extra stort engagemang till en så kallad Live Panel. Här får Bilia en unik möjlighet, att genom Panelista, fördjupa samtalet och hålla en livlig dialog mellan medarbetare och kunder. En bonus är att det uppstår dialoger även kunderna emellan som Bilia kunnat ta del av. Tack vare panelen kan man nu synliggöra olika beteenden, behov och uppfattningar för att skapa ett nyttigt koncept som man sen kan iterera och validera tillsammans med samma paneldeltagare.
 
 Johan berättar vidare: _“Nu tittar vi på hur vi kan skapa feedbackloopar i delar av kundresan där vi känner att vi vill utveckla kundupplevelsen eller erbjudandet ytterligare. ~~Med personliga videofrågor~~ som vi med hjälp av Panelista kan placera ut vid rätt tillfälle i kundresan, både digitalt och fysiskt, får vi möjligheten att enkelt fånga upp värdefull feedback och skapa djupa kunddialoger.”_ Tillsammans med Panelista-teamet har man kontinuerliga avstämningar för att säkerställa att arbetet ger de resultat man önskar och livliga samtal förs om de nya insikter, kommentarer och frågeställningar som känns extra spännande.
 
 _“Det har aldrig känts lättare och mer stimulerande att interagera med våra kunder. Dessutom ger det inte bara resultat ~~- det ger också bra känslor av att se hur engagerade kunderna faktiskt är.~~ Vad kan väl vara starkare än att ha med kundens röst i hela utvecklingsprocessen? Att kunna utveckla våra tjänster och veta att kunderna efterfrågat det, svart på vitt.”_
+
+{{< sv/subscribe >}}
