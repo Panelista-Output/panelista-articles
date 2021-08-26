@@ -1,7 +1,6 @@
 +++
 authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-08-11T22:00:00Z
-draft = true
 excerpt = "Bilia tar hjälp av Panelista för effektivare affärsutveckling."
 hero = "/images/bilia-2021-08-26.jpg"
 hero_image_body = "Med stöd från Panelista kunde man testa nya grepp att involvera kunder i utveckling av sina tjänster och erbjudanden."
