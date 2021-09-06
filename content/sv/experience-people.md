@@ -4,8 +4,8 @@ date = ""
 draft = true
 excerpt = ""
 hero = ""
-hero_image_body = ""
-hero_image_title = ""
+hero_image_body = "Med hjälp av Panelista kan du validera idéer och utforska behov. "
+hero_image_title = "Smarta tips till dig som arbetar med service design.  "
 timeToRead = 0
 title = "Experience People"
 
