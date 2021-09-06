@@ -5,7 +5,7 @@ draft = true
 excerpt = ""
 hero = "/images/skiss_bilia-2021-08-10.jpg"
 hero_image_body = "Med hjälp av Panelista kan du validera idéer och utforska behov. "
-hero_image_title = "Smarta tips till dig som arbetar med service design.  "
+hero_image_title = "Vi bjuder på smarta tips till dig som arbetar med service design.  "
 timeToRead = 0
 title = "Experience People"
 
