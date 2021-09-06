@@ -7,7 +7,7 @@ hero = "/images/skiss_bilia-2021-08-10.jpg"
 hero_image_body = "Med hjälp av Panelista kan du validera idéer och utforska behov. "
 hero_image_title = "Vi bjuder på smarta tips till dig som arbetar med service design.  "
 timeToRead = 0
-title = "Experience People"
+title = "Så här kan du som arbetar med UX/UI ta hjälp av Panelista i de olika steg som tas när en ny sak eller produkt skapas."
 
 +++
 **Visst är vi alla överens om att man tillsammans med sina kunder ska utforska behov, testa idéer och utvärdera det man vill skapa eller lansera - för att vara så träffsäker som möjligt?! Samtidigt hamnar vi, som utvecklar produkter och tjänster, ofta för långt ifrån våra kunder eller utan ett smidigt sätt att involvera dem löpande.**
