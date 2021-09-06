@@ -10,13 +10,29 @@ timeToRead = 0
 title = "Experience People"
 
 +++
-Panelista används ofta av UX/produktteam för att gå igenom några eller alla dessa steg när en ny sak skapas:
+Så här kan du, som arbetar med UX/UI, ta hjälpa av Panelista i de olika steg som tas när en ny sak eller produkt skapas. 
 
-* **Utforska behov** med mycket öppna frågor som; "Ska vi erbjuda en prenumeration? Och i så fall, vad är viktigt för dig?" + massor av uppföljande frågor i kommentarerna för att lära dig ännu mer.
-* **Prioritera behov** med frågor som; "Vilken av dessa fyra saker är viktigast för dig?”
-* **Validera idéer** med frågor som; "Vi tror att en prenumeration kan fungera så här, vad tycker du?”
-* **Testa mönster** med frågor som; "Kolla gärna in den här sidan om vårt nya abonnemang, vad tycker du?”
-* **Intervju utvalda användare** under ett videosamtal.
+**Utforska behov**
+
+Via Panelista kan du ställa mycket öppna frågor som "Ska vi erbjuda en prenumeration? Och i så fall, vad är viktigt för dig i samband med det?" Möjligheten till uppföljande frågor är oändlig och i kommentarerna lär du dig ännu mer. 
+
+**Prioritera behov** 
+
+Ställ frågor som "Vilken av följande, fyra saker är viktigast för dig?”. Via insiktsrapporten i Panelista rangordnar du smidigt vad som är mer eller mindre viktigt att fortsätta arbeta med. 
+
+ 
+
+**Validera idéer** 
+
+Genom att ställa frågor som "Vi tror att en prenumeration kan fungera så här, vad tycker du?” får du konkreta svar på dina kunders behov. 
+
+**Testa mönster** 
+
+Genom Panelista kan du bjuda in till tyckande."Kolla gärna in den här sidan om vårt nya abonnemang. Vad tycker du?”
+
+**Intervju utvalda användare** 
+
+Vi gör det lätt, kul och smidigt att föra en dialog med en utvald grupp användare under ett videosamtal.
 
 Panelista funktioner som används i ovanstående steg:
 
