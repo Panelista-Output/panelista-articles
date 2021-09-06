@@ -18,8 +18,7 @@ Ja, förrän nu då när man med det digitala verktyget och arbetssättet som ä
 
 _Här tipsar Anders dig som arbetar med UX/UI om hur du kan ta hjälp av Panelista i de olika steg som tas när en ny sak eller produkt skapas._
 
-**Utforska behov**
-Via Panelista kan du ställa mycket öppna frågor som "Ska vi erbjuda en prenumeration? Och i så fall, vad är viktigt för dig i samband med det?" Möjligheten till uppföljande frågor är oändlig och i kommentarerna lär du dig ännu mer.
+**Utforska behov** Via Panelista kan du ställa öppna frågor som "Ska vi erbjuda en prenumeration? Och i så fall, vad är viktigt för dig i samband med det?" Möjligheten till uppföljande frågor är oändlig och i kommentarerna lär du dig ännu mer.
 
 **Prioritera behov**
 Ställ frågor som "Vilken av följande, fyra saker är viktigast för dig?”. Via insiktsrapporten i Panelista rangordnar du smidigt vad som är mer eller mindre viktigt att fortsätta arbeta med.
