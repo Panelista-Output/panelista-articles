@@ -15,9 +15,13 @@ title = "Så här använder UX och service designers Panelista. "
   
 Här delar Anders, en av grundarna till Panelista, med sig av lite tips på hur man som UX och service designer använder Panelistas snabba feedbackloopar i designprocessens olika faser. _"Det är även så vi själva jobbar för att utveckla Panelista!"_, säger Anders. 
 
-Med Panelista så ställer man som företag frågor och beskriver idéer i videoformat, och kunderna svarar med text, bild och ibland sorterade alternativ (card sorting). Metoden med videofrågor gör att det blir personligt vilket ger ett högt engagemang och feedback av hög kvalitet varje gång. Loopa igenom några eller samtliga steg nedan när något nytt tas fram, du får väldigt mycket tillbaka med en liten insats.
+Som företag ställer man frågor och beskriver idéer i videoformat genom Panelista. Kunderna svarar sedan i sin tur med text, bild och ibland även "sorterade alternativ". Metoden med videofrågor gör att det blir personligt - man får ett högt engagemang och kvalitativ feedback varje gång.
 
-**Utforska behov** Via Panelista kan du ställa öppna frågor som "Ska vi erbjuda en prenumeration? Och i så fall, vad är viktigt för dig i samband med det?" Möjligheten till uppföljande frågor är oändlig och i kommentarerna lär du dig ännu mer.
+Ett bra tips är att du loopar igenom några eller samtliga av stegen som är listade här nedanför. Ett lätt sätt att få mycket tillbaka trots ganska liten insats helt enkelt!
+
+**Utforska behov** 
+
+Via Panelista kan du ställa öppna frågor som **_"Ska vi erbjuda en prenumeration? Och i så fall, vad är viktigt för dig i samband med det?"_** Du får 30-40 fylliga svar på bara några timmar och möjligheten till uppföljande frågor är oändlig. Ett plus är att du i kommentarerna lär dig ännu mer.
 
 **Prioritera behov**
 Ställ frågor som "Vilken av följande, fyra saker är viktigast för dig?”. Via insiktsrapporten i Panelista rangordnar du smidigt vad som är mer eller mindre viktigt att fortsätta arbeta med.
