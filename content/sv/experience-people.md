@@ -10,15 +10,13 @@ timeToRead = 0
 title = "Så här använder UX och service designers Panelista. "
 
 +++
-### **För att bli riktigt träffsäkra i sitt designarbete använder de som skapar kund- och användarupplevelser på företag som Avanza, Bonnier och Södra, den digitala tjänsten Panelista.**
+#### **För att bli riktigt träffsäkra i sitt designarbete använder de som skapar kund- och användarupplevelser på företag som Avanza, Bonnier och Södra, den digitala tjänsten Panelista.**
+
+_Här delar Anders, en av grundarna till Panelista, med sig av lite tips på hur man som UX och service designer använder Panelistas snabba feedbackloopar i designprocessens olika faser. "Det är även så vi själva jobbar för att utveckla Panelista!", säger Anders._
 
 
-##### Här delar Anders, en av grundarna till Panelista, med sig av lite tips på hur man som UX och service designer använder Panelistas snabba feedbackloopar i designprocessens olika faser. _"Det är även så vi själva jobbar för att utveckla Panelista!"_, säger Anders.
+Som företag ställer man frågor och beskriver idéer i videoformat genom Panelista. Kunderna svarar sedan i sin tur med text, bild och ibland även sorterade alternativ (card sorting). Metoden med videofrågor gör att det blir personligt - man får ett högt engagemang och kvalitativ feedback varje gång. Ett bra tips är att du loopar igenom några eller samtliga av stegen som är listade här nedanför. Ett lätt sätt att få mycket tillbaka trots ganska liten insats helt enkelt!
 
-
-Som företag ställer man frågor och beskriver idéer i videoformat genom Panelista. Kunderna svarar sedan i sin tur med text, bild och ibland även sorterade alternativ (card sorting). Metoden med videofrågor gör att det blir personligt - man får ett högt engagemang och kvalitativ feedback varje gång.
-
-Ett bra tips är att du loopar igenom några eller samtliga av stegen som är listade här nedanför. Ett lätt sätt att få mycket tillbaka trots ganska liten insats helt enkelt!
 
 ### **Utforska behov**
 
