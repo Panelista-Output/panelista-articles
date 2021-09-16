@@ -34,9 +34,8 @@ Genom att ställa frågor som **_"Vi tror att en prenumeration kan fungera så h
 Genom Panelista kan du bjuda in till tyckande."Kolla gärna in den här sidan om vårt nya abonnemang. Vad tycker du?”
 
 **Intervju utvalda användare**
-Vi gör det lätt, kul och smidigt att föra en dialog med en utvald grupp användare under ett videosamtal.
 
-_Så här går det till om du använder dig av Panelista för att genomföra stegen ovan._
+Vill du gå ännu mer på djupet med några av kunderna kan du snabbt och enkelt bjuda in dem till en intervju. Till exempel välja fem av de kunder som gav konstruktiv feedback på senaste videofrågan inom ett specifikt område.
 
 **Utforska behov**
 Med hjälp av din mobil spelar du in en videofråga som sedan skickas till en panel av användare. Du kan också placera din videofråga på en relevant plats där användare kommer att se det som en länk, widget eller QR-kod.
