@@ -4,10 +4,10 @@ date = ""
 draft = true
 excerpt = ""
 hero = "/images/skiss_bilia-2021-08-10.jpg"
-hero_image_body = "Så här kan du som arbetar med UX/UI ta hjälp av Panelista i de olika steg som tas när en ny sak eller produkt skapas."
+hero_image_body = "Så här kan du som arbetar med UX och service design ta hjälp av Panelista i din designprocess. "
 hero_image_title = "Med hjälp av Panelista kan du validera idéer och utforska behov."
 timeToRead = 0
-title = "Smarta tips till dig som arbetar med service design. "
+title = "Så här använder UX och service designers Panelista. "
 
 +++
 **Visst är vi alla överens om att man tillsammans med sina kunder ska utforska behov, testa idéer och utvärdera det man vill skapa eller lansera - för att vara så träffsäker som möjligt?! Samtidigt hamnar vi, som utvecklar produkter och tjänster, ofta för långt ifrån våra kunder eller utan ett smidigt sätt att involvera dem löpande.**
