@@ -10,13 +10,10 @@ timeToRead = 0
 title = "Så här använder UX och service designers Panelista. "
 
 +++
-**Visst är vi alla överens om att man tillsammans med sina kunder ska utforska behov, testa idéer och utvärdera det man vill skapa eller lansera - för att vara så träffsäker som möjligt?! Samtidigt hamnar vi, som utvecklar produkter och tjänster, ofta för långt ifrån våra kunder eller utan ett smidigt sätt att involvera dem löpande.**
+**På företag som Avanza, Bonnier och Södra använder de som skapar kund- och användarupplevelser den digitala tjänsten Panelista - för att bli riktigt träffsäkra i sitt designarbete.** 
 
-Efter att ha arbetat med produktledning i 12 år var Anders Palm med och grundade Panelista. Man kan faktiskt säga att själva idén till Panelista föddes ur ren frustration, över att det aldrig riktigt blir så där som vi beskriver i texten ovan.
-
-Ja, förrän nu då när man med det digitala verktyget och arbetssättet som är Panelistas kan arbeta precis så agilt som man vill och behöver.
-
-_Här tipsar Anders dig som arbetar med UX/UI om hur du kan ta hjälp av Panelista i de olika steg som tas när en ny sak eller produkt skapas._
+  
+Här delar Anders, en av grundarna till Panelista, med sig av lite tips på hur man som UX och service designer använder Panelistas snabba feedbackloopar i designprocessens olika faser. _"Det är även så vi själva jobbar för att utveckla Panelista!"_, säger Anders. 
 
 **Utforska behov** Via Panelista kan du ställa öppna frågor som "Ska vi erbjuda en prenumeration? Och i så fall, vad är viktigt för dig i samband med det?" Möjligheten till uppföljande frågor är oändlig och i kommentarerna lär du dig ännu mer.
 
