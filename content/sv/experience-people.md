@@ -20,7 +20,7 @@ Via Panelista kan du ställa öppna frågor som **_"Ska vi erbjuda en prenumerat
 
 ##### **Prioritera behov**
 
-Ställ frågor som **_"Vilken av följande, fyra saker är viktigast för dig?”_**. Kunderna väljer de alternativ de tycker är viktiga, sorterar dem sedan i den ordning de väljer att prioriterar och motiverar sedan varför de prioriterat som de gjort. Fungerar precis som metoden "card sorting" som är vanlig i kundintervjuer.
+Ställ frågor som **_"Vilken av följande, fyra saker är viktigast för dig?”_**. Kunderna väljer de alternativ de tycker är viktiga, sorterar dem sedan i den ordning de väljer att prioriterar och motiverar därefter varför de prioriterat som de gjort. Fungerar precis som metoden "card sorting" som är vanlig i kundintervjuer.
 
 ##### **Testa idéer**
 
