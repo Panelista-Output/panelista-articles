@@ -24,7 +24,7 @@ Via Panelista kan du ställa öppna frågor som **_"Ska vi erbjuda en prenumerat
 
 ##### **Prioritera behov**
 
-Ställ frågor som **_"Vilken av följande, fyra saker är viktigast för dig?”_**. Kunderna väljer de alternativ de tycker är viktiga, sorterar dem sedan i den ordning de väljer att prioriterar och motiverar sedan varför de prioriterat som de gjort. Fungerar precis som metoden "card sorting" som är vanlig i kundintervjuer."
+Ställ frågor som **_"Vilken av följande, fyra saker är viktigast för dig?”_**. Kunderna väljer de alternativ de tycker är viktiga, sorterar dem sedan i den ordning de väljer att prioriterar och motiverar sedan varför de prioriterat som de gjort. Fungerar precis som metoden "card sorting" som är vanlig i kundintervjuer.
 
 ##### **Testa idéer**
 
@@ -33,7 +33,7 @@ Genom att ställa frågor som **_"Vi tror att en prenumeration kan fungera så h
 ##### **Testa design**
 
 
-Genom Panelista kan du bjuda in till tyckande."Kolla gärna in den här sidan om vårt nya abonnemang. Vad tycker du?”
+Genom Panelista kan du bjuda in till tyckande.**_"Kolla gärna in den här sidan om vårt nya abonnemang. Vad tycker du?”_**
 
 ##### **Intervju utvalda användare**
 
