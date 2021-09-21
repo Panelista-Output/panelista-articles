@@ -24,6 +24,8 @@ Via Panelista kan du löpande ställa öppna frågor som **_"Ska vi erbjuda ett 
 
 Ställ frågor som **_"Vilken av följande, fyra saker är viktigast för dig?”_**. Kunderna väljer de alternativ de tycker är viktiga, sorterar dem sedan i den ordning de väljer att prioritera och motiverar därefter varför de prioriterat som de gjort. Fungerar precis som metoden "card sorting" som är vanlig i kundintervjuer. Du får både statistik och motiveringar som hjälper dig i dina prioriteringar.
 
+{{< sv/subscribe >}}
+
 ##### **Testa idéer**
 
 Genom att ställa frågor som **_"Vi tror att ett abonnemang kan fungera så här, vad tycker du?”_** får du konkreta svar på om din idé uppfyller dina kunders behov tidigt i processen. Våga testa idéer med riktiga kunder redan på whiteboard-stadiet!
@@ -37,3 +39,5 @@ Genom Panelista kan du snabbt testa skisser, prototyper och designs.**_"Kolla in
 Vill du gå ännu mer på djupet med några av kunderna kan du snabbt och enkelt bjuda in dem till en intervju. Till exempel välja fem av de kunder som gav konstruktiv feedback på senaste videofrågan.
 
 ##### Testa att använda videofrågor som en naturlig del av din designprocess! Det är ett enkelt sätt att vara personlig på distans och snabbt få in feedback av riktigt hög kvalitet. [Boka en demo](https://panelista.com/demo) om du vill höra mer och testa själv.
+
+{{< sv/visitpanelista >}}
