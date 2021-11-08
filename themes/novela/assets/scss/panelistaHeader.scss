@@ -55,19 +55,10 @@ a.header-button, button.header-button {
   color: var(--accent);
   margin-left: 12px;
   transition: background-color 0.3s;
-  
-  // &:hover {
-  //   background-color: rgba(0, 0, 0, 0.03);
-  // }
-  
-  // &:active {
-  //   background-color: rgba(0, 0, 0, 0.08);
-  // }
 }
 
 a.header-button.primary-button {
-  // background-color: #fff2f6;
-  color: #e91060;
+  color: #0E494D;
 }
 
 .mobile-dropdown-content {
@@ -94,7 +85,7 @@ a.header-button.primary-button {
     margin-bottom: 8px;
 
     &.primary-button {
-      background-color: #e91060;
+      background-color: #0E494D;
       color: white;
     }
     
