@@ -2,7 +2,7 @@
 authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-04-10T22:00:00Z
 excerpt = "Fler paneler - ett sätt att jobba kvalitativt med olika målgrupper."
-hero = "/images/bonnier-smaller-2021-04-16.jpg"
+hero = "/images/bonnier-2021-11-19.jpeg"
 hero_image_body = "Kunder och läsare som är med i panelerna berättar att de verkligen gillar verktyget. Panelista gör det lätt, snyggt och kul att vara med och bidra."
 hero_image_title = "Panelista har verkligen överträffat förväntningarna kring värdet - hur mycket vi lär oss och kan fördjupa oss."
 timeToRead = 3
