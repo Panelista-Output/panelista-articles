@@ -2,7 +2,7 @@
 authors = ["Anders Palm"]
 date = 2021-11-22T23:00:00Z
 draft = true
-excerpt = "How designers use Panelista in the different phases of the design process."
+excerpt = "How designers use Panelista in the different stages of the design process."
 hero = ""
 hero_image_body = ""
 hero_image_title = ""
@@ -10,23 +10,26 @@ timeToRead = 3
 title = "Panelista for designers"
 
 +++
-Designers at many of Sweden's best known companies are using Panelista’s quick feedback loops to clearly understand the user needs BEFORE designing, and to then create things that actually fulfill the user needs. 
+Designers at many of Sweden's best known companies are using Panelista’s quick feedback loops to clearly ~~understand the user needs BEFORE designing~~, and to then create things that actually fulfill the user needs. 
 
 In this article we describe how these designers work, and this also happens to be how we work when we develop Panelista.
 
-Designers think of using panels on Panelista as their team gaining the capability to quickly get high-quality feedback from 30-40 users with very little effort. With touchpoints on Panelista they are also able to place questions within prototypes, websites, and apps to evaluate how they perform. 
+Designers think of using panels on Panelista as their team gaining the capability to ~~quickly get high-quality feedback from 30-40 users with very little effort~~. With touchpoints on Panelista they are also able to place questions within prototypes, websites, and apps to evaluate how they perform. 
 
 The need for feedback is different at different stages of the design process; first it is essential to understand the user needs clearly, then to prioritize them according to what will create the most value, then to be able to fulfill them well by testing ideas, designs and prototypes, and last but not least, to evaluate what has been released.
 
 Panelista’s quick feedback loops are a great way to make the design process more user needs-driven and efficient. The people creating things for the users have quick and easy access to the users every single day, and can use our proven method for continuous discovery and user research.
-3 keys for a great design process
+
+#3 keys for a great design process
 In UX, Service Design, CX, Design Thinking, Lean UX, and agile frameworks the following three components are essential to maximize the value created by your team.
 
-Use hypothesis driven design
+*Use hypothesis driven design*
 This is mainly a mindset shift, from “we know” to “we will find out”. Think of every idea and design as a hypothesis until it reaches actual users. Create a hypothesis based on the insights you have today, and be open to make changes.
-Do things in small steps
-Take your hypothesis and figure out the simplest possible way to test it. Sometimes it is better to simply describe something in words, sometimes you need a clickable prototype. It is cheaper and faster to make changes on the whiteboard than in a design or the actual product. And you will be more open to make changes before you have spent lots of time on something. 
-Create quick feedback loops
+
+*Do things in small steps*
+Take your hypothesis and figure out the simplest possible way to test it. Sometimes it is better to simply describe something in words, sometimes you need a clickable prototype. It is cheaper and faster to make changes on the whiteboard than in a design or the actual product. And you will be more open to make changes before you have spent lots of time on something.
+
+*Create quick feedback loops*
 Create the capability for your team to quickly create something, test it, and learn. The faster you can go through a feedback loop like this, the more likely it is that you will do it frequently. You will still need to do the creating, but Panelista can help with the testing and continuous learning!
 Step by step in Panelista
 Designers loop through one or several of these steps when creating new things.
