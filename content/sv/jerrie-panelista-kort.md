@@ -2,7 +2,7 @@
 authors = ["Anna Lena Mayor Ekeblad"]
 date = 2021-04-28T22:00:00Z
 excerpt = "Rekryteringsföretaget Jerrie vågar ställa de svåra frågorna och lyssnar noga när kunderna svarar. "
-hero = "/images/header_jerrie-2021-05-04.jpg"
+hero = "/images/jerrie-2021-11-19.jpeg"
 hero_image_body = "Rekryteringsföretaget Jerrie vågar ställa de svåra frågorna och lyssnar noga när kunderna svarar. "
 hero_image_title = "Panelista ger våra kandidater en röst - både till de som vill ge oss kritik och de som är väldigt konstruktiva."
 timeToRead = 2
