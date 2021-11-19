@@ -48,9 +48,7 @@ Ask your panel for input to test ideas with questions like; *"We think that a su
 Ask your panel to check out a design or prototype by showing it in the video or linking to it together with a question like; *"Please sign up for a new subscription in this prototype, what are the best and the worst things about this experience?"*. You can also test a prototype by placing a touchpoint question as a link on a view within the prototype itself such as; *“You just signed up for a new subscription, what were the best and the worst things about this experience?”*.
 
 #### Evaluate what you have released
-Ask your panel to try out something that is already available with questions like *“Try out our new subscription calculator, what is good and bad (don’t hold back!)?”*.
-
-Place a touchpoint in your app or website or email or even in a physical space like a store or bus stop to understand if it is a good experience with questions relevant in that context like; *“How easy was it to get started with a subscription?”* right after setting up a subscription.
+Ask your panel to try out something that is already available with questions like *“Try out our new subscription calculator, what is good and bad (don’t hold back!)?”*. Place a touchpoint in your app or website or email or even in a physical space like a store or bus stop to understand if it is a good experience with questions relevant in that context like; *“How easy was it to get started with a subscription?”* right after setting up a subscription.
 
 #### Interview users
 There will be users who give great answers to the questions where you explore needs and test ideas and designs, and you can easily ask them in the comments if it is OK that you contact them to arrange an interview if you want to dig even deeper, share screens etc. You have their contact info in Panelista which makes it easy to reach out.
