@@ -23,13 +23,13 @@ Panelista’s quick feedback loops are a great way to make the design process mo
 ## 3 keys for a great design process
 ~~In UX, Service Design, CX, Design Thinking, Lean UX, and agile frameworks the following three components are essential~~ to maximize the value created by your team.
 
-#### Use hypothesis driven design
+#### 1. Use hypothesis driven design
 This is mainly a mindset shift, from “we know” to “we will find out”. Think of every idea and design as a hypothesis until it reaches actual users. Create a hypothesis based on the insights you have today, and be open to make changes.
 
-#### Do things in small steps
+#### 2. Do things in small steps
 Take your hypothesis and figure out the simplest possible way to test it. Sometimes it is better to simply describe something in words, sometimes you need a clickable prototype. It is cheaper and faster to make changes on the whiteboard than in a design or the actual product. And you will be more open to make changes before you have spent lots of time on something.
 
-#### Create quick feedback loops
+#### 3. Create quick feedback loops
 Create the capability for your team to quickly create something, test it, and learn. The faster you can go through a feedback loop like this, the more likely it is that you will do it frequently. You will still need to do the creating, but Panelista can help with the testing and continuous learning!
 
 ## Step by step in Panelista
