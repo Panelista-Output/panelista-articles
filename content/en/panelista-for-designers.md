@@ -16,7 +16,7 @@ In this article we describe how these designers work, and this also happens to b
 
 Designers think of using panels on Panelista as their team gaining the capability to ~~quickly get high-quality feedback from 30-40 users with very little effort~~. With touchpoints on Panelista they are also able to place questions within prototypes, websites, and apps to evaluate how they perform. 
 
-The need for feedback is different at different stages of the design process; first it is essential to understand the user needs clearly, then to be able to fulfill them well by testing ideas, designs and prototypes, and last but not least, to evaluate what has been released.
+The need for feedback is different at different stages of the design process; first it is important to understand the user needs clearly, then to be able to fulfill them well by testing ideas, designs and prototypes, and last but not least, to evaluate what has been released.
 
 Panelista’s quick feedback loops are a great way to make the design process more user needs-driven and efficient. The people creating things for the users have quick and easy access to the users every single day, and can use our proven method for continuous discovery and user research.
 
