@@ -20,7 +20,7 @@ The need for feedback is different at different stages of the design process; fi
 
 Panelista’s quick feedback loops are a great way to make the design process more user needs-driven and efficient. The people creating things for the users have quick and easy access to the users every single day, and can use our proven method for continuous discovery and user research.
 
-##3 keys for a great design process
+## 3 keys for a great design process
 In UX, Service Design, CX, Design Thinking, Lean UX, and agile frameworks the following three components are essential to maximize the value created by your team.
 
 **Use hypothesis driven design**
@@ -32,7 +32,7 @@ Take your hypothesis and figure out the simplest possible way to test it. Someti
 **Create quick feedback loops**
 Create the capability for your team to quickly create something, test it, and learn. The faster you can go through a feedback loop like this, the more likely it is that you will do it frequently. You will still need to do the creating, but Panelista can help with the testing and continuous learning!
 
-##Step by step in Panelista
+## Step by step in Panelista
 Designers loop through one or several of these steps when creating new things.
 
 **Explore user needs**
@@ -56,4 +56,4 @@ Place a touchpoint in your app or website or email or even in a physical space l
 There will be users who give great answers to the questions where you explore needs and test ideas and designs, and you can easily ask them in the comments if it is OK that you contact them to arrange an interview if you want to dig even deeper, share screens etc. You have their contact info in Panelista which makes it easy to reach out.
 
 
-__Want to bounce ideas? Just drop us a line at coach@panelista.com__
+*Want to bounce ideas? Just drop us a line at coach@panelista.com*
