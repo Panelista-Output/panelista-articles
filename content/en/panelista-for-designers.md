@@ -10,7 +10,7 @@ timeToRead = 3
 title = "Panelista for designers"
 
 +++
-Designers at many of Sweden's best known companies are using Panelista’s quick feedback loops to clearly ~~understand the user needs BEFORE designing~~, and to then create things that actually fulfill the user needs. 
+Designers at many of Sweden's best known companies are using Panelista’s quick feedback loops to clearly ~~understand the user needs BEFORE creating something new~~, and to then create something that actually fulfills the user needs. 
 
 In this article we describe how these designers work, and this also happens to be how we work when we develop Panelista.
 
