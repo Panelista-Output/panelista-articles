@@ -2,7 +2,7 @@
 authors = ["Oscar Månsson Grahn"]
 date = 2020-11-22T23:00:00Z
 excerpt = "Laszlo Fischer på ProAgile berättar hur din organisation kan bli agil på riktigt."
-hero = "/images/fem_smarta-2021-04-19.jpg"
+hero = "/images/agile-organisation-2021-11-19.jpeg"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 5
