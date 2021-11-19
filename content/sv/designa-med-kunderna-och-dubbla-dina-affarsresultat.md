@@ -2,7 +2,7 @@
 authors = ["Charlotta Alexen"]
 date = 2020-10-01T22:00:00Z
 excerpt = "Kunddrivna företag är mer lönsamma. Charlotta Alexén ger dig 5 enkla sätt som hjälper dig och ditt företag igång."
-hero = "/images/group-7-2021-04-19.jpg"
+hero = "/images/design-with-customers-2021-11-19.jpeg"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 3
