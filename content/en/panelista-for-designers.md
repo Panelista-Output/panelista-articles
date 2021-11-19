@@ -2,10 +2,10 @@
 authors = ["Anders Palm"]
 date = 2021-11-22T23:00:00Z
 draft = true
-excerpt = "How designers use Panelista in the different stages of the design process."
+excerpt = "How designers use Panelista's fast feedback loops in the different stages of the design process."
 hero = ""
 hero_image_body = ""
-hero_image_title = ""
+hero_image_title = "Explore needs, test ideas, and evaluate experiences with Panelista"
 timeToRead = 4
 title = "Panelista for designers"
 
@@ -18,7 +18,7 @@ Designers think of using panels on Panelista as their team gaining the capabilit
 
 The need for feedback is different at different stages of the design process; first it is important to understand the user needs clearly, then to be able to fulfill them well by testing ideas, designs and prototypes, and last but not least, to evaluate what has been released.
 
-Panelista’s quick feedback loops are a great way to make the design process more user needs-driven and efficient. The people creating things for the users have quick and easy access to the users every single day, and can use our proven method for ~~continuous discovery and user research~~.
+Panelista’s fast feedback loops are a great way to make the design process more user needs-driven and efficient. The people creating things for the users have quick and easy access to the users every single day, and can use our proven method for ~~continuous discovery and user research~~.
 
 ## 3 keys for a great design process
 In UX, Service Design, CX, Design Thinking, Lean UX, and agile frameworks the following three components are essential to maximize the value created by your team.
@@ -29,7 +29,7 @@ This is mainly a mindset shift, from “we know” to “we will find out”. Th
 #### 2. Do things in small steps
 Take your hypothesis and figure out the simplest possible way to test it. Sometimes it is better to simply describe something in words, sometimes you need a clickable prototype. It is cheaper and faster to make changes on the whiteboard than in a design or the actual product. And you will be more open to make changes before you have spent lots of time on something.
 
-#### 3. Create quick feedback loops
+#### 3. Create fast feedback loops
 Create the capability for your team to quickly create something, test it, and learn. The faster you can go through a feedback loop like this, the more likely it is that you will do it frequently. You will still need to do the creating, but Panelista can help with the testing and continuous learning!
 
 ## Step by step in Panelista
