@@ -2,7 +2,7 @@
 authors = ["Anders Palm"]
 date = 2020-11-11T08:00:00Z
 excerpt = "Be kunderna sortera alternativ för att förstå vad som är viktigast och varför."
-hero = "/images/05-2020-11-10-1.jpg"
+hero = "/images/prioritisation-2021-11-19.jpeg"
 hero_image_body = ""
 hero_image_title = "Be kunderna sortera alternativ för att förstå vad som är viktigast och varför."
 timeToRead = 3
