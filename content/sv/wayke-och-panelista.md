@@ -2,7 +2,7 @@
 authors = ["Anders Palm"]
 date = 2020-03-19T23:00:00Z
 excerpt = "På bara 72 timmar hade vi flera nya insikter! Vi skickade vår första videofråga till 31 panelister. Vi frågade dem; \"Vad är viktigt för dig när du köper bil på nätet?\". På bara 72 timmar hade vi fått 18 svar och flera nya insikter!"
-hero = "/images/Wayke hero image-2020-03-19.jpg"
+hero = "/images/wayke-2021-11-19.jpeg"
 hero_image_body = "Vi skickade vår första videofråga till 31 panelister. Vi frågade dem; \"Vad är viktigt för dig när du köper bil på nätet?\". På bara 72 timmar hade vi fått 18 svar och flera nya insikter!"
 hero_image_title = "På bara 72 timmar hade vi flera nya insikter!"
 timeToRead = 3
