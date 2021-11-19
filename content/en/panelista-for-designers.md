@@ -23,7 +23,7 @@ Panelista’s quick feedback loops are a great way to make the design process mo
 ## 3 keys for a great design process
 In UX, Service Design, CX, Design Thinking, Lean UX, and agile frameworks the following three components are essential to maximize the value created by your team.
 
-**Use hypothesis driven design**
+### Use hypothesis driven design
 This is mainly a mindset shift, from “we know” to “we will find out”. Think of every idea and design as a hypothesis until it reaches actual users. Create a hypothesis based on the insights you have today, and be open to make changes.
 
 **Do things in small steps**
