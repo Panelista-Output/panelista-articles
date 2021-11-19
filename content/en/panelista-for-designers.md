@@ -38,7 +38,7 @@ Designers loop through one or several of these steps when creating something new
 #### Explore user needs
 Ask your panel open questions like; *"Should we offer a subscription? And if so, what is important for you?"*. 
 
-You will get 30-40 thought-through answers in just a few hours. Then ask follow-up questions in the comments and group findings with highlights in different colors to learn even more. Doing this as a team spreads the knowledge in a very natural way.
+You will get 30-40 thought-through answers in just a few hours. Then ask follow-up questions in the comments to learn even more, and use highlights in different colors to cluster themes. 
 
 #### Prioritize user needs
 Ask your panel to prioritize needs with sorting questions like; *"Which one of these 4 things is the most important to you? Why?"*. 
