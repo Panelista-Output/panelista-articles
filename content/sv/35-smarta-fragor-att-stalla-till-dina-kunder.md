@@ -2,7 +2,7 @@
 authors = ["Charlotta Alexen"]
 date = 2021-01-18T23:00:00Z
 excerpt = "Karin Lycke frånThe Service Design Studio och Charlotta Alexén från Panelistager sina bästa tips för vilka kvalitativa frågor du ska ställa för att få rätt insikter."
-hero = "/images/samtal-2021-04-19.jpg"
+hero = "/images/35-smart-questions-2021-11-19.jpeg"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 5
