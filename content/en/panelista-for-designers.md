@@ -6,7 +6,7 @@ excerpt = "How designers use Panelista in the different stages of the design pro
 hero = ""
 hero_image_body = ""
 hero_image_title = ""
-timeToRead = 3
+timeToRead = 4
 title = "Panelista for designers"
 
 +++
