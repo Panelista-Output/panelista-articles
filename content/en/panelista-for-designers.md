@@ -33,7 +33,7 @@ Take your hypothesis and figure out the simplest possible way to test it. Someti
 Create the capability for your team to quickly create something, test it, and learn. The faster you can go through a feedback loop like this, the more likely it is that you will do it frequently. You will still need to do the creating, but Panelista can help with the testing and continuous learning!
 
 ## Step by step in Panelista
-Designers loop through one or several of these steps when creating new things.
+Designers loop through one or several of these steps when creating something new.
 
 #### Explore user needs
 Ask your panel open questions like; *"Should we offer a subscription? And if so, what is important for you?"*. 
