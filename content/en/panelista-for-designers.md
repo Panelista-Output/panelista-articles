@@ -71,6 +71,6 @@ Place a touchpoint in your app or website or email or even in a physical space l
 
 #### Interview users
 
-There will be users who give great answers to the questions where you explore needs and test ideas and designs, and you can easily ask them in the comments if it is OK that you contact them to arrange an interview if you want to dig even deeper, share screens etc. You have their contact info in Panelista which makes it easy to reach out..
+There will be users who give great answers to the questions where you explore needs and test ideas and designs, and you can easily ask them in the comments if it is OK that you contact them to arrange an interview if you want to dig even deeper, share screens etc. You have their contact info in Panelista which makes it easy to reach out.
 
 _Want to bounce ideas? Just drop us a line at coach@panelista.com_
