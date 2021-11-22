@@ -1,7 +1,6 @@
 +++
 authors = ["Anders Palm"]
 date = 2021-11-22T23:00:00Z
-draft = true
 excerpt = "How designers use Panelista's fast feedback loops in the different stages of the design process."
 hero = "/images/panelista-for-designers-4-2021-11-22.jpg"
 hero_image_body = ""
