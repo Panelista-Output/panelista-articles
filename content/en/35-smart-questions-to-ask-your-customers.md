@@ -3,10 +3,10 @@ authors = []
 date = 2021-02-02T23:00:00Z
 draft = true
 excerpt = "xxxxx"
-hero = ""
+hero = "/images/35-smart-questions-2021-11-19.jpeg"
 hero_image_body = ""
 hero_image_title = ""
-timeToRead = 0
+timeToRead = 10
 title = "35 smart questions to ask your customers"
 
 +++
