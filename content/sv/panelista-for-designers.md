@@ -1,6 +1,6 @@
 +++
 authors = []
-date = 2021-09-20T22:00:00Z
+date = 2022-01-20T23:00:00Z
 draft = true
 excerpt = "Här tipsar Anders, en av Panelistas grundare, om hur man som UX och service designer använder Panelistas snabba feedbackloopar i designprocessens olika faser."
 hero = "/images/panelista-for-designers-4-2021-11-22.jpg"
