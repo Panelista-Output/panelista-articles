@@ -1,9 +1,9 @@
 +++
-authors = ["Anna Lena Mayor Ekeblad"]
+authors = []
 date = 2021-09-20T22:00:00Z
 draft = true
 excerpt = "Här tipsar Anders, en av Panelistas grundare, om hur man som UX och service designer använder Panelistas snabba feedbackloopar i designprocessens olika faser."
-hero = "/images/designers-panelista-2021-09-21.jpg"
+hero = "/images/panelista-for-designers-4-2021-11-22.jpg"
 hero_image_body = "Så här kan du som arbetar med UX och service design ta hjälp av Panelista i din designprocess. "
 hero_image_title = "Med hjälp av Panelista kan du validera idéer och utforska behov."
 timeToRead = 2
