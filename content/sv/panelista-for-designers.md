@@ -34,6 +34,10 @@ Det här är framförallt en förändring av mindset, från “vi vet” till �
 
 Ta din hypotes och tänk ut det enklaste sättet att testa den. Ibland är det bättre att bara beskriva något med ord, och ibland behöver man en klickbar prototyp. Du kommer att vara mer öppen för att göra förändringar innan du har spenderat för mycket tid på något eller blivit för kär i din idé.
 
+* **Använd snabba feedbackloopar**
+
+Gör det möjligt för ditt team att snabbt skapa något, testa det och lära av det. Ju snabbare du kan gå igenom en feedbackloop desto mer troligt är det att du kommer att göra det ofta. Du behöver fortfarande skapa din design, men Panelista hjälper dig att möjliggöra tester och kontinuerligt lärande!
+
 #### Steg för steg i Panelista
 
 Designers loopar igenom ett eller flera av de här stegen när de skapar nya saker.
