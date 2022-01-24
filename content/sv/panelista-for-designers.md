@@ -14,13 +14,13 @@ title = "Panelista för designers"
 
 I den här artikeln beskriver vi hur du som designer kan jobba med Panelista, och det är också precis så vi själva gör när vi utvecklar Panelista.
 
-Du använder [**paneler**](https://panelista.com/sv/panels) i Panelista när du snabbt behöver feedback av hög kvalitet från 30-40 användare med liten insats.
+Du använder [**paneler**](https://panelista.com/sv/panels) i Panelista \~\~när du snabbt behöver feedback av hög kvalitet från 30-40 användare med liten insats.\~\~
 
-Du använder [**touchpoints**](https://panelista.com/sv/touchpoints) i Panelista när du vill placera frågor inne i prototyper, på webbsidor och i appar för att utvärdera upplevelsen i rätt ögonblick.
+Du använder [**touchpoints**](https://panelista.com/sv/touchpoints) i Panelista \~\~när du vill placera frågor inne i prototyper, på webbsidor och i appar för att utvärdera upplevelsen i rätt ögonblick.\~\~
 
 Behovet av feedback varierar i olika faser av designprocessen; i början är det viktigast att förstå behoven ordentligt, därefter att kunna uppfylla dem väl genom att testa sina idéer, designs och prototyper, och sist men inte minst, att utvärdera det som du lanserat.
 
-Panelistas snabba feedbackloopar är ett perfekt sätt att göra designprocessen behovsdriven och snabbrörlig. Du som skapar nya saker för kunderna får snabb och enkel tillgång till dina användare och kan använda Panelistas beprövade metod för att kontinuerligt utforska behov och testa idéer.
+\~\~Panelistas snabba feedbackloopar är ett perfekt sätt att göra designprocessen behovsdriven och snabbrörlig. \~\~Du som skapar nya saker för kunderna får snabb och enkel tillgång till dina användare och kan använda Panelistas beprövade metod för att kontinuerligt utforska behov och testa idéer.
 
 ### **3 pusselbitar för en grym designprocess**
 
@@ -56,7 +56,7 @@ Be din panel att prioritera behov genom att prioritera alternativ genom frågor 
 
 Be din panel om input för att testa idéer med frågor som till exempel; _“Vi tror att ett abonnemang skulle kunna funka så här, vad tycker du?”_. Få konkret feedback från riktiga kunder och användare så tidigt som möjligt!
 
-#### Testa design
+##### Testa design
 
 Be din panel att titta på en design eller en prototyp genom att visa den i videon eller genom att länka ut till din prototyp med en fråga som exempelvis; _“Registrera dig för ett abonnemang i den här prototypen, vad är det bästa och det sämsta med den här upplevelsen?”_ Eller använd en touchpoint-knapp inne i din prototyp och ställ videofrågan där.
 
@@ -68,6 +68,6 @@ Be din panel att testa något som redan finns genom att ställa en fråga som: _
 
 Du kommer att få fantastiska svar från användare när du utforskar behov och testar idéer och design, och du kan lätt fråga dem i en kommentar om det är ok att kontakta dem för en intervju om du vill gräva ännu djupare, dela skärm etc. Genom Panelista har du deras kontaktinformation så det är lätt att nå dem.
 
-##### Testa att använda videofrågor som en naturlig del av din designprocess! Det är ett enkelt sätt att vara personlig på distans och snabbt få in feedback av riktigt hög kvalitet. [Boka en demo](https://panelista.com/demo) om du vill höra mer och testa själv.
+##### \~\~Testa att använda videofrågor som en naturlig del av din designprocess! Det är ett enkelt sätt att vara personlig på distans och snabbt få in feedback av riktigt hög kvalitet. \~\~[Boka en demo](https://panelista.com/demo) om du vill höra mer och testa själv.
 
 {{< sv/visitpanelista >}}
