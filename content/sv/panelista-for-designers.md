@@ -68,6 +68,6 @@ Be din panel att testa något som redan finns genom att ställa en fråga som: _
 
 Du kommer att få fantastiska svar från användare när du utforskar behov och testar idéer och design, och du kan lätt fråga dem i en kommentar om det är ok att kontakta dem för en intervju om du vill gräva ännu djupare, dela skärm etc. Genom Panelista har du deras kontaktinformation så det är lätt att nå dem.
 
-##### Testa att använda videofrågor som en naturlig del av din designprocess! Det är ett enkelt sätt att vara personlig på distans och snabbt få in feedback av riktigt hög kvalitet. [Boka en demo](https://panelista.com/demo) om du vill höra mer och testa själv.
+##### Testa att använda videofrågor som en naturlig del av din designprocess! Det är ~~ett enkelt sätt att vara personlig på distans och snabbt få in feedback av riktigt hög kvalitet. ~~[Boka en demo](https://panelista.com/demo) om du vill höra mer och testa själv.
 
 {{< sv/visitpanelista >}}
