@@ -30,11 +30,11 @@ Inom UX, service design, CX, design thinking, lean UX och agila arbetssätt är 
 
 Det här är framförallt en förändring av mindset, från “vi vet” till “vi tar reda på det”. Tänk på varje idé och design som en hypotes tills den möter riktiga användare. Skapa en hypotes baserad på de insikter du har idag och var öppen för att förändra den.
 
-* **Gör saker i små steg**
+* **~~Gör saker i små steg~~**
 
 Ta din hypotes och tänk ut det enklaste sättet att testa den. Ibland är det bättre att bara beskriva något med ord, och ibland behöver man en klickbar prototyp. Du kommer att vara mer öppen för att göra förändringar innan du har spenderat för mycket tid på något eller blivit för kär i din idé.
 
-* **Använd snabba feedbackloopar**
+* **~~Använd snabba feedbackloopar~~**
 
 Gör det möjligt för ditt team att snabbt skapa något, testa det och lära av det. Ju snabbare du kan gå igenom en feedbackloop desto mer troligt är det att du kommer att göra det ofta. Du behöver fortfarande skapa din design, men Panelista hjälper dig att möjliggöra tester och kontinuerligt lärande!
 
