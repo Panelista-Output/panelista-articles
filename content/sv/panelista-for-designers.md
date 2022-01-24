@@ -22,7 +22,7 @@ Behovet av feedback varierar i olika faser av designprocessen; i början är det
 
 Panelistas snabba feedbackloopar är ett perfekt sätt att göra designprocessen behovsdriven och snabbrörlig. Du som skapar nya saker för kunderna får snabb och enkel tillgång till dina användare och kan använda Panelistas beprövade metod för att kontinuerligt utforska behov och testa idéer.
 
-##### **3 pusselbitar för en grym designprocess**
+## **3 pusselbitar för en grym designprocess**
 
 Inom UX, service design, CX, design thinking, lean UX och agila arbetssätt är följande tre pusselbitar helt avgörande för att ett team ska bli så träffsäkert som möjligt.
 
@@ -38,7 +38,7 @@ Ta din hypotes och tänk ut det enklaste sättet att testa den. Ibland är det b
 
 Gör det möjligt för ditt team att snabbt skapa något, testa det och lära av det. Ju snabbare du kan gå igenom en feedbackloop desto mer troligt är det att du kommer att göra det ofta. Du behöver fortfarande skapa din design, men Panelista hjälper dig att möjliggöra tester och kontinuerligt lärande!
 
-#### Steg för steg i Panelista
+## Steg för steg i Panelista
 
 Designers loopar igenom ett eller flera av de här stegen när de skapar nya saker.
 
