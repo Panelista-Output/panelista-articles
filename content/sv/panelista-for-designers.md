@@ -14,9 +14,9 @@ title = "Panelista för designers"
 
 I den här artikeln beskriver vi hur du som designer kan jobba med Panelista, och det är också precis så vi själva gör när vi utvecklar Panelista.
 
-Du använder [**paneler**](https://panelista.com/sv/panels) i Panelista ~~när du snabbt behöver feedback av hög kvalitet från 30-40 användare med liten insats.~~
+Du använder [**paneler**](https://panelista.com/sv/panels) i Panelista när du snabbt behöver feedback av hög kvalitet från 30-40 användare med liten insats.
 
-Du använder [**touchpoints**](https://panelista.com/sv/touchpoints) i Panelista ~~när du vill placera frågor inne i prototyper, på webbsidor och i appar för att utvärdera upplevelsen i rätt ögonblick.~~
+Du använder [**touchpoints**](https://panelista.com/sv/touchpoints) i Panelista när du vill placera frågor inne i prototyper, på webbsidor och i appar för att utvärdera upplevelsen i rätt ögonblick.
 
 Behovet av feedback varierar i olika faser av designprocessen; i början är det viktigast att förstå behoven ordentligt, därefter att kunna uppfylla dem väl genom att testa sina idéer, designs och prototyper, och sist men inte minst, att utvärdera det som du lanserat.
 
@@ -26,15 +26,15 @@ Behovet av feedback varierar i olika faser av designprocessen; i början är det
 
 Inom UX, service design, CX, design thinking, lean UX och agila arbetssätt är följande tre pusselbitar helt avgörande för att ett team ska bli så träffsäkert som möjligt.
 
-* **Använd hypotesdriven design**
+~~* **Använd hypotesdriven design**~~
 
 Det här är framförallt en förändring av mindset, från “vi vet” till “vi tar reda på det”. Tänk på varje idé och design som en hypotes tills den möter riktiga användare. Skapa en hypotes baserad på de insikter du har idag och var öppen för att förändra den.
 
-* **Gör saker i små steg**
+~~* **Gör saker i små steg**~~
 
 Ta din hypotes och tänk ut det enklaste sättet att testa den. Ibland är det bättre att bara beskriva något med ord, och ibland behöver man en klickbar prototyp. Du kommer att vara mer öppen för att göra förändringar innan du har spenderat för mycket tid på något eller blivit för kär i din idé.
 
-* **Använd snabba feedbackloopar**
+~~* **Använd snabba feedbackloopar**~~
 
 Gör det möjligt för ditt team att snabbt skapa något, testa det och lära av det. Ju snabbare du kan gå igenom en feedbackloop desto mer troligt är det att du kommer att göra det ofta. Du behöver fortfarande skapa din design, men Panelista hjälper dig att möjliggöra tester och kontinuerligt lärande!
 
