@@ -49,7 +49,7 @@ Ställ öppna frågor till din panel som; _“Ska vi erbjuda ett abonnemang? Och
 
 Be din panel att prioritera behov genom att prioritera alternativ genom frågor som: _“Vilken av de här 4 sakerna är viktigast för dig? Varför?”_. Kunder och användare kommer att rangordna alternativen som du har listat och förklara varför de prioriterat som de gjort.
 
-{{< sv/subscribe >}}
+{{< vimeo 477211062 >}}
 
 ##### Testa idéer
 
