@@ -26,7 +26,7 @@ Behovet av feedback varierar i olika faser av designprocessen; i början är det
 
 Inom UX, service design, CX, design thinking, lean UX och agila arbetssätt är följande tre pusselbitar helt avgörande för att ett team ska bli så träffsäkert som möjligt.
 
-* **Använd hypotesdriven design**
+* **~~Använd hypotesdriven design~~**
 
 Det här är framförallt en förändring av mindset, från “vi vet” till “vi tar reda på det”. Tänk på varje idé och design som en hypotes tills den möter riktiga användare. Skapa en hypotes baserad på de insikter du har idag och var öppen för att förändra den.
 
