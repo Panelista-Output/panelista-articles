@@ -120,7 +120,7 @@ When you iterate and further develop, you need fast feedback loops with customer
 
 If you ask for help with priorities, always have an open alternative or a question mark image if you want to choose something else. This way, you catch if you have missed any important options.
 
-\### \~\~Follow-up questions\~\~ - the key to understanding _why_ 
+\### \~\~Follow-up questions\~\~ - the key to understanding _why_
 
 Asking follow-up questions is the key to understanding the underlying needs and their meaning, says Karin. These are good questions to know more:
 
@@ -146,7 +146,6 @@ We start rounding off and Karin shared her best tips for getting the best answer
 
 \*_Set the scene._* Always phrase question(s) within a given context with a clear starting point. Now that we are here. Therefore, we would like to find out...
 
-
 \**“What do you think? How was it for you?”** Ask personal questions to get concrete answers.
 
 \*_Did we close too early?_*  Include a question mark image, i.e. an open option that can be something else. Have we missed anything?
@@ -165,6 +164,6 @@ I vår guide-sektion kan man läsa \[tips på hur man skapar bra videofrågor i 
 
 Läs gärna också om \[olika metoder och tekniker för att få kundinsikter\]([https://articles.panelista.com/sv/verktygslada-for-kundinsikter/](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "https://articles.panelista.com/sv/verktygslada-for-kundinsikter/") "Verktygslåda för kundinsikter") som vi skrivit om tidigare.
 
-{{< sv/bookdemo >}}
+{{< en/bookdemo >}}
 
-{{< sv/subscribe >}}
+{{< en/subscribe >}}
