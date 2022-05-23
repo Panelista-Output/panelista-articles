@@ -1,12 +1,12 @@
 +++
-authors = []
-date = ""
+authors = ["Anders Palm"]
+date = 2020-10-19T22:00:00Z
 draft = true
 excerpt = "Everyone agrees to work in a customer-centric way to create successful products, services and offers that customers love. There are proven methods for doing this. Yet many companies struggle to make it work in practice."
-hero = ""
-hero_image_body = ""
-hero_image_title = ""
-timeToRead = 0
+hero = "/images/agile-working-2021-11-22.jpg"
+hero_image_body = "There are proven methods for doing this. Yet many companies struggle to make it work in practice."
+hero_image_title = "Everyone agrees to work in a customer-centric way to create successful products, services and offers that customers love. There are proven methods for doing this. Yet many companies struggle to make it work in practice."
+timeToRead = 3
 title = "How to make customer insights work agile"
 
 +++
