@@ -1,12 +1,12 @@
 +++
 authors = []
-date = ""
+date = 2022-05-23T22:00:00Z
 draft = true
 excerpt = ""
 hero = ""
 hero_image_body = ""
 hero_image_title = ""
-timeToRead = 0
+timeToRead = 2
 title = "Dela dina lärdomar med andra. Rapporten från videofrågorna har blivit ännu bättre."
 
 +++
