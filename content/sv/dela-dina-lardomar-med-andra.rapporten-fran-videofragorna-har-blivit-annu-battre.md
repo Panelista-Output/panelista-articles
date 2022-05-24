@@ -14,7 +14,7 @@ Tydligare feedback från kunderna med en ännu snyggare rapport.
 
 Panelista-rapporten är en sammanställning från din videofråga som hjälper dig få fram det allra bästa från svar och diskussionen tillsammans med dina insikter.
 
-Med den nya rapporten får du överblick på engagemanget och tydligt uppdelad feedback i dina olika kategorier. Markeringar, kommentarer och bra citat från kunderna, tillsammans med dina lärdomar och slutsatser, paketeras i en snygg och överskådlig rapport som enkelt kan delas med kollegorna.
+Med den nya rapporten får du överblick på engagemanget och tydligt uppdelad feedback i dina olika kategorier. ~~Markeringar, kommentarer och bra citat från kunderna, tillsammans med dina lärdomar och slutsatser, paketeras i en snygg och överskådlig rapport som enkelt kan delas med kollegorna.~~
 
 Så här fungerar rapporten:
 
