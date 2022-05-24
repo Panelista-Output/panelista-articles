@@ -7,10 +7,10 @@ hero = "/images/35-smart-questions-2021-11-19.jpeg"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 10
-title = "35 smart questions to ask your customers"
+title = "35 great questions to ask your customers"
 
 +++
-We at Panelista see how successful companies listen to their customers. I grabbed a cup of coffee with Karin Lycke, the insights expert to listen to her advice. We had an exciting discussion about how to engage customers by asking smart questions to gather relevant insights for better decision-making.
+We at Panelista see how successful companies listen to their customers. I grabbed a cup of coffee with Karin Lycke, the insights expert from The Service Deisgn Agency, to listen to her advice. We had an exciting discussion about how to engage customers by asking smart questions to gather relevant insights for better decision-making.
 
 \\- It is more and more clear for many companies the value of continuously involving customers in business and product development efforts. By involving customers during different stages of development, it becomes easier for companies to prioritize correctly and to develop products and services that customers actually love.
 
