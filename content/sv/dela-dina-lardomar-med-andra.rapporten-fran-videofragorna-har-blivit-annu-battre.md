@@ -2,7 +2,7 @@
 authors = []
 date = 2022-05-23T22:00:00Z
 draft = true
-excerpt = ""
+excerpt = "Tydligare feedback från kunderna med en ännu snyggare rapport."
 hero = ""
 hero_image_body = ""
 hero_image_title = ""
@@ -19,11 +19,13 @@ Med den nya rapporten får du överblick på engagemanget och tydligt uppdelad f
 Så här fungerar rapporten:
 
 * Redan när frågan pågår och diskussionen är igång kan du ställa följdfrågor och markera det som du tycker är intressant.
-
 * Plocka ut godbitarna genom att markera bra svar som kommer in i olika färger och kategorier, och gör en kommentar.
-
 * Skriv ner dina lärdomar och det du tar med dig från svar och diskussion kring videofrågan.
-
 * Självklart kan ni vara flera administratörer som markerar och kommenterar bra svar, och som skriver lärdomar och slutsatser från diskussionerna.
-
 * Inspirera och sprid kunskap genom att dela rapporten med dina kollegor. Då kan fler förstå kundernas behov och utforma rätt lösningar.
+
+Det finns flera sätt att dela rapporten med andra:
+
+* Dela hela rapporten med en publik länk (panelisterna kan anonymiseras)
+* Länka till en specifik sida i rapporten
+* Ladda ner utvalda bilder från rapporten för att använda t.ex. i en presentation
