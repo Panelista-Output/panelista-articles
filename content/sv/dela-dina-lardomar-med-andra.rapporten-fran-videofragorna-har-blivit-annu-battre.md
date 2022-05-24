@@ -29,3 +29,6 @@ Det finns flera sätt att dela rapporten med andra:
 * Dela hela rapporten med en publik länk (panelisterna kan anonymiseras)
 * Länka till en specifik sida i rapporten
 * Ladda ner utvalda bilder från rapporten för att använda t.ex. i en presentation
+
+
+{{< sv/visitpanelista >}}
