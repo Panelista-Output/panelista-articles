@@ -7,7 +7,7 @@ hero = ""
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 2
-title = "Dela dina lärdomar med andra. Rapporten från videofrågorna har blivit ännu bättre."
+title = "Dela dina lärdomar med en mer fokuserad och ännu smartare rapport."
 
 +++
 Tydligare feedback från kunderna med en ännu snyggare rapport.
