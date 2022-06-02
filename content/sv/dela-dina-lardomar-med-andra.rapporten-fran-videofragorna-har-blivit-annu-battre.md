@@ -16,7 +16,7 @@ Panelista-rapporten är en sammanställning från din videofråga som hjälper d
 
 Rapporten börjar skapas i bakgrunden redan när du under diskussionens gång ställer följdfrågor, gör markeringar i olika färger och formulerar dina lärdomar.
 
-Sedan får du en snygg och överskådlig rapport som går att bläddra igenom som en presentation på dator eller mobilen. Numera använder vi AI för att mäta och beskriva engagemanget för frågan och automatiskt hitta ämnen i svaren. ~~Dina lärdomar presenteras som en executive summary, och dina markeringar finns snyggt grupperade på olika sidor. Och du delar den enkelt med kollegorna. ~~
+Du får sedan en snygg och överskådlig rapport som går att bläddra igenom som en presentation på dator eller mobilen. Numera använder vi AI för att mäta och beskriva engagemanget för frågan och automatiskt hitta ämnen i svaren. ~~Dina lärdomar presenteras som en executive summary, och dina markeringar finns snyggt grupperade på olika sidor. Och du delar den enkelt med kollegorna. ~~
 
 Så här fungerar rapporten:
 
