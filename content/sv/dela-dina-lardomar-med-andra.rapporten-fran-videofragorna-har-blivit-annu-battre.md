@@ -18,7 +18,9 @@ Rapporten börjar skapas i bakgrunden redan när du under diskussionens gång st
 
 Du får sedan en snygg och överskådlig rapport som går att bläddra igenom som en presentation på dator eller mobilen. Numera använder vi AI för att mäta och beskriva engagemanget för frågan och automatiskt hitta ämnen i svaren. ~~Dina lärdomar presenteras som en executive summary, och dina markeringar finns snyggt grupperade på olika sidor. Och du delar enkelt rapporten med kollegorna. ~~
 
-Så här fungerar den:
+BILD
+
+Så här fungerar rapporten:
 
 * Redan när frågan pågår och diskussionen är igång kan du ställa följdfrågor och markera det som du tycker är intressant.
 * Plocka ut godbitarna genom att markera bra svar som kommer in i olika färger och kategorier, och gör en kommentar.
@@ -32,6 +34,6 @@ Det finns flera sätt att dela rapporten med andra:
 * Dela hela rapporten med en publik länk (panelisterna kan anonymiseras)
 * Länka till en specifik sida i rapporten
 * Ladda ner utvalda bilder från rapporten för att använda t.ex. i en presentation
-* 
+
 
 {{< sv/visitpanelista >}}
