@@ -3,7 +3,7 @@ authors = []
 date = 2022-05-23T22:00:00Z
 draft = true
 excerpt = "Tydligare feedback från kunderna med en ännu snyggare rapport."
-hero = ""
+hero = "/images/new-report-2022-06-07.jpg"
 hero_image_body = ""
 hero_image_title = ""
 timeToRead = 2
@@ -16,11 +16,15 @@ Panelista-rapporten är en sammanställning från din videofråga som hjälper d
 
 Rapporten börjar skapas i bakgrunden redan när du under diskussionens gång ställer följdfrågor, gör markeringar i olika färger och formulerar dina lärdomar.
 
-Du får sedan en snygg och överskådlig rapport som går att bläddra igenom som en presentation på dator eller mobilen. Numera använder vi AI för att mäta och beskriva engagemanget för frågan och automatiskt hitta ämnen i svaren. ~~Dina lärdomar presenteras som en executive summary, och dina markeringar finns snyggt grupperade på olika sidor. Och du delar enkelt rapporten med kollegorna. ~~
+Du får sedan en snygg och överskådlig rapport som går att bläddra igenom som en presentation på dator eller mobilen. Numera använder vi AI för att mäta och beskriva engagemanget för frågan och automatiskt hitta ämnen i svaren. ~~Dina lärdomar presenteras som en executive summary, och dina markeringar finns snyggt grupperade på olika sidor. Och du delar enkelt rapporten med kollegorna.~~
 
-BILD
+<br/><br/>
 
-Så här fungerar rapporten:
+{{< vimeo 717803450 >}}
+
+<br/><br/>
+
+**Så här fungerar rapporten:**
 
 * Redan när frågan pågår och diskussionen är igång kan du ställa följdfrågor och markera det som du tycker är intressant.
 * Plocka ut godbitarna genom att markera bra svar som kommer in i olika färger och kategorier, och gör en kommentar.
@@ -29,11 +33,10 @@ Så här fungerar rapporten:
 * Rapporten skapas sedan helt automatiskt.
 * Inspirera och sprid kunskap genom att dela rapporten med dina kollegor. Du kan t.ex. dela den i interna kommunikationsverktyg som Teams eller Slack, eller lägga länken till rapporten i en user story i backloggen där lärdomarna ska bli till funktion. Då kan fler förstå kundernas behov och utforma rätt lösningar.
 
-Det finns flera sätt att dela rapporten med andra:
+**Det finns flera sätt att dela rapporten med andra:**
 
 * Dela hela rapporten med en publik länk (panelisterna kan anonymiseras)
 * Länka till en specifik sida i rapporten
 * Ladda ner utvalda bilder från rapporten för att använda t.ex. i en presentation
-
 
 {{< sv/visitpanelista >}}
