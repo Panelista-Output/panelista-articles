@@ -12,11 +12,12 @@ title = "Dela dina lärdomar med en mer fokuserad och ännu smartare rapport."
 +++
 **Tydligare feedback från kunderna med en ännu snyggare rapport.**
 
-Panelista-rapporten är en sammanställning från din videofråga som hjälper dig få fram det allra bästa från svar och diskussionen tillsammans med dina insikter. Den skapas dessutom helt automatiskt.
+Panelista-rapporten är en sammanställning från din videofråga som hjälper dig få fram det allra bästa från svar och diskussionen tillsammans med dina insikter. ~~Den skapas dessutom helt automatiskt.~~
 
 Rapporten börjar skapas i bakgrunden redan när du under diskussionens gång ställer följdfrågor, gör markeringar i olika färger och formulerar dina lärdomar.
 
-Du får sedan en snygg och överskådlig rapport som går att bläddra igenom som en presentation på dator eller mobilen. Numera använder vi AI för att mäta och beskriva engagemanget för frågan och automatiskt hitta ämnen i svaren. ~~Dina lärdomar presenteras som en executive summary, och dina markeringar finns snyggt grupperade på olika sidor. Och du delar enkelt rapporten med kollegorna.~~
+Du får sedan en snygg och överskådlig rapport som går att bläddra igenom som en presentation på dator eller mobilen. Numera använder vi AI för att mäta och beskriva engagemanget för frågan och automatiskt hitta ämnen i svaren. ~~Dina lärdomar presenteras som en executive summary, och dina markeringar finns snyggt grupperade på olika sidor. 
+Och du delar enkelt rapporten med kollegorna.~~
 
 <br/><br/>
 
