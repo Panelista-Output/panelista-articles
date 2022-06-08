@@ -27,11 +27,11 @@ Du får sedan en snygg och överskådlig rapport som går att bläddra igenom so
 **Så här fungerar rapporten:**
 
 * Redan när frågan pågår och diskussionen är igång kan du ställa följdfrågor och markera det som du tycker är intressant.
-* Plocka ut godbitarna genom att markera bra svar som kommer in i olika färger och kategorier, och gör en kommentar.
-* Skriv ner dina lärdomar och det du tar med dig från svar och diskussion kring videofrågan.
+* ~~Plocka ut godbitarna genom att markera bra svar som kommer in i olika färger och kategorier,~~ och gör en kommentar.
+* ~~Skriv ner dina lärdomar~~ och det du tar med dig från svar och diskussion kring videofrågan.
 * Självklart kan ni vara flera som markerar och kommenterar bra svar, och som skriver lärdomar och slutsatser från diskussionerna.
 * Rapporten skapas sedan helt automatiskt.
-* Inspirera och sprid kunskap genom att dela rapporten med dina kollegor. Du kan t.ex. dela den i interna kommunikationsverktyg som Teams eller Slack, eller lägga länken till rapporten i en user story i backloggen där lärdomarna ska bli till funktion. Då kan fler förstå kundernas behov och utforma rätt lösningar.
+* ~~Inspirera och sprid kunskap genom att dela rapporten med dina kollegor.~~ Du kan t.ex. dela den i interna kommunikationsverktyg som Teams eller Slack, eller lägga länken till rapporten i en user story i backloggen där lärdomarna ska bli till funktion. Då kan fler förstå kundernas behov och utforma rätt lösningar.
 
 **Det finns flera sätt att dela rapporten med andra:**
 
