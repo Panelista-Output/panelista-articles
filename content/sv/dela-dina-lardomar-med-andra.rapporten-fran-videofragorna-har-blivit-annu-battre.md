@@ -10,7 +10,7 @@ timeToRead = 2
 title = "Dela dina lärdomar med en mer fokuserad och ännu smartare rapport."
 
 +++
-Tydligare feedback från kunderna med en ännu snyggare rapport.
+**Tydligare feedback från kunderna med en ännu snyggare rapport.**
 
 Panelista-rapporten är en sammanställning från din videofråga som hjälper dig få fram det allra bästa från svar och diskussionen tillsammans med dina insikter. Den skapas dessutom helt automatiskt.
 
