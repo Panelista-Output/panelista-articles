@@ -39,4 +39,6 @@ Du får sedan en snygg och överskådlig rapport som går att bläddra igenom so
 * Länka till en specifik sida i rapporten
 * Ladda ner utvalda bilder från rapporten för att använda t.ex. i en presentation
 
+Helt enkelt lätt att agera på det som kunder säger!
+
 {{< sv/visitpanelista >}}
