@@ -30,11 +30,11 @@ Karin, what questions would you recommend companies to ask their customers? And 
 
 Consider that development takes place in three main phases, says Karin.
 
-*Phase 1. Frame the development areas* - encourage a conversation in relation to organization, product or service in order to identify existing needs and focus on the right thing to solve.
+_Phase 1. Frame the development areas_ - encourage a conversation in relation to organization, product or service in order to identify existing needs and focus on the right thing to solve.
 
-*Phase 2. Co-create possible solutions* - verify challenges, concretize needs, understand future scenarios and iterate different solutions.
+_Phase 2. Co-create possible solutions_ - verify challenges, concretize needs, understand future scenarios and iterate different solutions.
 
-*Phase 3. Details and fine-tuning* - improve a solution in small steps by testing and prioritizing.
+_Phase 3. Details and fine-tuning_ - improve a solution in small steps by testing and prioritizing.
 
 What phase are you in?
 
@@ -45,11 +45,8 @@ What phase are you in?
 Always start with where you are in the development phase. Explain to the customer why you need help. "Now we are here and therefore we would like to ask you…" This makes it easier and clear for the customer to contribute.
 
 * What do you think about this?
-
 * What opportunities or challenges do you see ahead?
-
 * What is most important to you related to this? Why?
-
 * If you could decide, how could we do it / meet it?
 
 ### #2 Questions to ~~find the right challenge~~
@@ -57,25 +54,15 @@ Always start with where you are in the development phase. Explain to the custome
 Here you get to ask exploratory questions that allow the customer to think quite freely and answer from their own perspective. It is important to focus on the right need to address.
 
 * How do we improve what we do?
-
 * How should we develop?
-
 * What do you think about ____ in general?
-
 * VWhat do you miss?
-
 * What is a ___ for you? How would it affect you if ___ did not exist? What would you do instead?
-
 * Tell us more about___
-
 * Tell us about a positive experience____
-
 * Tell us about your best experience___?
-
 * Tell us about your worst experience ___?
-
 * What were you thinking then?
-
 * Why do you use___?
 
 ### #3 Questions to ~~frame the challenge and hypothesis~~
@@ -83,17 +70,11 @@ Here you get to ask exploratory questions that allow the customer to think quite
 Have you interpreted the customers correctly? Formulate your hypothesis and ask customers if it is true.
 
 * We understand that many are interested in ___.
-
 * We were going to address this ____.
-
 * Do you recognize this challenge?
-
 * What do you think about it?
-
 * If we were to do this ____ what would you do most of then?
-
 * If we do this ___, then what are your expectations?
-
 * Do you think we should offer some kind of subscription? If so, what is important to you?
 
 {{< sv/visitpanelista >}}
@@ -103,19 +84,12 @@ Have you interpreted the customers correctly? Formulate your hypothesis and ask 
 When you iterate and further develop, you need fast feedback loops with customers. Ask what customers think and you are more likely to make the right priorities.
 
 * We thought like this ___ What do you think about it?
-
 * We would like to help our customers with this ____. Then we thought of doing this ____. What do you think?
-
 * How can we improve our ___?
-
 * Why did you buy____?
-
 * What is most important to you when you buy ___ online?
-
 * What would make you not buy the next version of ____?
-
 * How would it be easier for you to use our tool / our product?
-
 * If you had to choose between these ____, then what is most important to you?
 
 If you ask for help with priorities, always have an open alternative or a question mark image if you want to choose something else. This way, you catch if you have missed any important options.
@@ -125,45 +99,39 @@ If you ask for help with priorities, always have an open alternative or a questi
 Asking follow-up questions is the key to understanding the underlying needs and their meaning, says Karin. These are good questions to know more:
 
 * Can you tell me more?
-
 * How do you mean?
-
 * Can you elaborate?
-
 * Why do think so?
-
 * Can you give an example of that?
 
 ### More smart tips to get really good answers
 
 We start rounding off and Karin shared her best tips for getting the best answers possible.
 
-*Be humble.*  Tone of voice is important. Present your personal side - open and vulnerable. Be honest. The more open you are, the more open your customers will be when they respond.
+_Be humble._  Tone of voice is important. Present your personal side - open and vulnerable. Be honest. The more open you are, the more open your customers will be when they respond.
 
 \- “We need your help to…”
 
 \- “ “We have understood that we have not been able to meet all wishes / have not been so good at this. Because…
 
-*Set the scene.* Always phrase question(s) within a given context with a clear starting point. Now that we are here. Therefore, we would like to find out...
+_Set the scene._ Always phrase question(s) within a given context with a clear starting point. Now that we are here. Therefore, we would like to find out...
 
 **“What do you think? How was it for you?”** Ask personal questions to get concrete answers.
 
-*Did we close too early?*  Include a question mark image, i.e. an open option that can be something else. Have we missed anything?
+_Did we close too early?_  Include a question mark image, i.e. an open option that can be something else. Have we missed anything?
 
-*Have we missed the mark?* Leave room for general comments at the end.
+_Have we missed the mark?_ Leave room for general comments at the end.
 
 \- “Would you like to add something?”
 
 \- “Is there any other experience with us that you would like to share?”
 
-*Thanks!* Feedback to customers. Tell us what you brought with you from the previous question. How are you going to use this result? Tell us what you have learned.
+_Thanks!_ Feedback to customers. Tell us what you brought with you from the previous question. How are you going to use this result? Tell us what you have learned.
 
-*If you want to read more*
+_If you want to read more_
 
 I vår guide-sektion kan man läsa [tips på hur man skapar bra videofrågor i Panelista](https://panelista.com/guide/how-to-create-your-first-video-question "Hur man skapar bra videofrågor").
 
 Läs gärna också om [olika metoder och tekniker för att få kundinsikter](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "Verktygslåda för kundinsikter") som vi skrivit om tidigare.
 
 {{< en/bookdemo >}}
-
-{{< en/subscribe >}}
