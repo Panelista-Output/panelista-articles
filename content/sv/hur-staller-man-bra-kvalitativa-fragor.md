@@ -90,5 +90,3 @@ I vår guide-sektion kan man läsa [tips på hur man skapar bra videofrågor i P
 Läs gärna också om [olika metoder och tekniker för att få kundinsikter](https://articles.panelista.com/sv/verktygslada-for-kundinsikter/ "Verktygslåda för kundinsikter") som vi skrivit om tidigare.
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}
