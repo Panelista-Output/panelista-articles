@@ -45,4 +45,3 @@ En av målsättningarna är att skapa mer medvetenhet och intresse för inneklim
 Ja, du hör ju - frågorna tar aldrig slut. ~~Vi upplever att Panelista är ett jättebra verktyg för oss när det gäller att komma i direktkontakt med såväl slutanvändare som andra viktiga målgrupper.~~
 
 **_Tack Camilla och Malin för att ni tog er tid att svara på våra frågor. Det känns som att vi snart får återkomma för en uppföljningsintervju när ni kommit ännu längre med ert spännande projekt. Stort lycka till!_**
-{{< sv/subscribe >}}
