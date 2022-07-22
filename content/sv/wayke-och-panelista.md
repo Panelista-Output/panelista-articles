@@ -60,5 +60,3 @@ _Vi på Panelista ställde några frågor till Martin Fransson, VD och Irma Mark
 _Tack Martin och Irma!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}

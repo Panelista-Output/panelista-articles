@@ -76,5 +76,3 @@ _Vi på Panelista ställde några frågor till Annelie Alm Bagå som är tjänst
 _Tack Annelie och Samuel!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}

@@ -25,8 +25,8 @@ Detta är **våra fem bästa tips** för hur man kan angripa dessa problem och v
 
 ### **#1: Inför en prioriteringsmodell**
 
-Skapa en struktur för att prioritera hårt och tidigt. Utforska inte fler saker än vad det finns leveranskapacitet för, satsa resurser på att utöka leveranskapaciteten istället. Ett exempel på en **enkel prioriteringsmodell** som vi gillar är ICE (Impact Confidence Ease): [https://hygger.io/blog/ice-method-helps-choose-better-product-features/](https://hygger.io/blog/ice-method-helps-choose-better-product-features/ "https://hygger.io/blog/ice-method-helps-choose-better-product-features/")  
-  
+Skapa en struktur för att prioritera hårt och tidigt. Utforska inte fler saker än vad det finns leveranskapacitet för, satsa resurser på att utöka leveranskapaciteten istället. Ett exempel på en **enkel prioriteringsmodell** som vi gillar är ICE (Impact Confidence Ease): [https://hygger.io/blog/ice-method-helps-choose-better-product-features/](https://hygger.io/blog/ice-method-helps-choose-better-product-features/ "https://hygger.io/blog/ice-method-helps-choose-better-product-features/")
+
 {{< sv/visitpanelista >}}
 
 ### #2: Förändra investeringsmodellen
@@ -48,5 +48,3 @@ I större mer **trögrörliga organisationer** kan det vara så att tiden eller 
 [_Panelista_](https://panelista.com/?utm_medium=blogg&utm_source=panelistablogg&utm_campaign=article&utm_content=productdevelopment) _är ett kraftfullt verktyg för alla personer och organisationer som vill involvera sin målgrupp när de skapar nya produkter eller tjänster. Om du arbetar med innovation, produktutveckling, affärsutveckling, kundundersökningar, användarupplevelse eller liknande kommer du att ha stor nytta av att använda_ [_Panelista_](https://panelista.com/?utm_medium=organic_social&utm_source=linkedin&utm_campaign=article&utm_content=productdevelopment) _i ditt arbete._
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}

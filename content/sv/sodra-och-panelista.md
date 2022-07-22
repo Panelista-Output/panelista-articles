@@ -70,5 +70,3 @@ _Vi på Panelista ställde några frågor till Kristin Lindell, Aron Olbers och 
 _Tack Kristin, Aron och Christoffer!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}

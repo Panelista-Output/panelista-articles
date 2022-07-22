@@ -59,5 +59,3 @@ Anna håller med och avslutar ~~“Panelistas videofrågor är väldigt snabba j
 _Tack Fredrik och Anna för ett jätteintressant samtal!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}
