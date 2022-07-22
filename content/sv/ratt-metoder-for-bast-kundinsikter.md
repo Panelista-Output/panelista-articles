@@ -58,7 +58,7 @@ Många jobbar idag först med BI och mer kvantitativ data och går sedan vidare 
 
 **Vilka effekter får era kunder av att jobba med båda perspektiven?**
 
-~~\- Det finns stora vinster för företag som väljer att jobba kunddrivet~~ med djupare och mer robusta insikter - både för innovation och effektivisering. I de kristider vi befinner oss i nu finns mycket att vinna på att strama åt och fokusera på att göra rätt saker. De företag som tar hjälp av de här metoderna kommer att vinna väldigt mycket genom att de bli mer träffsäkra och kan prioritera de utvecklingsområden som verkligen skapar kundvärde.
+~~- Det finns stora vinster för företag som väljer att jobba kunddrivet~~ med djupare och mer robusta insikter - både för innovation och effektivisering. I de kristider vi befinner oss i nu finns mycket att vinna på att strama åt och fokusera på att göra rätt saker. De företag som tar hjälp av de här metoderna kommer att vinna väldigt mycket genom att de bli mer träffsäkra och kan prioritera de utvecklingsområden som verkligen skapar kundvärde.
 
 Många behöver hjälp att omsätta insikterna i praktiken i organisationen, att sätta KPI-er och mätmetoder och att ta ett mer övergripande perspektiv på vilka utvecklingsbeslut man fattar. Det är en omställning till ett mer iterativt arbetssätt, där man tidigare jobbade linjärt och mer i stuprör för till exempel dataanalys och ux-design.
 
@@ -73,5 +73,3 @@ Läs mer om hur ditt företag kan komma igång och jobba mer kunddrivet i den h�
 Läs mer om [Panelista](https://panelista.com?utm_medium=blogg&utm_source=panelistablogg&utm_campaign=article)
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}

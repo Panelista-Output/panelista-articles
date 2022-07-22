@@ -134,5 +134,3 @@ Med videofrågor i Panelista får man ett kraftfullt verktyg i verktygslådan f�
 Läs mer om [Panelista](https://panelista.com?utm_medium=blogg&utm_source=panelistablogg&utm_campaign=article)
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}

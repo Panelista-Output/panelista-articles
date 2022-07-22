@@ -49,5 +49,3 @@ Ha alltid med kundinsikter som en del i arbetet, det ska vara lika självklart s
 [_Panelista_](https://panelista.com "Panelista") _togs fram specifikt för att skapa snabba feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt. Du skickar en öppen fråga i en 30-sekunders video, ställer följdfrågor i en onlinediskussion och får en automatiserad insiktsrapport. De första svaren trillar in inom en timme!_
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}
