@@ -27,8 +27,8 @@ _Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannel
 
 **Jenny**: ~~Videoformatet känns väldigt bra, bättre än jag trodde.~~ Det är enkelt och smidigt. Även att länka ut till externt innehåll var enklare än förväntat. Just nu försöker vi öka engagemanget från gruppen ytterligare, då vi vill se ännu fler svar och mer diskussion.
 
-**Cathrine**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen.  
-  
+**Cathrine**: Verktyget fungerar jättebra och det ger oss också en chans att visa upp en ny sida av Lantmännen.
+
 {{< sv/visitpanelista >}}
 
 ### Jobbar ni med kundinsikter på något annat sätt?
@@ -56,5 +56,3 @@ _Vi på Panelista ställde några frågor till Jenny Andrén och Cathrine Hannel
 _Tack Jenny och Cathrine!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}

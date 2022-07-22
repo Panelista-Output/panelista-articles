@@ -27,8 +27,8 @@ _Med sin första panel har Fractal Design slagit alla rekord på Panelista gäll
 
 **Alexander**: Det har varit överväldigande! Vi har tidigare samlat input från våra kunder i diverse olika kanaler och format, men aldrig fått så tydlig, stark och hanterbar feedback som nu. Kvalitén har varit på en tekniskt hög nivå vilket gör det enklare att dra slutsatser och i sin tur ta konkreta actions.
 
-Själva videoformatet har varit riktigt givande och passar in i vår strävan att vara personliga mot både våra varumärkesambassadörer och konsumenter - då vi marknadsfört Panelista som ~~en gräddfil direkt in till vår produktutvecklingsavdelning~~.  
-  
+Själva videoformatet har varit riktigt givande och passar in i vår strävan att vara personliga mot både våra varumärkesambassadörer och konsumenter - då vi marknadsfört Panelista som ~~en gräddfil direkt in till vår produktutvecklingsavdelning~~.
+
 {{< sv/visitpanelista >}}
 
 ### Hur rekryterade ni panelister?
@@ -48,5 +48,3 @@ Att samla in och skapa kundinsikter har alltid varit relativt tungrott och kräv
 _Tack Alexander och Fractal Design!_ [_Läs mer om Panelista här_](https://panelista.com "Panelista").
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}
