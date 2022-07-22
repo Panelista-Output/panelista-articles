@@ -43,9 +43,9 @@ Att skapa sådana organisationsstrukturer lyckas sällan på första försöket 
 
 ## #4: Våga utforska och bli tekniskt agila
 
-Produktägarskap, tjänande ledarskap och smidiga organisationer i all ära, men ska organisationer snabbt skapa värde av hög kvalitet så behövs också tekniska förutsättningar. Många företag är begränsade av gamla system och tekniska lösningar som är dyra och svåra att anpassa. 
+Produktägarskap, tjänande ledarskap och smidiga organisationer i all ära, men ska organisationer snabbt skapa värde av hög kvalitet så behövs också tekniska förutsättningar. Många företag är begränsade av gamla system och tekniska lösningar som är dyra och svåra att anpassa.
 
-Teknisk agilitet innebär att man kontinuerligt och iterativt bryter sig loss från gamla systemberoenden och bygger en mer lättrörlig teknik och arkitektur. Det omfattar många arbetssätt, metoder och tekniker som syftar till kunna förändra system på ett säkert sätt med hög förändringstakt genom till exempel refaktorisering , kontinuerlig integration, testautomation och mob-programmering. 
+Teknisk agilitet innebär att man kontinuerligt och iterativt bryter sig loss från gamla systemberoenden och bygger en mer lättrörlig teknik och arkitektur. Det omfattar många arbetssätt, metoder och tekniker som syftar till kunna förändra system på ett säkert sätt med hög förändringstakt genom till exempel refaktorisering , kontinuerlig integration, testautomation och mob-programmering.
 
 ## #5: Ta små smarta steg
 
@@ -58,5 +58,3 @@ Inkrementellt innebär att produkten eller tjänsten byggs upp stegvis, där var
 ~~Panelista kan integreras i den här processen för att skapa en agil organisation på ett intuitivt sätt och kan bidra till att direkt få kvalitativ feedback från användaren.~~ Vi ser tyvärr att många organisationer kämpar, eller inte ibland inte ens kämpar, med att jobba med kundinsikter, avslutar Laszlo. - Vi vill komma ifrån antagandet att organisationen har alla svar och istället jobba med insikter från användare och kunder.
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}
