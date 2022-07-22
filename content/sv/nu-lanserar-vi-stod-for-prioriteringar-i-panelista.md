@@ -46,5 +46,3 @@ Vi validerade vår hypotes med hjälp av intervjuerna och lärde oss massor som 
 [_Panelista_](https://panelista.com "Panelista") _möjliggör snabba kvalitativa feedbackloopar med dina kunder. Så att du kan utforska behov och testa hypoteser på ett snabbt, personligt och strukturerat sätt._
 
 {{< sv/bookdemo >}}
-
-{{< sv/subscribe >}}

@@ -20,7 +20,6 @@ Ja, som du kanske redan misstänker anspelar valet av företagsnamn på filmen, 
 
 **_Panelista bjöd in Helene Hagman, digital marketing & sales recruiter till vad som blev ett härligt samtal fyllt av energi och skratt._**
 
-
 **Hej Helene! Du känns som en person som verkligen älskar ditt jobb och är mån om att ha stort kundfokus.**
 
 Absolut! Jerrie startade 2012 med fokus på specialistrekrytering med mottot ”kandidaten är vår största kund”. Det var just kandidatfokuset som attraherade mig när jag tackade ja till att vara med från början. Jag är rekryterare och mitt specialistområde är marknad, kommunikation och försäljning. Jag är också medlem i vårt marknadsteam.
@@ -70,5 +69,3 @@ Vi har löpande anonyma kandidat- och kundundersökningar men här kan vi ha en 
 Matcha ditt CV med de önskade kraven som anges i annonsen!! Gör det enkelt för den som läser ditt CV att se varför just du passar i rollen. Ha en uppdaterad Linkedin profil med de sökord du vill bli hittad på. **Fetmarkera** ord du ser är viktiga för rollen du söker. Lägg inte så mycket tid på ett personligt brev, om det inte är ett krav i ansökan. Gör istället ett kort intro i ditt CV för personlig presentation. Paketera dig själv som ett erbjudande!
 
 _Tack till fotograf Kate Gabor_
-
-{{< sv/subscribe >}}
