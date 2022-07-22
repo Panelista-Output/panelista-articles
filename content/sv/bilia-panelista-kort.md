@@ -22,5 +22,3 @@ I nästa steg har man bjudit in några av de paneldeltagare som visat extra stor
 Johan berättar vidare: “Nu tittar vi på hur vi kan skapa feedbackloopar i delar av kundresan där vi känner att vi vill utveckla kundupplevelsen eller erbjudandet ytterligare. ~~Med personliga videofrågor som vi med hjälp av Panelista kan placera ut vid rätt tillfälle i kundresan, både digitalt och fysiskt, får vi möjligheten att enkelt fånga upp värdefull feedback och skapa djupa kunddialoger.”~~ Tillsammans med Panelista-teamet har man kontinuerliga avstämningar för att säkerställa att arbetet ger de resultat man önskar och livliga samtal förs om de nya insikter, kommentarer och frågeställningar som känns extra spännande.
 
 “Det har aldrig känts lättare och mer stimulerande att interagera med våra kunder. Dessutom ger det inte bara resultat - det ger också bra känslor av att se hur engagerade kunderna faktiskt är. Vad kan väl vara starkare än att ha med kundens röst i hela utvecklingsprocessen? Att kunna utveckla våra tjänster och veta att kunderna efterfrågat det, svart på vitt.”
-
-{{< sv/subscribe >}}
