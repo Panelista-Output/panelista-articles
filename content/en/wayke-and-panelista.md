@@ -60,5 +60,3 @@ _We at Panelista interviewed Martin Fransson, CEO and Irma Markgren, who is resp
 _Thank you, Martin and Irma!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
 {{< en/bookdemo >}}
-
-{{< en/subscribe >}}

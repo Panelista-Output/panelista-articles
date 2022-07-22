@@ -76,5 +76,3 @@ _We at Panelista interviewed Annelie Alm Bagå who is a service designer, and Sa
 _Thank you, Annelie and Samuel!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
 {{< en/bookdemo >}}
-
-{{< en/subscribe >}}
