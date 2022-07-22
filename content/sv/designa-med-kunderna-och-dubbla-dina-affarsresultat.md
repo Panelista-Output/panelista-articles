@@ -27,8 +27,6 @@ Det är varje kunds rättighet att få vara med och engagera sig och varje före
 
 {{< sv/bookdemo >}}
 
-{{< sv/subscribe >}}
-
 P.S. Vill du läsa hela McKinsey-studien hittar du den här:
 
 [https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design "https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design")

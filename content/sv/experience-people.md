@@ -24,8 +24,6 @@ Via Panelista kan du löpande ställa öppna frågor som **_"Ska vi erbjuda ett 
 
 Ställ frågor som **_"Vilken av följande, fyra saker är viktigast för dig?”_**. Kunderna väljer de alternativ de tycker är viktiga, sorterar dem sedan i den ordning de väljer att prioritera och motiverar därefter varför de prioriterat som de gjort. Fungerar precis som metoden "card sorting" som är vanlig i kundintervjuer. Du får både statistik och motiveringar som hjälper dig i dina prioriteringar.
 
-{{< sv/subscribe >}}
-
 ##### **Testa idéer**
 
 Genom att ställa frågor som **_"Vi tror att ett abonnemang kan fungera så här, vad tycker du?”_** får du konkreta svar på om din idé uppfyller dina kunders behov tidigt i processen. Våga testa idéer med riktiga kunder redan på whiteboard-stadiet!
