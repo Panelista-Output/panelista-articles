@@ -42,5 +42,3 @@ Vi vill fortsätta att arbeta med UL-panelen och driva den så långt vi kan. M�
 I takt med att UL-panelen växer och vi får fler verktyg i vår verktygslåda kan vi arbeta ännu mer effektivt med behovsfångst och kundinsikter. ~~Panelista är ett bra verktyg som hjälper oss nå fler,~~ lyssna mer och helt enkelt lär oss mer om våra resenärers behov och önskningar.
 
 _På bilden: Sebastian Sund och Lina Brynö från UL_
-
-{{< sv/subscribe >}}
