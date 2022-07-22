@@ -56,5 +56,3 @@ _We at Panelista interviewed Jenny Andrén and Cathrine Hannell, Owner Relations
 _Thank you, Jenny and Cathrine!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
 {{< en/bookdemo >}}
-
-{{< en/subscribe >}}

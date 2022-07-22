@@ -48,5 +48,3 @@ Collecting customer input and creating insights has always been cumbersome and r
 _Thank you, Alexander and Fractal Design!_ [_Read more about Panelista here_](https://panelista.com "Panelista").
 
 {{< en/bookdemo >}}
-
-{{< en/subscribe >}}
