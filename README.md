@@ -21,6 +21,7 @@ A port of [Narative](https://www.narative.co/)'s Gatsby theme [Novela](https://w
 This project has been pre-configured to work with [Forestry](https://forestry.io), just import your repository ✨. \
 Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
 
+
 ## Deployment and hosting with Netlify
 
 Import your site in [Netlify](https://netlify.com)
