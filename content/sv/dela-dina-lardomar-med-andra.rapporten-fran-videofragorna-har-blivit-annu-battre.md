@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2022-08-22T22:00:00Z
-draft = true
 excerpt = "Tydligare feedback från kunderna med en ännu snyggare rapport."
 hero = "/images/new-report-3-2022-06-07.jpg"
 hero_image_body = ""
